@@ -1,3 +1,6 @@
+const Player = require('./model/player.js')
+const KillMatrix = require('./model/kill_matrix.js')
+
 var Crawler = {
 	request : null,
 	cheerio : null,
@@ -56,7 +59,7 @@ var Crawler = {
 					fkDiff: String,
 					rating: String
 				};
-				var players = [];
+				var Team1Players = [];
 
 				//ACERTAR O ARRAY
 				$('.stats-table').find("tbody").eq(0).find("tr").each(function () {
@@ -73,10 +76,15 @@ var Crawler = {
 					player.fkDiff = $(this).find("td").eq(7).text().trim();
 					player.rating = $(this).find("td").eq(8).text().trim();
 					
+					var x = new Player(player.name, player.kills, player.assists, player.deaths, player.kast, player.adr, player.fkDiff, player.rating);
 					// console.log(player);
-					players.push(player);	
-					// console.log(players);
+					Team1Players.push(x);	
+					// console.log(Team1Players);
 				});
+
+				// console.log(Team1Players);
+
+				var Team2Players = [];
 
 				$('.stats-table').find("tbody").eq(1).find("tr").each(function () {
 					player.name = $(this).find("td").eq(0).text().trim();
@@ -92,11 +100,13 @@ var Crawler = {
 					player.fkDiff = $(this).find("td").eq(7).text().trim();
 					player.rating = $(this).find("td").eq(8).text().trim();
 					
+					var x = new Player(player.name, player.kills, player.assists, player.deaths, player.kast, player.adr, player.fkDiff, player.rating);
 					// console.log(player);
-					players.push(player);	
-					// console.log(players);
+					Team2Players.push(x);	
+					// console.log(Team2Players);
 				});
 
+				// console.log(Team2Players);
 				// stats-top-menu-item stats-top-menu-item-link
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
 				Crawler.getMatchPerformance('https://www.hltv.org/' + performanceLink);
@@ -115,7 +125,69 @@ var Crawler = {
 		});
 	},
 	getMatchPerformance(link) {
-		console.log(link);
+		// console.log(link);
+
+		Crawler.request(link, function(err, res, body){
+			if(err)
+				console.log('Error: ' + err);
+
+			var $ = Crawler.cheerio.load(body);
+
+			var playerName = [];
+			var jump = 0;
+			$('.killmatrix-topbar').eq(0).find("td").each(function () {
+
+				if(jump > 0) {
+					// console.log($(this).find("a").text().trim());
+					playerName.push($(this).find("a").text().trim());
+				}
+				jump++;
+			});
+
+			// console.log(playerName);
+
+			var killType = 'All';
+			var player1 = '';
+			var player2 = '';
+			var player1Kills = '';
+			var player2Kills = '';
+			var kill_matrix = [];
+
+
+			var tr = 0;
+			$('.killmatrix-content').eq(0).find("tbody").find("tr").each(function () {
+
+				if(tr > 0) {
+					var td = 0;
+					$(this).find("td").each(function () {
+						if(td == 0) {
+							// console.log($(this).find("a").text().trim());
+							player1 = $(this).find("a").text().trim();
+
+						}
+						if(td > 0){
+							// console.log($(this).find("span").eq(0).text().trim());
+							player1Kills = $(this).find("span").eq(0).text().trim();
+							player2Kills = $(this).find("span").eq(1).text().trim();
+							player2 = playerName[td-1];
+							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
+							kill_matrix.push(matrix);
+
+						}
+						td++;
+					});
+					
+					console.log(kill_matrix);
+					
+					
+				}
+				tr++;
+				
+
+			});
+		});
+
+		
 	}
 };
 Crawler.init();
