@@ -111,7 +111,7 @@ var Crawler = {
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
 				Crawler.getMatchPerformance('https://www.hltv.org/' + performanceLink);
 
-				//PENSAR Round history, FZR CONTADORES E INCREMENTAR DE ACORDO COM O SRC
+				//fix Round history, FZR CONTADORES E INCREMENTAR DE ACORDO COM O SRC
 
 				
 
@@ -151,9 +151,12 @@ var Crawler = {
 			var player2 = '';
 			var player1Kills = '';
 			var player2Kills = '';
-			var kill_matrix = [];
+			var kill_matrix_all = [];
+			var kill_matrix_first_kills = [];
+			var kill_matrix_awp = [];
 
 
+			//KILL MATRIX ALL
 			var tr = 0;
 			$('.killmatrix-content').eq(0).find("tbody").find("tr").each(function () {
 
@@ -166,18 +169,17 @@ var Crawler = {
 
 						}
 						if(td > 0){
-							// console.log($(this).find("span").eq(0).text().trim());
 							player1Kills = $(this).find("span").eq(0).text().trim();
 							player2Kills = $(this).find("span").eq(1).text().trim();
 							player2 = playerName[td-1];
 							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
-							kill_matrix.push(matrix);
+							kill_matrix_all.push(matrix);
 
 						}
 						td++;
 					});
 					
-					console.log(kill_matrix);
+					// console.log(kill_matrix_all);
 					
 					
 				}
@@ -185,6 +187,80 @@ var Crawler = {
 				
 
 			});
+
+			//KILL MATRIX FIRST KILLS
+			var tr = 0;
+			$('.killmatrix-content').eq(1).find("tbody").find("tr").each(function () {
+
+				if(tr > 0) {
+					var td = 0;
+					$(this).find("td").each(function () {
+						if(td == 0) {
+							// console.log($(this).find("a").text().trim());
+							player1 = $(this).find("a").text().trim();
+
+						}
+						if(td > 0){
+							player1Kills = $(this).find("span").eq(0).text().trim();
+							player2Kills = $(this).find("span").eq(1).text().trim();
+							player2 = playerName[td-1];
+							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
+							kill_matrix_first_kills.push(matrix);
+
+						}
+						td++;
+					});
+					
+					// console.log(kill_matrix_first_kills);
+					
+					
+				}
+				tr++;
+				
+
+			});
+
+			//KILL MATRIX AWP KILLS
+			var tr = 0;
+			$('.killmatrix-content').eq(2).find("tbody").find("tr").each(function () {
+
+				if(tr > 0) {
+					var td = 0;
+					$(this).find("td").each(function () {
+						if(td == 0) {
+							// console.log($(this).find("a").text().trim());
+							player1 = $(this).find("a").text().trim();
+
+						}
+						if(td > 0){
+							player1Kills = $(this).find("span").eq(0).text().trim();
+							player2Kills = $(this).find("span").eq(1).text().trim();
+							player2 = playerName[td-1];
+							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
+							kill_matrix_awp.push(matrix);
+
+						}
+						td++;
+					});
+					
+					// console.log(kill_matrix_awp);
+					
+					
+				}
+				tr++;
+				
+
+			});
+
+			// var performance = $('.graph.small').eq(0).find("data-fusionchart-config").text().trim();
+			// var json = JSON.stringify(performance);
+			// var performance = $(".facts").eq(0).find("div").eq(0);
+			// var json = JSON.stringify(performance);
+			// console.log(performance);
+
+			//fix performance, get kpr, adr e impact
+
+
 		});
 
 		
