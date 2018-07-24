@@ -11,20 +11,31 @@ var Crawler = {
 		Crawler.cheerio = require('cheerio');
 		Crawler.fs      = require('fs');
 		Crawler.fileName = 'match.csv';
+		Crawler.deleteFile('performance.csv');
 		Crawler.getEventInfo();
 	},
-    appendFile: function (data) {
+    appendFile: function (file, data) {
 		
-        Crawler.fs.appendFile(Crawler.fileName, data, function (err) {
+        Crawler.fs.appendFile(file, data, function (err) {
             if (err) {
                 console.log('Erro ao gravar dados no arquivo: ' + err);
                 throw err;
             }
         });
-    },
+	},
+	deleteFile: function(file){
+		Crawler.fs.unlink('./'+file, function (err) {
+			if (err) throw err;
+			console.log('File deleted!');
+		  });
+	},
 	getEventInfo: function(){
 		//cabeçalho do arquivo
 		// Crawler.appendFile('name;id;date;prize;location\n');
+
+		Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;;map;event\n');
+
+		Crawler.appendFile('performance.csv', 'match_id;team1;player;kills;assists;deaths;kast;adr;fkDiff;rating\n')
 
 		Crawler.request('https://www.hltv.org/stats/matches/mapstatsid/70102/natus-vincere-vs-big?matchType=BigEvents&event=3392', function(err, res, body){
 			if(err)
@@ -32,23 +43,39 @@ var Crawler = {
 
 			var $ = Crawler.cheerio.load(body);
 
-				// var date = $('.match-info-box-con .small-text').find("span").eq(0).text().trim().substring(0,10);
-				// var team1 = $('.match-info-box-con .team-left a').text().trim();
-				// var scoreTeam1 = $('.match-info-box-con .team-left').find("div").eq(0).text().trim();
-				// var team2 = $('.match-info-box-con .team-right a').text().trim();
-				// var scoreTeam2 = $('.match-info-box-con .team-right').find("div").eq(0).text().trim();
-				// var map = $('.match-info-box').text().trim(); //NAO CONSEGUINDO PEGAR
-				// var ratingTeam1 = $('.match-info-box-con .match-info-row').eq(1).find("div").eq(0).text().trim().substring(0,4);
-				// var ratingTeam2 = $('.match-info-box-con .match-info-row').eq(1).find("div").eq(0).text().trim().substring(7,11);
+				var idLink = $('.block.text-ellipsis').attr('href');
+				var eventId = idLink.substring(idLink.length-4,idLink.length);
+
+				idLink = $('.stats-top-menu-item-link.selected').attr('href');
+				var matchId = idLink.substring(26, 31);
+
+				var eventName = $('.menu-header').text().trim();
+				// console.log(eventName);
+				var date = $('.match-info-box-con .small-text').find("span").eq(0).text().trim().substring(0,10);
+				var team1 = $('.match-info-box-con .team-left a').text().trim();
+				var team1_score = $('.match-info-box-con .team-left').find("div").eq(0).text().trim();
+				var team2 = $('.match-info-box-con .team-right a').text().trim();
+				var team2_score = $('.match-info-box-con .team-right').find("div").eq(0).text().trim();
+				
+				var team1_rating = $('.match-info-box-con .match-info-row').eq(1).find("div").eq(0).text().trim().substring(0,4);
+				var team2_rating = $('.match-info-box-con .match-info-row').eq(1).find("div").eq(0).text().trim().substring(7,11);
 				var firstKills = $('.match-info-box-con .match-info-row').eq(2).find("div").eq(0).text().trim();
 				var fields = firstKills.split(':');
-				var team1FirstKills = fields[0];
-				var team2FirstKills = fields[1];
+				var team1_firstkills = fields[0];
+				var team2_firstkills = fields[1];
+
+				var map = '';
+				$('.col.stats-match-map.standard-box.a-reset').each(function () {
+					if($(this).attr('href') == idLink) {
+						map = $(this).find(".stats-match-map-result-mapname.dynamic-map-name-full").text().trim();
+					}
+					
+				});
 
 				var clutches = $('.match-info-box-con .match-info-row').eq(3).find("div").eq(0).text().trim();
 				var fields = clutches.split(':');
-				var team1Clutches = fields[0];
-				var team2Clutches = fields[1];
+				var team1_clutches = fields[0];
+				var team2_clutches = fields[1];
 				var player = {
 					name: String,
 					kills: String,
@@ -106,26 +133,38 @@ var Crawler = {
 					// console.log(Team2Players);
 				});
 
-				// console.log(Team2Players);
-				// stats-top-menu-item stats-top-menu-item-link
-				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
-				Crawler.getMatchPerformance('https://www.hltv.org/' + performanceLink);
-
 				//fix Round history, FZR CONTADORES E INCREMENTAR DE ACORDO COM O SRC
 
+				var match = matchId + ';' + eventId + ';' + date + ';' + team1 + ';' + team1_score + ';' + team1_clutches + ';' + 
+							team1_rating + ';' + team1_firstkills + team2 + ';' + team2_score + ';' + team2_clutches + ';' + 
+							team2_rating + ';' + team2_firstkills + ';' + map + ';' + eventName + ';' +  '\n'
+				Crawler.appendFile('match.csv', match);
+				//  console.log(match);
+
+				var performance = '';
+
+				 Team1Players.forEach(player => {
+					performance = matchId + ';' + team1 + ';' + player.name + ';' + player.kills + ';' + 
+					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
+					player.fkDiff + ';' + player.rating + ';' +  '\n' ;
+
+					 Crawler.appendFile('performance.csv', performance);
+				 })
+
+				 Team2Players.forEach(player => {
+					performance = matchId + ';' + team2 + ';' + player.name + ';' + player.kills + ';' + 
+					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
+					player.fkDiff + ';' + player.rating + ';' +  '\n' ;
+
+					 Crawler.appendFile('performance.csv', performance);
+				 })
 				
-
-				// var data = date + ';' + team1 + ';' + team2 + ';' + map + ';' + '\n';
-				// console.log(team2Clutches);			
-
-			// console.log(performanceLink);
-
-			// var data = name + ';' + id + ';' + date + ';' + prize + ';' + location + ';' + '\n';
-			// Crawler.appendFile(data);
+				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
+				Crawler.getMatchMatrix('https://www.hltv.org/' + performanceLink);
+				 
 		});
 	},
-	getMatchPerformance(link) {
-		// console.log(link);
+	getMatchMatrix(link) {
 
 		Crawler.request(link, function(err, res, body){
 			if(err)
@@ -187,6 +226,10 @@ var Crawler = {
 				
 
 			});
+
+			kill_matrix_all.forEach(matrix => {
+				// console.log(matrix.player1);
+			})
 
 			//KILL MATRIX FIRST KILLS
 			var tr = 0;
@@ -258,7 +301,7 @@ var Crawler = {
 			// var json = JSON.stringify(performance);
 			// console.log(performance);
 
-			//fix performance, get kpr, adr e impact
+			//fix performance, get kpr, dpr e impact
 
 
 		});

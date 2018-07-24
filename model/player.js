@@ -3,7 +3,7 @@ class Player {
         this.name = name;
         this.kills = kills;
         this.assists = assists;
-        this.death = death;
+        this.deaths = death;
         this.kast = kast;
         this.adr = adr;
         this.fkDiff = fkDiff;
