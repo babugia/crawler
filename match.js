@@ -6,13 +6,14 @@ var Crawler = {
 	request : null,
 	cheerio : null,
 	fs      : null,
-	fileName: null,
 	init : function(){
 		Crawler.request = require('request');
 		Crawler.cheerio = require('cheerio');
 		Crawler.fs      = require('fs');
-		Crawler.fileName = 'round_history.csv';
-		Crawler.deleteFile('round_history.csv');
+		Crawler.deleteFileContent('kill_matrix.csv');
+		Crawler.deleteFileContent('match.csv');
+		Crawler.deleteFileContent('performance.csv');
+		Crawler.deleteFileContent('round_history.csv');
 		Crawler.getEventInfo();
 	},
     appendFile: function (file, data) {
@@ -24,21 +25,23 @@ var Crawler = {
             }
         });
 	},
-	deleteFile: function(file){
-		Crawler.fs.unlink('./'+file, function (err) {
-			if (err) throw err;
-			console.log('File deleted!');
-		  });
+	deleteFileContent: function(file){
+		// Crawler.fs.unlink('./'+file, function (err) {
+		// 	if (err) throw err;
+		// 	console.log('File deleted!');
+		//   });
+
+		Crawler.fs.writeFile(file, '', function(){console.log(`${file} contend deleted`)})
 	},
 	getEventInfo: function(){
 		//cabeçalho do arquivo
 		// Crawler.appendFile('name;id;date;prize;location\n');
 
-		// Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;;map;event\n');
+		Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;map;event\n');
 
-		// Crawler.appendFile('kill_matrix.csv', 'match_id;kill_type;player1;player1_kills;player2;player2_kills\n')
+		Crawler.appendFile('kill_matrix.csv', 'match_id;kill_type;player1;player1_kills;player2;player2_kills\n')
 
-		// Crawler.appendFile('performance.csv', 'match_id;team1;player;kills;assists;deaths\n')
+		Crawler.appendFile('performance.csv', 'match_id;team1;player;kills;assists;deaths\n')
 
 		Crawler.appendFile('round_history.csv', 'match_id;team;ct_wins;tr_wins;defused;exploded\n')
 
@@ -55,7 +58,7 @@ var Crawler = {
 				var matchId = idLink.substring(26, 31);
 
 				var eventName = $('.menu-header').text().trim();
-				// console.log(eventName);
+				console.log(eventName);
 				var date = $('.match-info-box-con .small-text').find("span").eq(0).text().trim().substring(0,10);
 				var team1 = $('.match-info-box-con .team-left a').text().trim();
 				var team1_score = $('.match-info-box-con .team-left').find("div").eq(0).text().trim();
@@ -141,9 +144,9 @@ var Crawler = {
 				//fix Round history, FZR CONTADORES E INCREMENTAR DE ACORDO COM O SRC
 
 				var match = matchId + ';' + eventId + ';' + date + ';' + team1 + ';' + team1_score + ';' + team1_clutches + ';' + 
-							team1_rating + ';' + team1_firstkills + team2 + ';' + team2_score + ';' + team2_clutches + ';' + 
+							team1_rating + ';' + team1_firstkills + ';' +  team2 + ';' + team2_score + ';' + team2_clutches + ';' + 
 							team2_rating + ';' + team2_firstkills + ';' + map + ';' + eventName + ';' +  '\n'
-				// Crawler.appendFile('match.csv', match);
+				Crawler.appendFile('match.csv', match);
 				//  console.log(match);
 
 				var performance = '';
@@ -153,7 +156,7 @@ var Crawler = {
 					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
 					player.fkDiff + ';' + player.rating + ';' +  '\n' ;
 
-					//  Crawler.appendFile('performance.csv', performance);
+					 Crawler.appendFile('performance.csv', performance);
 				 })
 
 				 Team2Players.forEach(player => {
@@ -161,13 +164,11 @@ var Crawler = {
 					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
 					player.fkDiff + ';' + player.rating + ';' +  '\n' ;
 
-					//  Crawler.appendFile('performance.csv', performance);
+					 Crawler.appendFile('performance.csv', performance);
 				 })
 				
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
-				// Crawler.getMatchMatrix('https://www.hltv.org/' + performanceLink, matchId);
-
-				// Crawler.getRoundHistoty(matchId);
+				Crawler.getMatchMatrix('https://www.hltv.org/' + performanceLink, matchId);
 
 
 				// console.log($('.match-info-row').eq(0).find("div").eq(0).find("span").eq(2).attr('class'));
@@ -228,7 +229,7 @@ var Crawler = {
 				});
 
 				var round = new RoundHistory(time1, ct_wins, tr_wins, defused, exploded);
-				console.log(round);
+				// console.log(round);
 
 				ct_wins = 0;
 				 tr_wins = 0;
@@ -278,7 +279,7 @@ var Crawler = {
 				});
 
 				var round1 = new RoundHistory(time2, ct_wins, tr_wins, defused, exploded);
-				console.log(round1);
+				// console.log(round1);
 
 				var round_history_team1 = '';
 				round_history_team1 = matchId + ';' + round.team + ';' + round.ct_wins + ';' + round.tr_wins + ';' + round.defused + ';' + round.exploded + ';' + '\n';
@@ -290,12 +291,6 @@ var Crawler = {
 				
 	 
 		});
-	},
-	getRoundHistoty(matchId) {
-		var $ = Crawler.cheerio.load(body);
-
-		let team1 = $('.round-history-team title').find(0).text().trim();
-		console.log(team1);
 	},
 	getMatchMatrix(link, matchId) {
 
