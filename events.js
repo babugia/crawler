@@ -1,6 +1,8 @@
 const Player = require('./model/player.js')
 const KillMatrix = require('./model/kill_matrix.js')
 const RoundHistory = require('./model/round_history.js')
+const Team = require('./model/team.js')
+const Performance = require('./model/performance.js')
 
 var Crawler = {
 	request : null,
@@ -259,6 +261,7 @@ var Crawler = {
 				// 		]
 				// 	}
 				// }
+				
 
 				 Team1Players.forEach(player => {
 					performance = matchId + ';' + team1 + ';' + player.name + ';' + player.kills + ';' + 
@@ -280,6 +283,10 @@ var Crawler = {
 
 					 Crawler.appendFile('performance.csv', performance);
 				 })
+
+				 var x = new Team(Team1Players);
+				 var y = new Team(Team2Players);
+				 var perf = new Performance(matchId, x, y);
 				
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
 				// Crawler.getMatchMatrix('https://www.hltv.org/' + performanceLink, matchId);
