@@ -6,7 +6,8 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "fs": "0.0.1-security",
-    "request": "^2.85.0"
+    "request": "^2.85.0",
+    "system-sleep": "^1.3.6"
   },
   "devDependencies": {},
   "scripts": {
