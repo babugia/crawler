@@ -1,0 +1,9737 @@
+{
+  "matchId": "57805",
+  "team1": [
+    {
+      "name": "cajunb",
+      "kills": "30 ",
+      "assists": "1 ",
+      "deaths": "17",
+      "kast": "67.9%",
+      "adr": "109.4",
+      "fkDiff": "+2",
+      "rating": "1.52"
+    },
+    {
+      "name": "valde",
+      "kills": "16 ",
+      "assists": "2 ",
+      "deaths": "17",
+      "kast": "64.3%",
+      "adr": "68.8",
+      "fkDiff": "-1",
+      "rating": "0.94"
+    },
+    {
+      "name": "aizy",
+      "kills": "13 ",
+      "assists": "4 ",
+      "deaths": "18",
+      "kast": "71.4%",
+      "adr": "58.5",
+      "fkDiff": "0",
+      "rating": "0.88"
+    },
+    {
+      "name": "k0nfig",
+      "kills": "17 ",
+      "assists": "4 ",
+      "deaths": "24",
+      "kast": "53.6%",
+      "adr": "80.1",
+      "fkDiff": "-2",
+      "rating": "0.80"
+    },
+    {
+      "name": "MSL",
+      "kills": "10 ",
+      "assists": "3 ",
+      "deaths": "23",
+      "kast": "50.0%",
+      "adr": "51.1",
+      "fkDiff": "-5",
+      "rating": "0.59"
+    }
+  ],
+  "team2": [
+    {
+      "name": "boltz",
+      "kills": "27 ",
+      "assists": "4 ",
+      "deaths": "15",
+      "kast": "75.0%",
+      "adr": "103.6",
+      "fkDiff": "+2",
+      "rating": "1.53"
+    },
+    {
+      "name": "coldzera",
+      "kills": "27 ",
+      "assists": "5 ",
+      "deaths": "18",
+      "kast": "75.0%",
+      "adr": "109.4",
+      "fkDiff": "+1",
+      "rating": "1.42"
+    },
+    {
+      "name": "FalleN",
+      "kills": "17 ",
+      "assists": "5 ",
+      "deaths": "16",
+      "kast": "71.4%",
+      "adr": "72.1",
+      "fkDiff": "+3",
+      "rating": "1.09"
+    },
+    {
+      "name": "TACO",
+      "kills": "15 ",
+      "assists": "2 ",
+      "deaths": "15",
+      "kast": "75.0%",
+      "adr": "55.3",
+      "fkDiff": "0",
+      "rating": "0.98"
+    },
+    {
+      "name": "fer",
+      "kills": "13 ",
+      "assists": "1 ",
+      "deaths": "22",
+      "kast": "64.3%",
+      "adr": "56.4",
+      "fkDiff": "0",
+      "rating": "0.74"
+    }
+  ]
+}
+{
+  "matchId": "57807",
+  "team1": [
+    {
+      "name": "Kjaerbye",
+      "kills": "25 ",
+      "assists": "4 ",
+      "deaths": "15",
+      "kast": "80.0%",
+      "adr": "73.9",
+      "fkDiff": "-1",
+      "rating": "1.34"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "22 ",
+      "assists": "6 ",
+      "deaths": "21",
+      "kast": "66.7%",
+      "adr": "81.2",
+      "fkDiff": "+4",
+      "rating": "1.06"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "17 ",
+      "assists": "9 ",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "77.5",
+      "fkDiff": "-1",
+      "rating": "1.02"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "20 ",
+      "assists": "11 ",
+      "deaths": "18",
+      "kast": "73.3%",
+      "adr": "74.7",
+      "fkDiff": "-2",
+      "rating": "1.00"
+    },
+    {
+      "name": "dennis",
+      "kills": "18 ",
+      "assists": "5 ",
+      "deaths": "20",
+      "kast": "60.0%",
+      "adr": "76.8",
+      "fkDiff": "-2",
+      "rating": "1.00"
+    }
+  ],
+  "team2": [
+    {
+      "name": "NiKo",
+      "kills": "22 ",
+      "assists": "3 ",
+      "deaths": "20",
+      "kast": "70.0%",
+      "adr": "83.9",
+      "fkDiff": "+4",
+      "rating": "1.11"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "21 ",
+      "assists": "4 ",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "84.0",
+      "fkDiff": "+2",
+      "rating": "1.08"
+    },
+    {
+      "name": "rain",
+      "kills": "20 ",
+      "assists": "4 ",
+      "deaths": "18",
+      "kast": "63.3%",
+      "adr": "67.1",
+      "fkDiff": "-3",
+      "rating": "1.03"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "16 ",
+      "assists": "4 ",
+      "deaths": "22",
+      "kast": "70.0%",
+      "adr": "65.1",
+      "fkDiff": "+2",
+      "rating": "0.88"
+    },
+    {
+      "name": "karrigan",
+      "kills": "16 ",
+      "assists": "6 ",
+      "deaths": "22",
+      "kast": "73.3%",
+      "adr": "60.9",
+      "fkDiff": "-3",
+      "rating": "0.87"
+    }
+  ]
+}
+{
+  "matchId": "57767",
+  "team1": [
+    {
+      "name": "olofmeister",
+      "kills": "28 ",
+      "assists": "4 ",
+      "deaths": "21",
+      "kast": "76.7%",
+      "adr": "94.7",
+      "fkDiff": "+2",
+      "rating": "1.33"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "24 ",
+      "assists": "4 ",
+      "deaths": "18",
+      "kast": "73.3%",
+      "adr": "77.9",
+      "fkDiff": "+5",
+      "rating": "1.24"
+    },
+    {
+      "name": "rain",
+      "kills": "17 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "66.7%",
+      "adr": "73.4",
+      "fkDiff": "+4",
+      "rating": "1.02"
+    },
+    {
+      "name": "NiKo",
+      "kills": "21 ",
+      "assists": "5 ",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "73.6",
+      "fkDiff": "-5",
+      "rating": "0.96"
+    },
+    {
+      "name": "karrigan",
+      "kills": "10 ",
+      "assists": "2 ",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "37.2",
+      "fkDiff": "-2",
+      "rating": "0.68"
+    }
+  ],
+  "team2": [
+    {
+      "name": "draken",
+      "kills": "28 ",
+      "assists": "5 ",
+      "deaths": "20",
+      "kast": "73.3%",
+      "adr": "89.5",
+      "fkDiff": "+3",
+      "rating": "1.40"
+    },
+    {
+      "name": "REZ",
+      "kills": "19 ",
+      "assists": "5 ",
+      "deaths": "23",
+      "kast": "76.7%",
+      "adr": "75.6",
+      "fkDiff": "-3",
+      "rating": "1.03"
+    },
+    {
+      "name": "Xizt",
+      "kills": "21 ",
+      "assists": "1 ",
+      "deaths": "19",
+      "kast": "76.7%",
+      "adr": "64.2",
+      "fkDiff": "-2",
+      "rating": "0.97"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "19 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "60.0%",
+      "adr": "72.1",
+      "fkDiff": "-2",
+      "rating": "0.93"
+    },
+    {
+      "name": "f0rest",
+      "kills": "13 ",
+      "assists": "12 ",
+      "deaths": "20",
+      "kast": "83.3%",
+      "adr": "65.9",
+      "fkDiff": "0",
+      "rating": "0.90"
+    }
+  ]
+}
+{
+  "matchId": "39888",
+  "team1": [
+    {
+      "name": "apEX",
+      "kills": "16 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "73.7%",
+      "adr": "83.2",
+      "fkDiff": "+3",
+      "rating": "1.03"
+    },
+    {
+      "name": "NBK-",
+      "kills": "9 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "47.4%",
+      "adr": "61.1",
+      "fkDiff": "0",
+      "rating": "0.63"
+    },
+    {
+      "name": "kennyS",
+      "kills": "7 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "57.9%",
+      "adr": "48.5",
+      "fkDiff": "0",
+      "rating": "0.53"
+    },
+    {
+      "name": "Happy",
+      "kills": "6 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "42.1%",
+      "adr": "39.9",
+      "fkDiff": "+1",
+      "rating": "0.44"
+    },
+    {
+      "name": "SIXER",
+      "kills": "7 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "36.8%",
+      "adr": "48.6",
+      "fkDiff": "-1",
+      "rating": "0.42"
+    }
+  ],
+  "team2": [
+    {
+      "name": "RUSH",
+      "kills": "23 ",
+      "assists": "2",
+      "deaths": "10",
+      "kast": "73.7%",
+      "adr": "109.1",
+      "fkDiff": "+1",
+      "rating": "1.83"
+    },
+    {
+      "name": "tarik",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "11",
+      "kast": "78.9%",
+      "adr": "103.1",
+      "fkDiff": "-4",
+      "rating": "1.59"
+    },
+    {
+      "name": "NAF",
+      "kills": "16 ",
+      "assists": "5",
+      "deaths": "8",
+      "kast": "84.2%",
+      "adr": "99.9",
+      "fkDiff": "+1",
+      "rating": "1.58"
+    },
+    {
+      "name": "mixwell",
+      "kills": "11 ",
+      "assists": "5",
+      "deaths": "10",
+      "kast": "78.9%",
+      "adr": "71.9",
+      "fkDiff": "0",
+      "rating": "1.23"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "12 ",
+      "assists": "2",
+      "deaths": "6",
+      "kast": "84.2%",
+      "adr": "64.2",
+      "fkDiff": "-1",
+      "rating": "1.22"
+    }
+  ]
+}
+{
+  "matchId": "23268",
+  "team1": [
+    {
+      "name": "Skadoodle",
+      "kills": "25 ",
+      "assists": "3 ",
+      "deaths": "22",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+4",
+      "rating": "1.12"
+    },
+    {
+      "name": "seang@res",
+      "kills": "26 ",
+      "assists": "4 ",
+      "deaths": "27",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-1",
+      "rating": "1.02"
+    },
+    {
+      "name": "shroud",
+      "kills": "19 ",
+      "assists": "4 ",
+      "deaths": "24",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+1",
+      "rating": "0.84"
+    },
+    {
+      "name": "n0thing",
+      "kills": "17 ",
+      "assists": "5 ",
+      "deaths": "25",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-2",
+      "rating": "0.74"
+    },
+    {
+      "name": "freakazoid",
+      "kills": "20 ",
+      "assists": "7 ",
+      "deaths": "29",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-1",
+      "rating": "0.72"
+    }
+  ],
+  "team2": [
+    {
+      "name": "GeT_RiGhT",
+      "kills": "39 ",
+      "assists": "4 ",
+      "deaths": "20",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+2",
+      "rating": "1.69"
+    },
+    {
+      "name": "f0rest",
+      "kills": "29 ",
+      "assists": "3 ",
+      "deaths": "21",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+3",
+      "rating": "1.30"
+    },
+    {
+      "name": "friberg",
+      "kills": "25 ",
+      "assists": "2 ",
+      "deaths": "22",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-2",
+      "rating": "1.12"
+    },
+    {
+      "name": "allu",
+      "kills": "19 ",
+      "assists": "4 ",
+      "deaths": "21",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-3",
+      "rating": "0.86"
+    },
+    {
+      "name": "Xizt",
+      "kills": "15 ",
+      "assists": "5 ",
+      "deaths": "24",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-1",
+      "rating": "0.66"
+    }
+  ]
+}
+{
+  "matchId": "57785",
+  "team1": [
+    {
+      "name": "apEX",
+      "kills": "17 ",
+      "assists": "4 ",
+      "deaths": "16",
+      "kast": "58.3%",
+      "adr": "72.2",
+      "fkDiff": "+3",
+      "rating": "1.03"
+    },
+    {
+      "name": "bodyy",
+      "kills": "15 ",
+      "assists": "1 ",
+      "deaths": "17",
+      "kast": "66.7%",
+      "adr": "62.8",
+      "fkDiff": "+1",
+      "rating": "0.89"
+    },
+    {
+      "name": "kennyS",
+      "kills": "14 ",
+      "assists": "1 ",
+      "deaths": "18",
+      "kast": "58.3%",
+      "adr": "72.8",
+      "fkDiff": "0",
+      "rating": "0.81"
+    },
+    {
+      "name": "NBK-",
+      "kills": "9 ",
+      "assists": "0 ",
+      "deaths": "20",
+      "kast": "50.0%",
+      "adr": "61.4",
+      "fkDiff": "+2",
+      "rating": "0.68"
+    },
+    {
+      "name": "shox",
+      "kills": "9 ",
+      "assists": "4 ",
+      "deaths": "22",
+      "kast": "54.2%",
+      "adr": "55.6",
+      "fkDiff": "0",
+      "rating": "0.49"
+    }
+  ],
+  "team2": [
+    {
+      "name": "NiKo",
+      "kills": "27 ",
+      "assists": "4 ",
+      "deaths": "12",
+      "kast": "79.2%",
+      "adr": "122.5",
+      "fkDiff": "+4",
+      "rating": "1.84"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "20 ",
+      "assists": "3 ",
+      "deaths": "11",
+      "kast": "79.2%",
+      "adr": "80.5",
+      "fkDiff": "0",
+      "rating": "1.35"
+    },
+    {
+      "name": "rain",
+      "kills": "18 ",
+      "assists": "6 ",
+      "deaths": "13",
+      "kast": "83.3%",
+      "adr": "89.7",
+      "fkDiff": "-3",
+      "rating": "1.29"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "19 ",
+      "assists": "1 ",
+      "deaths": "12",
+      "kast": "70.8%",
+      "adr": "77.3",
+      "fkDiff": "-2",
+      "rating": "1.20"
+    },
+    {
+      "name": "karrigan",
+      "kills": "8 ",
+      "assists": "1 ",
+      "deaths": "16",
+      "kast": "62.5%",
+      "adr": "41.4",
+      "fkDiff": "-5",
+      "rating": "0.67"
+    }
+  ]
+}
+{
+  "matchId": "39844",
+  "team1": [
+    {
+      "name": "mixwell",
+      "kills": "31 ",
+      "assists": "5 ",
+      "deaths": "26",
+      "kast": "80.6%",
+      "adr": "101.0",
+      "fkDiff": "0",
+      "rating": "1.29"
+    },
+    {
+      "name": "RUSH",
+      "kills": "28 ",
+      "assists": "3 ",
+      "deaths": "20",
+      "kast": "77.8%",
+      "adr": "77.0",
+      "fkDiff": "+1",
+      "rating": "1.26"
+    },
+    {
+      "name": "NAF",
+      "kills": "23 ",
+      "assists": "1 ",
+      "deaths": "20",
+      "kast": "72.2%",
+      "adr": "60.7",
+      "fkDiff": "+3",
+      "rating": "1.09"
+    },
+    {
+      "name": "tarik",
+      "kills": "24 ",
+      "assists": "2 ",
+      "deaths": "24",
+      "kast": "80.6%",
+      "adr": "69.4",
+      "fkDiff": "+2",
+      "rating": "1.05"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "22 ",
+      "assists": "7 ",
+      "deaths": "26",
+      "kast": "66.7%",
+      "adr": "80.0",
+      "fkDiff": "-2",
+      "rating": "1.00"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Skadoodle",
+      "kills": "30 ",
+      "assists": "3 ",
+      "deaths": "23",
+      "kast": "63.9%",
+      "adr": "83.5",
+      "fkDiff": "+2",
+      "rating": "1.19"
+    },
+    {
+      "name": "Stewie2K",
+      "kills": "25 ",
+      "assists": "5 ",
+      "deaths": "27",
+      "kast": "63.9%",
+      "adr": "93.8",
+      "fkDiff": "0",
+      "rating": "1.14"
+    },
+    {
+      "name": "n0thing",
+      "kills": "25 ",
+      "assists": "3 ",
+      "deaths": "24",
+      "kast": "75.0%",
+      "adr": "66.5",
+      "fkDiff": "-2",
+      "rating": "0.99"
+    },
+    {
+      "name": "autimatic",
+      "kills": "20 ",
+      "assists": "6 ",
+      "deaths": "29",
+      "kast": "63.9%",
+      "adr": "74.2",
+      "fkDiff": "-3",
+      "rating": "0.87"
+    },
+    {
+      "name": "shroud",
+      "kills": "16 ",
+      "assists": "3 ",
+      "deaths": "26",
+      "kast": "66.7%",
+      "adr": "48.7",
+      "fkDiff": "-1",
+      "rating": "0.72"
+    }
+  ]
+}
+{
+  "matchId": "47276",
+  "team1": [
+    {
+      "name": "k0nfig",
+      "kills": "28 ",
+      "assists": "2 ",
+      "deaths": "16",
+      "kast": "72.4%",
+      "adr": "93.1",
+      "fkDiff": "+1",
+      "rating": "1.42"
+    },
+    {
+      "name": "aizy",
+      "kills": "22 ",
+      "assists": "5 ",
+      "deaths": "19",
+      "kast": "79.3%",
+      "adr": "81.3",
+      "fkDiff": "+4",
+      "rating": "1.26"
+    },
+    {
+      "name": "cajunb",
+      "kills": "19 ",
+      "assists": "5 ",
+      "deaths": "16",
+      "kast": "69.0%",
+      "adr": "82.7",
+      "fkDiff": "+4",
+      "rating": "1.22"
+    },
+    {
+      "name": "MSL",
+      "kills": "17 ",
+      "assists": "3 ",
+      "deaths": "18",
+      "kast": "62.1%",
+      "adr": "64.8",
+      "fkDiff": "-1",
+      "rating": "0.93"
+    },
+    {
+      "name": "Magisk",
+      "kills": "15 ",
+      "assists": "4 ",
+      "deaths": "17",
+      "kast": "69.0%",
+      "adr": "62.4",
+      "fkDiff": "-1",
+      "rating": "0.91"
+    }
+  ],
+  "team2": [
+    {
+      "name": "s1mple",
+      "kills": "24 ",
+      "assists": "3 ",
+      "deaths": "21",
+      "kast": "62.1%",
+      "adr": "99.4",
+      "fkDiff": "0",
+      "rating": "1.26"
+    },
+    {
+      "name": "flamie",
+      "kills": "21 ",
+      "assists": "7 ",
+      "deaths": "21",
+      "kast": "69.0%",
+      "adr": "90.9",
+      "fkDiff": "0",
+      "rating": "1.11"
+    },
+    {
+      "name": "Edward",
+      "kills": "18 ",
+      "assists": "4 ",
+      "deaths": "20",
+      "kast": "72.4%",
+      "adr": "61.3",
+      "fkDiff": "0",
+      "rating": "0.96"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "18 ",
+      "assists": "2 ",
+      "deaths": "20",
+      "kast": "58.6%",
+      "adr": "46.0",
+      "fkDiff": "-2",
+      "rating": "0.80"
+    },
+    {
+      "name": "seized",
+      "kills": "5 ",
+      "assists": "2 ",
+      "deaths": "19",
+      "kast": "51.7%",
+      "adr": "26.4",
+      "fkDiff": "-5",
+      "rating": "0.46"
+    }
+  ]
+}
+{
+  "matchId": "47266",
+  "team1": [
+    {
+      "name": "jdm64",
+      "kills": "15 ",
+      "assists": "0 ",
+      "deaths": "16",
+      "kast": "55.0%",
+      "adr": "77.7",
+      "fkDiff": "+5",
+      "rating": "1.02"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "9 ",
+      "assists": "3 ",
+      "deaths": "15",
+      "kast": "45.0%",
+      "adr": "75.3",
+      "fkDiff": "-1",
+      "rating": "0.75"
+    },
+    {
+      "name": "EliGE",
+      "kills": "10 ",
+      "assists": "2 ",
+      "deaths": "15",
+      "kast": "60.0%",
+      "adr": "52.1",
+      "fkDiff": "-3",
+      "rating": "0.66"
+    },
+    {
+      "name": "Twistzz",
+      "kills": "9 ",
+      "assists": "1 ",
+      "deaths": "15",
+      "kast": "55.0%",
+      "adr": "45.4",
+      "fkDiff": "-2",
+      "rating": "0.50"
+    },
+    {
+      "name": "nitr0",
+      "kills": "5 ",
+      "assists": "2 ",
+      "deaths": "16",
+      "kast": "60.0%",
+      "adr": "48.0",
+      "fkDiff": "-1",
+      "rating": "0.49"
+    }
+  ],
+  "team2": [
+    {
+      "name": "flamie",
+      "kills": "20 ",
+      "assists": "3 ",
+      "deaths": "9",
+      "kast": "90.0%",
+      "adr": "106.9",
+      "fkDiff": "+4",
+      "rating": "1.79"
+    },
+    {
+      "name": "s1mple",
+      "kills": "16 ",
+      "assists": "3 ",
+      "deaths": "12",
+      "kast": "80.0%",
+      "adr": "88.4",
+      "fkDiff": "0",
+      "rating": "1.44"
+    },
+    {
+      "name": "seized",
+      "kills": "16 ",
+      "assists": "3 ",
+      "deaths": "11",
+      "kast": "80.0%",
+      "adr": "91.0",
+      "fkDiff": "+1",
+      "rating": "1.41"
+    },
+    {
+      "name": "Edward",
+      "kills": "12 ",
+      "assists": "2 ",
+      "deaths": "9",
+      "kast": "75.0%",
+      "adr": "64.7",
+      "fkDiff": "-2",
+      "rating": "1.16"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "13 ",
+      "assists": "1 ",
+      "deaths": "9",
+      "kast": "80.0%",
+      "adr": "50.0",
+      "fkDiff": "-1",
+      "rating": "1.12"
+    }
+  ]
+}
+{
+  "matchId": "47263",
+  "team1": [
+    {
+      "name": "ScreaM",
+      "kills": "27 ",
+      "assists": "7 ",
+      "deaths": "16",
+      "kast": "77.8%",
+      "adr": "112.1",
+      "fkDiff": "+2",
+      "rating": "1.67"
+    },
+    {
+      "name": "RpK",
+      "kills": "25 ",
+      "assists": "7 ",
+      "deaths": "20",
+      "kast": "74.1%",
+      "adr": "83.4",
+      "fkDiff": "-3",
+      "rating": "1.26"
+    },
+    {
+      "name": "xms",
+      "kills": "20 ",
+      "assists": "5 ",
+      "deaths": "19",
+      "kast": "81.5%",
+      "adr": "79.1",
+      "fkDiff": "0",
+      "rating": "1.22"
+    },
+    {
+      "name": "Happy",
+      "kills": "18 ",
+      "assists": "8 ",
+      "deaths": "19",
+      "kast": "63.0%",
+      "adr": "91.9",
+      "fkDiff": "+2",
+      "rating": "1.11"
+    },
+    {
+      "name": "SIXER",
+      "kills": "14 ",
+      "assists": "1 ",
+      "deaths": "14",
+      "kast": "77.8%",
+      "adr": "47.7",
+      "fkDiff": "0",
+      "rating": "0.90"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Stewie2K",
+      "kills": "23 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "63.0%",
+      "adr": "89.0",
+      "fkDiff": "+1",
+      "rating": "1.22"
+    },
+    {
+      "name": "autimatic",
+      "kills": "21 ",
+      "assists": "4 ",
+      "deaths": "24",
+      "kast": "51.9%",
+      "adr": "91.3",
+      "fkDiff": "-1",
+      "rating": "1.00"
+    },
+    {
+      "name": "shroud",
+      "kills": "17 ",
+      "assists": "6 ",
+      "deaths": "19",
+      "kast": "66.7%",
+      "adr": "70.0",
+      "fkDiff": "0",
+      "rating": "0.93"
+    },
+    {
+      "name": "Skadoodle",
+      "kills": "16 ",
+      "assists": "6 ",
+      "deaths": "19",
+      "kast": "70.4%",
+      "adr": "62.4",
+      "fkDiff": "+1",
+      "rating": "0.90"
+    },
+    {
+      "name": "n0thing",
+      "kills": "8 ",
+      "assists": "7 ",
+      "deaths": "23",
+      "kast": "55.6%",
+      "adr": "37.8",
+      "fkDiff": "-2",
+      "rating": "0.49"
+    }
+  ]
+}
+{
+  "matchId": "47267",
+  "team1": [
+    {
+      "name": "oskar",
+      "kills": "31 ",
+      "assists": "1 ",
+      "deaths": "27",
+      "kast": "66.7%",
+      "adr": "82.4",
+      "fkDiff": "+5",
+      "rating": "1.16"
+    },
+    {
+      "name": "loWel",
+      "kills": "29 ",
+      "assists": "4 ",
+      "deaths": "24",
+      "kast": "69.4%",
+      "adr": "84.9",
+      "fkDiff": "-6",
+      "rating": "1.15"
+    },
+    {
+      "name": "ropz",
+      "kills": "19 ",
+      "assists": "5 ",
+      "deaths": "25",
+      "kast": "63.9%",
+      "adr": "68.7",
+      "fkDiff": "-4",
+      "rating": "0.83"
+    },
+    {
+      "name": "denis",
+      "kills": "20 ",
+      "assists": "4 ",
+      "deaths": "28",
+      "kast": "66.7%",
+      "adr": "61.0",
+      "fkDiff": "-1",
+      "rating": "0.78"
+    },
+    {
+      "name": "chrisJ",
+      "kills": "16 ",
+      "assists": "5 ",
+      "deaths": "24",
+      "kast": "58.3%",
+      "adr": "63.4",
+      "fkDiff": "-6",
+      "rating": "0.73"
+    }
+  ],
+  "team2": [
+    {
+      "name": "k0nfig",
+      "kills": "34 ",
+      "assists": "4 ",
+      "deaths": "23",
+      "kast": "75.0%",
+      "adr": "95.5",
+      "fkDiff": "+4",
+      "rating": "1.45"
+    },
+    {
+      "name": "MSL",
+      "kills": "27 ",
+      "assists": "9 ",
+      "deaths": "24",
+      "kast": "75.0%",
+      "adr": "89.2",
+      "fkDiff": "+6",
+      "rating": "1.31"
+    },
+    {
+      "name": "aizy",
+      "kills": "25 ",
+      "assists": "9 ",
+      "deaths": "22",
+      "kast": "77.8%",
+      "adr": "85.8",
+      "fkDiff": "+1",
+      "rating": "1.24"
+    },
+    {
+      "name": "cajunb",
+      "kills": "22 ",
+      "assists": "2 ",
+      "deaths": "22",
+      "kast": "69.4%",
+      "adr": "59.5",
+      "fkDiff": "+1",
+      "rating": "0.95"
+    },
+    {
+      "name": "Magisk",
+      "kills": "20 ",
+      "assists": "7 ",
+      "deaths": "24",
+      "kast": "72.2%",
+      "adr": "65.9",
+      "fkDiff": "0",
+      "rating": "0.93"
+    }
+  ]
+}
+{
+  "matchId": "30737",
+  "team1": [
+    {
+      "name": "JW",
+      "kills": "20 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "73.1%",
+      "adr": "72.0",
+      "fkDiff": "-1",
+      "rating": "1.22"
+    },
+    {
+      "name": "flusha",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "16",
+      "kast": "57.7%",
+      "adr": "89.0",
+      "fkDiff": "-2",
+      "rating": "1.19"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "17 ",
+      "assists": "6",
+      "deaths": "13",
+      "kast": "69.2%",
+      "adr": "67.3",
+      "fkDiff": "0",
+      "rating": "1.12"
+    },
+    {
+      "name": "wenton",
+      "kills": "14 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "53.8%",
+      "adr": "76.0",
+      "fkDiff": "-1",
+      "rating": "0.99"
+    },
+    {
+      "name": "dennis",
+      "kills": "13 ",
+      "assists": "5",
+      "deaths": "17",
+      "kast": "73.1%",
+      "adr": "64.8",
+      "fkDiff": "-2",
+      "rating": "0.90"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Stewie2K",
+      "kills": "25 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "76.9%",
+      "adr": "96.3",
+      "fkDiff": "+2",
+      "rating": "1.47"
+    },
+    {
+      "name": "Skadoodle",
+      "kills": "18 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "69.2%",
+      "adr": "73.6",
+      "fkDiff": "+2",
+      "rating": "1.15"
+    },
+    {
+      "name": "shroud",
+      "kills": "15 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "61.5%",
+      "adr": "77.8",
+      "fkDiff": "+2",
+      "rating": "0.89"
+    },
+    {
+      "name": "n0thing",
+      "kills": "13 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "65.4%",
+      "adr": "61.3",
+      "fkDiff": "+1",
+      "rating": "0.78"
+    },
+    {
+      "name": "Slemmy",
+      "kills": "5 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "50.0%",
+      "adr": "32.5",
+      "fkDiff": "-1",
+      "rating": "0.45"
+    }
+  ]
+}
+{
+  "matchId": "52910",
+  "team1": [
+    {
+      "name": "coldzera",
+      "kills": "24 ",
+      "assists": "5 ",
+      "deaths": "8",
+      "kast": "95.2%",
+      "adr": "110.9",
+      "fkDiff": "+1",
+      "rating": "1.91"
+    },
+    {
+      "name": "fer",
+      "kills": "21 ",
+      "assists": "4 ",
+      "deaths": "12",
+      "kast": "90.5%",
+      "adr": "106.7",
+      "fkDiff": "+2",
+      "rating": "1.69"
+    },
+    {
+      "name": "FalleN",
+      "kills": "15 ",
+      "assists": "8 ",
+      "deaths": "9",
+      "kast": "95.2%",
+      "adr": "82.5",
+      "fkDiff": "+1",
+      "rating": "1.54"
+    },
+    {
+      "name": "felps",
+      "kills": "17 ",
+      "assists": "4 ",
+      "deaths": "11",
+      "kast": "95.2%",
+      "adr": "85.8",
+      "fkDiff": "0",
+      "rating": "1.42"
+    },
+    {
+      "name": "TACO",
+      "kills": "11 ",
+      "assists": "5 ",
+      "deaths": "9",
+      "kast": "81.0%",
+      "adr": "46.7",
+      "fkDiff": "+3",
+      "rating": "1.18"
+    }
+  ],
+  "team2": [
+    {
+      "name": "nitr0",
+      "kills": "15 ",
+      "assists": "2 ",
+      "deaths": "18",
+      "kast": "61.9%",
+      "adr": "76.1",
+      "fkDiff": "-2",
+      "rating": "0.82"
+    },
+    {
+      "name": "Twistzz",
+      "kills": "11 ",
+      "assists": "3 ",
+      "deaths": "16",
+      "kast": "71.4%",
+      "adr": "59.9",
+      "fkDiff": "-1",
+      "rating": "0.79"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "9 ",
+      "assists": "5 ",
+      "deaths": "18",
+      "kast": "57.1%",
+      "adr": "68.4",
+      "fkDiff": "+1",
+      "rating": "0.75"
+    },
+    {
+      "name": "EliGE",
+      "kills": "8 ",
+      "assists": "1 ",
+      "deaths": "19",
+      "kast": "42.9%",
+      "adr": "55.8",
+      "fkDiff": "-3",
+      "rating": "0.42"
+    },
+    {
+      "name": "jdm64",
+      "kills": "6 ",
+      "assists": "1 ",
+      "deaths": "17",
+      "kast": "47.6%",
+      "adr": "21.2",
+      "fkDiff": "-2",
+      "rating": "0.40"
+    }
+  ]
+}
+{
+  "matchId": "47259",
+  "team1": [
+    {
+      "name": "dennis",
+      "kills": "21 ",
+      "assists": "5 ",
+      "deaths": "12",
+      "kast": "80.0%",
+      "adr": "88.3",
+      "fkDiff": "+5",
+      "rating": "1.55"
+    },
+    {
+      "name": "flusha",
+      "kills": "17 ",
+      "assists": "8 ",
+      "deaths": "18",
+      "kast": "76.0%",
+      "adr": "99.6",
+      "fkDiff": "+1",
+      "rating": "1.28"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "20 ",
+      "assists": "1 ",
+      "deaths": "15",
+      "kast": "68.0%",
+      "adr": "80.8",
+      "fkDiff": "-2",
+      "rating": "1.17"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "18 ",
+      "assists": "5 ",
+      "deaths": "16",
+      "kast": "64.0%",
+      "adr": "80.3",
+      "fkDiff": "+1",
+      "rating": "1.13"
+    },
+    {
+      "name": "JW",
+      "kills": "16 ",
+      "assists": "3 ",
+      "deaths": "16",
+      "kast": "72.0%",
+      "adr": "63.4",
+      "fkDiff": "-2",
+      "rating": "0.95"
+    }
+  ],
+  "team2": [
+    {
+      "name": "RpK",
+      "kills": "20 ",
+      "assists": "6 ",
+      "deaths": "21",
+      "kast": "72.0%",
+      "adr": "108.0",
+      "fkDiff": "-1",
+      "rating": "1.22"
+    },
+    {
+      "name": "Happy",
+      "kills": "18 ",
+      "assists": "4 ",
+      "deaths": "18",
+      "kast": "72.0%",
+      "adr": "87.2",
+      "fkDiff": "+2",
+      "rating": "1.05"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "17 ",
+      "assists": "4 ",
+      "deaths": "16",
+      "kast": "68.0%",
+      "adr": "75.4",
+      "fkDiff": "+2",
+      "rating": "1.01"
+    },
+    {
+      "name": "xms",
+      "kills": "14 ",
+      "assists": "3 ",
+      "deaths": "18",
+      "kast": "60.0%",
+      "adr": "63.7",
+      "fkDiff": "-3",
+      "rating": "0.79"
+    },
+    {
+      "name": "SIXER",
+      "kills": "8 ",
+      "assists": "1 ",
+      "deaths": "19",
+      "kast": "60.0%",
+      "adr": "41.2",
+      "fkDiff": "-3",
+      "rating": "0.57"
+    }
+  ]
+}
+{
+  "matchId": "39761",
+  "team1": [
+    {
+      "name": "Xyp9x",
+      "kills": "25 ",
+      "assists": "6",
+      "deaths": "5",
+      "kast": "100.0%",
+      "adr": "148.5",
+      "fkDiff": "+3",
+      "rating": "2.41"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "22 ",
+      "assists": "2",
+      "deaths": "10",
+      "kast": "89.5%",
+      "adr": "97.2",
+      "fkDiff": "+2",
+      "rating": "1.66"
+    },
+    {
+      "name": "Kjaerbye",
+      "kills": "15 ",
+      "assists": "6",
+      "deaths": "8",
+      "kast": "94.7%",
+      "adr": "90.8",
+      "fkDiff": "+1",
+      "rating": "1.54"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "16 ",
+      "assists": "2",
+      "deaths": "5",
+      "kast": "89.5%",
+      "adr": "69.9",
+      "fkDiff": "+1",
+      "rating": "1.38"
+    },
+    {
+      "name": "device",
+      "kills": "12 ",
+      "assists": "6",
+      "deaths": "8",
+      "kast": "78.9%",
+      "adr": "72.3",
+      "fkDiff": "0",
+      "rating": "1.26"
+    }
+  ],
+  "team2": [
+    {
+      "name": "aizy",
+      "kills": "12 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "36.8%",
+      "adr": "69.0",
+      "fkDiff": "-2",
+      "rating": "0.78"
+    },
+    {
+      "name": "allu",
+      "kills": "10 ",
+      "assists": "0",
+      "deaths": "16",
+      "kast": "47.4%",
+      "adr": "43.6",
+      "fkDiff": "0",
+      "rating": "0.68"
+    },
+    {
+      "name": "karrigan",
+      "kills": "6 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "47.4%",
+      "adr": "47.7",
+      "fkDiff": "0",
+      "rating": "0.49"
+    },
+    {
+      "name": "rain",
+      "kills": "4 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "36.8%",
+      "adr": "38.5",
+      "fkDiff": "-3",
+      "rating": "0.33"
+    },
+    {
+      "name": "kioShiMa",
+      "kills": "4 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "42.1%",
+      "adr": "43.4",
+      "fkDiff": "-2",
+      "rating": "0.30"
+    }
+  ]
+}
+{
+  "matchId": "52857",
+  "team1": [
+    {
+      "name": "ScreaM",
+      "kills": "18 ",
+      "assists": "5 ",
+      "deaths": "19",
+      "kast": "70.8%",
+      "adr": "78.0",
+      "fkDiff": "+2",
+      "rating": "1.11"
+    },
+    {
+      "name": "xms",
+      "kills": "15 ",
+      "assists": "8 ",
+      "deaths": "19",
+      "kast": "70.8%",
+      "adr": "77.4",
+      "fkDiff": "-2",
+      "rating": "1.06"
+    },
+    {
+      "name": "SIXER",
+      "kills": "21 ",
+      "assists": "1 ",
+      "deaths": "16",
+      "kast": "75.0%",
+      "adr": "66.9",
+      "fkDiff": "-2",
+      "rating": "1.05"
+    },
+    {
+      "name": "Happy",
+      "kills": "14 ",
+      "assists": "9 ",
+      "deaths": "20",
+      "kast": "66.7%",
+      "adr": "83.2",
+      "fkDiff": "0",
+      "rating": "0.99"
+    },
+    {
+      "name": "RpK",
+      "kills": "13 ",
+      "assists": "1 ",
+      "deaths": "20",
+      "kast": "66.7%",
+      "adr": "63.0",
+      "fkDiff": "0",
+      "rating": "0.79"
+    }
+  ],
+  "team2": [
+    {
+      "name": "s1mple",
+      "kills": "24 ",
+      "assists": "3 ",
+      "deaths": "16",
+      "kast": "70.8%",
+      "adr": "101.4",
+      "fkDiff": "+3",
+      "rating": "1.50"
+    },
+    {
+      "name": "seized",
+      "kills": "24 ",
+      "assists": "5 ",
+      "deaths": "14",
+      "kast": "75.0%",
+      "adr": "104.1",
+      "fkDiff": "-1",
+      "rating": "1.45"
+    },
+    {
+      "name": "flamie",
+      "kills": "22 ",
+      "assists": "6 ",
+      "deaths": "17",
+      "kast": "79.2%",
+      "adr": "106.0",
+      "fkDiff": "+2",
+      "rating": "1.37"
+    },
+    {
+      "name": "Zeus",
+      "kills": "9 ",
+      "assists": "4 ",
+      "deaths": "17",
+      "kast": "79.2%",
+      "adr": "57.1",
+      "fkDiff": "0",
+      "rating": "0.85"
+    },
+    {
+      "name": "Edward",
+      "kills": "15 ",
+      "assists": "2 ",
+      "deaths": "17",
+      "kast": "62.5%",
+      "adr": "53.7",
+      "fkDiff": "-2",
+      "rating": "0.82"
+    }
+  ]
+}
+{
+  "matchId": "57788",
+  "team1": [
+    {
+      "name": "Xyp9x",
+      "kills": "30 ",
+      "assists": "5 ",
+      "deaths": "19",
+      "kast": "70.0%",
+      "adr": "86.9",
+      "fkDiff": "-1",
+      "rating": "1.35"
+    },
+    {
+      "name": "Kjaerbye",
+      "kills": "21 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "80.0%",
+      "adr": "74.2",
+      "fkDiff": "+2",
+      "rating": "1.21"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "23 ",
+      "assists": "7 ",
+      "deaths": "17",
+      "kast": "76.7%",
+      "adr": "76.4",
+      "fkDiff": "-1",
+      "rating": "1.20"
+    },
+    {
+      "name": "dennis",
+      "kills": "21 ",
+      "assists": "6 ",
+      "deaths": "19",
+      "kast": "70.0%",
+      "adr": "82.5",
+      "fkDiff": "0",
+      "rating": "1.13"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "5 ",
+      "assists": "11 ",
+      "deaths": "21",
+      "kast": "63.3%",
+      "adr": "38.8",
+      "fkDiff": "-4",
+      "rating": "0.57"
+    }
+  ],
+  "team2": [
+    {
+      "name": "MSL",
+      "kills": "23 ",
+      "assists": "7 ",
+      "deaths": "22",
+      "kast": "66.7%",
+      "adr": "100.9",
+      "fkDiff": "+1",
+      "rating": "1.23"
+    },
+    {
+      "name": "k0nfig",
+      "kills": "21 ",
+      "assists": "1 ",
+      "deaths": "17",
+      "kast": "73.3%",
+      "adr": "58.1",
+      "fkDiff": "-1",
+      "rating": "1.03"
+    },
+    {
+      "name": "cajunb",
+      "kills": "17 ",
+      "assists": "1 ",
+      "deaths": "20",
+      "kast": "50.0%",
+      "adr": "75.6",
+      "fkDiff": "+2",
+      "rating": "1.01"
+    },
+    {
+      "name": "aizy",
+      "kills": "19 ",
+      "assists": "5 ",
+      "deaths": "20",
+      "kast": "63.3%",
+      "adr": "64.2",
+      "fkDiff": "+1",
+      "rating": "0.92"
+    },
+    {
+      "name": "valde",
+      "kills": "15 ",
+      "assists": "5 ",
+      "deaths": "21",
+      "kast": "76.7%",
+      "adr": "61.8",
+      "fkDiff": "+1",
+      "rating": "0.81"
+    }
+  ]
+}
+{
+  "matchId": "39724",
+  "team1": [
+    {
+      "name": "device",
+      "kills": "22 ",
+      "assists": "2",
+      "deaths": "13",
+      "kast": "78.3%",
+      "adr": "94.7",
+      "fkDiff": "0",
+      "rating": "1.49"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "18 ",
+      "assists": "6",
+      "deaths": "13",
+      "kast": "78.3%",
+      "adr": "92.5",
+      "fkDiff": "+1",
+      "rating": "1.34"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "13",
+      "kast": "82.6%",
+      "adr": "70.3",
+      "fkDiff": "+5",
+      "rating": "1.33"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "73.9%",
+      "adr": "92.7",
+      "fkDiff": "+1",
+      "rating": "1.32"
+    },
+    {
+      "name": "Kjaerbye",
+      "kills": "14 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "73.9%",
+      "adr": "66.6",
+      "fkDiff": "+4",
+      "rating": "1.19"
+    }
+  ],
+  "team2": [
+    {
+      "name": "RUSH",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "65.2%",
+      "adr": "81.2",
+      "fkDiff": "0",
+      "rating": "1.04"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "16 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "60.9%",
+      "adr": "76.0",
+      "fkDiff": "-2",
+      "rating": "0.83"
+    },
+    {
+      "name": "NAF",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "69.6%",
+      "adr": "71.2",
+      "fkDiff": "-2",
+      "rating": "0.82"
+    },
+    {
+      "name": "tarik",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "56.5%",
+      "adr": "61.2",
+      "fkDiff": "-5",
+      "rating": "0.75"
+    },
+    {
+      "name": "mixwell",
+      "kills": "12 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "52.2%",
+      "adr": "61.8",
+      "fkDiff": "-2",
+      "rating": "0.68"
+    }
+  ]
+}
+{
+  "matchId": "39768",
+  "team1": [
+    {
+      "name": "LUCAS1",
+      "kills": "31 ",
+      "assists": "10 ",
+      "deaths": "28",
+      "kast": "73.2%",
+      "adr": "84.6",
+      "fkDiff": "+2",
+      "rating": "1.22"
+    },
+    {
+      "name": "steel",
+      "kills": "32 ",
+      "assists": "1 ",
+      "deaths": "29",
+      "kast": "65.9%",
+      "adr": "73.5",
+      "fkDiff": "-1",
+      "rating": "1.01"
+    },
+    {
+      "name": "felps",
+      "kills": "29 ",
+      "assists": "4 ",
+      "deaths": "32",
+      "kast": "58.5%",
+      "adr": "78.2",
+      "fkDiff": "-2",
+      "rating": "1.00"
+    },
+    {
+      "name": "HEN1",
+      "kills": "24 ",
+      "assists": "2 ",
+      "deaths": "27",
+      "kast": "75.6%",
+      "adr": "57.0",
+      "fkDiff": "+3",
+      "rating": "0.94"
+    },
+    {
+      "name": "boltz",
+      "kills": "23 ",
+      "assists": "11 ",
+      "deaths": "30",
+      "kast": "68.3%",
+      "adr": "83.9",
+      "fkDiff": "-3",
+      "rating": "0.93"
+    }
+  ],
+  "team2": [
+    {
+      "name": "NBK-",
+      "kills": "30 ",
+      "assists": "8 ",
+      "deaths": "27",
+      "kast": "68.3%",
+      "adr": "90.7",
+      "fkDiff": "0",
+      "rating": "1.20"
+    },
+    {
+      "name": "Happy",
+      "kills": "30 ",
+      "assists": "5 ",
+      "deaths": "27",
+      "kast": "70.7%",
+      "adr": "79.3",
+      "fkDiff": "0",
+      "rating": "1.11"
+    },
+    {
+      "name": "kennyS",
+      "kills": "31 ",
+      "assists": "2 ",
+      "deaths": "26",
+      "kast": "56.1%",
+      "adr": "70.2",
+      "fkDiff": "+2",
+      "rating": "1.06"
+    },
+    {
+      "name": "SIXER",
+      "kills": "27 ",
+      "assists": "6 ",
+      "deaths": "28",
+      "kast": "70.7%",
+      "adr": "80.6",
+      "fkDiff": "+2",
+      "rating": "1.00"
+    },
+    {
+      "name": "apEX",
+      "kills": "26 ",
+      "assists": "3 ",
+      "deaths": "31",
+      "kast": "58.5%",
+      "adr": "68.8",
+      "fkDiff": "-4",
+      "rating": "0.83"
+    }
+  ]
+}
+{
+  "matchId": "39891",
+  "team1": [
+    {
+      "name": "Kjaerbye",
+      "kills": "21 ",
+      "assists": "7",
+      "deaths": "15",
+      "kast": "76.0%",
+      "adr": "89.8",
+      "fkDiff": "+4",
+      "rating": "1.36"
+    },
+    {
+      "name": "device",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "13",
+      "kast": "72.0%",
+      "adr": "88.3",
+      "fkDiff": "+3",
+      "rating": "1.34"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "19 ",
+      "assists": "7",
+      "deaths": "15",
+      "kast": "80.0%",
+      "adr": "83.6",
+      "fkDiff": "+1",
+      "rating": "1.26"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "11",
+      "kast": "80.0%",
+      "adr": "72.8",
+      "fkDiff": "+1",
+      "rating": "1.20"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "18 ",
+      "assists": "8",
+      "deaths": "16",
+      "kast": "72.0%",
+      "adr": "88.4",
+      "fkDiff": "-4",
+      "rating": "1.19"
+    }
+  ],
+  "team2": [
+    {
+      "name": "TACO",
+      "kills": "24 ",
+      "assists": "0",
+      "deaths": "18",
+      "kast": "60.0%",
+      "adr": "78.8",
+      "fkDiff": "0",
+      "rating": "1.16"
+    },
+    {
+      "name": "FalleN",
+      "kills": "15 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "56.0%",
+      "adr": "75.8",
+      "fkDiff": "+1",
+      "rating": "0.89"
+    },
+    {
+      "name": "fox",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "52.0%",
+      "adr": "68.2",
+      "fkDiff": "+1",
+      "rating": "0.77"
+    },
+    {
+      "name": "coldzera",
+      "kills": "11 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "52.0%",
+      "adr": "57.6",
+      "fkDiff": "-3",
+      "rating": "0.68"
+    },
+    {
+      "name": "fer",
+      "kills": "7 ",
+      "assists": "5",
+      "deaths": "22",
+      "kast": "64.0%",
+      "adr": "47.2",
+      "fkDiff": "-4",
+      "rating": "0.54"
+    }
+  ]
+}
+{
+  "matchId": "30746",
+  "team1": [
+    {
+      "name": "karrigan",
+      "kills": "21 ",
+      "assists": "9",
+      "deaths": "24",
+      "kast": "64.3%",
+      "adr": "95.3",
+      "fkDiff": "+2",
+      "rating": "1.11"
+    },
+    {
+      "name": "device",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "60.7%",
+      "adr": "70.9",
+      "fkDiff": "+1",
+      "rating": "1.01"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "16 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "71.4%",
+      "adr": "68.1",
+      "fkDiff": "-1",
+      "rating": "0.90"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "15 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "60.7%",
+      "adr": "62.2",
+      "fkDiff": "-1",
+      "rating": "0.89"
+    },
+    {
+      "name": "cajunb",
+      "kills": "17 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "64.3%",
+      "adr": "66.2",
+      "fkDiff": "-3",
+      "rating": "0.83"
+    }
+  ],
+  "team2": [
+    {
+      "name": "coldzera",
+      "kills": "26 ",
+      "assists": "6",
+      "deaths": "18",
+      "kast": "85.7%",
+      "adr": "99.4",
+      "fkDiff": "+1",
+      "rating": "1.56"
+    },
+    {
+      "name": "fer",
+      "kills": "24 ",
+      "assists": "7",
+      "deaths": "17",
+      "kast": "71.4%",
+      "adr": "104.2",
+      "fkDiff": "0",
+      "rating": "1.41"
+    },
+    {
+      "name": "FalleN",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "12",
+      "kast": "78.6%",
+      "adr": "75.7",
+      "fkDiff": "+2",
+      "rating": "1.34"
+    },
+    {
+      "name": "fnx",
+      "kills": "17 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "67.9%",
+      "adr": "54.9",
+      "fkDiff": "0",
+      "rating": "0.93"
+    },
+    {
+      "name": "TACO",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "22",
+      "kast": "53.6%",
+      "adr": "53.9",
+      "fkDiff": "-1",
+      "rating": "0.66"
+    }
+  ]
+}
+{
+  "matchId": "30735",
+  "team1": [
+    {
+      "name": "device",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "69.6%",
+      "adr": "71.1",
+      "fkDiff": "-3",
+      "rating": "0.93"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "12 ",
+      "assists": "6",
+      "deaths": "15",
+      "kast": "56.5%",
+      "adr": "70.4",
+      "fkDiff": "0",
+      "rating": "0.86"
+    },
+    {
+      "name": "cajunb",
+      "kills": "14 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "65.2%",
+      "adr": "64.7",
+      "fkDiff": "-3",
+      "rating": "0.82"
+    },
+    {
+      "name": "karrigan",
+      "kills": "16 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "65.2%",
+      "adr": "67.7",
+      "fkDiff": "0",
+      "rating": "0.77"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "9 ",
+      "assists": "5",
+      "deaths": "18",
+      "kast": "65.2%",
+      "adr": "57.9",
+      "fkDiff": "+1",
+      "rating": "0.69"
+    }
+  ],
+  "team2": [
+    {
+      "name": "NAF",
+      "kills": "23 ",
+      "assists": "3",
+      "deaths": "6",
+      "kast": "87.0%",
+      "adr": "88.6",
+      "fkDiff": "+1",
+      "rating": "1.71"
+    },
+    {
+      "name": "mixwell",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "14",
+      "kast": "82.6%",
+      "adr": "85.7",
+      "fkDiff": "+2",
+      "rating": "1.35"
+    },
+    {
+      "name": "RUSH",
+      "kills": "16 ",
+      "assists": "6",
+      "deaths": "13",
+      "kast": "82.6%",
+      "adr": "74.7",
+      "fkDiff": "+3",
+      "rating": "1.34"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "18 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "69.6%",
+      "adr": "100.2",
+      "fkDiff": "0",
+      "rating": "1.31"
+    },
+    {
+      "name": "daps",
+      "kills": "8 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "69.6%",
+      "adr": "49.9",
+      "fkDiff": "-1",
+      "rating": "0.76"
+    }
+  ]
+}
+{
+  "matchId": "29844",
+  "team1": [
+    {
+      "name": "MINISE",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "66.7%",
+      "adr": "77.8",
+      "fkDiff": "+1",
+      "rating": "1.13"
+    },
+    {
+      "name": "MICHU",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "75.0%",
+      "adr": "80.5",
+      "fkDiff": "-2",
+      "rating": "1.03"
+    },
+    {
+      "name": "SZPERO",
+      "kills": "16 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "62.5%",
+      "adr": "93.2",
+      "fkDiff": "0",
+      "rating": "1.01"
+    },
+    {
+      "name": "innocent",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "21",
+      "kast": "58.3%",
+      "adr": "63.6",
+      "fkDiff": "0",
+      "rating": "0.76"
+    },
+    {
+      "name": "mouz",
+      "kills": "9 ",
+      "assists": "5",
+      "deaths": "19",
+      "kast": "70.8%",
+      "adr": "61.6",
+      "fkDiff": "-1",
+      "rating": "0.74"
+    }
+  ],
+  "team2": [
+    {
+      "name": "GeT_RiGhT",
+      "kills": "23 ",
+      "assists": "4",
+      "deaths": "13",
+      "kast": "83.3%",
+      "adr": "103.1",
+      "fkDiff": "+1",
+      "rating": "1.59"
+    },
+    {
+      "name": "friberg",
+      "kills": "24 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "83.3%",
+      "adr": "108.1",
+      "fkDiff": "0",
+      "rating": "1.52"
+    },
+    {
+      "name": "Xizt",
+      "kills": "17 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "75.0%",
+      "adr": "73.8",
+      "fkDiff": "-3",
+      "rating": "1.13"
+    },
+    {
+      "name": "pyth",
+      "kills": "13 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "75.0%",
+      "adr": "73.7",
+      "fkDiff": "+3",
+      "rating": "1.08"
+    },
+    {
+      "name": "f0rest",
+      "kills": "14 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "75.0%",
+      "adr": "60.5",
+      "fkDiff": "+1",
+      "rating": "1.02"
+    }
+  ]
+}
+{
+  "matchId": "29828",
+  "team1": [
+    {
+      "name": "cajunb",
+      "kills": "22 ",
+      "assists": "3",
+      "deaths": "11",
+      "kast": "80.0%",
+      "adr": "97.4",
+      "fkDiff": "+7",
+      "rating": "1.62"
+    },
+    {
+      "name": "device",
+      "kills": "20 ",
+      "assists": "4",
+      "deaths": "11",
+      "kast": "84.0%",
+      "adr": "87.5",
+      "fkDiff": "0",
+      "rating": "1.37"
+    },
+    {
+      "name": "karrigan",
+      "kills": "22 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "60.0%",
+      "adr": "80.0",
+      "fkDiff": "0",
+      "rating": "1.23"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "16 ",
+      "assists": "4",
+      "deaths": "14",
+      "kast": "76.0%",
+      "adr": "79.2",
+      "fkDiff": "0",
+      "rating": "1.16"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "60.0%",
+      "adr": "52.2",
+      "fkDiff": "-4",
+      "rating": "0.80"
+    }
+  ],
+  "team2": [
+    {
+      "name": "MICHU",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "60.0%",
+      "adr": "82.7",
+      "fkDiff": "-1",
+      "rating": "1.01"
+    },
+    {
+      "name": "innocent",
+      "kills": "16 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "52.0%",
+      "adr": "85.7",
+      "fkDiff": "-1",
+      "rating": "0.85"
+    },
+    {
+      "name": "mouz",
+      "kills": "17 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "52.0%",
+      "adr": "71.1",
+      "fkDiff": "-2",
+      "rating": "0.84"
+    },
+    {
+      "name": "SZPERO",
+      "kills": "9 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "60.0%",
+      "adr": "46.8",
+      "fkDiff": "0",
+      "rating": "0.62"
+    },
+    {
+      "name": "MINISE",
+      "kills": "7 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "56.0%",
+      "adr": "40.2",
+      "fkDiff": "+1",
+      "rating": "0.61"
+    }
+  ]
+}
+{
+  "matchId": "32370",
+  "team1": [
+    {
+      "name": "TaZ",
+      "kills": "31 ",
+      "assists": "5 ",
+      "deaths": "27",
+      "kast": "61.1%",
+      "adr": "90.1",
+      "fkDiff": "+1",
+      "rating": "1.25"
+    },
+    {
+      "name": "NEO",
+      "kills": "24 ",
+      "assists": "7 ",
+      "deaths": "27",
+      "kast": "66.7%",
+      "adr": "81.1",
+      "fkDiff": "+1",
+      "rating": "1.04"
+    },
+    {
+      "name": "Snax",
+      "kills": "22 ",
+      "assists": "6 ",
+      "deaths": "23",
+      "kast": "72.2%",
+      "adr": "71.6",
+      "fkDiff": "0",
+      "rating": "1.02"
+    },
+    {
+      "name": "pashaBiceps",
+      "kills": "21 ",
+      "assists": "4 ",
+      "deaths": "23",
+      "kast": "66.7%",
+      "adr": "59.6",
+      "fkDiff": "+1",
+      "rating": "0.99"
+    },
+    {
+      "name": "byali",
+      "kills": "20 ",
+      "assists": "6 ",
+      "deaths": "26",
+      "kast": "66.7%",
+      "adr": "67.9",
+      "fkDiff": "-1",
+      "rating": "0.85"
+    }
+  ],
+  "team2": [
+    {
+      "name": "fer",
+      "kills": "25 ",
+      "assists": "6 ",
+      "deaths": "21",
+      "kast": "72.2%",
+      "adr": "84.6",
+      "fkDiff": "+1",
+      "rating": "1.22"
+    },
+    {
+      "name": "coldzera",
+      "kills": "30 ",
+      "assists": "4 ",
+      "deaths": "22",
+      "kast": "75.0%",
+      "adr": "81.7",
+      "fkDiff": "+1",
+      "rating": "1.20"
+    },
+    {
+      "name": "FalleN",
+      "kills": "25 ",
+      "assists": "3 ",
+      "deaths": "22",
+      "kast": "69.4%",
+      "adr": "70.5",
+      "fkDiff": "+1",
+      "rating": "1.10"
+    },
+    {
+      "name": "TACO",
+      "kills": "21 ",
+      "assists": "8 ",
+      "deaths": "27",
+      "kast": "66.7%",
+      "adr": "76.0",
+      "fkDiff": "-2",
+      "rating": "0.97"
+    },
+    {
+      "name": "fnx",
+      "kills": "24 ",
+      "assists": "2 ",
+      "deaths": "26",
+      "kast": "69.4%",
+      "adr": "62.7",
+      "fkDiff": "-3",
+      "rating": "0.86"
+    }
+  ]
+}
+{
+  "matchId": "29884",
+  "team1": [
+    {
+      "name": "seized",
+      "kills": "29 ",
+      "assists": "4",
+      "deaths": "12",
+      "kast": "91.3%",
+      "adr": "113.8",
+      "fkDiff": "+4",
+      "rating": "1.95"
+    },
+    {
+      "name": "flamie",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "12",
+      "kast": "73.9%",
+      "adr": "106.1",
+      "fkDiff": "+1",
+      "rating": "1.44"
+    },
+    {
+      "name": "Zeus",
+      "kills": "16 ",
+      "assists": "9",
+      "deaths": "14",
+      "kast": "78.3%",
+      "adr": "92.9",
+      "fkDiff": "+1",
+      "rating": "1.27"
+    },
+    {
+      "name": "Edward",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "13",
+      "kast": "78.3%",
+      "adr": "69.0",
+      "fkDiff": "0",
+      "rating": "1.14"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "14",
+      "kast": "82.6%",
+      "adr": "56.6",
+      "fkDiff": "+1",
+      "rating": "1.01"
+    }
+  ],
+  "team2": [
+    {
+      "name": "kennyS",
+      "kills": "15 ",
+      "assists": "6",
+      "deaths": "20",
+      "kast": "60.9%",
+      "adr": "83.1",
+      "fkDiff": "0",
+      "rating": "0.99"
+    },
+    {
+      "name": "Happy",
+      "kills": "19 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "65.2%",
+      "adr": "76.6",
+      "fkDiff": "+2",
+      "rating": "0.99"
+    },
+    {
+      "name": "NBK-",
+      "kills": "14 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "52.2%",
+      "adr": "66.5",
+      "fkDiff": "-3",
+      "rating": "0.75"
+    },
+    {
+      "name": "DEVIL",
+      "kills": "8 ",
+      "assists": "7",
+      "deaths": "19",
+      "kast": "56.5%",
+      "adr": "51.2",
+      "fkDiff": "-2",
+      "rating": "0.66"
+    },
+    {
+      "name": "apEX",
+      "kills": "9 ",
+      "assists": "4",
+      "deaths": "20",
+      "kast": "56.5%",
+      "adr": "44.4",
+      "fkDiff": "-4",
+      "rating": "0.54"
+    }
+  ]
+}
+{
+  "matchId": "32347",
+  "team1": [
+    {
+      "name": "pashaBiceps",
+      "kills": "33 ",
+      "assists": "4 ",
+      "deaths": "23",
+      "kast": "72.2%",
+      "adr": "94.5",
+      "fkDiff": "-2",
+      "rating": "1.28"
+    },
+    {
+      "name": "Snax",
+      "kills": "23 ",
+      "assists": "4 ",
+      "deaths": "20",
+      "kast": "72.2%",
+      "adr": "69.3",
+      "fkDiff": "+1",
+      "rating": "1.14"
+    },
+    {
+      "name": "TaZ",
+      "kills": "27 ",
+      "assists": "3 ",
+      "deaths": "25",
+      "kast": "66.7%",
+      "adr": "77.1",
+      "fkDiff": "+3",
+      "rating": "1.08"
+    },
+    {
+      "name": "byali",
+      "kills": "26 ",
+      "assists": "5 ",
+      "deaths": "24",
+      "kast": "69.4%",
+      "adr": "73.7",
+      "fkDiff": "0",
+      "rating": "1.02"
+    },
+    {
+      "name": "NEO",
+      "kills": "20 ",
+      "assists": "2 ",
+      "deaths": "25",
+      "kast": "69.4%",
+      "adr": "66.1",
+      "fkDiff": "+2",
+      "rating": "0.88"
+    }
+  ],
+  "team2": [
+    {
+      "name": "device",
+      "kills": "32 ",
+      "assists": "2 ",
+      "deaths": "23",
+      "kast": "66.7%",
+      "adr": "87.8",
+      "fkDiff": "+1",
+      "rating": "1.31"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "28 ",
+      "assists": "10 ",
+      "deaths": "28",
+      "kast": "80.6%",
+      "adr": "99.6",
+      "fkDiff": "-3",
+      "rating": "1.18"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "29 ",
+      "assists": "3 ",
+      "deaths": "26",
+      "kast": "72.2%",
+      "adr": "87.3",
+      "fkDiff": "-2",
+      "rating": "1.12"
+    },
+    {
+      "name": "karrigan",
+      "kills": "18 ",
+      "assists": "4 ",
+      "deaths": "26",
+      "kast": "55.6%",
+      "adr": "49.2",
+      "fkDiff": "0",
+      "rating": "0.76"
+    },
+    {
+      "name": "zonic",
+      "kills": "10 ",
+      "assists": "9 ",
+      "deaths": "26",
+      "kast": "61.1%",
+      "adr": "55.6",
+      "fkDiff": "0",
+      "rating": "0.64"
+    }
+  ]
+}
+{
+  "matchId": "32302",
+  "team1": [
+    {
+      "name": "coldzera",
+      "kills": "26 ",
+      "assists": "1",
+      "deaths": "12",
+      "kast": "74.1%",
+      "adr": "80.8",
+      "fkDiff": "+1",
+      "rating": "1.42"
+    },
+    {
+      "name": "TACO",
+      "kills": "22 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "88.9%",
+      "adr": "93.3",
+      "fkDiff": "+2",
+      "rating": "1.38"
+    },
+    {
+      "name": "FalleN",
+      "kills": "20 ",
+      "assists": "4",
+      "deaths": "14",
+      "kast": "74.1%",
+      "adr": "78.8",
+      "fkDiff": "+4",
+      "rating": "1.29"
+    },
+    {
+      "name": "fnx",
+      "kills": "15 ",
+      "assists": "5",
+      "deaths": "16",
+      "kast": "81.5%",
+      "adr": "73.9",
+      "fkDiff": "-2",
+      "rating": "1.08"
+    },
+    {
+      "name": "fer",
+      "kills": "18 ",
+      "assists": "5",
+      "deaths": "20",
+      "kast": "66.7%",
+      "adr": "85.1",
+      "fkDiff": "+4",
+      "rating": "1.01"
+    }
+  ],
+  "team2": [
+    {
+      "name": "RpK",
+      "kills": "21 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "81.5%",
+      "adr": "74.7",
+      "fkDiff": "-2",
+      "rating": "1.13"
+    },
+    {
+      "name": "shox",
+      "kills": "15 ",
+      "assists": "4",
+      "deaths": "21",
+      "kast": "55.6%",
+      "adr": "73.1",
+      "fkDiff": "-1",
+      "rating": "0.86"
+    },
+    {
+      "name": "bodyy",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "22",
+      "kast": "66.7%",
+      "adr": "69.4",
+      "fkDiff": "0",
+      "rating": "0.83"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "15 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "59.3%",
+      "adr": "45.6",
+      "fkDiff": "-2",
+      "rating": "0.80"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "15 ",
+      "assists": "3",
+      "deaths": "22",
+      "kast": "63.0%",
+      "adr": "64.1",
+      "fkDiff": "-4",
+      "rating": "0.74"
+    }
+  ]
+}
+{
+  "matchId": "32346",
+  "team1": [
+    {
+      "name": "kioShiMa",
+      "kills": "16 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "60.9%",
+      "adr": "80.0",
+      "fkDiff": "+2",
+      "rating": "0.98"
+    },
+    {
+      "name": "aizy",
+      "kills": "9 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "43.5%",
+      "adr": "49.7",
+      "fkDiff": "-4",
+      "rating": "0.66"
+    },
+    {
+      "name": "jkaem",
+      "kills": "10 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "52.2%",
+      "adr": "53.4",
+      "fkDiff": "-2",
+      "rating": "0.61"
+    },
+    {
+      "name": "fox",
+      "kills": "11 ",
+      "assists": "3",
+      "deaths": "21",
+      "kast": "43.5%",
+      "adr": "60.5",
+      "fkDiff": "-2",
+      "rating": "0.55"
+    },
+    {
+      "name": "rain",
+      "kills": "8 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "43.5%",
+      "adr": "49.3",
+      "fkDiff": "0",
+      "rating": "0.44"
+    }
+  ],
+  "team2": [
+    {
+      "name": "flusha",
+      "kills": "24 ",
+      "assists": "8",
+      "deaths": "10",
+      "kast": "91.3%",
+      "adr": "99.4",
+      "fkDiff": "+1",
+      "rating": "1.64"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "17 ",
+      "assists": "9",
+      "deaths": "8",
+      "kast": "82.6%",
+      "adr": "85.5",
+      "fkDiff": "+1",
+      "rating": "1.44"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "11",
+      "kast": "69.6%",
+      "adr": "91.8",
+      "fkDiff": "+2",
+      "rating": "1.41"
+    },
+    {
+      "name": "dennis",
+      "kills": "18 ",
+      "assists": "0",
+      "deaths": "11",
+      "kast": "87.0%",
+      "adr": "67.0",
+      "fkDiff": "-1",
+      "rating": "1.26"
+    },
+    {
+      "name": "JW",
+      "kills": "18 ",
+      "assists": "7",
+      "deaths": "15",
+      "kast": "73.9%",
+      "adr": "90.7",
+      "fkDiff": "+2",
+      "rating": "1.23"
+    }
+  ]
+}
+{
+  "matchId": "29826",
+  "team1": [
+    {
+      "name": "starix",
+      "kills": "24 ",
+      "assists": "1",
+      "deaths": "12",
+      "kast": "77.8%",
+      "adr": "81.3",
+      "fkDiff": "-1",
+      "rating": "1.39"
+    },
+    {
+      "name": "flamie",
+      "kills": "26 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "70.4%",
+      "adr": "106.0",
+      "fkDiff": "+1",
+      "rating": "1.38"
+    },
+    {
+      "name": "seized",
+      "kills": "22 ",
+      "assists": "0",
+      "deaths": "19",
+      "kast": "70.4%",
+      "adr": "75.0",
+      "fkDiff": "+3",
+      "rating": "1.14"
+    },
+    {
+      "name": "Edward",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "63.0%",
+      "adr": "59.3",
+      "fkDiff": "-2",
+      "rating": "0.89"
+    },
+    {
+      "name": "Zeus",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "63.0%",
+      "adr": "61.0",
+      "fkDiff": "-2",
+      "rating": "0.83"
+    }
+  ],
+  "team2": [
+    {
+      "name": "pauf",
+      "kills": "17 ",
+      "assists": "6",
+      "deaths": "20",
+      "kast": "74.1%",
+      "adr": "83.2",
+      "fkDiff": "0",
+      "rating": "1.08"
+    },
+    {
+      "name": "znajder",
+      "kills": "16 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "74.1%",
+      "adr": "69.4",
+      "fkDiff": "+1",
+      "rating": "1.05"
+    },
+    {
+      "name": "twist",
+      "kills": "19 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "63.0%",
+      "adr": "76.5",
+      "fkDiff": "0",
+      "rating": "1.03"
+    },
+    {
+      "name": "pronax",
+      "kills": "17 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "59.3%",
+      "adr": "69.0",
+      "fkDiff": "+1",
+      "rating": "0.88"
+    },
+    {
+      "name": "Lekr0",
+      "kills": "9 ",
+      "assists": "4",
+      "deaths": "20",
+      "kast": "59.3%",
+      "adr": "47.1",
+      "fkDiff": "-1",
+      "rating": "0.56"
+    }
+  ]
+}
+{
+  "matchId": "32319",
+  "team1": [
+    {
+      "name": "RUBINO",
+      "kills": "32 ",
+      "assists": "4",
+      "deaths": "7",
+      "kast": "94.1%",
+      "adr": "176.6",
+      "fkDiff": "+5",
+      "rating": "3.01"
+    },
+    {
+      "name": "cajunb",
+      "kills": "13 ",
+      "assists": "2",
+      "deaths": "3",
+      "kast": "88.2%",
+      "adr": "80.0",
+      "fkDiff": "+1",
+      "rating": "1.61"
+    },
+    {
+      "name": "k0nfig",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "9",
+      "kast": "82.4%",
+      "adr": "79.6",
+      "fkDiff": "+2",
+      "rating": "1.41"
+    },
+    {
+      "name": "MSL",
+      "kills": "9 ",
+      "assists": "2",
+      "deaths": "9",
+      "kast": "88.2%",
+      "adr": "56.2",
+      "fkDiff": "+1",
+      "rating": "1.31"
+    },
+    {
+      "name": "TENZKI",
+      "kills": "10 ",
+      "assists": "3",
+      "deaths": "7",
+      "kast": "88.2%",
+      "adr": "54.6",
+      "fkDiff": "0",
+      "rating": "1.28"
+    }
+  ],
+  "team2": [
+    {
+      "name": "pita",
+      "kills": "10 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "64.7%",
+      "adr": "69.2",
+      "fkDiff": "-1",
+      "rating": "0.69"
+    },
+    {
+      "name": "reltuC",
+      "kills": "10 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "52.9%",
+      "adr": "82.4",
+      "fkDiff": "0",
+      "rating": "0.67"
+    },
+    {
+      "name": "koosta",
+      "kills": "6 ",
+      "assists": "0",
+      "deaths": "15",
+      "kast": "35.3%",
+      "adr": "46.5",
+      "fkDiff": "-2",
+      "rating": "0.37"
+    },
+    {
+      "name": "tarik",
+      "kills": "5 ",
+      "assists": "0",
+      "deaths": "14",
+      "kast": "35.3%",
+      "adr": "36.9",
+      "fkDiff": "-4",
+      "rating": "0.35"
+    },
+    {
+      "name": "hazed",
+      "kills": "3 ",
+      "assists": "0",
+      "deaths": "15",
+      "kast": "41.2%",
+      "adr": "35.4",
+      "fkDiff": "-2",
+      "rating": "0.26"
+    }
+  ]
+}
+{
+  "matchId": "29843",
+  "team1": [
+    {
+      "name": "Lekr0",
+      "kills": "22 ",
+      "assists": "7",
+      "deaths": "14",
+      "kast": "91.7%",
+      "adr": "103.6",
+      "fkDiff": "+4",
+      "rating": "1.54"
+    },
+    {
+      "name": "twist",
+      "kills": "20 ",
+      "assists": "4",
+      "deaths": "16",
+      "kast": "83.3%",
+      "adr": "91.0",
+      "fkDiff": "+4",
+      "rating": "1.45"
+    },
+    {
+      "name": "pauf",
+      "kills": "19 ",
+      "assists": "6",
+      "deaths": "15",
+      "kast": "75.0%",
+      "adr": "87.6",
+      "fkDiff": "+3",
+      "rating": "1.24"
+    },
+    {
+      "name": "pronax",
+      "kills": "19 ",
+      "assists": "1",
+      "deaths": "12",
+      "kast": "70.8%",
+      "adr": "64.5",
+      "fkDiff": "+1",
+      "rating": "1.17"
+    },
+    {
+      "name": "znajder",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "66.7%",
+      "adr": "89.5",
+      "fkDiff": "-2",
+      "rating": "1.14"
+    }
+  ],
+  "team2": [
+    {
+      "name": "shox",
+      "kills": "17 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "66.7%",
+      "adr": "89.1",
+      "fkDiff": "0",
+      "rating": "1.07"
+    },
+    {
+      "name": "RpK",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "66.7%",
+      "adr": "75.9",
+      "fkDiff": "-3",
+      "rating": "0.94"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "11 ",
+      "assists": "6",
+      "deaths": "20",
+      "kast": "58.3%",
+      "adr": "65.8",
+      "fkDiff": "-3",
+      "rating": "0.77"
+    },
+    {
+      "name": "bodyy",
+      "kills": "16 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "45.8%",
+      "adr": "65.6",
+      "fkDiff": "-2",
+      "rating": "0.76"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "10 ",
+      "assists": "5",
+      "deaths": "21",
+      "kast": "58.3%",
+      "adr": "57.0",
+      "fkDiff": "-2",
+      "rating": "0.72"
+    }
+  ]
+}
+{
+  "matchId": "29838",
+  "team1": [
+    {
+      "name": "kennyS",
+      "kills": "14 ",
+      "assists": "5",
+      "deaths": "17",
+      "kast": "66.7%",
+      "adr": "62.4",
+      "fkDiff": "0",
+      "rating": "1.01"
+    },
+    {
+      "name": "apEX",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "66.7%",
+      "adr": "74.3",
+      "fkDiff": "0",
+      "rating": "0.98"
+    },
+    {
+      "name": "Happy",
+      "kills": "22 ",
+      "assists": "0",
+      "deaths": "23",
+      "kast": "60.0%",
+      "adr": "76.8",
+      "fkDiff": "0",
+      "rating": "0.96"
+    },
+    {
+      "name": "DEVIL",
+      "kills": "17 ",
+      "assists": "1",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "67.9",
+      "fkDiff": "+1",
+      "rating": "0.89"
+    },
+    {
+      "name": "NBK-",
+      "kills": "19 ",
+      "assists": "1",
+      "deaths": "23",
+      "kast": "56.7%",
+      "adr": "78.7",
+      "fkDiff": "-3",
+      "rating": "0.80"
+    }
+  ],
+  "team2": [
+    {
+      "name": "felps",
+      "kills": "29 ",
+      "assists": "1",
+      "deaths": "21",
+      "kast": "53.3%",
+      "adr": "96.7",
+      "fkDiff": "+1",
+      "rating": "1.33"
+    },
+    {
+      "name": "LUCAS1",
+      "kills": "24 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "83.3%",
+      "adr": "79.5",
+      "fkDiff": "-1",
+      "rating": "1.32"
+    },
+    {
+      "name": "HEN1",
+      "kills": "23 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "70.0%",
+      "adr": "82.0",
+      "fkDiff": "+3",
+      "rating": "1.25"
+    },
+    {
+      "name": "SHOOWTiME",
+      "kills": "16 ",
+      "assists": "6",
+      "deaths": "16",
+      "kast": "73.3%",
+      "adr": "73.8",
+      "fkDiff": "-1",
+      "rating": "1.13"
+    },
+    {
+      "name": "boltz",
+      "kills": "14 ",
+      "assists": "7",
+      "deaths": "19",
+      "kast": "83.3%",
+      "adr": "64.2",
+      "fkDiff": "0",
+      "rating": "0.97"
+    }
+  ]
+}
+{
+  "matchId": "32379",
+  "team1": [
+    {
+      "name": "pashaBiceps",
+      "kills": "14 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "57.1%",
+      "adr": "86.9",
+      "fkDiff": "+2",
+      "rating": "0.95"
+    },
+    {
+      "name": "byali",
+      "kills": "14 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "66.7%",
+      "adr": "69.9",
+      "fkDiff": "+2",
+      "rating": "0.92"
+    },
+    {
+      "name": "TaZ",
+      "kills": "9 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "57.1%",
+      "adr": "60.4",
+      "fkDiff": "+1",
+      "rating": "0.78"
+    },
+    {
+      "name": "NEO",
+      "kills": "12 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "57.1%",
+      "adr": "58.4",
+      "fkDiff": "-3",
+      "rating": "0.67"
+    },
+    {
+      "name": "Snax",
+      "kills": "7 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "38.1%",
+      "adr": "48.4",
+      "fkDiff": "-1",
+      "rating": "0.46"
+    }
+  ],
+  "team2": [
+    {
+      "name": "coldzera",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "8",
+      "kast": "85.7%",
+      "adr": "96.6",
+      "fkDiff": "-1",
+      "rating": "1.44"
+    },
+    {
+      "name": "fer",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "14",
+      "kast": "85.7%",
+      "adr": "88.6",
+      "fkDiff": "+1",
+      "rating": "1.34"
+    },
+    {
+      "name": "FalleN",
+      "kills": "16 ",
+      "assists": "6",
+      "deaths": "11",
+      "kast": "81.0%",
+      "adr": "86.3",
+      "fkDiff": "+2",
+      "rating": "1.31"
+    },
+    {
+      "name": "fnx",
+      "kills": "16 ",
+      "assists": "6",
+      "deaths": "12",
+      "kast": "85.7%",
+      "adr": "90.6",
+      "fkDiff": "-2",
+      "rating": "1.30"
+    },
+    {
+      "name": "TACO",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "11",
+      "kast": "71.4%",
+      "adr": "82.1",
+      "fkDiff": "-1",
+      "rating": "1.19"
+    }
+  ]
+}
+{
+  "matchId": "52853",
+  "team1": [
+    {
+      "name": "ScreaM",
+      "kills": "26 ",
+      "assists": "3 ",
+      "deaths": "17",
+      "kast": "70.4%",
+      "adr": "98.6",
+      "fkDiff": "+3",
+      "rating": "1.41"
+    },
+    {
+      "name": "RpK",
+      "kills": "25 ",
+      "assists": "3 ",
+      "deaths": "23",
+      "kast": "63.0%",
+      "adr": "106.0",
+      "fkDiff": "-1",
+      "rating": "1.21"
+    },
+    {
+      "name": "Happy",
+      "kills": "19 ",
+      "assists": "6 ",
+      "deaths": "19",
+      "kast": "59.3%",
+      "adr": "72.2",
+      "fkDiff": "0",
+      "rating": "0.91"
+    },
+    {
+      "name": "xms",
+      "kills": "9 ",
+      "assists": "5 ",
+      "deaths": "21",
+      "kast": "70.4%",
+      "adr": "43.4",
+      "fkDiff": "-3",
+      "rating": "0.61"
+    },
+    {
+      "name": "SIXER",
+      "kills": "10 ",
+      "assists": "4 ",
+      "deaths": "22",
+      "kast": "63.0%",
+      "adr": "41.0",
+      "fkDiff": "-2",
+      "rating": "0.50"
+    }
+  ],
+  "team2": [
+    {
+      "name": "seized",
+      "kills": "24 ",
+      "assists": "5 ",
+      "deaths": "17",
+      "kast": "77.8%",
+      "adr": "95.2",
+      "fkDiff": "+3",
+      "rating": "1.37"
+    },
+    {
+      "name": "s1mple",
+      "kills": "25 ",
+      "assists": "3 ",
+      "deaths": "18",
+      "kast": "81.5%",
+      "adr": "77.1",
+      "fkDiff": "0",
+      "rating": "1.30"
+    },
+    {
+      "name": "Zeus",
+      "kills": "20 ",
+      "assists": "6 ",
+      "deaths": "20",
+      "kast": "59.3%",
+      "adr": "84.1",
+      "fkDiff": "+2",
+      "rating": "1.19"
+    },
+    {
+      "name": "flamie",
+      "kills": "15 ",
+      "assists": "11 ",
+      "deaths": "18",
+      "kast": "81.5%",
+      "adr": "75.1",
+      "fkDiff": "-1",
+      "rating": "1.10"
+    },
+    {
+      "name": "Edward",
+      "kills": "17 ",
+      "assists": "5 ",
+      "deaths": "17",
+      "kast": "70.4%",
+      "adr": "64.7",
+      "fkDiff": "-1",
+      "rating": "1.05"
+    }
+  ]
+}
+{
+  "matchId": "30770",
+  "team1": [
+    {
+      "name": "dennis",
+      "kills": "27 ",
+      "assists": "3",
+      "deaths": "13",
+      "kast": "86.4%",
+      "adr": "125.9",
+      "fkDiff": "+2",
+      "rating": "1.88"
+    },
+    {
+      "name": "wenton",
+      "kills": "21 ",
+      "assists": "1",
+      "deaths": "11",
+      "kast": "77.3%",
+      "adr": "68.3",
+      "fkDiff": "+1",
+      "rating": "1.37"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "12 ",
+      "assists": "7",
+      "deaths": "11",
+      "kast": "86.4%",
+      "adr": "77.7",
+      "fkDiff": "-1",
+      "rating": "1.27"
+    },
+    {
+      "name": "flusha",
+      "kills": "11 ",
+      "assists": "4",
+      "deaths": "9",
+      "kast": "81.8%",
+      "adr": "70.4",
+      "fkDiff": "0",
+      "rating": "1.20"
+    },
+    {
+      "name": "JW",
+      "kills": "15 ",
+      "assists": "5",
+      "deaths": "14",
+      "kast": "68.2%",
+      "adr": "80.6",
+      "fkDiff": "+4",
+      "rating": "1.16"
+    }
+  ],
+  "team2": [
+    {
+      "name": "EliGE",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "63.6%",
+      "adr": "72.3",
+      "fkDiff": "0",
+      "rating": "0.95"
+    },
+    {
+      "name": "adreN",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "45.5%",
+      "adr": "65.9",
+      "fkDiff": "0",
+      "rating": "0.85"
+    },
+    {
+      "name": "Hiko",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "68.2%",
+      "adr": "61.0",
+      "fkDiff": "-1",
+      "rating": "0.83"
+    },
+    {
+      "name": "nitr0",
+      "kills": "10 ",
+      "assists": "6",
+      "deaths": "19",
+      "kast": "63.6%",
+      "adr": "67.5",
+      "fkDiff": "-2",
+      "rating": "0.59"
+    },
+    {
+      "name": "koosta",
+      "kills": "10 ",
+      "assists": "1",
+      "deaths": "18",
+      "kast": "40.9%",
+      "adr": "45.2",
+      "fkDiff": "-3",
+      "rating": "0.59"
+    }
+  ]
+}
+{
+  "matchId": "32321",
+  "team1": [
+    {
+      "name": "WorldEdit",
+      "kills": "28 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "72.4%",
+      "adr": "94.7",
+      "fkDiff": "0",
+      "rating": "1.48"
+    },
+    {
+      "name": "markeloff",
+      "kills": "18 ",
+      "assists": "2",
+      "deaths": "13",
+      "kast": "82.8%",
+      "adr": "67.9",
+      "fkDiff": "+2",
+      "rating": "1.14"
+    },
+    {
+      "name": "B1ad3",
+      "kills": "21 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "69.0%",
+      "adr": "64.3",
+      "fkDiff": "+3",
+      "rating": "1.08"
+    },
+    {
+      "name": "Shara",
+      "kills": "16 ",
+      "assists": "8",
+      "deaths": "18",
+      "kast": "72.4%",
+      "adr": "78.3",
+      "fkDiff": "+2",
+      "rating": "1.08"
+    },
+    {
+      "name": "wayLander",
+      "kills": "19 ",
+      "assists": "7",
+      "deaths": "20",
+      "kast": "72.4%",
+      "adr": "78.1",
+      "fkDiff": "-2",
+      "rating": "1.04"
+    }
+  ],
+  "team2": [
+    {
+      "name": "mixwell",
+      "kills": "32 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "79.3%",
+      "adr": "97.0",
+      "fkDiff": "+4",
+      "rating": "1.56"
+    },
+    {
+      "name": "RUSH",
+      "kills": "16 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "62.1%",
+      "adr": "61.9",
+      "fkDiff": "-3",
+      "rating": "0.91"
+    },
+    {
+      "name": "NAF",
+      "kills": "14 ",
+      "assists": "7",
+      "deaths": "21",
+      "kast": "65.5%",
+      "adr": "70.2",
+      "fkDiff": "-5",
+      "rating": "0.88"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "12 ",
+      "assists": "3",
+      "deaths": "21",
+      "kast": "62.1%",
+      "adr": "52.1",
+      "fkDiff": "+2",
+      "rating": "0.74"
+    },
+    {
+      "name": "daps",
+      "kills": "11 ",
+      "assists": "2",
+      "deaths": "22",
+      "kast": "58.6%",
+      "adr": "54.7",
+      "fkDiff": "-3",
+      "rating": "0.59"
+    }
+  ]
+}
+{
+  "matchId": "32326",
+  "team1": [
+    {
+      "name": "coldzera",
+      "kills": "25 ",
+      "assists": "2",
+      "deaths": "9",
+      "kast": "100.0%",
+      "adr": "102.9",
+      "fkDiff": "+4",
+      "rating": "1.83"
+    },
+    {
+      "name": "TACO",
+      "kills": "21 ",
+      "assists": "6",
+      "deaths": "10",
+      "kast": "100.0%",
+      "adr": "106.7",
+      "fkDiff": "+5",
+      "rating": "1.82"
+    },
+    {
+      "name": "fer",
+      "kills": "18 ",
+      "assists": "7",
+      "deaths": "13",
+      "kast": "68.2%",
+      "adr": "103.0",
+      "fkDiff": "+5",
+      "rating": "1.47"
+    },
+    {
+      "name": "FalleN",
+      "kills": "18 ",
+      "assists": "5",
+      "deaths": "10",
+      "kast": "90.9%",
+      "adr": "86.0",
+      "fkDiff": "+1",
+      "rating": "1.40"
+    },
+    {
+      "name": "fnx",
+      "kills": "15 ",
+      "assists": "3",
+      "deaths": "9",
+      "kast": "81.8%",
+      "adr": "63.5",
+      "fkDiff": "+1",
+      "rating": "1.18"
+    }
+  ],
+  "team2": [
+    {
+      "name": "rain",
+      "kills": "14 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "72.7%",
+      "adr": "69.8",
+      "fkDiff": "-3",
+      "rating": "0.86"
+    },
+    {
+      "name": "aizy",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "18",
+      "kast": "45.5%",
+      "adr": "63.0",
+      "fkDiff": "-2",
+      "rating": "0.74"
+    },
+    {
+      "name": "jkaem",
+      "kills": "10 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "45.5%",
+      "adr": "59.5",
+      "fkDiff": "-1",
+      "rating": "0.57"
+    },
+    {
+      "name": "fox",
+      "kills": "8 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "54.5%",
+      "adr": "52.7",
+      "fkDiff": "-4",
+      "rating": "0.45"
+    },
+    {
+      "name": "kioShiMa",
+      "kills": "6 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "45.5%",
+      "adr": "37.5",
+      "fkDiff": "-6",
+      "rating": "0.31"
+    }
+  ]
+}
+{
+  "matchId": "29840",
+  "team1": [
+    {
+      "name": "nitr0",
+      "kills": "44 ",
+      "assists": "6 ",
+      "deaths": "28",
+      "kast": "78.0%",
+      "adr": "119.4",
+      "fkDiff": "0",
+      "rating": "1.55"
+    },
+    {
+      "name": "Hiko",
+      "kills": "31 ",
+      "assists": "8 ",
+      "deaths": "30",
+      "kast": "78.0%",
+      "adr": "81.7",
+      "fkDiff": "+1",
+      "rating": "1.15"
+    },
+    {
+      "name": "EliGE",
+      "kills": "28 ",
+      "assists": "7 ",
+      "deaths": "31",
+      "kast": "75.6%",
+      "adr": "77.6",
+      "fkDiff": "+1",
+      "rating": "1.04"
+    },
+    {
+      "name": "s1mple",
+      "kills": "28 ",
+      "assists": "4 ",
+      "deaths": "34",
+      "kast": "58.5%",
+      "adr": "68.3",
+      "fkDiff": "+2",
+      "rating": "0.88"
+    },
+    {
+      "name": "koosta",
+      "kills": "19 ",
+      "assists": "10 ",
+      "deaths": "30",
+      "kast": "68.3%",
+      "adr": "52.6",
+      "fkDiff": "-5",
+      "rating": "0.79"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Summer",
+      "kills": "38 ",
+      "assists": "7 ",
+      "deaths": "25",
+      "kast": "80.5%",
+      "adr": "98.6",
+      "fkDiff": "+3",
+      "rating": "1.50"
+    },
+    {
+      "name": "AttackeR",
+      "kills": "38 ",
+      "assists": "9 ",
+      "deaths": "32",
+      "kast": "75.6%",
+      "adr": "106.3",
+      "fkDiff": "+5",
+      "rating": "1.41"
+    },
+    {
+      "name": "DD",
+      "kills": "30 ",
+      "assists": "10 ",
+      "deaths": "31",
+      "kast": "78.0%",
+      "adr": "90.7",
+      "fkDiff": "+1",
+      "rating": "1.13"
+    },
+    {
+      "name": "Mo",
+      "kills": "22 ",
+      "assists": "8 ",
+      "deaths": "32",
+      "kast": "73.2%",
+      "adr": "62.6",
+      "fkDiff": "-3",
+      "rating": "0.87"
+    },
+    {
+      "name": "somebody",
+      "kills": "25 ",
+      "assists": "1 ",
+      "deaths": "30",
+      "kast": "61.0%",
+      "adr": "55.0",
+      "fkDiff": "-5",
+      "rating": "0.80"
+    }
+  ]
+}
+{
+  "matchId": "32318",
+  "team1": [
+    {
+      "name": "gla1ve",
+      "kills": "17 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "81.8%",
+      "adr": "82.9",
+      "fkDiff": "0",
+      "rating": "1.07"
+    },
+    {
+      "name": "device",
+      "kills": "16 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "81.8%",
+      "adr": "73.4",
+      "fkDiff": "-1",
+      "rating": "0.95"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "13 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "72.7%",
+      "adr": "67.9",
+      "fkDiff": "+1",
+      "rating": "0.88"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "9 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "59.1%",
+      "adr": "62.6",
+      "fkDiff": "+1",
+      "rating": "0.69"
+    },
+    {
+      "name": "karrigan",
+      "kills": "8 ",
+      "assists": "4",
+      "deaths": "16",
+      "kast": "54.5%",
+      "adr": "46.7",
+      "fkDiff": "-1",
+      "rating": "0.63"
+    }
+  ],
+  "team2": [
+    {
+      "name": "AdreN",
+      "kills": "24 ",
+      "assists": "2",
+      "deaths": "14",
+      "kast": "81.8%",
+      "adr": "104.0",
+      "fkDiff": "+5",
+      "rating": "1.65"
+    },
+    {
+      "name": "mou",
+      "kills": "18 ",
+      "assists": "5",
+      "deaths": "9",
+      "kast": "90.9%",
+      "adr": "82.1",
+      "fkDiff": "0",
+      "rating": "1.52"
+    },
+    {
+      "name": "Dosia",
+      "kills": "20 ",
+      "assists": "4",
+      "deaths": "13",
+      "kast": "77.3%",
+      "adr": "81.8",
+      "fkDiff": "-4",
+      "rating": "1.33"
+    },
+    {
+      "name": "hooch",
+      "kills": "13 ",
+      "assists": "6",
+      "deaths": "13",
+      "kast": "81.8%",
+      "adr": "77.9",
+      "fkDiff": "+1",
+      "rating": "1.18"
+    },
+    {
+      "name": "spaze",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "14",
+      "kast": "68.2%",
+      "adr": "70.4",
+      "fkDiff": "-2",
+      "rating": "1.06"
+    }
+  ]
+}
+{
+  "matchId": "32336",
+  "team1": [
+    {
+      "name": "Xizt",
+      "kills": "21 ",
+      "assists": "6",
+      "deaths": "18",
+      "kast": "76.7%",
+      "adr": "83.4",
+      "fkDiff": "-1",
+      "rating": "1.19"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "22 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "73.3%",
+      "adr": "78.9",
+      "fkDiff": "-2",
+      "rating": "1.17"
+    },
+    {
+      "name": "pyth",
+      "kills": "22 ",
+      "assists": "2",
+      "deaths": "22",
+      "kast": "66.7%",
+      "adr": "78.5",
+      "fkDiff": "+1",
+      "rating": "1.14"
+    },
+    {
+      "name": "f0rest",
+      "kills": "20 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "60.0%",
+      "adr": "68.7",
+      "fkDiff": "+2",
+      "rating": "0.98"
+    },
+    {
+      "name": "friberg",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "67.6",
+      "fkDiff": "0",
+      "rating": "0.96"
+    }
+  ],
+  "team2": [
+    {
+      "name": "WorldEdit",
+      "kills": "22 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "66.7%",
+      "adr": "70.4",
+      "fkDiff": "+1",
+      "rating": "1.16"
+    },
+    {
+      "name": "wayLander",
+      "kills": "23 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "78.7",
+      "fkDiff": "-2",
+      "rating": "1.13"
+    },
+    {
+      "name": "Shara",
+      "kills": "20 ",
+      "assists": "4",
+      "deaths": "21",
+      "kast": "73.3%",
+      "adr": "77.0",
+      "fkDiff": "+3",
+      "rating": "1.10"
+    },
+    {
+      "name": "markeloff",
+      "kills": "20 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "73.3%",
+      "adr": "74.5",
+      "fkDiff": "-1",
+      "rating": "1.00"
+    },
+    {
+      "name": "B1ad3",
+      "kills": "11 ",
+      "assists": "5",
+      "deaths": "22",
+      "kast": "53.3%",
+      "adr": "54.1",
+      "fkDiff": "-1",
+      "rating": "0.63"
+    }
+  ]
+}
+{
+  "matchId": "29870",
+  "team1": [
+    {
+      "name": "NBK-",
+      "kills": "26 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "66.7%",
+      "adr": "98.9",
+      "fkDiff": "+1",
+      "rating": "1.28"
+    },
+    {
+      "name": "apEX",
+      "kills": "25 ",
+      "assists": "8",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "87.9",
+      "fkDiff": "0",
+      "rating": "1.27"
+    },
+    {
+      "name": "Happy",
+      "kills": "25 ",
+      "assists": "5",
+      "deaths": "23",
+      "kast": "66.7%",
+      "adr": "89.3",
+      "fkDiff": "+4",
+      "rating": "1.21"
+    },
+    {
+      "name": "kennyS",
+      "kills": "20 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "76.7%",
+      "adr": "75.9",
+      "fkDiff": "+1",
+      "rating": "1.05"
+    },
+    {
+      "name": "DEVIL",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "63.3%",
+      "adr": "53.1",
+      "fkDiff": "-3",
+      "rating": "0.76"
+    }
+  ],
+  "team2": [
+    {
+      "name": "boltz",
+      "kills": "24 ",
+      "assists": "8",
+      "deaths": "17",
+      "kast": "80.0%",
+      "adr": "95.3",
+      "fkDiff": "+3",
+      "rating": "1.34"
+    },
+    {
+      "name": "LUCAS1",
+      "kills": "25 ",
+      "assists": "3",
+      "deaths": "21",
+      "kast": "63.3%",
+      "adr": "85.9",
+      "fkDiff": "+1",
+      "rating": "1.22"
+    },
+    {
+      "name": "HEN1",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "24",
+      "kast": "76.7%",
+      "adr": "75.6",
+      "fkDiff": "+1",
+      "rating": "1.03"
+    },
+    {
+      "name": "felps",
+      "kills": "18 ",
+      "assists": "8",
+      "deaths": "23",
+      "kast": "60.0%",
+      "adr": "64.3",
+      "fkDiff": "-7",
+      "rating": "0.86"
+    },
+    {
+      "name": "SHOOWTiME",
+      "kills": "16 ",
+      "assists": "5",
+      "deaths": "24",
+      "kast": "60.0%",
+      "adr": "66.6",
+      "fkDiff": "-2",
+      "rating": "0.70"
+    }
+  ]
+}
+{
+  "matchId": "32332",
+  "team1": [
+    {
+      "name": "karrigan",
+      "kills": "29 ",
+      "assists": "2 ",
+      "deaths": "25",
+      "kast": "60.0%",
+      "adr": "81.3",
+      "fkDiff": "+5",
+      "rating": "1.20"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "27 ",
+      "assists": "8 ",
+      "deaths": "25",
+      "kast": "60.0%",
+      "adr": "97.6",
+      "fkDiff": "-1",
+      "rating": "1.20"
+    },
+    {
+      "name": "device",
+      "kills": "24 ",
+      "assists": "8 ",
+      "deaths": "22",
+      "kast": "77.1%",
+      "adr": "70.3",
+      "fkDiff": "0",
+      "rating": "1.10"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "22 ",
+      "assists": "10 ",
+      "deaths": "25",
+      "kast": "65.7%",
+      "adr": "80.7",
+      "fkDiff": "-1",
+      "rating": "1.05"
+    },
+    {
+      "name": "zonic",
+      "kills": "17 ",
+      "assists": "2 ",
+      "deaths": "23",
+      "kast": "74.3%",
+      "adr": "43.2",
+      "fkDiff": "0",
+      "rating": "0.79"
+    }
+  ],
+  "team2": [
+    {
+      "name": "k0nfig",
+      "kills": "33 ",
+      "assists": "5 ",
+      "deaths": "22",
+      "kast": "71.4%",
+      "adr": "94.3",
+      "fkDiff": "+2",
+      "rating": "1.40"
+    },
+    {
+      "name": "RUBINO",
+      "kills": "27 ",
+      "assists": "8 ",
+      "deaths": "25",
+      "kast": "74.3%",
+      "adr": "93.0",
+      "fkDiff": "+2",
+      "rating": "1.21"
+    },
+    {
+      "name": "cajunb",
+      "kills": "22 ",
+      "assists": "2 ",
+      "deaths": "22",
+      "kast": "71.4%",
+      "adr": "60.3",
+      "fkDiff": "+2",
+      "rating": "1.04"
+    },
+    {
+      "name": "TENZKI",
+      "kills": "18 ",
+      "assists": "7 ",
+      "deaths": "22",
+      "kast": "65.7%",
+      "adr": "58.1",
+      "fkDiff": "-4",
+      "rating": "0.84"
+    },
+    {
+      "name": "MSL",
+      "kills": "19 ",
+      "assists": "10 ",
+      "deaths": "28",
+      "kast": "68.6%",
+      "adr": "70.1",
+      "fkDiff": "-5",
+      "rating": "0.81"
+    }
+  ]
+}
+{
+  "matchId": "68357",
+  "team1": [
+    {
+      "name": "autimatic",
+      "kills": "26 ",
+      "assists": "10 ",
+      "deaths": "18",
+      "kast": "76.7%",
+      "adr": "84.7",
+      "fkDiff": "+1",
+      "rating": "1.31"
+    },
+    {
+      "name": "tarik",
+      "kills": "22 ",
+      "assists": "6 ",
+      "deaths": "23",
+      "kast": "70.0%",
+      "adr": "91.3",
+      "fkDiff": "+4",
+      "rating": "1.26"
+    },
+    {
+      "name": "Skadoodle",
+      "kills": "23 ",
+      "assists": "4 ",
+      "deaths": "17",
+      "kast": "80.0%",
+      "adr": "73.6",
+      "fkDiff": "+1",
+      "rating": "1.25"
+    },
+    {
+      "name": "RUSH",
+      "kills": "21 ",
+      "assists": "5 ",
+      "deaths": "18",
+      "kast": "66.7%",
+      "adr": "77.1",
+      "fkDiff": "+2",
+      "rating": "1.15"
+    },
+    {
+      "name": "FNS",
+      "kills": "19 ",
+      "assists": "4 ",
+      "deaths": "22",
+      "kast": "63.3%",
+      "adr": "66.7",
+      "fkDiff": "0",
+      "rating": "0.86"
+    }
+  ],
+  "team2": [
+    {
+      "name": "JW",
+      "kills": "33 ",
+      "assists": "1 ",
+      "deaths": "21",
+      "kast": "76.7%",
+      "adr": "97.2",
+      "fkDiff": "+3",
+      "rating": "1.47"
+    },
+    {
+      "name": "Xizt",
+      "kills": "22 ",
+      "assists": "8 ",
+      "deaths": "20",
+      "kast": "73.3%",
+      "adr": "85.2",
+      "fkDiff": "-1",
+      "rating": "1.16"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "25 ",
+      "assists": "2 ",
+      "deaths": "25",
+      "kast": "73.3%",
+      "adr": "96.6",
+      "fkDiff": "-1",
+      "rating": "1.08"
+    },
+    {
+      "name": "flusha",
+      "kills": "9 ",
+      "assists": "5 ",
+      "deaths": "21",
+      "kast": "60.0%",
+      "adr": "45.4",
+      "fkDiff": "-2",
+      "rating": "0.60"
+    },
+    {
+      "name": "Golden",
+      "kills": "9 ",
+      "assists": "5 ",
+      "deaths": "24",
+      "kast": "43.3%",
+      "adr": "44.0",
+      "fkDiff": "-7",
+      "rating": "0.44"
+    }
+  ]
+}
+{
+  "matchId": "29847",
+  "team1": [
+    {
+      "name": "seized",
+      "kills": "37 ",
+      "assists": "3 ",
+      "deaths": "19",
+      "kast": "82.4%",
+      "adr": "103.8",
+      "fkDiff": "+2",
+      "rating": "1.64"
+    },
+    {
+      "name": "Zeus",
+      "kills": "22 ",
+      "assists": "3 ",
+      "deaths": "18",
+      "kast": "73.5%",
+      "adr": "80.7",
+      "fkDiff": "+3",
+      "rating": "1.20"
+    },
+    {
+      "name": "starix",
+      "kills": "22 ",
+      "assists": "3 ",
+      "deaths": "22",
+      "kast": "64.7%",
+      "adr": "64.3",
+      "fkDiff": "-2",
+      "rating": "1.04"
+    },
+    {
+      "name": "Edward",
+      "kills": "19 ",
+      "assists": "1 ",
+      "deaths": "22",
+      "kast": "67.6%",
+      "adr": "63.9",
+      "fkDiff": "+2",
+      "rating": "0.91"
+    },
+    {
+      "name": "flamie",
+      "kills": "18 ",
+      "assists": "3 ",
+      "deaths": "22",
+      "kast": "73.5%",
+      "adr": "60.4",
+      "fkDiff": "-3",
+      "rating": "0.89"
+    }
+  ],
+  "team2": [
+    {
+      "name": "tarik",
+      "kills": "25 ",
+      "assists": "5 ",
+      "deaths": "24",
+      "kast": "73.5%",
+      "adr": "77.5",
+      "fkDiff": "-1",
+      "rating": "1.13"
+    },
+    {
+      "name": "FugLy",
+      "kills": "26 ",
+      "assists": "1 ",
+      "deaths": "25",
+      "kast": "58.8%",
+      "adr": "73.4",
+      "fkDiff": "+3",
+      "rating": "1.02"
+    },
+    {
+      "name": "jdm64",
+      "kills": "23 ",
+      "assists": "4 ",
+      "deaths": "23",
+      "kast": "67.6%",
+      "adr": "80.4",
+      "fkDiff": "+2",
+      "rating": "1.02"
+    },
+    {
+      "name": "reltuC",
+      "kills": "14 ",
+      "assists": "7 ",
+      "deaths": "23",
+      "kast": "73.5%",
+      "adr": "53.4",
+      "fkDiff": "-2",
+      "rating": "0.79"
+    },
+    {
+      "name": "hazed",
+      "kills": "15 ",
+      "assists": "3 ",
+      "deaths": "23",
+      "kast": "55.9%",
+      "adr": "58.5",
+      "fkDiff": "-4",
+      "rating": "0.70"
+    }
+  ]
+}
+{
+  "matchId": "68359",
+  "team1": [
+    {
+      "name": "Skadoodle",
+      "kills": "25 ",
+      "assists": "3 ",
+      "deaths": "17",
+      "kast": "72.0%",
+      "adr": "85.4",
+      "fkDiff": "0",
+      "rating": "1.33"
+    },
+    {
+      "name": "autimatic",
+      "kills": "21 ",
+      "assists": "4 ",
+      "deaths": "22",
+      "kast": "80.0%",
+      "adr": "93.6",
+      "fkDiff": "0",
+      "rating": "1.16"
+    },
+    {
+      "name": "tarik",
+      "kills": "17 ",
+      "assists": "3 ",
+      "deaths": "17",
+      "kast": "72.0%",
+      "adr": "79.0",
+      "fkDiff": "+1",
+      "rating": "1.09"
+    },
+    {
+      "name": "RUSH",
+      "kills": "16 ",
+      "assists": "3 ",
+      "deaths": "20",
+      "kast": "68.0%",
+      "adr": "69.0",
+      "fkDiff": "-2",
+      "rating": "0.85"
+    },
+    {
+      "name": "FNS",
+      "kills": "9 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "64.0%",
+      "adr": "48.0",
+      "fkDiff": "0",
+      "rating": "0.67"
+    }
+  ],
+  "team2": [
+    {
+      "name": "flusha",
+      "kills": "26 ",
+      "assists": "5 ",
+      "deaths": "16",
+      "kast": "76.0%",
+      "adr": "105.4",
+      "fkDiff": "+3",
+      "rating": "1.48"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "17 ",
+      "assists": "4 ",
+      "deaths": "16",
+      "kast": "68.0%",
+      "adr": "72.0",
+      "fkDiff": "0",
+      "rating": "1.10"
+    },
+    {
+      "name": "Golden",
+      "kills": "18 ",
+      "assists": "6 ",
+      "deaths": "17",
+      "kast": "68.0%",
+      "adr": "72.2",
+      "fkDiff": "-3",
+      "rating": "1.03"
+    },
+    {
+      "name": "JW",
+      "kills": "17 ",
+      "assists": "5 ",
+      "deaths": "21",
+      "kast": "68.0%",
+      "adr": "79.9",
+      "fkDiff": "+2",
+      "rating": "0.99"
+    },
+    {
+      "name": "Xizt",
+      "kills": "17 ",
+      "assists": "4 ",
+      "deaths": "18",
+      "kast": "68.0%",
+      "adr": "75.5",
+      "fkDiff": "-1",
+      "rating": "0.93"
+    }
+  ]
+}
+{
+  "matchId": "68328",
+  "team1": [
+    {
+      "name": "KRIMZ",
+      "kills": "22 ",
+      "assists": "3 ",
+      "deaths": "18",
+      "kast": "66.7%",
+      "adr": "81.1",
+      "fkDiff": "0",
+      "rating": "1.11"
+    },
+    {
+      "name": "flusha",
+      "kills": "19 ",
+      "assists": "5 ",
+      "deaths": "20",
+      "kast": "76.7%",
+      "adr": "67.8",
+      "fkDiff": "+3",
+      "rating": "1.00"
+    },
+    {
+      "name": "JW",
+      "kills": "19 ",
+      "assists": "4 ",
+      "deaths": "24",
+      "kast": "60.0%",
+      "adr": "71.8",
+      "fkDiff": "+1",
+      "rating": "0.91"
+    },
+    {
+      "name": "Xizt",
+      "kills": "12 ",
+      "assists": "10 ",
+      "deaths": "23",
+      "kast": "70.0%",
+      "adr": "53.6",
+      "fkDiff": "-4",
+      "rating": "0.68"
+    },
+    {
+      "name": "Golden",
+      "kills": "13 ",
+      "assists": "4 ",
+      "deaths": "22",
+      "kast": "50.0%",
+      "adr": "51.8",
+      "fkDiff": "-2",
+      "rating": "0.68"
+    }
+  ],
+  "team2": [
+    {
+      "name": "NAF",
+      "kills": "26 ",
+      "assists": "6 ",
+      "deaths": "14",
+      "kast": "80.0%",
+      "adr": "88.3",
+      "fkDiff": "+2",
+      "rating": "1.42"
+    },
+    {
+      "name": "EliGE",
+      "kills": "24 ",
+      "assists": "3 ",
+      "deaths": "20",
+      "kast": "80.0%",
+      "adr": "80.7",
+      "fkDiff": "-1",
+      "rating": "1.21"
+    },
+    {
+      "name": "nitr0",
+      "kills": "21 ",
+      "assists": "6 ",
+      "deaths": "14",
+      "kast": "83.3%",
+      "adr": "72.8",
+      "fkDiff": "0",
+      "rating": "1.20"
+    },
+    {
+      "name": "TACO",
+      "kills": "18 ",
+      "assists": "8 ",
+      "deaths": "19",
+      "kast": "70.0%",
+      "adr": "81.2",
+      "fkDiff": "+2",
+      "rating": "1.19"
+    },
+    {
+      "name": "Twistzz",
+      "kills": "18 ",
+      "assists": "1 ",
+      "deaths": "18",
+      "kast": "70.0%",
+      "adr": "63.9",
+      "fkDiff": "-1",
+      "rating": "0.99"
+    }
+  ]
+}
+{
+  "matchId": "52846",
+  "team1": [
+    {
+      "name": "rain",
+      "kills": "28 ",
+      "assists": "1 ",
+      "deaths": "9",
+      "kast": "81.0%",
+      "adr": "130.8",
+      "fkDiff": "+6",
+      "rating": "2.16"
+    },
+    {
+      "name": "NiKo",
+      "kills": "19 ",
+      "assists": "3 ",
+      "deaths": "7",
+      "kast": "85.7%",
+      "adr": "94.7",
+      "fkDiff": "+1",
+      "rating": "1.65"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "14 ",
+      "assists": "4 ",
+      "deaths": "11",
+      "kast": "71.4%",
+      "adr": "79.7",
+      "fkDiff": "0",
+      "rating": "1.16"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "14 ",
+      "assists": "0 ",
+      "deaths": "11",
+      "kast": "61.9%",
+      "adr": "68.3",
+      "fkDiff": "-4",
+      "rating": "1.06"
+    },
+    {
+      "name": "karrigan",
+      "kills": "7 ",
+      "assists": "3 ",
+      "deaths": "11",
+      "kast": "81.0%",
+      "adr": "49.2",
+      "fkDiff": "+4",
+      "rating": "1.05"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Snax",
+      "kills": "13 ",
+      "assists": "0 ",
+      "deaths": "14",
+      "kast": "57.1%",
+      "adr": "64.7",
+      "fkDiff": "-1",
+      "rating": "0.82"
+    },
+    {
+      "name": "pashaBiceps",
+      "kills": "12 ",
+      "assists": "2 ",
+      "deaths": "17",
+      "kast": "47.6%",
+      "adr": "64.5",
+      "fkDiff": "0",
+      "rating": "0.79"
+    },
+    {
+      "name": "byali",
+      "kills": "8 ",
+      "assists": "4 ",
+      "deaths": "18",
+      "kast": "57.1%",
+      "adr": "63.9",
+      "fkDiff": "-1",
+      "rating": "0.55"
+    },
+    {
+      "name": "TaZ",
+      "kills": "8 ",
+      "assists": "0 ",
+      "deaths": "15",
+      "kast": "47.6%",
+      "adr": "43.2",
+      "fkDiff": "-3",
+      "rating": "0.53"
+    },
+    {
+      "name": "NEO",
+      "kills": "8 ",
+      "assists": "5 ",
+      "deaths": "18",
+      "kast": "52.4%",
+      "adr": "46.3",
+      "fkDiff": "-2",
+      "rating": "0.52"
+    }
+  ]
+}
+{
+  "matchId": "68400",
+  "team1": [
+    {
+      "name": "rain",
+      "kills": "29 ",
+      "assists": "2 ",
+      "deaths": "14",
+      "kast": "84.6%",
+      "adr": "107.6",
+      "fkDiff": "+3",
+      "rating": "1.66"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "20 ",
+      "assists": "4 ",
+      "deaths": "14",
+      "kast": "80.8%",
+      "adr": "77.7",
+      "fkDiff": "+1",
+      "rating": "1.31"
+    },
+    {
+      "name": "karrigan",
+      "kills": "17 ",
+      "assists": "8 ",
+      "deaths": "19",
+      "kast": "84.6%",
+      "adr": "83.6",
+      "fkDiff": "+1",
+      "rating": "1.18"
+    },
+    {
+      "name": "cromen",
+      "kills": "21 ",
+      "assists": "2 ",
+      "deaths": "15",
+      "kast": "69.2%",
+      "adr": "67.2",
+      "fkDiff": "0",
+      "rating": "1.16"
+    },
+    {
+      "name": "NiKo",
+      "kills": "16 ",
+      "assists": "6 ",
+      "deaths": "18",
+      "kast": "84.6%",
+      "adr": "86.7",
+      "fkDiff": "-3",
+      "rating": "1.05"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Ex6TenZ",
+      "kills": "24 ",
+      "assists": "2 ",
+      "deaths": "22",
+      "kast": "76.9%",
+      "adr": "99.3",
+      "fkDiff": "+5",
+      "rating": "1.25"
+    },
+    {
+      "name": "shox",
+      "kills": "18 ",
+      "assists": "3 ",
+      "deaths": "20",
+      "kast": "57.7%",
+      "adr": "66.2",
+      "fkDiff": "+2",
+      "rating": "0.90"
+    },
+    {
+      "name": "bodyy",
+      "kills": "16 ",
+      "assists": "4 ",
+      "deaths": "21",
+      "kast": "65.4%",
+      "adr": "76.4",
+      "fkDiff": "-3",
+      "rating": "0.87"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "12 ",
+      "assists": "5 ",
+      "deaths": "20",
+      "kast": "61.5%",
+      "adr": "56.2",
+      "fkDiff": "-3",
+      "rating": "0.71"
+    },
+    {
+      "name": "kennyS",
+      "kills": "10 ",
+      "assists": "5 ",
+      "deaths": "20",
+      "kast": "50.0%",
+      "adr": "44.8",
+      "fkDiff": "-3",
+      "rating": "0.60"
+    }
+  ]
+}
+{
+  "matchId": "52864",
+  "team1": [
+    {
+      "name": "device",
+      "kills": "27 ",
+      "assists": "3 ",
+      "deaths": "17",
+      "kast": "80.0%",
+      "adr": "91.3",
+      "fkDiff": "+3",
+      "rating": "1.42"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "22 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "66.7%",
+      "adr": "73.8",
+      "fkDiff": "0",
+      "rating": "1.13"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "22 ",
+      "assists": "6 ",
+      "deaths": "17",
+      "kast": "63.3%",
+      "adr": "81.2",
+      "fkDiff": "-2",
+      "rating": "1.11"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "21 ",
+      "assists": "5 ",
+      "deaths": "20",
+      "kast": "56.7%",
+      "adr": "75.7",
+      "fkDiff": "0",
+      "rating": "1.05"
+    },
+    {
+      "name": "Kjaerbye",
+      "kills": "10 ",
+      "assists": "7 ",
+      "deaths": "20",
+      "kast": "73.3%",
+      "adr": "46.8",
+      "fkDiff": "-3",
+      "rating": "0.74"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Twistzz",
+      "kills": "29 ",
+      "assists": "6 ",
+      "deaths": "19",
+      "kast": "73.3%",
+      "adr": "109.0",
+      "fkDiff": "+5",
+      "rating": "1.59"
+    },
+    {
+      "name": "jdm64",
+      "kills": "22 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "63.3%",
+      "adr": "73.7",
+      "fkDiff": "-1",
+      "rating": "1.09"
+    },
+    {
+      "name": "EliGE",
+      "kills": "15 ",
+      "assists": "4 ",
+      "deaths": "20",
+      "kast": "56.7%",
+      "adr": "61.3",
+      "fkDiff": "+1",
+      "rating": "0.81"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "14 ",
+      "assists": "8 ",
+      "deaths": "23",
+      "kast": "66.7%",
+      "adr": "60.4",
+      "fkDiff": "-2",
+      "rating": "0.78"
+    },
+    {
+      "name": "nitr0",
+      "kills": "12 ",
+      "assists": "5 ",
+      "deaths": "21",
+      "kast": "53.3%",
+      "adr": "48.3",
+      "fkDiff": "-1",
+      "rating": "0.71"
+    }
+  ]
+}
+{
+  "matchId": "37418",
+  "team1": [
+    {
+      "name": "Xizt",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "63.2%",
+      "adr": "84.4",
+      "fkDiff": "+1",
+      "rating": "0.90"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "11 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "57.9%",
+      "adr": "81.2",
+      "fkDiff": "0",
+      "rating": "0.79"
+    },
+    {
+      "name": "Maikelele",
+      "kills": "13 ",
+      "assists": "0",
+      "deaths": "16",
+      "kast": "52.6%",
+      "adr": "68.2",
+      "fkDiff": "+1",
+      "rating": "0.77"
+    },
+    {
+      "name": "friberg",
+      "kills": "8 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "42.1%",
+      "adr": "51.9",
+      "fkDiff": "-3",
+      "rating": "0.48"
+    },
+    {
+      "name": "f0rest",
+      "kills": "4 ",
+      "assists": "1",
+      "deaths": "18",
+      "kast": "36.8%",
+      "adr": "54.1",
+      "fkDiff": "-4",
+      "rating": "0.30"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Edward",
+      "kills": "25 ",
+      "assists": "4",
+      "deaths": "9",
+      "kast": "84.2%",
+      "adr": "125.8",
+      "fkDiff": "+3",
+      "rating": "2.09"
+    },
+    {
+      "name": "flamie",
+      "kills": "18 ",
+      "assists": "5",
+      "deaths": "9",
+      "kast": "89.5%",
+      "adr": "84.8",
+      "fkDiff": "+3",
+      "rating": "1.60"
+    },
+    {
+      "name": "seized",
+      "kills": "15 ",
+      "assists": "3",
+      "deaths": "8",
+      "kast": "78.9%",
+      "adr": "96.4",
+      "fkDiff": "0",
+      "rating": "1.47"
+    },
+    {
+      "name": "s1mple",
+      "kills": "14 ",
+      "assists": "3",
+      "deaths": "11",
+      "kast": "73.7%",
+      "adr": "77.9",
+      "fkDiff": "+1",
+      "rating": "1.30"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "9 ",
+      "assists": "2",
+      "deaths": "12",
+      "kast": "73.7%",
+      "adr": "53.5",
+      "fkDiff": "-2",
+      "rating": "0.92"
+    }
+  ]
+}
+{
+  "matchId": "30737",
+  "team1": [
+    {
+      "name": "JW",
+      "kills": "20 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "73.1%",
+      "adr": "72.0",
+      "fkDiff": "-1",
+      "rating": "1.22"
+    },
+    {
+      "name": "flusha",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "16",
+      "kast": "57.7%",
+      "adr": "89.0",
+      "fkDiff": "-2",
+      "rating": "1.19"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "17 ",
+      "assists": "6",
+      "deaths": "13",
+      "kast": "69.2%",
+      "adr": "67.3",
+      "fkDiff": "0",
+      "rating": "1.12"
+    },
+    {
+      "name": "wenton",
+      "kills": "14 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "53.8%",
+      "adr": "76.0",
+      "fkDiff": "-1",
+      "rating": "0.99"
+    },
+    {
+      "name": "dennis",
+      "kills": "13 ",
+      "assists": "5",
+      "deaths": "17",
+      "kast": "73.1%",
+      "adr": "64.8",
+      "fkDiff": "-2",
+      "rating": "0.90"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Stewie2K",
+      "kills": "25 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "76.9%",
+      "adr": "96.3",
+      "fkDiff": "+2",
+      "rating": "1.47"
+    },
+    {
+      "name": "Skadoodle",
+      "kills": "18 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "69.2%",
+      "adr": "73.6",
+      "fkDiff": "+2",
+      "rating": "1.15"
+    },
+    {
+      "name": "shroud",
+      "kills": "15 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "61.5%",
+      "adr": "77.8",
+      "fkDiff": "+2",
+      "rating": "0.89"
+    },
+    {
+      "name": "n0thing",
+      "kills": "13 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "65.4%",
+      "adr": "61.3",
+      "fkDiff": "+1",
+      "rating": "0.78"
+    },
+    {
+      "name": "Slemmy",
+      "kills": "5 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "50.0%",
+      "adr": "32.5",
+      "fkDiff": "-1",
+      "rating": "0.45"
+    }
+  ]
+}
+{
+  "matchId": "67978",
+  "team1": [
+    {
+      "name": "phr",
+      "kills": "20 ",
+      "assists": "2 ",
+      "deaths": "19",
+      "kast": "61.5%",
+      "adr": "69.4",
+      "fkDiff": "0",
+      "rating": "0.98"
+    },
+    {
+      "name": "Furlan",
+      "kills": "17 ",
+      "assists": "3 ",
+      "deaths": "21",
+      "kast": "73.1%",
+      "adr": "64.0",
+      "fkDiff": "+1",
+      "rating": "0.91"
+    },
+    {
+      "name": "GruBy",
+      "kills": "15 ",
+      "assists": "7 ",
+      "deaths": "20",
+      "kast": "53.8%",
+      "adr": "78.0",
+      "fkDiff": "+1",
+      "rating": "0.91"
+    },
+    {
+      "name": "TOAO",
+      "kills": "13 ",
+      "assists": "5 ",
+      "deaths": "19",
+      "kast": "61.5%",
+      "adr": "75.5",
+      "fkDiff": "-1",
+      "rating": "0.82"
+    },
+    {
+      "name": "snatchie",
+      "kills": "12 ",
+      "assists": "5 ",
+      "deaths": "24",
+      "kast": "65.4%",
+      "adr": "56.0",
+      "fkDiff": "+1",
+      "rating": "0.67"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Kjaerbye",
+      "kills": "29 ",
+      "assists": "3 ",
+      "deaths": "14",
+      "kast": "88.5%",
+      "adr": "104.8",
+      "fkDiff": "+3",
+      "rating": "1.71"
+    },
+    {
+      "name": "aizy",
+      "kills": "22 ",
+      "assists": "7 ",
+      "deaths": "14",
+      "kast": "88.5%",
+      "adr": "88.7",
+      "fkDiff": "0",
+      "rating": "1.52"
+    },
+    {
+      "name": "mertz",
+      "kills": "26 ",
+      "assists": "3 ",
+      "deaths": "15",
+      "kast": "69.2%",
+      "adr": "98.1",
+      "fkDiff": "-1",
+      "rating": "1.47"
+    },
+    {
+      "name": "valde",
+      "kills": "21 ",
+      "assists": "12 ",
+      "deaths": "16",
+      "kast": "76.9%",
+      "adr": "100.3",
+      "fkDiff": "+1",
+      "rating": "1.31"
+    },
+    {
+      "name": "MSL",
+      "kills": "5 ",
+      "assists": "4 ",
+      "deaths": "18",
+      "kast": "61.5%",
+      "adr": "30.3",
+      "fkDiff": "-5",
+      "rating": "0.48"
+    }
+  ]
+}
+{
+  "matchId": "30742",
+  "team1": [
+    {
+      "name": "flusha",
+      "kills": "24 ",
+      "assists": "5",
+      "deaths": "19",
+      "kast": "72.0%",
+      "adr": "118.5",
+      "fkDiff": "+1",
+      "rating": "1.43"
+    },
+    {
+      "name": "wenton",
+      "kills": "14 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "64.0%",
+      "adr": "55.7",
+      "fkDiff": "-1",
+      "rating": "0.82"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "16 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "68.0%",
+      "adr": "63.9",
+      "fkDiff": "-3",
+      "rating": "0.80"
+    },
+    {
+      "name": "JW",
+      "kills": "11 ",
+      "assists": "5",
+      "deaths": "21",
+      "kast": "68.0%",
+      "adr": "59.3",
+      "fkDiff": "+1",
+      "rating": "0.76"
+    },
+    {
+      "name": "dennis",
+      "kills": "13 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "56.0%",
+      "adr": "62.8",
+      "fkDiff": "-1",
+      "rating": "0.69"
+    }
+  ],
+  "team2": [
+    {
+      "name": "f0rest",
+      "kills": "22 ",
+      "assists": "7",
+      "deaths": "16",
+      "kast": "92.0%",
+      "adr": "104.8",
+      "fkDiff": "0",
+      "rating": "1.49"
+    },
+    {
+      "name": "friberg",
+      "kills": "23 ",
+      "assists": "2",
+      "deaths": "13",
+      "kast": "80.0%",
+      "adr": "79.9",
+      "fkDiff": "-1",
+      "rating": "1.33"
+    },
+    {
+      "name": "pyth",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "68.0%",
+      "adr": "82.5",
+      "fkDiff": "+3",
+      "rating": "1.21"
+    },
+    {
+      "name": "Xizt",
+      "kills": "16 ",
+      "assists": "3",
+      "deaths": "13",
+      "kast": "84.0%",
+      "adr": "60.9",
+      "fkDiff": "+3",
+      "rating": "1.19"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "16 ",
+      "assists": "6",
+      "deaths": "19",
+      "kast": "76.0%",
+      "adr": "79.8",
+      "fkDiff": "-2",
+      "rating": "0.98"
+    }
+  ]
+}
+{
+  "matchId": "32344",
+  "team1": [
+    {
+      "name": "EliGE",
+      "kills": "24 ",
+      "assists": "1",
+      "deaths": "13",
+      "kast": "77.3%",
+      "adr": "96.3",
+      "fkDiff": "+3",
+      "rating": "1.54"
+    },
+    {
+      "name": "nitr0",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "9",
+      "kast": "81.8%",
+      "adr": "93.8",
+      "fkDiff": "+2",
+      "rating": "1.50"
+    },
+    {
+      "name": "s1mple",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "11",
+      "kast": "77.3%",
+      "adr": "89.1",
+      "fkDiff": "+1",
+      "rating": "1.37"
+    },
+    {
+      "name": "jdm64",
+      "kills": "14 ",
+      "assists": "3",
+      "deaths": "12",
+      "kast": "68.2%",
+      "adr": "70.7",
+      "fkDiff": "0",
+      "rating": "1.08"
+    },
+    {
+      "name": "Hiko",
+      "kills": "9 ",
+      "assists": "5",
+      "deaths": "15",
+      "kast": "77.3%",
+      "adr": "64.3",
+      "fkDiff": "-2",
+      "rating": "0.80"
+    }
+  ],
+  "team2": [
+    {
+      "name": "NiKo",
+      "kills": "12 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "63.6%",
+      "adr": "71.7",
+      "fkDiff": "+2",
+      "rating": "0.97"
+    },
+    {
+      "name": "chrisJ",
+      "kills": "13 ",
+      "assists": "0",
+      "deaths": "15",
+      "kast": "63.6%",
+      "adr": "59.8",
+      "fkDiff": "0",
+      "rating": "0.90"
+    },
+    {
+      "name": "Spiidi",
+      "kills": "15 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "72.7%",
+      "adr": "66.8",
+      "fkDiff": "-1",
+      "rating": "0.88"
+    },
+    {
+      "name": "nex",
+      "kills": "10 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "54.5%",
+      "adr": "66.5",
+      "fkDiff": "-3",
+      "rating": "0.73"
+    },
+    {
+      "name": "denis",
+      "kills": "10 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "50.0%",
+      "adr": "46.2",
+      "fkDiff": "-2",
+      "rating": "0.52"
+    }
+  ]
+}
+{
+  "matchId": "39599",
+  "team1": [
+    {
+      "name": "mixwell",
+      "kills": "24 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "89.3%",
+      "adr": "77.0",
+      "fkDiff": "+2",
+      "rating": "1.39"
+    },
+    {
+      "name": "RUSH",
+      "kills": "27 ",
+      "assists": "5",
+      "deaths": "19",
+      "kast": "82.1%",
+      "adr": "93.8",
+      "fkDiff": "+1",
+      "rating": "1.29"
+    },
+    {
+      "name": "NAF",
+      "kills": "21 ",
+      "assists": "9",
+      "deaths": "18",
+      "kast": "78.6%",
+      "adr": "87.2",
+      "fkDiff": "+1",
+      "rating": "1.24"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "18 ",
+      "assists": "6",
+      "deaths": "15",
+      "kast": "82.1%",
+      "adr": "67.6",
+      "fkDiff": "+2",
+      "rating": "1.20"
+    },
+    {
+      "name": "tarik",
+      "kills": "17 ",
+      "assists": "5",
+      "deaths": "17",
+      "kast": "82.1%",
+      "adr": "70.7",
+      "fkDiff": "0",
+      "rating": "1.13"
+    }
+  ],
+  "team2": [
+    {
+      "name": "aizy",
+      "kills": "26 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "78.6%",
+      "adr": "95.5",
+      "fkDiff": "-2",
+      "rating": "1.30"
+    },
+    {
+      "name": "kioShiMa",
+      "kills": "15 ",
+      "assists": "6",
+      "deaths": "24",
+      "kast": "64.3%",
+      "adr": "80.4",
+      "fkDiff": "0",
+      "rating": "0.89"
+    },
+    {
+      "name": "karrigan",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "64.3%",
+      "adr": "64.5",
+      "fkDiff": "-2",
+      "rating": "0.85"
+    },
+    {
+      "name": "allu",
+      "kills": "14 ",
+      "assists": "3",
+      "deaths": "21",
+      "kast": "60.7%",
+      "adr": "58.0",
+      "fkDiff": "-1",
+      "rating": "0.77"
+    },
+    {
+      "name": "rain",
+      "kills": "11 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "71.4%",
+      "adr": "56.1",
+      "fkDiff": "-1",
+      "rating": "0.77"
+    }
+  ]
+}
+{
+  "matchId": "68368",
+  "team1": [
+    {
+      "name": "bodyy",
+      "kills": "19 ",
+      "assists": "7 ",
+      "deaths": "13",
+      "kast": "85.2%",
+      "adr": "85.9",
+      "fkDiff": "+2",
+      "rating": "1.34"
+    },
+    {
+      "name": "kennyS",
+      "kills": "27 ",
+      "assists": "3 ",
+      "deaths": "19",
+      "kast": "63.0%",
+      "adr": "79.7",
+      "fkDiff": "+5",
+      "rating": "1.25"
+    },
+    {
+      "name": "shox",
+      "kills": "21 ",
+      "assists": "6 ",
+      "deaths": "20",
+      "kast": "55.6%",
+      "adr": "83.8",
+      "fkDiff": "+1",
+      "rating": "1.14"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "19 ",
+      "assists": "2 ",
+      "deaths": "15",
+      "kast": "74.1%",
+      "adr": "63.9",
+      "fkDiff": "-1",
+      "rating": "1.06"
+    },
+    {
+      "name": "Ex6TenZ",
+      "kills": "14 ",
+      "assists": "8 ",
+      "deaths": "18",
+      "kast": "74.1%",
+      "adr": "76.0",
+      "fkDiff": "0",
+      "rating": "1.06"
+    }
+  ],
+  "team2": [
+    {
+      "name": "NEKIZ",
+      "kills": "26 ",
+      "assists": "1 ",
+      "deaths": "21",
+      "kast": "74.1%",
+      "adr": "100.9",
+      "fkDiff": "+1",
+      "rating": "1.27"
+    },
+    {
+      "name": "SHOOWTiME",
+      "kills": "19 ",
+      "assists": "2 ",
+      "deaths": "21",
+      "kast": "55.6%",
+      "adr": "76.4",
+      "fkDiff": "-3",
+      "rating": "0.92"
+    },
+    {
+      "name": "PKL",
+      "kills": "15 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "59.3%",
+      "adr": "67.8",
+      "fkDiff": "-3",
+      "rating": "0.86"
+    },
+    {
+      "name": "yeL",
+      "kills": "14 ",
+      "assists": "2 ",
+      "deaths": "19",
+      "kast": "63.0%",
+      "adr": "50.3",
+      "fkDiff": "-1",
+      "rating": "0.80"
+    },
+    {
+      "name": "steel",
+      "kills": "10 ",
+      "assists": "5 ",
+      "deaths": "20",
+      "kast": "48.1%",
+      "adr": "52.5",
+      "fkDiff": "-1",
+      "rating": "0.60"
+    }
+  ]
+}
+{
+  "matchId": "68327",
+  "team1": [
+    {
+      "name": "Magisk",
+      "kills": "26 ",
+      "assists": "5 ",
+      "deaths": "15",
+      "kast": "82.8%",
+      "adr": "91.3",
+      "fkDiff": "-2",
+      "rating": "1.50"
+    },
+    {
+      "name": "device",
+      "kills": "22 ",
+      "assists": "5 ",
+      "deaths": "17",
+      "kast": "65.5%",
+      "adr": "89.9",
+      "fkDiff": "+6",
+      "rating": "1.30"
+    },
+    {
+      "name": "Xyp9x",
+      "kills": "17 ",
+      "assists": "6 ",
+      "deaths": "15",
+      "kast": "75.9%",
+      "adr": "65.2",
+      "fkDiff": "0",
+      "rating": "1.03"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "20 ",
+      "assists": "4 ",
+      "deaths": "20",
+      "kast": "72.4%",
+      "adr": "73.1",
+      "fkDiff": "-1",
+      "rating": "1.02"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "17 ",
+      "assists": "4 ",
+      "deaths": "19",
+      "kast": "62.1%",
+      "adr": "70.1",
+      "fkDiff": "+2",
+      "rating": "0.97"
+    }
+  ],
+  "team2": [
+    {
+      "name": "FNS",
+      "kills": "22 ",
+      "assists": "8 ",
+      "deaths": "20",
+      "kast": "72.4%",
+      "adr": "102.9",
+      "fkDiff": "+2",
+      "rating": "1.23"
+    },
+    {
+      "name": "autimatic",
+      "kills": "19 ",
+      "assists": "5 ",
+      "deaths": "21",
+      "kast": "51.7%",
+      "adr": "70.3",
+      "fkDiff": "-2",
+      "rating": "0.90"
+    },
+    {
+      "name": "RUSH",
+      "kills": "18 ",
+      "assists": "3 ",
+      "deaths": "20",
+      "kast": "55.2%",
+      "adr": "58.9",
+      "fkDiff": "+1",
+      "rating": "0.84"
+    },
+    {
+      "name": "tarik",
+      "kills": "15 ",
+      "assists": "3 ",
+      "deaths": "21",
+      "kast": "48.3%",
+      "adr": "57.8",
+      "fkDiff": "-2",
+      "rating": "0.78"
+    },
+    {
+      "name": "Skadoodle",
+      "kills": "11 ",
+      "assists": "3 ",
+      "deaths": "20",
+      "kast": "65.5%",
+      "adr": "38.7",
+      "fkDiff": "-4",
+      "rating": "0.69"
+    }
+  ]
+}
+{
+  "matchId": "32345",
+  "team1": [
+    {
+      "name": "fox",
+      "kills": "17 ",
+      "assists": "2",
+      "deaths": "15",
+      "kast": "80.0%",
+      "adr": "69.3",
+      "fkDiff": "+2",
+      "rating": "1.19"
+    },
+    {
+      "name": "rain",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "60.0%",
+      "adr": "79.6",
+      "fkDiff": "-2",
+      "rating": "1.07"
+    },
+    {
+      "name": "kioShiMa",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "72.0%",
+      "adr": "76.8",
+      "fkDiff": "0",
+      "rating": "1.01"
+    },
+    {
+      "name": "aizy",
+      "kills": "14 ",
+      "assists": "4",
+      "deaths": "21",
+      "kast": "60.0%",
+      "adr": "69.5",
+      "fkDiff": "-1",
+      "rating": "0.82"
+    },
+    {
+      "name": "jkaem",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "60.0%",
+      "adr": "66.6",
+      "fkDiff": "0",
+      "rating": "0.75"
+    }
+  ],
+  "team2": [
+    {
+      "name": "JW",
+      "kills": "22 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "80.0%",
+      "adr": "80.3",
+      "fkDiff": "+3",
+      "rating": "1.31"
+    },
+    {
+      "name": "dennis",
+      "kills": "17 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "72.0%",
+      "adr": "86.7",
+      "fkDiff": "0",
+      "rating": "1.20"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "17 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "76.0%",
+      "adr": "76.9",
+      "fkDiff": "+1",
+      "rating": "1.18"
+    },
+    {
+      "name": "flusha",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "72.0%",
+      "adr": "80.4",
+      "fkDiff": "-1",
+      "rating": "1.10"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "14",
+      "kast": "76.0%",
+      "adr": "73.8",
+      "fkDiff": "-2",
+      "rating": "1.05"
+    }
+  ]
+}
+{
+  "matchId": "29855",
+  "team1": [
+    {
+      "name": "somebody",
+      "kills": "33 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "80.0%",
+      "adr": "106.0",
+      "fkDiff": "0",
+      "rating": "1.62"
+    },
+    {
+      "name": "DD",
+      "kills": "26 ",
+      "assists": "3",
+      "deaths": "22",
+      "kast": "73.3%",
+      "adr": "89.9",
+      "fkDiff": "-2",
+      "rating": "1.29"
+    },
+    {
+      "name": "AttackeR",
+      "kills": "23 ",
+      "assists": "5",
+      "deaths": "23",
+      "kast": "66.7%",
+      "adr": "84.6",
+      "fkDiff": "-1",
+      "rating": "1.05"
+    },
+    {
+      "name": "Mo",
+      "kills": "20 ",
+      "assists": "1",
+      "deaths": "24",
+      "kast": "70.0%",
+      "adr": "72.8",
+      "fkDiff": "0",
+      "rating": "0.99"
+    },
+    {
+      "name": "Summer",
+      "kills": "10 ",
+      "assists": "5",
+      "deaths": "22",
+      "kast": "66.7%",
+      "adr": "55.7",
+      "fkDiff": "+1",
+      "rating": "0.74"
+    }
+  ],
+  "team2": [
+    {
+      "name": "coldzera",
+      "kills": "28 ",
+      "assists": "4",
+      "deaths": "23",
+      "kast": "80.0%",
+      "adr": "97.7",
+      "fkDiff": "+1",
+      "rating": "1.31"
+    },
+    {
+      "name": "fnx",
+      "kills": "26 ",
+      "assists": "1",
+      "deaths": "21",
+      "kast": "70.0%",
+      "adr": "86.3",
+      "fkDiff": "+1",
+      "rating": "1.19"
+    },
+    {
+      "name": "fer",
+      "kills": "21 ",
+      "assists": "8",
+      "deaths": "23",
+      "kast": "66.7%",
+      "adr": "84.2",
+      "fkDiff": "+1",
+      "rating": "1.16"
+    },
+    {
+      "name": "FalleN",
+      "kills": "18 ",
+      "assists": "6",
+      "deaths": "22",
+      "kast": "70.0%",
+      "adr": "72.3",
+      "fkDiff": "-1",
+      "rating": "0.91"
+    },
+    {
+      "name": "TACO",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "23",
+      "kast": "60.0%",
+      "adr": "62.2",
+      "fkDiff": "0",
+      "rating": "0.83"
+    }
+  ]
+}
+{
+  "matchId": "30823",
+  "team1": [
+    {
+      "name": "FalleN",
+      "kills": "32 ",
+      "assists": "2",
+      "deaths": "13",
+      "kast": "81.5%",
+      "adr": "113.3",
+      "fkDiff": "+4",
+      "rating": "1.89"
+    },
+    {
+      "name": "coldzera",
+      "kills": "26 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "70.4%",
+      "adr": "89.7",
+      "fkDiff": "-1",
+      "rating": "1.39"
+    },
+    {
+      "name": "fnx",
+      "kills": "20 ",
+      "assists": "7",
+      "deaths": "17",
+      "kast": "85.2%",
+      "adr": "103.6",
+      "fkDiff": "-3",
+      "rating": "1.36"
+    },
+    {
+      "name": "TACO",
+      "kills": "15 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "70.4%",
+      "adr": "57.6",
+      "fkDiff": "-3",
+      "rating": "0.86"
+    },
+    {
+      "name": "fer",
+      "kills": "6 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "59.3%",
+      "adr": "32.0",
+      "fkDiff": "-4",
+      "rating": "0.50"
+    }
+  ],
+  "team2": [
+    {
+      "name": "shox",
+      "kills": "24 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "66.7%",
+      "adr": "82.6",
+      "fkDiff": "+3",
+      "rating": "1.24"
+    },
+    {
+      "name": "bodyy",
+      "kills": "15 ",
+      "assists": "8",
+      "deaths": "22",
+      "kast": "66.7%",
+      "adr": "87.5",
+      "fkDiff": "+1",
+      "rating": "0.92"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "17 ",
+      "assists": "1",
+      "deaths": "21",
+      "kast": "55.6%",
+      "adr": "53.1",
+      "fkDiff": "+2",
+      "rating": "0.89"
+    },
+    {
+      "name": "RpK",
+      "kills": "11 ",
+      "assists": "5",
+      "deaths": "18",
+      "kast": "70.4%",
+      "adr": "59.9",
+      "fkDiff": "+2",
+      "rating": "0.88"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "14 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "63.0%",
+      "adr": "53.7",
+      "fkDiff": "-1",
+      "rating": "0.78"
+    }
+  ]
+}
+{
+  "matchId": "37510",
+  "team1": [
+    {
+      "name": "olofmeister",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "12",
+      "kast": "72.0%",
+      "adr": "77.6",
+      "fkDiff": "-1",
+      "rating": "1.34"
+    },
+    {
+      "name": "dennis",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "14",
+      "kast": "84.0%",
+      "adr": "75.4",
+      "fkDiff": "+1",
+      "rating": "1.28"
+    },
+    {
+      "name": "wenton",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "68.0%",
+      "adr": "81.0",
+      "fkDiff": "+2",
+      "rating": "1.26"
+    },
+    {
+      "name": "Lekr0",
+      "kills": "17 ",
+      "assists": "2",
+      "deaths": "13",
+      "kast": "84.0%",
+      "adr": "73.1",
+      "fkDiff": "+1",
+      "rating": "1.24"
+    },
+    {
+      "name": "twist",
+      "kills": "17 ",
+      "assists": "4",
+      "deaths": "14",
+      "kast": "72.0%",
+      "adr": "77.5",
+      "fkDiff": "+4",
+      "rating": "1.24"
+    }
+  ],
+  "team2": [
+    {
+      "name": "RUBINO",
+      "kills": "16 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "68.0%",
+      "adr": "61.1",
+      "fkDiff": "-1",
+      "rating": "1.00"
+    },
+    {
+      "name": "Magisk",
+      "kills": "16 ",
+      "assists": "0",
+      "deaths": "17",
+      "kast": "68.0%",
+      "adr": "57.4",
+      "fkDiff": "+1",
+      "rating": "0.87"
+    },
+    {
+      "name": "cajunb",
+      "kills": "13 ",
+      "assists": "7",
+      "deaths": "18",
+      "kast": "64.0%",
+      "adr": "61.7",
+      "fkDiff": "-2",
+      "rating": "0.85"
+    },
+    {
+      "name": "k0nfig",
+      "kills": "11 ",
+      "assists": "5",
+      "deaths": "19",
+      "kast": "76.0%",
+      "adr": "49.1",
+      "fkDiff": "-4",
+      "rating": "0.69"
+    },
+    {
+      "name": "MSL",
+      "kills": "12 ",
+      "assists": "5",
+      "deaths": "21",
+      "kast": "56.0%",
+      "adr": "73.2",
+      "fkDiff": "-1",
+      "rating": "0.69"
+    }
+  ]
+}
+{
+  "matchId": "32393",
+  "team1": [
+    {
+      "name": "s1mple",
+      "kills": "24 ",
+      "assists": "4",
+      "deaths": "20",
+      "kast": "72.4%",
+      "adr": "84.6",
+      "fkDiff": "+1",
+      "rating": "1.17"
+    },
+    {
+      "name": "Hiko",
+      "kills": "18 ",
+      "assists": "7",
+      "deaths": "20",
+      "kast": "69.0%",
+      "adr": "85.3",
+      "fkDiff": "+3",
+      "rating": "1.07"
+    },
+    {
+      "name": "nitr0",
+      "kills": "20 ",
+      "assists": "6",
+      "deaths": "21",
+      "kast": "62.1%",
+      "adr": "78.6",
+      "fkDiff": "-1",
+      "rating": "1.06"
+    },
+    {
+      "name": "jdm64",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "62.1%",
+      "adr": "61.2",
+      "fkDiff": "0",
+      "rating": "0.99"
+    },
+    {
+      "name": "EliGE",
+      "kills": "17 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "58.6%",
+      "adr": "72.8",
+      "fkDiff": "-2",
+      "rating": "0.97"
+    }
+  ],
+  "team2": [
+    {
+      "name": "dennis",
+      "kills": "25 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "75.9%",
+      "adr": "95.5",
+      "fkDiff": "-4",
+      "rating": "1.23"
+    },
+    {
+      "name": "flusha",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "58.6%",
+      "adr": "79.8",
+      "fkDiff": "+1",
+      "rating": "1.09"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "22 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "72.4%",
+      "adr": "65.0",
+      "fkDiff": "+1",
+      "rating": "1.02"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "58.6%",
+      "adr": "72.9",
+      "fkDiff": "+1",
+      "rating": "0.98"
+    },
+    {
+      "name": "JW",
+      "kills": "13 ",
+      "assists": "9",
+      "deaths": "20",
+      "kast": "72.4%",
+      "adr": "68.0",
+      "fkDiff": "0",
+      "rating": "0.85"
+    }
+  ]
+}
+{
+  "matchId": "29886",
+  "team1": [
+    {
+      "name": "twist",
+      "kills": "26 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "66.7%",
+      "adr": "95.9",
+      "fkDiff": "+3",
+      "rating": "1.35"
+    },
+    {
+      "name": "Lekr0",
+      "kills": "24 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "80.0%",
+      "adr": "72.6",
+      "fkDiff": "0",
+      "rating": "1.25"
+    },
+    {
+      "name": "znajder",
+      "kills": "21 ",
+      "assists": "3",
+      "deaths": "21",
+      "kast": "76.7%",
+      "adr": "80.2",
+      "fkDiff": "-1",
+      "rating": "1.03"
+    },
+    {
+      "name": "pauf",
+      "kills": "17 ",
+      "assists": "4",
+      "deaths": "21",
+      "kast": "60.0%",
+      "adr": "73.2",
+      "fkDiff": "+1",
+      "rating": "0.92"
+    },
+    {
+      "name": "pronax",
+      "kills": "16 ",
+      "assists": "4",
+      "deaths": "21",
+      "kast": "66.7%",
+      "adr": "63.2",
+      "fkDiff": "+1",
+      "rating": "0.83"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Xizt",
+      "kills": "33 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "83.3%",
+      "adr": "101.7",
+      "fkDiff": "+1",
+      "rating": "1.65"
+    },
+    {
+      "name": "friberg",
+      "kills": "21 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "66.7%",
+      "adr": "68.8",
+      "fkDiff": "+1",
+      "rating": "1.09"
+    },
+    {
+      "name": "pyth",
+      "kills": "20 ",
+      "assists": "3",
+      "deaths": "22",
+      "kast": "76.7%",
+      "adr": "67.9",
+      "fkDiff": "0",
+      "rating": "0.95"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "11 ",
+      "assists": "14",
+      "deaths": "24",
+      "kast": "56.7%",
+      "adr": "80.8",
+      "fkDiff": "-4",
+      "rating": "0.81"
+    },
+    {
+      "name": "f0rest",
+      "kills": "11 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "56.7%",
+      "adr": "50.1",
+      "fkDiff": "-2",
+      "rating": "0.60"
+    }
+  ]
+}
+{
+  "matchId": "32323",
+  "team1": [
+    {
+      "name": "kennyS",
+      "kills": "22 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "71.4%",
+      "adr": "70.9",
+      "fkDiff": "+3",
+      "rating": "1.23"
+    },
+    {
+      "name": "NBK-",
+      "kills": "19 ",
+      "assists": "7",
+      "deaths": "20",
+      "kast": "71.4%",
+      "adr": "98.9",
+      "fkDiff": "+1",
+      "rating": "1.15"
+    },
+    {
+      "name": "apEX",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "60.7%",
+      "adr": "79.8",
+      "fkDiff": "-3",
+      "rating": "0.96"
+    },
+    {
+      "name": "DEVIL",
+      "kills": "15 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "42.9%",
+      "adr": "65.6",
+      "fkDiff": "-4",
+      "rating": "0.79"
+    },
+    {
+      "name": "Happy",
+      "kills": "11 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "53.6%",
+      "adr": "55.1",
+      "fkDiff": "-1",
+      "rating": "0.65"
+    }
+  ],
+  "team2": [
+    {
+      "name": "chrisJ",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "67.9%",
+      "adr": "73.8",
+      "fkDiff": "+1",
+      "rating": "1.16"
+    },
+    {
+      "name": "Spiidi",
+      "kills": "21 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "71.4%",
+      "adr": "78.3",
+      "fkDiff": "-1",
+      "rating": "1.13"
+    },
+    {
+      "name": "denis",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "67.9%",
+      "adr": "66.6",
+      "fkDiff": "+2",
+      "rating": "1.12"
+    },
+    {
+      "name": "NiKo",
+      "kills": "17 ",
+      "assists": "6",
+      "deaths": "21",
+      "kast": "64.3%",
+      "adr": "77.4",
+      "fkDiff": "+4",
+      "rating": "1.06"
+    },
+    {
+      "name": "nex",
+      "kills": "16 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "64.3%",
+      "adr": "70.9",
+      "fkDiff": "-2",
+      "rating": "0.95"
+    }
+  ]
+}
+{
+  "matchId": "37409",
+  "team1": [
+    {
+      "name": "FalleN",
+      "kills": "21 ",
+      "assists": "0",
+      "deaths": "8",
+      "kast": "90.5%",
+      "adr": "82.5",
+      "fkDiff": "+3",
+      "rating": "1.60"
+    },
+    {
+      "name": "fer",
+      "kills": "22 ",
+      "assists": "7",
+      "deaths": "16",
+      "kast": "76.2%",
+      "adr": "107.5",
+      "fkDiff": "+1",
+      "rating": "1.52"
+    },
+    {
+      "name": "fnx",
+      "kills": "12 ",
+      "assists": "9",
+      "deaths": "13",
+      "kast": "90.5%",
+      "adr": "94.0",
+      "fkDiff": "-2",
+      "rating": "1.16"
+    },
+    {
+      "name": "TACO",
+      "kills": "16 ",
+      "assists": "2",
+      "deaths": "12",
+      "kast": "71.4%",
+      "adr": "71.9",
+      "fkDiff": "-2",
+      "rating": "1.10"
+    },
+    {
+      "name": "coldzera",
+      "kills": "14 ",
+      "assists": "2",
+      "deaths": "9",
+      "kast": "81.0%",
+      "adr": "65.7",
+      "fkDiff": "+1",
+      "rating": "1.08"
+    }
+  ],
+  "team2": [
+    {
+      "name": "bondik",
+      "kills": "12 ",
+      "assists": "5",
+      "deaths": "18",
+      "kast": "71.4%",
+      "adr": "86.0",
+      "fkDiff": "+1",
+      "rating": "1.02"
+    },
+    {
+      "name": "ANGE1",
+      "kills": "14 ",
+      "assists": "0",
+      "deaths": "17",
+      "kast": "61.9%",
+      "adr": "63.5",
+      "fkDiff": "0",
+      "rating": "0.92"
+    },
+    {
+      "name": "Zero",
+      "kills": "11 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "66.7%",
+      "adr": "61.1",
+      "fkDiff": "-1",
+      "rating": "0.86"
+    },
+    {
+      "name": "DeadFox",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "66.7%",
+      "adr": "67.3",
+      "fkDiff": "-2",
+      "rating": "0.76"
+    },
+    {
+      "name": "STYKO",
+      "kills": "8 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "47.6%",
+      "adr": "46.7",
+      "fkDiff": "+1",
+      "rating": "0.62"
+    }
+  ]
+}
+{
+  "matchId": "32335",
+  "team1": [
+    {
+      "name": "Xyp9x",
+      "kills": "31 ",
+      "assists": "5",
+      "deaths": "16",
+      "kast": "83.3%",
+      "adr": "109.2",
+      "fkDiff": "-2",
+      "rating": "1.63"
+    },
+    {
+      "name": "karrigan",
+      "kills": "24 ",
+      "assists": "1",
+      "deaths": "18",
+      "kast": "80.0%",
+      "adr": "74.9",
+      "fkDiff": "+7",
+      "rating": "1.27"
+    },
+    {
+      "name": "device",
+      "kills": "23 ",
+      "assists": "6",
+      "deaths": "21",
+      "kast": "76.7%",
+      "adr": "95.0",
+      "fkDiff": "+3",
+      "rating": "1.26"
+    },
+    {
+      "name": "gla1ve",
+      "kills": "22 ",
+      "assists": "3",
+      "deaths": "21",
+      "kast": "66.7%",
+      "adr": "74.9",
+      "fkDiff": "0",
+      "rating": "1.13"
+    },
+    {
+      "name": "zonic",
+      "kills": "11 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "63.3%",
+      "adr": "40.2",
+      "fkDiff": "0",
+      "rating": "0.71"
+    }
+  ],
+  "team2": [
+    {
+      "name": "cajunb",
+      "kills": "29 ",
+      "assists": "1",
+      "deaths": "24",
+      "kast": "60.0%",
+      "adr": "91.7",
+      "fkDiff": "+1",
+      "rating": "1.21"
+    },
+    {
+      "name": "RUBINO",
+      "kills": "19 ",
+      "assists": "5",
+      "deaths": "20",
+      "kast": "73.3%",
+      "adr": "68.8",
+      "fkDiff": "+1",
+      "rating": "1.05"
+    },
+    {
+      "name": "TENZKI",
+      "kills": "22 ",
+      "assists": "1",
+      "deaths": "21",
+      "kast": "80.0%",
+      "adr": "64.1",
+      "fkDiff": "+1",
+      "rating": "1.03"
+    },
+    {
+      "name": "k0nfig",
+      "kills": "13 ",
+      "assists": "7",
+      "deaths": "23",
+      "kast": "63.3%",
+      "adr": "71.0",
+      "fkDiff": "-4",
+      "rating": "0.79"
+    },
+    {
+      "name": "MSL",
+      "kills": "12 ",
+      "assists": "5",
+      "deaths": "23",
+      "kast": "53.3%",
+      "adr": "57.9",
+      "fkDiff": "-7",
+      "rating": "0.63"
+    }
+  ]
+}
+{
+  "matchId": "29882",
+  "team1": [
+    {
+      "name": "Xizt",
+      "kills": "25 ",
+      "assists": "10",
+      "deaths": "20",
+      "kast": "89.3%",
+      "adr": "113.0",
+      "fkDiff": "0",
+      "rating": "1.55"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "23 ",
+      "assists": "5",
+      "deaths": "17",
+      "kast": "85.7%",
+      "adr": "100.8",
+      "fkDiff": "+1",
+      "rating": "1.38"
+    },
+    {
+      "name": "f0rest",
+      "kills": "24 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "67.9%",
+      "adr": "74.9",
+      "fkDiff": "0",
+      "rating": "1.23"
+    },
+    {
+      "name": "pyth",
+      "kills": "18 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "82.1%",
+      "adr": "53.0",
+      "fkDiff": "+1",
+      "rating": "1.10"
+    },
+    {
+      "name": "friberg",
+      "kills": "14 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "75.0%",
+      "adr": "60.1",
+      "fkDiff": "0",
+      "rating": "0.97"
+    }
+  ],
+  "team2": [
+    {
+      "name": "pashaBiceps",
+      "kills": "24 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "71.4%",
+      "adr": "91.6",
+      "fkDiff": "-2",
+      "rating": "1.19"
+    },
+    {
+      "name": "Snax",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "64.3%",
+      "adr": "83.0",
+      "fkDiff": "+5",
+      "rating": "1.10"
+    },
+    {
+      "name": "NEO",
+      "kills": "16 ",
+      "assists": "6",
+      "deaths": "19",
+      "kast": "53.6%",
+      "adr": "64.2",
+      "fkDiff": "-5",
+      "rating": "0.87"
+    },
+    {
+      "name": "byali",
+      "kills": "15 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "67.9%",
+      "adr": "58.5",
+      "fkDiff": "0",
+      "rating": "0.82"
+    },
+    {
+      "name": "TaZ",
+      "kills": "12 ",
+      "assists": "3",
+      "deaths": "22",
+      "kast": "71.4%",
+      "adr": "59.0",
+      "fkDiff": "0",
+      "rating": "0.74"
+    }
+  ]
+}
+{
+  "matchId": "37578",
+  "team1": [
+    {
+      "name": "TaZ",
+      "kills": "21 ",
+      "assists": "2",
+      "deaths": "9",
+      "kast": "85.0%",
+      "adr": "106.0",
+      "fkDiff": "+1",
+      "rating": "1.72"
+    },
+    {
+      "name": "pashaBiceps",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "10",
+      "kast": "85.0%",
+      "adr": "91.5",
+      "fkDiff": "+2",
+      "rating": "1.45"
+    },
+    {
+      "name": "Snax",
+      "kills": "16 ",
+      "assists": "5",
+      "deaths": "9",
+      "kast": "85.0%",
+      "adr": "94.5",
+      "fkDiff": "+2",
+      "rating": "1.44"
+    },
+    {
+      "name": "byali",
+      "kills": "16 ",
+      "assists": "3",
+      "deaths": "14",
+      "kast": "80.0%",
+      "adr": "69.2",
+      "fkDiff": "+1",
+      "rating": "1.11"
+    },
+    {
+      "name": "NEO",
+      "kills": "12 ",
+      "assists": "6",
+      "deaths": "12",
+      "kast": "70.0%",
+      "adr": "81.0",
+      "fkDiff": "+2",
+      "rating": "1.03"
+    }
+  ],
+  "team2": [
+    {
+      "name": "fer",
+      "kills": "13 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "45.0%",
+      "adr": "73.2",
+      "fkDiff": "-2",
+      "rating": "0.91"
+    },
+    {
+      "name": "fnx",
+      "kills": "12 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "65.0%",
+      "adr": "71.8",
+      "fkDiff": "-1",
+      "rating": "0.88"
+    },
+    {
+      "name": "TACO",
+      "kills": "11 ",
+      "assists": "5",
+      "deaths": "16",
+      "kast": "65.0%",
+      "adr": "66.2",
+      "fkDiff": "-3",
+      "rating": "0.86"
+    },
+    {
+      "name": "coldzera",
+      "kills": "10 ",
+      "assists": "0",
+      "deaths": "17",
+      "kast": "55.0%",
+      "adr": "54.3",
+      "fkDiff": "-1",
+      "rating": "0.60"
+    },
+    {
+      "name": "FalleN",
+      "kills": "8 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "40.0%",
+      "adr": "38.1",
+      "fkDiff": "-1",
+      "rating": "0.55"
+    }
+  ]
+}
+{
+  "matchId": "29877",
+  "team1": [
+    {
+      "name": "chrisJ",
+      "kills": "17 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "73.1%",
+      "adr": "73.0",
+      "fkDiff": "-1",
+      "rating": "1.08"
+    },
+    {
+      "name": "denis",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "69.2%",
+      "adr": "64.2",
+      "fkDiff": "+1",
+      "rating": "0.96"
+    },
+    {
+      "name": "NiKo",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "61.5%",
+      "adr": "68.2",
+      "fkDiff": "0",
+      "rating": "0.93"
+    },
+    {
+      "name": "nex",
+      "kills": "12 ",
+      "assists": "5",
+      "deaths": "18",
+      "kast": "57.7%",
+      "adr": "67.8",
+      "fkDiff": "-1",
+      "rating": "0.86"
+    },
+    {
+      "name": "Spiidi",
+      "kills": "13 ",
+      "assists": "5",
+      "deaths": "18",
+      "kast": "65.4%",
+      "adr": "59.3",
+      "fkDiff": "-2",
+      "rating": "0.76"
+    }
+  ],
+  "team2": [
+    {
+      "name": "znajder",
+      "kills": "26 ",
+      "assists": "2",
+      "deaths": "14",
+      "kast": "76.9%",
+      "adr": "104.9",
+      "fkDiff": "+5",
+      "rating": "1.62"
+    },
+    {
+      "name": "twist",
+      "kills": "25 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "73.1%",
+      "adr": "103.2",
+      "fkDiff": "+1",
+      "rating": "1.47"
+    },
+    {
+      "name": "Lekr0",
+      "kills": "17 ",
+      "assists": "5",
+      "deaths": "15",
+      "kast": "76.9%",
+      "adr": "71.7",
+      "fkDiff": "-1",
+      "rating": "1.16"
+    },
+    {
+      "name": "pauf",
+      "kills": "16 ",
+      "assists": "2",
+      "deaths": "15",
+      "kast": "76.9%",
+      "adr": "65.4",
+      "fkDiff": "0",
+      "rating": "1.03"
+    },
+    {
+      "name": "pronax",
+      "kills": "7 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "61.5%",
+      "adr": "34.0",
+      "fkDiff": "-3",
+      "rating": "0.58"
+    }
+  ]
+}
+{
+  "matchId": "37566",
+  "team1": [
+    {
+      "name": "NEO",
+      "kills": "9 ",
+      "assists": "1",
+      "deaths": "15",
+      "kast": "64.7%",
+      "adr": "62.0",
+      "fkDiff": "+2",
+      "rating": "0.88"
+    },
+    {
+      "name": "TaZ",
+      "kills": "10 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "58.8%",
+      "adr": "69.8",
+      "fkDiff": "+1",
+      "rating": "0.86"
+    },
+    {
+      "name": "Snax",
+      "kills": "6 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "47.1%",
+      "adr": "40.4",
+      "fkDiff": "-3",
+      "rating": "0.37"
+    },
+    {
+      "name": "pashaBiceps",
+      "kills": "5 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "23.5%",
+      "adr": "50.6",
+      "fkDiff": "-1",
+      "rating": "0.34"
+    },
+    {
+      "name": "byali",
+      "kills": "6 ",
+      "assists": "0",
+      "deaths": "17",
+      "kast": "41.2%",
+      "adr": "53.4",
+      "fkDiff": "-2",
+      "rating": "0.33"
+    }
+  ],
+  "team2": [
+    {
+      "name": "FalleN",
+      "kills": "24 ",
+      "assists": "0",
+      "deaths": "4",
+      "kast": "100.0%",
+      "adr": "116.2",
+      "fkDiff": "+4",
+      "rating": "2.21"
+    },
+    {
+      "name": "fer",
+      "kills": "17 ",
+      "assists": "5",
+      "deaths": "9",
+      "kast": "88.2%",
+      "adr": "111.1",
+      "fkDiff": "0",
+      "rating": "1.71"
+    },
+    {
+      "name": "fnx",
+      "kills": "14 ",
+      "assists": "2",
+      "deaths": "8",
+      "kast": "88.2%",
+      "adr": "99.5",
+      "fkDiff": "-2",
+      "rating": "1.40"
+    },
+    {
+      "name": "TACO",
+      "kills": "14 ",
+      "assists": "2",
+      "deaths": "8",
+      "kast": "88.2%",
+      "adr": "80.3",
+      "fkDiff": "0",
+      "rating": "1.33"
+    },
+    {
+      "name": "coldzera",
+      "kills": "11 ",
+      "assists": "3",
+      "deaths": "7",
+      "kast": "88.2%",
+      "adr": "70.1",
+      "fkDiff": "0",
+      "rating": "1.25"
+    }
+  ]
+}
+{
+  "matchId": "37609",
+  "team1": [
+    {
+      "name": "byali",
+      "kills": "14 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "57.1%",
+      "adr": "60.5",
+      "fkDiff": "-1",
+      "rating": "0.98"
+    },
+    {
+      "name": "NEO",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "18",
+      "kast": "57.1%",
+      "adr": "80.7",
+      "fkDiff": "-1",
+      "rating": "0.86"
+    },
+    {
+      "name": "Snax",
+      "kills": "11 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "61.9%",
+      "adr": "60.2",
+      "fkDiff": "0",
+      "rating": "0.75"
+    },
+    {
+      "name": "TaZ",
+      "kills": "10 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "57.1%",
+      "adr": "66.3",
+      "fkDiff": "-1",
+      "rating": "0.63"
+    },
+    {
+      "name": "pashaBiceps",
+      "kills": "6 ",
+      "assists": "0",
+      "deaths": "17",
+      "kast": "38.1%",
+      "adr": "43.3",
+      "fkDiff": "-2",
+      "rating": "0.43"
+    }
+  ],
+  "team2": [
+    {
+      "name": "k0nfig",
+      "kills": "20 ",
+      "assists": "5",
+      "deaths": "12",
+      "kast": "81.0%",
+      "adr": "108.0",
+      "fkDiff": "0",
+      "rating": "1.56"
+    },
+    {
+      "name": "Magisk",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "10",
+      "kast": "81.0%",
+      "adr": "82.9",
+      "fkDiff": "+2",
+      "rating": "1.44"
+    },
+    {
+      "name": "cajunb",
+      "kills": "19 ",
+      "assists": "1",
+      "deaths": "11",
+      "kast": "76.2%",
+      "adr": "86.3",
+      "fkDiff": "-1",
+      "rating": "1.37"
+    },
+    {
+      "name": "RUBINO",
+      "kills": "16 ",
+      "assists": "2",
+      "deaths": "10",
+      "kast": "76.2%",
+      "adr": "79.0",
+      "fkDiff": "+2",
+      "rating": "1.26"
+    },
+    {
+      "name": "MSL",
+      "kills": "12 ",
+      "assists": "7",
+      "deaths": "11",
+      "kast": "81.0%",
+      "adr": "80.3",
+      "fkDiff": "+2",
+      "rating": "1.23"
+    }
+  ]
+}
+{
+  "matchId": "29891",
+  "team1": [
+    {
+      "name": "seized",
+      "kills": "25 ",
+      "assists": "6",
+      "deaths": "22",
+      "kast": "76.7%",
+      "adr": "92.5",
+      "fkDiff": "-2",
+      "rating": "1.27"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "20 ",
+      "assists": "1",
+      "deaths": "18",
+      "kast": "76.7%",
+      "adr": "58.5",
+      "fkDiff": "+1",
+      "rating": "1.02"
+    },
+    {
+      "name": "flamie",
+      "kills": "19 ",
+      "assists": "8",
+      "deaths": "23",
+      "kast": "63.3%",
+      "adr": "81.5",
+      "fkDiff": "-4",
+      "rating": "0.95"
+    },
+    {
+      "name": "Edward",
+      "kills": "20 ",
+      "assists": "1",
+      "deaths": "25",
+      "kast": "70.0%",
+      "adr": "73.2",
+      "fkDiff": "-2",
+      "rating": "0.84"
+    },
+    {
+      "name": "Zeus",
+      "kills": "13 ",
+      "assists": "8",
+      "deaths": "22",
+      "kast": "76.7%",
+      "adr": "56.5",
+      "fkDiff": "-3",
+      "rating": "0.78"
+    }
+  ],
+  "team2": [
+    {
+      "name": "friberg",
+      "kills": "21 ",
+      "assists": "11",
+      "deaths": "20",
+      "kast": "80.0%",
+      "adr": "86.9",
+      "fkDiff": "+1",
+      "rating": "1.30"
+    },
+    {
+      "name": "Xizt",
+      "kills": "22 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "83.3%",
+      "adr": "77.3",
+      "fkDiff": "+2",
+      "rating": "1.27"
+    },
+    {
+      "name": "pyth",
+      "kills": "22 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "83.3%",
+      "adr": "76.5",
+      "fkDiff": "+4",
+      "rating": "1.23"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "23 ",
+      "assists": "3",
+      "deaths": "22",
+      "kast": "70.0%",
+      "adr": "78.2",
+      "fkDiff": "+2",
+      "rating": "1.13"
+    },
+    {
+      "name": "f0rest",
+      "kills": "22 ",
+      "assists": "7",
+      "deaths": "19",
+      "kast": "73.3%",
+      "adr": "78.7",
+      "fkDiff": "+1",
+      "rating": "1.06"
+    }
+  ]
+}
+{
+  "matchId": "29850",
+  "team1": [
+    {
+      "name": "Xyp9x",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "76.0%",
+      "adr": "98.8",
+      "fkDiff": "0",
+      "rating": "1.16"
+    },
+    {
+      "name": "device",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "72.0%",
+      "adr": "73.5",
+      "fkDiff": "-2",
+      "rating": "1.08"
+    },
+    {
+      "name": "karrigan",
+      "kills": "18 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "76.0%",
+      "adr": "75.1",
+      "fkDiff": "-1",
+      "rating": "1.01"
+    },
+    {
+      "name": "cajunb",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "52.0%",
+      "adr": "64.3",
+      "fkDiff": "-3",
+      "rating": "0.91"
+    },
+    {
+      "name": "dupreeh",
+      "kills": "14 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "64.0%",
+      "adr": "66.0",
+      "fkDiff": "-3",
+      "rating": "0.83"
+    }
+  ],
+  "team2": [
+    {
+      "name": "k0nfig",
+      "kills": "22 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "64.0%",
+      "adr": "87.2",
+      "fkDiff": "+4",
+      "rating": "1.20"
+    },
+    {
+      "name": "TENZKI",
+      "kills": "18 ",
+      "assists": "6",
+      "deaths": "15",
+      "kast": "76.0%",
+      "adr": "85.6",
+      "fkDiff": "0",
+      "rating": "1.18"
+    },
+    {
+      "name": "MSL",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "68.0%",
+      "adr": "84.4",
+      "fkDiff": "+2",
+      "rating": "1.17"
+    },
+    {
+      "name": "RUBINO",
+      "kills": "16 ",
+      "assists": "6",
+      "deaths": "15",
+      "kast": "64.0%",
+      "adr": "79.4",
+      "fkDiff": "0",
+      "rating": "1.13"
+    },
+    {
+      "name": "Kjaerbye",
+      "kills": "14 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "48.0%",
+      "adr": "58.6",
+      "fkDiff": "+3",
+      "rating": "0.81"
+    }
+  ]
+}
+{
+  "matchId": "38688",
+  "team1": [
+    {
+      "name": "Edward",
+      "kills": "11 ",
+      "assists": "7",
+      "deaths": "19",
+      "kast": "54.5%",
+      "adr": "86.0",
+      "fkDiff": "0",
+      "rating": "0.82"
+    },
+    {
+      "name": "seized",
+      "kills": "11 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "63.6%",
+      "adr": "58.0",
+      "fkDiff": "0",
+      "rating": "0.78"
+    },
+    {
+      "name": "s1mple",
+      "kills": "12 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "45.5%",
+      "adr": "57.2",
+      "fkDiff": "0",
+      "rating": "0.71"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "12 ",
+      "assists": "0",
+      "deaths": "19",
+      "kast": "54.5%",
+      "adr": "57.0",
+      "fkDiff": "-4",
+      "rating": "0.65"
+    },
+    {
+      "name": "flamie",
+      "kills": "11 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "59.1%",
+      "adr": "56.2",
+      "fkDiff": "-2",
+      "rating": "0.60"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Hiko",
+      "kills": "22 ",
+      "assists": "4",
+      "deaths": "8",
+      "kast": "95.5%",
+      "adr": "95.6",
+      "fkDiff": "+2",
+      "rating": "1.76"
+    },
+    {
+      "name": "EliGE",
+      "kills": "22 ",
+      "assists": "5",
+      "deaths": "14",
+      "kast": "86.4%",
+      "adr": "102.0",
+      "fkDiff": "+2",
+      "rating": "1.59"
+    },
+    {
+      "name": "jdm64",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "11",
+      "kast": "72.7%",
+      "adr": "86.5",
+      "fkDiff": "+5",
+      "rating": "1.47"
+    },
+    {
+      "name": "Pimp",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "11",
+      "kast": "77.3%",
+      "adr": "85.7",
+      "fkDiff": "-2",
+      "rating": "1.29"
+    },
+    {
+      "name": "nitr0",
+      "kills": "12 ",
+      "assists": "3",
+      "deaths": "13",
+      "kast": "77.3%",
+      "adr": "62.5",
+      "fkDiff": "-1",
+      "rating": "1.05"
+    }
+  ]
+}
+{
+  "matchId": "29883",
+  "team1": [
+    {
+      "name": "Xizt",
+      "kills": "22 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "89.3%",
+      "adr": "97.2",
+      "fkDiff": "0",
+      "rating": "1.42"
+    },
+    {
+      "name": "f0rest",
+      "kills": "23 ",
+      "assists": "3",
+      "deaths": "17",
+      "kast": "82.1%",
+      "adr": "78.9",
+      "fkDiff": "+2",
+      "rating": "1.29"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "21 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "67.9%",
+      "adr": "75.4",
+      "fkDiff": "+1",
+      "rating": "1.12"
+    },
+    {
+      "name": "friberg",
+      "kills": "22 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "71.4%",
+      "adr": "82.4",
+      "fkDiff": "0",
+      "rating": "1.12"
+    },
+    {
+      "name": "pyth",
+      "kills": "16 ",
+      "assists": "4",
+      "deaths": "16",
+      "kast": "71.4%",
+      "adr": "63.0",
+      "fkDiff": "-3",
+      "rating": "0.99"
+    }
+  ],
+  "team2": [
+    {
+      "name": "Snax",
+      "kills": "27 ",
+      "assists": "1",
+      "deaths": "18",
+      "kast": "60.7%",
+      "adr": "108.0",
+      "fkDiff": "+3",
+      "rating": "1.44"
+    },
+    {
+      "name": "byali",
+      "kills": "18 ",
+      "assists": "4",
+      "deaths": "21",
+      "kast": "53.6%",
+      "adr": "73.9",
+      "fkDiff": "-1",
+      "rating": "0.92"
+    },
+    {
+      "name": "NEO",
+      "kills": "13 ",
+      "assists": "5",
+      "deaths": "22",
+      "kast": "64.3%",
+      "adr": "63.5",
+      "fkDiff": "+1",
+      "rating": "0.85"
+    },
+    {
+      "name": "pashaBiceps",
+      "kills": "15 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "57.1%",
+      "adr": "64.9",
+      "fkDiff": "-1",
+      "rating": "0.80"
+    },
+    {
+      "name": "TaZ",
+      "kills": "12 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "53.6%",
+      "adr": "41.4",
+      "fkDiff": "-2",
+      "rating": "0.63"
+    }
+  ]
+}
+{
+  "matchId": "21869",
+  "team1": [
+    {
+      "name": "boltz",
+      "kills": "15 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-2",
+      "rating": "0.88"
+    },
+    {
+      "name": "fer",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "16",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-1",
+      "rating": "0.84"
+    },
+    {
+      "name": "steel",
+      "kills": "9 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "0",
+      "rating": "0.64"
+    },
+    {
+      "name": "FalleN",
+      "kills": "8 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+1",
+      "rating": "0.54"
+    },
+    {
+      "name": "zqkS",
+      "kills": "6 ",
+      "assists": "1",
+      "deaths": "13",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-1",
+      "rating": "0.54"
+    }
+  ],
+  "team2": [
+    {
+      "name": "KRIMZ",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "5",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+3",
+      "rating": "1.57"
+    },
+    {
+      "name": "pronax",
+      "kills": "15 ",
+      "assists": "3",
+      "deaths": "7",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+2",
+      "rating": "1.33"
+    },
+    {
+      "name": "flusha",
+      "kills": "17 ",
+      "assists": "5",
+      "deaths": "11",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "0",
+      "rating": "1.26"
+    },
+    {
+      "name": "JW",
+      "kills": "14 ",
+      "assists": "0",
+      "deaths": "12",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+1",
+      "rating": "1.04"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "14 ",
+      "assists": "6",
+      "deaths": "15",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-3",
+      "rating": "1.04"
+    }
+  ]
+}
+{
+  "matchId": "30817",
+  "team1": [
+    {
+      "name": "fer",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "19",
+      "kast": "69.2%",
+      "adr": "97.5",
+      "fkDiff": "-1",
+      "rating": "1.24"
+    },
+    {
+      "name": "coldzera",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "61.5%",
+      "adr": "75.7",
+      "fkDiff": "+2",
+      "rating": "1.10"
+    },
+    {
+      "name": "TACO",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "22",
+      "kast": "69.2%",
+      "adr": "85.2",
+      "fkDiff": "-1",
+      "rating": "0.98"
+    },
+    {
+      "name": "fnx",
+      "kills": "11 ",
+      "assists": "5",
+      "deaths": "21",
+      "kast": "69.2%",
+      "adr": "57.1",
+      "fkDiff": "+1",
+      "rating": "0.79"
+    },
+    {
+      "name": "FalleN",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "21",
+      "kast": "61.5%",
+      "adr": "47.9",
+      "fkDiff": "-5",
+      "rating": "0.72"
+    }
+  ],
+  "team2": [
+    {
+      "name": "shox",
+      "kills": "30 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "88.5%",
+      "adr": "107.7",
+      "fkDiff": "+1",
+      "rating": "1.69"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "20 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "73.1%",
+      "adr": "86.0",
+      "fkDiff": "+1",
+      "rating": "1.17"
+    },
+    {
+      "name": "bodyy",
+      "kills": "17 ",
+      "assists": "5",
+      "deaths": "18",
+      "kast": "65.4%",
+      "adr": "79.8",
+      "fkDiff": "+1",
+      "rating": "1.07"
+    },
+    {
+      "name": "RpK",
+      "kills": "18 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "61.5%",
+      "adr": "80.7",
+      "fkDiff": "-1",
+      "rating": "1.01"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "14 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "69.2%",
+      "adr": "55.5",
+      "fkDiff": "+2",
+      "rating": "0.90"
+    }
+  ]
+}
+{
+  "matchId": "26269",
+  "team1": [
+    {
+      "name": "KRIMZ",
+      "kills": "21 ",
+      "assists": "1",
+      "deaths": "18",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-4",
+      "rating": "1.05"
+    },
+    {
+      "name": "JW",
+      "kills": "20 ",
+      "assists": "10",
+      "deaths": "22",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-1",
+      "rating": "0.98"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "20 ",
+      "assists": "6",
+      "deaths": "22",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "0",
+      "rating": "0.92"
+    },
+    {
+      "name": "flusha",
+      "kills": "16 ",
+      "assists": "1",
+      "deaths": "21",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "0",
+      "rating": "0.78"
+    },
+    {
+      "name": "dennis",
+      "kills": "15 ",
+      "assists": "5",
+      "deaths": "23",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "0",
+      "rating": "0.63"
+    }
+  ],
+  "team2": [
+    {
+      "name": "NEO",
+      "kills": "27 ",
+      "assists": "4",
+      "deaths": "16",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+1",
+      "rating": "1.45"
+    },
+    {
+      "name": "TaZ",
+      "kills": "22 ",
+      "assists": "5",
+      "deaths": "19",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-3",
+      "rating": "1.05"
+    },
+    {
+      "name": "byali",
+      "kills": "18 ",
+      "assists": "6",
+      "deaths": "16",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "0",
+      "rating": "1.00"
+    },
+    {
+      "name": "Snax",
+      "kills": "20 ",
+      "assists": "9",
+      "deaths": "21",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+3",
+      "rating": "0.99"
+    },
+    {
+      "name": "pashaBiceps",
+      "kills": "19 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+4",
+      "rating": "0.93"
+    }
+  ]
+}
+{
+  "matchId": "30798",
+  "team1": [
+    {
+      "name": "GeT_RiGhT",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "65.4%",
+      "adr": "85.8",
+      "fkDiff": "0",
+      "rating": "1.14"
+    },
+    {
+      "name": "pyth",
+      "kills": "20 ",
+      "assists": "4",
+      "deaths": "23",
+      "kast": "61.5%",
+      "adr": "91.1",
+      "fkDiff": "-5",
+      "rating": "0.98"
+    },
+    {
+      "name": "f0rest",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "61.5%",
+      "adr": "38.3",
+      "fkDiff": "-3",
+      "rating": "0.69"
+    },
+    {
+      "name": "Xizt",
+      "kills": "10 ",
+      "assists": "7",
+      "deaths": "22",
+      "kast": "65.4%",
+      "adr": "64.5",
+      "fkDiff": "-2",
+      "rating": "0.61"
+    },
+    {
+      "name": "friberg",
+      "kills": "13 ",
+      "assists": "3",
+      "deaths": "24",
+      "kast": "57.7%",
+      "adr": "56.4",
+      "fkDiff": "0",
+      "rating": "0.51"
+    }
+  ],
+  "team2": [
+    {
+      "name": "FalleN",
+      "kills": "21 ",
+      "assists": "12",
+      "deaths": "14",
+      "kast": "76.9%",
+      "adr": "111.7",
+      "fkDiff": "+4",
+      "rating": "1.60"
+    },
+    {
+      "name": "fnx",
+      "kills": "24 ",
+      "assists": "6",
+      "deaths": "14",
+      "kast": "80.8%",
+      "adr": "87.0",
+      "fkDiff": "+2",
+      "rating": "1.45"
+    },
+    {
+      "name": "fer",
+      "kills": "25 ",
+      "assists": "6",
+      "deaths": "18",
+      "kast": "73.1%",
+      "adr": "100.9",
+      "fkDiff": "+3",
+      "rating": "1.41"
+    },
+    {
+      "name": "coldzera",
+      "kills": "24 ",
+      "assists": "5",
+      "deaths": "14",
+      "kast": "84.6%",
+      "adr": "91.7",
+      "fkDiff": "0",
+      "rating": "1.33"
+    },
+    {
+      "name": "TACO",
+      "kills": "16 ",
+      "assists": "5",
+      "deaths": "17",
+      "kast": "92.3%",
+      "adr": "56.8",
+      "fkDiff": "+1",
+      "rating": "1.12"
+    }
+  ]
+}
+{
+  "matchId": "21873",
+  "team1": [
+    {
+      "name": "FNS",
+      "kills": "19 ",
+      "assists": "5",
+      "deaths": "17",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+1",
+      "rating": "1.14"
+    },
+    {
+      "name": "jdm64",
+      "kills": "15 ",
+      "assists": "5",
+      "deaths": "18",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+1",
+      "rating": "0.82"
+    },
+    {
+      "name": "tarik",
+      "kills": "14 ",
+      "assists": "0",
+      "deaths": "18",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "0",
+      "rating": "0.81"
+    },
+    {
+      "name": "reltuC",
+      "kills": "15 ",
+      "assists": "1",
+      "deaths": "20",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-3",
+      "rating": "0.78"
+    },
+    {
+      "name": "hazed",
+      "kills": "14 ",
+      "assists": "4",
+      "deaths": "20",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+1",
+      "rating": "0.72"
+    }
+  ],
+  "team2": [
+    {
+      "name": "shroud",
+      "kills": "23 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-1",
+      "rating": "1.37"
+    },
+    {
+      "name": "Skadoodle",
+      "kills": "18 ",
+      "assists": "1",
+      "deaths": "13",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "0",
+      "rating": "1.22"
+    },
+    {
+      "name": "seang@res",
+      "kills": "19 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "-3",
+      "rating": "1.08"
+    },
+    {
+      "name": "n0thing",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+2",
+      "rating": "1.08"
+    },
+    {
+      "name": "freakazoid",
+      "kills": "15 ",
+      "assists": "5",
+      "deaths": "18",
+      "kast": "-",
+      "adr": "-",
+      "fkDiff": "+2",
+      "rating": "0.87"
+    }
+  ]
+}
+{
+  "matchId": "30741",
+  "team1": [
+    {
+      "name": "NAF",
+      "kills": "13 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "52.2%",
+      "adr": "80.3",
+      "fkDiff": "-2",
+      "rating": "0.83"
+    },
+    {
+      "name": "mixwell",
+      "kills": "15 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "39.1%",
+      "adr": "68.4",
+      "fkDiff": "-2",
+      "rating": "0.82"
+    },
+    {
+      "name": "daps",
+      "kills": "10 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "56.5%",
+      "adr": "58.0",
+      "fkDiff": "-2",
+      "rating": "0.68"
+    },
+    {
+      "name": "RUSH",
+      "kills": "11 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "65.2%",
+      "adr": "51.9",
+      "fkDiff": "-2",
+      "rating": "0.64"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "10 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "52.2%",
+      "adr": "48.9",
+      "fkDiff": "-3",
+      "rating": "0.64"
+    }
+  ],
+  "team2": [
+    {
+      "name": "bodyy",
+      "kills": "20 ",
+      "assists": "6",
+      "deaths": "13",
+      "kast": "87.0%",
+      "adr": "104.0",
+      "fkDiff": "+7",
+      "rating": "1.63"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "21 ",
+      "assists": "2",
+      "deaths": "11",
+      "kast": "78.3%",
+      "adr": "100.4",
+      "fkDiff": "-1",
+      "rating": "1.50"
+    },
+    {
+      "name": "RpK",
+      "kills": "20 ",
+      "assists": "6",
+      "deaths": "12",
+      "kast": "82.6%",
+      "adr": "86.3",
+      "fkDiff": "+2",
+      "rating": "1.43"
+    },
+    {
+      "name": "shox",
+      "kills": "17 ",
+      "assists": "3",
+      "deaths": "12",
+      "kast": "82.6%",
+      "adr": "88.6",
+      "fkDiff": "0",
+      "rating": "1.27"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "16 ",
+      "assists": "0",
+      "deaths": "12",
+      "kast": "69.6%",
+      "adr": "61.3",
+      "fkDiff": "+3",
+      "rating": "1.15"
+    }
+  ]
+}
+{
+  "matchId": "38848",
+  "team1": [
+    {
+      "name": "ScreaM",
+      "kills": "14 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "66.7%",
+      "adr": "85.6",
+      "fkDiff": "0",
+      "rating": "0.86"
+    },
+    {
+      "name": "shox",
+      "kills": "14 ",
+      "assists": "0",
+      "deaths": "19",
+      "kast": "47.6%",
+      "adr": "67.8",
+      "fkDiff": "0",
+      "rating": "0.74"
+    },
+    {
+      "name": "RpK",
+      "kills": "9 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "61.9%",
+      "adr": "59.4",
+      "fkDiff": "0",
+      "rating": "0.57"
+    },
+    {
+      "name": "bodyy",
+      "kills": "10 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "38.1%",
+      "adr": "61.2",
+      "fkDiff": "-1",
+      "rating": "0.56"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "6 ",
+      "assists": "0",
+      "deaths": "18",
+      "kast": "47.6%",
+      "adr": "30.5",
+      "fkDiff": "-4",
+      "rating": "0.31"
+    }
+  ],
+  "team2": [
+    {
+      "name": "FalleN",
+      "kills": "22 ",
+      "assists": "3",
+      "deaths": "6",
+      "kast": "81.0%",
+      "adr": "104.8",
+      "fkDiff": "+4",
+      "rating": "1.87"
+    },
+    {
+      "name": "fer",
+      "kills": "19 ",
+      "assists": "6",
+      "deaths": "13",
+      "kast": "90.5%",
+      "adr": "104.2",
+      "fkDiff": "+2",
+      "rating": "1.60"
+    },
+    {
+      "name": "coldzera",
+      "kills": "18 ",
+      "assists": "4",
+      "deaths": "10",
+      "kast": "90.5%",
+      "adr": "82.6",
+      "fkDiff": "0",
+      "rating": "1.54"
+    },
+    {
+      "name": "TACO",
+      "kills": "16 ",
+      "assists": "2",
+      "deaths": "11",
+      "kast": "95.2%",
+      "adr": "69.8",
+      "fkDiff": "-2",
+      "rating": "1.35"
+    },
+    {
+      "name": "fnx",
+      "kills": "18 ",
+      "assists": "4",
+      "deaths": "13",
+      "kast": "81.0%",
+      "adr": "88.6",
+      "fkDiff": "+1",
+      "rating": "1.30"
+    }
+  ]
+}
+{
+  "matchId": "30736",
+  "team1": [
+    {
+      "name": "FalleN",
+      "kills": "22 ",
+      "assists": "3",
+      "deaths": "19",
+      "kast": "67.9%",
+      "adr": "86.4",
+      "fkDiff": "+1",
+      "rating": "1.11"
+    },
+    {
+      "name": "fnx",
+      "kills": "18 ",
+      "assists": "3",
+      "deaths": "22",
+      "kast": "67.9%",
+      "adr": "72.8",
+      "fkDiff": "-3",
+      "rating": "0.93"
+    },
+    {
+      "name": "coldzera",
+      "kills": "17 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "64.3%",
+      "adr": "69.8",
+      "fkDiff": "+5",
+      "rating": "0.91"
+    },
+    {
+      "name": "fer",
+      "kills": "17 ",
+      "assists": "5",
+      "deaths": "23",
+      "kast": "60.7%",
+      "adr": "74.6",
+      "fkDiff": "0",
+      "rating": "0.81"
+    },
+    {
+      "name": "TACO",
+      "kills": "13 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "57.1%",
+      "adr": "50.6",
+      "fkDiff": "-3",
+      "rating": "0.71"
+    }
+  ],
+  "team2": [
+    {
+      "name": "RpK",
+      "kills": "24 ",
+      "assists": "6",
+      "deaths": "19",
+      "kast": "82.1%",
+      "adr": "95.2",
+      "fkDiff": "+2",
+      "rating": "1.40"
+    },
+    {
+      "name": "shox",
+      "kills": "23 ",
+      "assists": "3",
+      "deaths": "15",
+      "kast": "78.6%",
+      "adr": "89.4",
+      "fkDiff": "+2",
+      "rating": "1.33"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "67.9%",
+      "adr": "69.7",
+      "fkDiff": "-1",
+      "rating": "1.07"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "19 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "60.7%",
+      "adr": "67.9",
+      "fkDiff": "-3",
+      "rating": "0.98"
+    },
+    {
+      "name": "bodyy",
+      "kills": "17 ",
+      "assists": "1",
+      "deaths": "16",
+      "kast": "60.7%",
+      "adr": "60.7",
+      "fkDiff": "0",
+      "rating": "0.93"
+    }
+  ]
+}
+{
+  "matchId": "37573",
+  "team1": [
+    {
+      "name": "byali",
+      "kills": "27 ",
+      "assists": "4",
+      "deaths": "17",
+      "kast": "82.8%",
+      "adr": "94.6",
+      "fkDiff": "+2",
+      "rating": "1.41"
+    },
+    {
+      "name": "Snax",
+      "kills": "25 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "69.0%",
+      "adr": "91.2",
+      "fkDiff": "+4",
+      "rating": "1.32"
+    },
+    {
+      "name": "TaZ",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "79.3%",
+      "adr": "64.6",
+      "fkDiff": "-1",
+      "rating": "1.06"
+    },
+    {
+      "name": "pashaBiceps",
+      "kills": "18 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "62.1%",
+      "adr": "67.7",
+      "fkDiff": "-1",
+      "rating": "0.90"
+    },
+    {
+      "name": "NEO",
+      "kills": "9 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "55.2%",
+      "adr": "56.5",
+      "fkDiff": "+1",
+      "rating": "0.68"
+    }
+  ],
+  "team2": [
+    {
+      "name": "coldzera",
+      "kills": "24 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "72.4%",
+      "adr": "85.9",
+      "fkDiff": "-2",
+      "rating": "1.11"
+    },
+    {
+      "name": "FalleN",
+      "kills": "21 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "55.2%",
+      "adr": "77.7",
+      "fkDiff": "+1",
+      "rating": "1.10"
+    },
+    {
+      "name": "TACO",
+      "kills": "23 ",
+      "assists": "0",
+      "deaths": "19",
+      "kast": "69.0%",
+      "adr": "85.6",
+      "fkDiff": "+1",
+      "rating": "1.10"
+    },
+    {
+      "name": "fnx",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "20",
+      "kast": "65.5%",
+      "adr": "58.3",
+      "fkDiff": "-3",
+      "rating": "0.76"
+    },
+    {
+      "name": "fer",
+      "kills": "13 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "62.1%",
+      "adr": "54.3",
+      "fkDiff": "-2",
+      "rating": "0.75"
+    }
+  ]
+}
+{
+  "matchId": "32327",
+  "team1": [
+    {
+      "name": "ScreaM",
+      "kills": "27 ",
+      "assists": "5",
+      "deaths": "19",
+      "kast": "69.0%",
+      "adr": "107.8",
+      "fkDiff": "+3",
+      "rating": "1.46"
+    },
+    {
+      "name": "RpK",
+      "kills": "22 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "72.4%",
+      "adr": "76.7",
+      "fkDiff": "+2",
+      "rating": "1.15"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "22 ",
+      "assists": "1",
+      "deaths": "21",
+      "kast": "72.4%",
+      "adr": "64.4",
+      "fkDiff": "0",
+      "rating": "1.03"
+    },
+    {
+      "name": "shox",
+      "kills": "20 ",
+      "assists": "2",
+      "deaths": "21",
+      "kast": "75.9%",
+      "adr": "72.6",
+      "fkDiff": "0",
+      "rating": "0.98"
+    },
+    {
+      "name": "bodyy",
+      "kills": "14 ",
+      "assists": "6",
+      "deaths": "21",
+      "kast": "75.9%",
+      "adr": "73.1",
+      "fkDiff": "-2",
+      "rating": "0.90"
+    }
+  ],
+  "team2": [
+    {
+      "name": "flusha",
+      "kills": "22 ",
+      "assists": "7",
+      "deaths": "19",
+      "kast": "79.3%",
+      "adr": "81.2",
+      "fkDiff": "+1",
+      "rating": "1.22"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "22 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "62.1%",
+      "adr": "85.7",
+      "fkDiff": "-1",
+      "rating": "1.19"
+    },
+    {
+      "name": "dennis",
+      "kills": "24 ",
+      "assists": "2",
+      "deaths": "24",
+      "kast": "69.0%",
+      "adr": "88.1",
+      "fkDiff": "-1",
+      "rating": "1.10"
+    },
+    {
+      "name": "JW",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "22",
+      "kast": "58.6%",
+      "adr": "74.8",
+      "fkDiff": "-3",
+      "rating": "0.91"
+    },
+    {
+      "name": "olofmeister",
+      "kills": "15 ",
+      "assists": "3",
+      "deaths": "23",
+      "kast": "62.1%",
+      "adr": "50.9",
+      "fkDiff": "0",
+      "rating": "0.71"
+    }
+  ]
+}
+{
+  "matchId": "32417",
+  "team1": [
+    {
+      "name": "coldzera",
+      "kills": "21 ",
+      "assists": "2",
+      "deaths": "9",
+      "kast": "95.5%",
+      "adr": "88.6",
+      "fkDiff": "+1",
+      "rating": "1.63"
+    },
+    {
+      "name": "FalleN",
+      "kills": "20 ",
+      "assists": "1",
+      "deaths": "13",
+      "kast": "68.2%",
+      "adr": "85.3",
+      "fkDiff": "+3",
+      "rating": "1.31"
+    },
+    {
+      "name": "fer",
+      "kills": "15 ",
+      "assists": "7",
+      "deaths": "14",
+      "kast": "86.4%",
+      "adr": "87.0",
+      "fkDiff": "-1",
+      "rating": "1.27"
+    },
+    {
+      "name": "TACO",
+      "kills": "18 ",
+      "assists": "1",
+      "deaths": "12",
+      "kast": "72.7%",
+      "adr": "78.3",
+      "fkDiff": "+2",
+      "rating": "1.25"
+    },
+    {
+      "name": "fnx",
+      "kills": "15 ",
+      "assists": "5",
+      "deaths": "15",
+      "kast": "81.8%",
+      "adr": "91.0",
+      "fkDiff": "+3",
+      "rating": "1.19"
+    }
+  ],
+  "team2": [
+    {
+      "name": "nitr0",
+      "kills": "18 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "68.2%",
+      "adr": "85.0",
+      "fkDiff": "+1",
+      "rating": "1.15"
+    },
+    {
+      "name": "jdm64",
+      "kills": "13 ",
+      "assists": "2",
+      "deaths": "18",
+      "kast": "54.5%",
+      "adr": "65.8",
+      "fkDiff": "-1",
+      "rating": "0.82"
+    },
+    {
+      "name": "EliGE",
+      "kills": "11 ",
+      "assists": "2",
+      "deaths": "19",
+      "kast": "72.7%",
+      "adr": "56.7",
+      "fkDiff": "-4",
+      "rating": "0.79"
+    },
+    {
+      "name": "Hiko",
+      "kills": "10 ",
+      "assists": "4",
+      "deaths": "16",
+      "kast": "59.1%",
+      "adr": "49.5",
+      "fkDiff": "-1",
+      "rating": "0.72"
+    },
+    {
+      "name": "s1mple",
+      "kills": "11 ",
+      "assists": "0",
+      "deaths": "18",
+      "kast": "54.5%",
+      "adr": "56.6",
+      "fkDiff": "-3",
+      "rating": "0.59"
+    }
+  ]
+}
+{
+  "matchId": "29887",
+  "team1": [
+    {
+      "name": "twist",
+      "kills": "35 ",
+      "assists": "7 ",
+      "deaths": "21",
+      "kast": "82.9%",
+      "adr": "106.8",
+      "fkDiff": "0",
+      "rating": "1.52"
+    },
+    {
+      "name": "znajder",
+      "kills": "26 ",
+      "assists": "0 ",
+      "deaths": "21",
+      "kast": "62.9%",
+      "adr": "66.0",
+      "fkDiff": "+2",
+      "rating": "1.10"
+    },
+    {
+      "name": "Lekr0",
+      "kills": "18 ",
+      "assists": "6 ",
+      "deaths": "20",
+      "kast": "80.0%",
+      "adr": "60.0",
+      "fkDiff": "+1",
+      "rating": "1.08"
+    },
+    {
+      "name": "pauf",
+      "kills": "23 ",
+      "assists": "4 ",
+      "deaths": "20",
+      "kast": "68.6%",
+      "adr": "65.3",
+      "fkDiff": "-3",
+      "rating": "1.00"
+    },
+    {
+      "name": "pronax",
+      "kills": "18 ",
+      "assists": "4 ",
+      "deaths": "27",
+      "kast": "62.9%",
+      "adr": "63.9",
+      "fkDiff": "+1",
+      "rating": "0.85"
+    }
+  ],
+  "team2": [
+    {
+      "name": "f0rest",
+      "kills": "27 ",
+      "assists": "7 ",
+      "deaths": "24",
+      "kast": "71.4%",
+      "adr": "93.8",
+      "fkDiff": "-1",
+      "rating": "1.16"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "23 ",
+      "assists": "1 ",
+      "deaths": "22",
+      "kast": "60.0%",
+      "adr": "70.3",
+      "fkDiff": "+5",
+      "rating": "1.01"
+    },
+    {
+      "name": "pyth",
+      "kills": "20 ",
+      "assists": "6 ",
+      "deaths": "22",
+      "kast": "65.7%",
+      "adr": "67.7",
+      "fkDiff": "-2",
+      "rating": "0.95"
+    },
+    {
+      "name": "friberg",
+      "kills": "19 ",
+      "assists": "4 ",
+      "deaths": "24",
+      "kast": "62.9%",
+      "adr": "71.3",
+      "fkDiff": "-1",
+      "rating": "0.82"
+    },
+    {
+      "name": "Xizt",
+      "kills": "20 ",
+      "assists": "4 ",
+      "deaths": "28",
+      "kast": "71.4%",
+      "adr": "51.4",
+      "fkDiff": "-2",
+      "rating": "0.77"
+    }
+  ]
+}
+{
+  "matchId": "30803",
+  "team1": [
+    {
+      "name": "shox",
+      "kills": "27 ",
+      "assists": "6",
+      "deaths": "14",
+      "kast": "87.5%",
+      "adr": "119.5",
+      "fkDiff": "+2",
+      "rating": "1.78"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "25 ",
+      "assists": "5",
+      "deaths": "13",
+      "kast": "87.5%",
+      "adr": "110.5",
+      "fkDiff": "+2",
+      "rating": "1.60"
+    },
+    {
+      "name": "RpK",
+      "kills": "23 ",
+      "assists": "2",
+      "deaths": "12",
+      "kast": "83.3%",
+      "adr": "89.6",
+      "fkDiff": "-1",
+      "rating": "1.39"
+    },
+    {
+      "name": "bodyy",
+      "kills": "15 ",
+      "assists": "5",
+      "deaths": "14",
+      "kast": "83.3%",
+      "adr": "69.5",
+      "fkDiff": "+1",
+      "rating": "1.15"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "13 ",
+      "assists": "2",
+      "deaths": "15",
+      "kast": "66.7%",
+      "adr": "58.5",
+      "fkDiff": "-2",
+      "rating": "0.79"
+    }
+  ],
+  "team2": [
+    {
+      "name": "JW",
+      "kills": "21 ",
+      "assists": "0",
+      "deaths": "21",
+      "kast": "66.7%",
+      "adr": "92.8",
+      "fkDiff": "0",
+      "rating": "1.06"
+    },
+    {
+      "name": "dennis",
+      "kills": "18 ",
+      "assists": "0",
+      "deaths": "22",
+      "kast": "62.5%",
+      "adr": "77.0",
+      "fkDiff": "-1",
+      "rating": "0.97"
+    },
+    {
+      "name": "KRIMZ",
+      "kills": "12 ",
+      "assists": "4",
+      "deaths": "20",
+      "kast": "58.3%",
+      "adr": "76.4",
+      "fkDiff": "+1",
+      "rating": "0.86"
+    },
+    {
+      "name": "wenton",
+      "kills": "10 ",
+      "assists": "2",
+      "deaths": "20",
+      "kast": "54.2%",
+      "adr": "41.2",
+      "fkDiff": "0",
+      "rating": "0.62"
+    },
+    {
+      "name": "flusha",
+      "kills": "7 ",
+      "assists": "5",
+      "deaths": "20",
+      "kast": "58.3%",
+      "adr": "57.1",
+      "fkDiff": "-2",
+      "rating": "0.57"
+    }
+  ]
+}
+{
+  "matchId": "37362",
+  "team1": [
+    {
+      "name": "s1mple",
+      "kills": "29 ",
+      "assists": "4",
+      "deaths": "15",
+      "kast": "68.0%",
+      "adr": "116.0",
+      "fkDiff": "+3",
+      "rating": "1.73"
+    },
+    {
+      "name": "Edward",
+      "kills": "25 ",
+      "assists": "0",
+      "deaths": "14",
+      "kast": "84.0%",
+      "adr": "102.7",
+      "fkDiff": "+1",
+      "rating": "1.44"
+    },
+    {
+      "name": "seized",
+      "kills": "21 ",
+      "assists": "3",
+      "deaths": "16",
+      "kast": "84.0%",
+      "adr": "88.2",
+      "fkDiff": "+2",
+      "rating": "1.41"
+    },
+    {
+      "name": "GuardiaN",
+      "kills": "14 ",
+      "assists": "0",
+      "deaths": "15",
+      "kast": "76.0%",
+      "adr": "56.0",
+      "fkDiff": "-2",
+      "rating": "0.97"
+    },
+    {
+      "name": "flamie",
+      "kills": "12 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "68.0%",
+      "adr": "61.1",
+      "fkDiff": "+1",
+      "rating": "0.88"
+    }
+  ],
+  "team2": [
+    {
+      "name": "bodyy",
+      "kills": "18 ",
+      "assists": "5",
+      "deaths": "19",
+      "kast": "72.0%",
+      "adr": "88.6",
+      "fkDiff": "+3",
+      "rating": "1.15"
+    },
+    {
+      "name": "SmithZz",
+      "kills": "16 ",
+      "assists": "3",
+      "deaths": "18",
+      "kast": "64.0%",
+      "adr": "74.0",
+      "fkDiff": "-4",
+      "rating": "0.91"
+    },
+    {
+      "name": "shox",
+      "kills": "18 ",
+      "assists": "0",
+      "deaths": "22",
+      "kast": "60.0%",
+      "adr": "73.5",
+      "fkDiff": "-1",
+      "rating": "0.83"
+    },
+    {
+      "name": "RpK",
+      "kills": "15 ",
+      "assists": "3",
+      "deaths": "20",
+      "kast": "64.0%",
+      "adr": "70.4",
+      "fkDiff": "-1",
+      "rating": "0.82"
+    },
+    {
+      "name": "ScreaM",
+      "kills": "11 ",
+      "assists": "1",
+      "deaths": "22",
+      "kast": "44.0%",
+      "adr": "54.0",
+      "fkDiff": "-2",
+      "rating": "0.50"
+    }
+  ]
+}
+{
+  "matchId": "32295",
+  "team1": [
+    {
+      "name": "pyth",
+      "kills": "23 ",
+      "assists": "4",
+      "deaths": "8",
+      "kast": "90.0%",
+      "adr": "121.0",
+      "fkDiff": "+3",
+      "rating": "1.99"
+    },
+    {
+      "name": "f0rest",
+      "kills": "22 ",
+      "assists": "1",
+      "deaths": "8",
+      "kast": "80.0%",
+      "adr": "91.2",
+      "fkDiff": "+1",
+      "rating": "1.67"
+    },
+    {
+      "name": "GeT_RiGhT",
+      "kills": "19 ",
+      "assists": "4",
+      "deaths": "6",
+      "kast": "80.0%",
+      "adr": "92.4",
+      "fkDiff": "0",
+      "rating": "1.58"
+    },
+    {
+      "name": "Xizt",
+      "kills": "16 ",
+      "assists": "2",
+      "deaths": "9",
+      "kast": "85.0%",
+      "adr": "88.8",
+      "fkDiff": "+2",
+      "rating": "1.51"
+    },
+    {
+      "name": "friberg",
+      "kills": "7 ",
+      "assists": "5",
+      "deaths": "13",
+      "kast": "70.0%",
+      "adr": "64.1",
+      "fkDiff": "-2",
+      "rating": "0.88"
+    }
+  ],
+  "team2": [
+    {
+      "name": "mixwell",
+      "kills": "9 ",
+      "assists": "4",
+      "deaths": "18",
+      "kast": "60.0%",
+      "adr": "75.5",
+      "fkDiff": "0",
+      "rating": "0.68"
+    },
+    {
+      "name": "RUSH",
+      "kills": "11 ",
+      "assists": "1",
+      "deaths": "17",
+      "kast": "40.0%",
+      "adr": "56.8",
+      "fkDiff": "+1",
+      "rating": "0.61"
+    },
+    {
+      "name": "daps",
+      "kills": "9 ",
+      "assists": "2",
+      "deaths": "17",
+      "kast": "45.0%",
+      "adr": "58.5",
+      "fkDiff": "-2",
+      "rating": "0.52"
+    },
+    {
+      "name": "stanislaw",
+      "kills": "7 ",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "45.0%",
+      "adr": "49.0",
+      "fkDiff": "-3",
+      "rating": "0.50"
+    },
+    {
+      "name": "NAF",
+      "kills": "8 ",
+      "assists": "1",
+      "deaths": "19",
+      "kast": "45.0%",
+      "adr": "64.7",
+      "fkDiff": "0",
+      "rating": "0.47"
+    }
+  ]
+}

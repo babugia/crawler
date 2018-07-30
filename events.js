@@ -9,16 +9,18 @@ var Crawler = {
 	cheerio : null,
 	fs      : null,
 	sleep: null,
+	jsonfile: null,
 	init : function(){
 		Crawler.request = require('request');
 		Crawler.cheerio = require('cheerio');
 		Crawler.fs      = require('fs');
 		Crawler.sleep = require('system-sleep');
-		Crawler.deleteFileContent('kill_matrix.csv');
-		Crawler.deleteFileContent('match.csv');
-		Crawler.deleteFileContent('performance.csv');
-		Crawler.deleteFileContent('round_history.csv');
-		Crawler.deleteFileContent('events.csv');
+		Crawler.jsonfile = require('jsonfile');
+		// Crawler.deleteFileContent('kill_matrix.csv');
+		// Crawler.deleteFileContent('match.csv');
+		// Crawler.deleteFileContent('performance.csv');
+		// Crawler.deleteFileContent('round_history.csv');
+		// Crawler.deleteFileContent('events.csv');
 		Crawler.getLinks();
 	},
 	appendFile: function (file, data) {
@@ -35,14 +37,14 @@ var Crawler = {
 	},
 	getLinks: function () {
         //cabeçalho do arquivo
-		Crawler.appendFile('events.csv', 'name;id;date;prize;location\n');
-		Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;map;event\n');
+		// Crawler.appendFile('events.csv', 'name;id;date;prize;location\n');
+		// Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;map;event\n');
 
-		Crawler.appendFile('kill_matrix.csv', 'match_id;kill_type;player1;player1_kills;player2;player2_kills\n')
+		// Crawler.appendFile('kill_matrix.csv', 'match_id;kill_type;player1;player1_kills;player2;player2_kills\n')
 
-		Crawler.appendFile('performance.csv', 'match_id;team1;player;kills;assists;deaths;kast;adr;fkDiff;rating\n')+
+		// Crawler.appendFile('performance.csv', 'match_id;team1;player;kills;assists;deaths;kast;adr;fkDiff;rating\n')+
 
-		Crawler.appendFile('round_history.csv', 'match_id;team;ct_wins;tr_wins;defused;exploded\n')
+		// Crawler.appendFile('round_history.csv', 'match_id;team;ct_wins;tr_wins;defused;exploded\n')
 				
 		//recupera dados de cada página de consulta
 		Crawler.request('https://www.hltv.org/stats/events?matchType=BigEvents', function (err, res, body) {
@@ -62,7 +64,7 @@ var Crawler = {
 				console.log('https://www.hltv.org/' + link);
 				if(gamb!=1){
 					Crawler.getEventInfo('https://www.hltv.org/' + link);
-					sleep(1000);
+					// sleep(1000);
 				
 					eventCount++
 					console.log(`${eventCount} eventos salvos`);
@@ -84,7 +86,9 @@ var Crawler = {
 
 			var name = $('.eventname').text().trim();
 			var id = $('.event-header-component.event-holder.header a').attr('href').substring(8,12);
-			var date = $('.eventdate').text().trim().substring(4,27);
+			var date = $('.eventdate').text().trim();
+			var fields = date.split('Date');
+			var date = fields[1];
 			var prize = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 1 ).text().trim();
 			var teams = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 2 ).text().trim();
 			var location = $('.flag-align').text().trim();
@@ -95,7 +99,20 @@ var Crawler = {
 			Crawler.getAllMatches('https://www.hltv.org/'+matchesLink);
 
 			var data = name + ';' + id + ';' + date + ';' + prize + ';' + location + ';' + '\n';
-			Crawler.appendFile('events.csv', data);
+
+			var eventsJson = {};
+
+			eventsJson.name = name;
+			eventsJson.id = id;
+			eventsJson.date = date;
+			eventsJson.prize = prize;
+			eventsJson.location = location;
+
+			// Crawler.jsonfile.writeFile('events.json', eventsJson, {flag: 'a', spaces: 2}, function (err) {
+			// 	console.error(err)
+			// })
+
+			// Crawler.appendFile('events.csv', data);
 			// console.log(data);
 		});
 	},
@@ -223,70 +240,97 @@ var Crawler = {
 				var match = matchId + ';' + eventId + ';' + date + ';' + team1 + ';' + team1_score + ';' + team1_clutches + ';' + 
 							team1_rating + ';' + team1_firstkills + ';' +  team2 + ';' + team2_score + ';' + team2_clutches + ';' + 
 							team2_rating + ';' + team2_firstkills + ';' + map + ';' + eventName + ';' +  '\n'
-				Crawler.appendFile('match.csv', match);
+				// Crawler.appendFile('match.csv', match);
 				//  console.log(match);
 
+				var matchJson = {};
+
+				matchJson.matchId = matchId;
+				matchJson.eventId = eventId;
+				matchJson.eventName = eventName;
+				matchJson.map = map;
+				var teamUm = {};
+				teamUm.name = team1;
+				teamUm.score = team1_score;
+				teamUm.clutches = team1_clutches;
+				teamUm.firstKills = team1_firstkills;
+				teamUm.rating = team1_rating;
+				matchJson.team1 = teamUm;
+				var teamDois = {};
+				teamDois.name = team2;
+				teamDois.score = team2_score;
+				teamDois.clutches = team2_clutches;
+				teamDois.firstKills = team2_firstkills;
+				teamDois.rating = team2_rating;
+				matchJson.team2 = teamDois;
+
+
+				// console.log(matchJson);
+
+				// Crawler.jsonfile.writeFile('match.json', matchJson, {flag: 'a', spaces: 2}, function (err) {
+				// 	console.error(err)
+				// })
+
 				var performance = '';
-
-				// var perf = {
-				// 	matchId: matchId,
-				// 	team1: {
-				// 		player: [
-				// 			{
-				// 				name: 'x',
-				// 				kills: 3,
-				// 				assists: 5,
-				// 				deaths: 4,
-				// 				kast: 4,
-				// 				adr: 3,
-				// 				fkDiff: 4,
-				// 				rating: 1.2
-				// 			}
-
-				// 		]
-				// 	},
-				// 	team2: {
-				// 		player: [
-				// 			{
-				// 				name: 'x',
-				// 				kills: 3,
-				// 				assists: 5,
-				// 				deaths: 4,
-				// 				kast: 4,
-				// 				adr: 3,
-				// 				fkDiff: 4,
-				// 				rating: 1.2
-				// 			}
-
-				// 		]
-				// 	}
-				// }
 				
+				var performanceJson = {};
+				performanceJson.matchId = matchId;
+				performanceJson.team1 = [];
+				performanceJson.team2 = [];
+
+				// var jsonfile = require('jsonfile')
 
 				 Team1Players.forEach(player => {
 					performance = matchId + ';' + team1 + ';' + player.name + ';' + player.kills + ';' + 
 					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
 					player.fkDiff + ';' + player.rating + ';' +  '\n' ;
 
-					 Crawler.appendFile('performance.csv', performance);
+					var player1 = {
+						name: player.name,
+						kills: player.kills,
+						assists: player.assists,
+						deaths: player.deaths,
+						kast: player.kast,
+						adr: player.adr,
+						fkDiff: player.fkDiff,
+						rating: player.rating
+					}
+					performanceJson.team1.push(player1);
 
-					//  perf.team1.push({name: player.name, kills: player.kills....})
+					//  Crawler.appendFile('performance.csv', performance);
 					 
 				 })
-
-				//  Crawler.appendFile('performance.json', perf);
 
 				 Team2Players.forEach(player => {
 					performance = matchId + ';' + team2 + ';' + player.name + ';' + player.kills + ';' + 
 					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
 					player.fkDiff + ';' + player.rating + ';' +  '\n' ;
 
-					 Crawler.appendFile('performance.csv', performance);
+					//  Crawler.appendFile('performance.csv', performance);
+
+					var player2 = {
+						name: player.name,
+						kills: player.kills,
+						assists: player.assists,
+						deaths: player.deaths,
+						kast: player.kast,
+						adr: player.adr,
+						fkDiff: player.fkDiff,
+						rating: player.rating
+					}
+					performanceJson.team2.push(player2);
 				 })
 
-				 var x = new Team(Team1Players);
-				 var y = new Team(Team2Players);
-				 var perf = new Performance(matchId, x, y);
+				//  var x = new Team(Team1Players);
+				//  var y = new Team(Team2Players);
+				//  var perf = new Performance(matchId, x, y);
+
+				 
+				//  Crawler.appendFile('performance.json', JSON.stringify(jsonTest));
+
+				// Crawler.jsonfile.writeFile('performance.json', performanceJson, {flag: 'a', spaces: 2}, function (err) {
+				// 	console.error(err)
+				//   })
 				
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
 				// Crawler.getMatchMatrix('https://www.hltv.org/' + performanceLink, matchId);
@@ -405,11 +449,32 @@ var Crawler = {
 
 				var round_history_team1 = '';
 				round_history_team1 = matchId + ';' + round.team + ';' + round.ct_wins + ';' + round.tr_wins + ';' + round.defused + ';' + round.exploded + ';' + '\n';
-				Crawler.appendFile('round_history.csv', round_history_team1);
+				// Crawler.appendFile('round_history.csv', round_history_team1);
 
 				var round_history_team2 = '';
 				round_history_team2 = matchId + ';' + round1.team + ';' + round1.ct_wins + ';' + round1.tr_wins + ';' + round1.defused + ';' + round1.exploded + ';' + '\n';
-				Crawler.appendFile('round_history.csv', round_history_team2);
+				// Crawler.appendFile('round_history.csv', round_history_team2);
+
+				var roundHistoryJson = {};
+				roundHistoryJson.matchId = matchId;
+				var teamUm = {};
+				teamUm.name = time1;
+				teamUm.ctWins = round.ctWins;
+				teamUm.trWins = round.tr_wins;
+				teamUm.defused = round.defused;
+				teamUm.exploded = round.exploded;
+				roundHistoryJson.team1 = teamUm;
+				var teamDois = {};
+				teamDois.name = time2;
+				teamDois.ctWins = round1.ctWins;
+				teamDois.trWins = round1.tr_wins;
+				teamDois.defused = round1.defused;
+				teamDois.exploded = round1.exploded;
+				roundHistoryJson.team2 = teamDois;
+
+				// Crawler.jsonfile.writeFile('round_history.json', roundHistoryJson, {flag: 'a', spaces: 2}, function (err) {
+				// 	console.error(err)
+				// })
 				
 	 
 		});
@@ -443,6 +508,17 @@ var Crawler = {
 			var kill_matrix_all = [];
 			var kill_matrix_first_kills = [];
 			var kill_matrix_awp = [];
+
+			var matrixJson = {};
+
+			matrixJson.matchId = matchId;
+			var all = {
+				team1: []
+			};
+			var teamUm = {
+				players: []
+			};
+			let player = {};
 
 
 			//KILL MATRIX ALL
@@ -482,8 +558,14 @@ var Crawler = {
 			kill_matrix_all.forEach(matrix => {
 				kill_matrix = matchId + ';' + matrix.killType + ';' + matrix.player1 + ';' + matrix.player1Kills + ';' + 
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
-				Crawler.appendFile('kill_matrix.csv', kill_matrix);
+
+				
+				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
+
+			
+
+
 
 			//KILL MATRIX FIRST KILLS
 			killType = 'First Kills';
@@ -523,7 +605,7 @@ var Crawler = {
 			kill_matrix_first_kills.forEach(matrix => {
 				kill_matrix = matchId + ';' + matrix.killType + ';' + matrix.player1 + ';' + matrix.player1Kills + ';' + 
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
-				Crawler.appendFile('kill_matrix.csv', kill_matrix);
+				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
 
 			//KILL MATRIX AWP KILLS
@@ -564,8 +646,15 @@ var Crawler = {
 			kill_matrix_awp.forEach(matrix => {
 				kill_matrix = matchId + ';' + matrix.killType + ';' + matrix.player1 + ';' + matrix.player1Kills + ';' + 
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
-				Crawler.appendFile('kill_matrix.csv', kill_matrix);
+				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
+
+
+
+			// Crawler.jsonfile.writeFile('kill_matrix.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
+			// 	console.error(err)
+			// })
+
 
 			// var performance = $('.graph.small').eq(0).find("data-fusionchart-config").text().trim();
 			// var json = JSON.stringify(performance);

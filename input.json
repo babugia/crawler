@@ -1,0 +1,26 @@
+{
+  "matchId": "3453",
+  "team1": [
+    {
+      "name": "fnx",
+      "kills": "30",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "2",
+      "adr": "103.2",
+      "fkDiff": "4",
+      "rating": "1.2"
+    },
+    {
+      "name": "bit",
+      "kills": "30",
+      "assists": "2",
+      "deaths": "16",
+      "kast": "2",
+      "adr": "103.2",
+      "fkDiff": "4",
+      "rating": "1.2"
+    }
+  ],
+  "team2": []
+}

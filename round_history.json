@@ -1,0 +1,3625 @@
+{
+  "matchId": "55842",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 2,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "19271",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55775",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 4,
+    "defused": 0,
+    "exploded": 5
+  }
+}
+{
+  "matchId": "55837",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "55773",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Gambit",
+    "trWins": 7,
+    "defused": 5,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "55835",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55856",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 6,
+    "defused": 3,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "North",
+    "trWins": 0,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "55779",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "55807",
+  "team1": {
+    "name": "G2",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "North",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "55711",
+  "team1": {
+    "name": "Gambit",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 4,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55780",
+  "team1": {
+    "name": "SK",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "55797",
+  "team1": {
+    "name": "G2",
+    "trWins": 2,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "North",
+    "trWins": 1,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55707",
+  "team1": {
+    "name": "SK",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Virtus.pro",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "56057",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 8,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "55781",
+  "team1": {
+    "name": "SK",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55772",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 5,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Gambit",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "55744",
+  "team1": {
+    "name": "North",
+    "trWins": 10,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 7,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "55847",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 9,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "North",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55710",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "56020",
+  "team1": {
+    "name": "G2",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Virtus.pro",
+    "trWins": 4,
+    "defused": 0,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "55774",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Gambit",
+    "trWins": 6,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "55737",
+  "team1": {
+    "name": "North",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 6,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "56048",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "19251",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55784",
+  "team1": {
+    "name": "SK",
+    "trWins": 8,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "56088",
+  "team1": {
+    "name": "SK",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Virtus.pro",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "19260",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19275",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23320",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19255",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19249",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23270",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19274",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45689",
+  "team1": {
+    "name": "Renegades",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "19244",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19252",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19246",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23268",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45688",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 5
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45619",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Chiefs",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45834",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 8,
+    "defused": 4,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19267",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19248",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23265",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23321",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19262",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19273",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19253",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45909",
+  "team1": {
+    "name": "SK",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 1,
+    "defused": 5,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "19236",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19258",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55705",
+  "team1": {
+    "name": "SK",
+    "trWins": 5,
+    "defused": 4,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Virtus.pro",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "55730",
+  "team1": {
+    "name": "Gambit",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "45680",
+  "team1": {
+    "name": "ViCi",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Renegades",
+    "trWins": 4,
+    "defused": 4,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "56004",
+  "team1": {
+    "name": "SK",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "55715",
+  "team1": {
+    "name": "Gambit",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 10,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "19250",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45912",
+  "team1": {
+    "name": "SK",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 6
+  }
+}
+{
+  "matchId": "56068",
+  "team1": {
+    "name": "SK",
+    "trWins": 2,
+    "defused": 6,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Virtus.pro",
+    "trWins": 3,
+    "defused": 5,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45623",
+  "team1": {
+    "name": "Chiefs",
+    "trWins": 1,
+    "defused": 6,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Renegades",
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19259",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23308",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19240",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23345",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39891",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "SK",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "48389",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 4,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "32041",
+  "team1": {
+    "name": "G2",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "48457",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 9,
+    "defused": 1,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 10,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "39893",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "48453",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "19237",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "48314",
+  "team1": {
+    "name": "G2",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "SK",
+    "trWins": 4,
+    "defused": 4,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39847",
+  "team1": {
+    "name": "SK",
+    "trWins": 8,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Immortals",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "48368",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 1,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 5
+  }
+}
+{
+  "matchId": "48404",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 8,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "48427",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "48384",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 4,
+    "defused": 6,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "39852",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "48502",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 1,
+    "defused": 5,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "SK",
+    "trWins": 2,
+    "defused": 3,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39771",
+  "team1": {
+    "name": "Dignitas",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "EnVyUs",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "48410",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 8,
+    "defused": 4,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "19245",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23263",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45827",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "45910",
+  "team1": {
+    "name": "SK",
+    "trWins": 8,
+    "defused": 3,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "45820",
+  "team1": {
+    "name": "SK",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 5
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45687",
+  "team1": {
+    "name": "North",
+    "trWins": 8,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Chiefs",
+    "trWins": 8,
+    "defused": 2,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "48488",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 9,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "SK",
+    "trWins": 6,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "48417",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 9,
+    "defused": 3,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39855",
+  "team1": {
+    "name": "Dignitas",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "SK",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "39894",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 5,
+    "defused": 3,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "39850",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 2,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39854",
+  "team1": {
+    "name": "Dignitas",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "SK",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39853",
+  "team1": {
+    "name": "Dignitas",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "SK",
+    "trWins": 8,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "39761",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39762",
+  "team1": {
+    "name": "SK",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Dignitas",
+    "trWins": 8,
+    "defused": 0,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "45683",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 9,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Chiefs",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19242",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19261",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45822",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 9,
+    "defused": 0,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 6,
+    "defused": 0,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "23267",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "55709",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 9,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 7,
+    "defused": 3,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "23309",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "52865",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 7,
+    "defused": 3,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 5
+  }
+}
+{
+  "matchId": "52971",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "52910",
+  "team1": {
+    "name": "SK",
+    "trWins": 9,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "52914",
+  "team1": {
+    "name": "SK",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 5
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "52906",
+  "team1": {
+    "name": "SK",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 6,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "13329",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13313",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "52847",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "52966",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 1,
+    "defused": 4,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "52864",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 7,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "52861",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 4,
+    "defused": 0,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Natus Vincere",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "32015",
+  "team1": {
+    "name": "TSM",
+    "trWins": 6,
+    "defused": 0,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 1,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13339",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13316",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "52859",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 6,
+    "defused": 1,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "52853",
+  "team1": {
+    "name": "EnVyUs",
+    "trWins": 4,
+    "defused": 4,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Natus Vincere",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "13327",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "52868",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 2,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 2,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "32040",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "TSM",
+    "trWins": 6,
+    "defused": 4,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "32009",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 0,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 9,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "32042",
+  "team1": {
+    "name": "G2",
+    "trWins": 7,
+    "defused": 0,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "32016",
+  "team1": {
+    "name": "TSM",
+    "trWins": 6,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "32031",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 12,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "52851",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 10,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "32039",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "TSM",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "31974",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "NiP",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "32000",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 6,
+    "defused": 3,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "31984",
+  "team1": {
+    "name": "NiP",
+    "trWins": 1,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 10,
+    "defused": 0,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "32038",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 3,
+    "defused": 4,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "31975",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 6
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "31999",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "31977",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "TSM",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "52917",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 8,
+    "defused": 0,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "31978",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 5,
+    "defused": 4,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 3,
+    "defused": 5,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "19247",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19266",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45686",
+  "team1": {
+    "name": "SK",
+    "trWins": 2,
+    "defused": 3,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "23296",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23310",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19270",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45621",
+  "team1": {
+    "name": "ViCi",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "19264",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23264",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19239",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "56009",
+  "team1": {
+    "name": "SK",
+    "trWins": 6,
+    "defused": 0,
+    "exploded": 5
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 8,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "52862",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Natus Vincere",
+    "trWins": 6,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "56061",
+  "team1": {
+    "name": "SK",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Virtus.pro",
+    "trWins": 4,
+    "defused": 0,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "52850",
+  "team1": {
+    "name": "SK",
+    "trWins": 3,
+    "defused": 4,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45819",
+  "team1": {
+    "name": "SK",
+    "trWins": 2,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 1,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "56014",
+  "team1": {
+    "name": "G2",
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Virtus.pro",
+    "trWins": 7,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "45691",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Chiefs",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "19241",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "32010",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "23295",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "45624",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 9,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "56055",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "23294",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39849",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "55747",
+  "team1": {
+    "name": "North",
+    "trWins": 7,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "45684",
+  "team1": {
+    "name": "North",
+    "trWins": 10,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 8,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "23347",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19254",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "48329",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "23303",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19256",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "23346",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "58881",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19243",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19268",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "39890",
+  "team1": {
+    "name": "EnVyUs",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "59110",
+  "team1": {
+    "name": "mousesports",
+    "trWins": 5,
+    "defused": 5,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 4,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "59086",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 3,
+    "defused": 4,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "mousesports",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "58976",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "mousesports",
+    "trWins": 8,
+    "defused": 0,
+    "exploded": 5
+  }
+}
+{
+  "matchId": "59026",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 2,
+    "defused": 3,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "68336",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 2,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 1,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "30803",
+  "team1": {
+    "name": "G2",
+    "trWins": 5,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "fnatic",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "30802",
+  "team1": {
+    "name": "G2",
+    "trWins": 0,
+    "defused": 7,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "fnatic",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "68373",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 5
+  },
+  "team2": {
+    "name": "fnatic",
+    "trWins": 2,
+    "defused": 4,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "30817",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 6,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "68457",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 4,
+    "defused": 4,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "59072",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 8,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "mousesports",
+    "trWins": 8,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "68362",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 8,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "fnatic",
+    "trWins": 6,
+    "defused": 3,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "30821",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "68368",
+  "team1": {
+    "name": "G2",
+    "trWins": 6,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "68328",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 7
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 10,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "68462",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "59078",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "mousesports",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "68372",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 9,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "fnatic",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "13335",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13330",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13331",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13341",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13337",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13340",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13319",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13333",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13326",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "13318",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "59095",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "52845",
+  "team1": {
+    "name": "SK",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "EnVyUs",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "59002",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 4,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 0,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "31990",
+  "team1": {
+    "name": "NiP",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 9,
+    "defused": 5,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "58873",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "mousesports",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "30738",
+  "team1": {
+    "name": "NiP",
+    "trWins": 2,
+    "defused": 5,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 4,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "19238",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "30775",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "30764",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 5
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 7,
+    "defused": 3,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "68330",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "30796",
+  "team1": {
+    "name": "NiP",
+    "trWins": 5,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "30735",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 0,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "OpTic",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 5
+  }
+}
+{
+  "matchId": "30823",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 8,
+    "defused": 6,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 3,
+    "defused": 1,
+    "exploded": 6
+  }
+}
+{
+  "matchId": "68357",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "fnatic",
+    "trWins": 5,
+    "defused": 3,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "30768",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "68400",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "30737",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 0,
+    "defused": 2,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "68359",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "fnatic",
+    "trWins": 4,
+    "defused": 4,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "30790",
+  "team1": {
+    "name": "NiP",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 2,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "30770",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 6
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "30741",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 7,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "48492",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 2,
+    "defused": 4,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "SK",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "58892",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 2,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "68472",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 1,
+    "defused": 5,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 4,
+    "defused": 3,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "59006",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "mousesports",
+    "trWins": 5,
+    "defused": 3,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "59016",
+  "team1": {
+    "name": "OpTic",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "mousesports",
+    "trWins": 10,
+    "defused": 2,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "30798",
+  "team1": {
+    "name": "NiP",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 10,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "68479",
+  "team1": {
+    "name": "Liquid",
+    "trWins": 9,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Astralis",
+    "trWins": 6,
+    "defused": 3,
+    "exploded": 5
+  }
+}
+{
+  "matchId": "30736",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 0,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "58994",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 3
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 6,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "30766",
+  "team1": {
+    "name": "Cloud9",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "31976",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 4
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 7,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "30747",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 3,
+    "defused": 4,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 2,
+    "defused": 8,
+    "exploded": 4
+  }
+}
+{
+  "matchId": "68453",
+  "team1": {
+    "name": "NRG",
+    "trWins": 1,
+    "defused": 2,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 8,
+    "defused": 1,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "19272",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "68327",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 0,
+    "defused": 5,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "52860",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 2,
+    "defused": 1,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 2,
+    "defused": 5,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "68332",
+  "team1": {
+    "name": "NRG",
+    "trWins": 2,
+    "defused": 4,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "68365",
+  "team1": {
+    "name": "G2",
+    "trWins": 5,
+    "defused": 0,
+    "exploded": 6
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "52916",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Cloud9",
+    "trWins": 3,
+    "defused": 0,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "52856",
+  "team1": {
+    "name": "Virtus.pro",
+    "trWins": 2,
+    "defused": 3,
+    "exploded": 2
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 5
+  }
+}
+{
+  "matchId": "13336",
+  "team1": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  },
+  "team2": {
+    "trWins": 0,
+    "defused": 0,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "58971",
+  "team1": {
+    "name": "Luminosity",
+    "trWins": 1,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "mousesports",
+    "trWins": 4,
+    "defused": 1,
+    "exploded": 3
+  }
+}
+{
+  "matchId": "59120",
+  "team1": {
+    "name": "mousesports",
+    "trWins": 8,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 7,
+    "defused": 1,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "58867",
+  "team1": {
+    "name": "fnatic",
+    "trWins": 5,
+    "defused": 1,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 5,
+    "defused": 2,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "59114",
+  "team1": {
+    "name": "mousesports",
+    "trWins": 7,
+    "defused": 3,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "FaZe",
+    "trWins": 3,
+    "defused": 2,
+    "exploded": 5
+  }
+}
+{
+  "matchId": "30746",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 2,
+    "defused": 0,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 4,
+    "defused": 5,
+    "exploded": 2
+  }
+}
+{
+  "matchId": "68390",
+  "team1": {
+    "name": "FaZe",
+    "trWins": 4,
+    "defused": 2,
+    "exploded": 6
+  },
+  "team2": {
+    "name": "G2",
+    "trWins": 3,
+    "defused": 3,
+    "exploded": 1
+  }
+}
+{
+  "matchId": "30743",
+  "team1": {
+    "name": "Astralis",
+    "trWins": 6,
+    "defused": 4,
+    "exploded": 1
+  },
+  "team2": {
+    "name": "Luminosity",
+    "trWins": 1,
+    "defused": 1,
+    "exploded": 0
+  }
+}
+{
+  "matchId": "68454",
+  "team1": {
+    "name": "NRG",
+    "trWins": 1,
+    "defused": 3,
+    "exploded": 0
+  },
+  "team2": {
+    "name": "Liquid",
+    "trWins": 6,
+    "defused": 2,
+    "exploded": 2
+  }
+}
