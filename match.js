@@ -625,12 +625,18 @@ var Crawler = {
 				for(var j = 0; j< team2PlayerName.length;j++){
 					var x = {};
 					x.player = team2PlayerName[j];
+
+					const key = team2PlayerName[j];  
 					
 					gamb = j*5+i;
+
+					const object = {   
+						[key]: kills[gamb].team1playerKills
+					};
 					
 					x.kills = kills[gamb].team1playerKills;
 
-					teamUm.players_kill.push(x);
+					teamUm.players_kill.push(object);
 					
 				}
 				// console.log(teamUm);
