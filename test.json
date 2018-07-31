@@ -1,0 +1,771 @@
+{
+  "matchId": "70102",
+  "all": {
+    "team1": [
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "4"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "3"
+          },
+          {
+            "player": "smooya",
+            "kills": "3"
+          },
+          {
+            "player": "nex",
+            "kills": "1"
+          },
+          {
+            "player": "gob b",
+            "kills": "3"
+          }
+        ],
+        "player": "Edward"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "3"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "7"
+          },
+          {
+            "player": "smooya",
+            "kills": "2"
+          },
+          {
+            "player": "nex",
+            "kills": "4"
+          },
+          {
+            "player": "gob b",
+            "kills": "1"
+          }
+        ],
+        "player": "Zeus"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "3"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "3"
+          },
+          {
+            "player": "smooya",
+            "kills": "7"
+          },
+          {
+            "player": "nex",
+            "kills": "3"
+          },
+          {
+            "player": "gob b",
+            "kills": "8"
+          }
+        ],
+        "player": "electronic"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "5"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "3"
+          },
+          {
+            "player": "smooya",
+            "kills": "1"
+          },
+          {
+            "player": "nex",
+            "kills": "6"
+          },
+          {
+            "player": "gob b",
+            "kills": "5"
+          }
+        ],
+        "player": "flamie"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "4"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "2"
+          },
+          {
+            "player": "smooya",
+            "kills": "2"
+          },
+          {
+            "player": "nex",
+            "kills": "5"
+          },
+          {
+            "player": "gob b",
+            "kills": "3"
+          }
+        ],
+        "player": "s1mple"
+      }
+    ],
+    "team2": [
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "6"
+          },
+          {
+            "player": "Zeus",
+            "kills": "3"
+          },
+          {
+            "player": "electronic",
+            "kills": "2"
+          },
+          {
+            "player": "flamie",
+            "kills": "7"
+          },
+          {
+            "player": "s1mple",
+            "kills": "8"
+          }
+        ],
+        "player": "tabseN"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "1"
+          },
+          {
+            "player": "Zeus",
+            "kills": "2"
+          },
+          {
+            "player": "electronic",
+            "kills": "2"
+          },
+          {
+            "player": "flamie",
+            "kills": "0"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "tiziaN"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "5"
+          },
+          {
+            "player": "Zeus",
+            "kills": "7"
+          },
+          {
+            "player": "electronic",
+            "kills": "2"
+          },
+          {
+            "player": "flamie",
+            "kills": "2"
+          },
+          {
+            "player": "s1mple",
+            "kills": "1"
+          }
+        ],
+        "player": "smooya"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "0"
+          },
+          {
+            "player": "Zeus",
+            "kills": "2"
+          },
+          {
+            "player": "electronic",
+            "kills": "2"
+          },
+          {
+            "player": "flamie",
+            "kills": "0"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "nex"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "1"
+          },
+          {
+            "player": "Zeus",
+            "kills": "2"
+          },
+          {
+            "player": "electronic",
+            "kills": "1"
+          },
+          {
+            "player": "flamie",
+            "kills": "3"
+          },
+          {
+            "player": "s1mple",
+            "kills": "3"
+          }
+        ],
+        "player": "gob b"
+      }
+    ]
+  },
+  "first_kills": {
+    "team1": [
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "1"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "0"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "0"
+          },
+          {
+            "player": "gob b",
+            "kills": "0"
+          }
+        ],
+        "player": "Edward"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "0"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "3"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "0"
+          },
+          {
+            "player": "gob b",
+            "kills": "1"
+          }
+        ],
+        "player": "Zeus"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "0"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "0"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "0"
+          },
+          {
+            "player": "gob b",
+            "kills": "0"
+          }
+        ],
+        "player": "electronic"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "0"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "1"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "2"
+          },
+          {
+            "player": "gob b",
+            "kills": "2"
+          }
+        ],
+        "player": "flamie"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "1"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "0"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "1"
+          },
+          {
+            "player": "gob b",
+            "kills": "1"
+          }
+        ],
+        "player": "s1mple"
+      }
+    ],
+    "team2": [
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "2"
+          },
+          {
+            "player": "Zeus",
+            "kills": "0"
+          },
+          {
+            "player": "electronic",
+            "kills": "0"
+          },
+          {
+            "player": "flamie",
+            "kills": "1"
+          },
+          {
+            "player": "s1mple",
+            "kills": "2"
+          }
+        ],
+        "player": "tabseN"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "0"
+          },
+          {
+            "player": "Zeus",
+            "kills": "1"
+          },
+          {
+            "player": "electronic",
+            "kills": "1"
+          },
+          {
+            "player": "flamie",
+            "kills": "0"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "tiziaN"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "0"
+          },
+          {
+            "player": "Zeus",
+            "kills": "1"
+          },
+          {
+            "player": "electronic",
+            "kills": "0"
+          },
+          {
+            "player": "flamie",
+            "kills": "1"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "smooya"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "0"
+          },
+          {
+            "player": "Zeus",
+            "kills": "0"
+          },
+          {
+            "player": "electronic",
+            "kills": "1"
+          },
+          {
+            "player": "flamie",
+            "kills": "0"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "nex"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "0"
+          },
+          {
+            "player": "Zeus",
+            "kills": "0"
+          },
+          {
+            "player": "electronic",
+            "kills": "0"
+          },
+          {
+            "player": "flamie",
+            "kills": "1"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "gob b"
+      }
+    ]
+  },
+  "awp": {
+    "team1": [
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "0"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "0"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "0"
+          },
+          {
+            "player": "gob b",
+            "kills": "0"
+          }
+        ],
+        "player": "Edward"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "0"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "0"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "0"
+          },
+          {
+            "player": "gob b",
+            "kills": "0"
+          }
+        ],
+        "player": "Zeus"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "0"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "0"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "0"
+          },
+          {
+            "player": "gob b",
+            "kills": "0"
+          }
+        ],
+        "player": "electronic"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "1"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "1"
+          },
+          {
+            "player": "smooya",
+            "kills": "0"
+          },
+          {
+            "player": "nex",
+            "kills": "2"
+          },
+          {
+            "player": "gob b",
+            "kills": "1"
+          }
+        ],
+        "player": "flamie"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "tabseN",
+            "kills": "1"
+          },
+          {
+            "player": "tiziaN",
+            "kills": "0"
+          },
+          {
+            "player": "smooya",
+            "kills": "1"
+          },
+          {
+            "player": "nex",
+            "kills": "1"
+          },
+          {
+            "player": "gob b",
+            "kills": "1"
+          }
+        ],
+        "player": "s1mple"
+      }
+    ],
+    "team2": [
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "1"
+          },
+          {
+            "player": "Zeus",
+            "kills": "0"
+          },
+          {
+            "player": "electronic",
+            "kills": "1"
+          },
+          {
+            "player": "flamie",
+            "kills": "3"
+          },
+          {
+            "player": "s1mple",
+            "kills": "1"
+          }
+        ],
+        "player": "tabseN"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "0"
+          },
+          {
+            "player": "Zeus",
+            "kills": "0"
+          },
+          {
+            "player": "electronic",
+            "kills": "0"
+          },
+          {
+            "player": "flamie",
+            "kills": "0"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "tiziaN"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "2"
+          },
+          {
+            "player": "Zeus",
+            "kills": "4"
+          },
+          {
+            "player": "electronic",
+            "kills": "2"
+          },
+          {
+            "player": "flamie",
+            "kills": "1"
+          },
+          {
+            "player": "s1mple",
+            "kills": "1"
+          }
+        ],
+        "player": "smooya"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "0"
+          },
+          {
+            "player": "Zeus",
+            "kills": "0"
+          },
+          {
+            "player": "electronic",
+            "kills": "0"
+          },
+          {
+            "player": "flamie",
+            "kills": "0"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "nex"
+      },
+      {
+        "players_kill": [
+          {
+            "player": "Edward",
+            "kills": "0"
+          },
+          {
+            "player": "Zeus",
+            "kills": "0"
+          },
+          {
+            "player": "electronic",
+            "kills": "0"
+          },
+          {
+            "player": "flamie",
+            "kills": "0"
+          },
+          {
+            "player": "s1mple",
+            "kills": "0"
+          }
+        ],
+        "player": "gob b"
+      }
+    ]
+  }
+}

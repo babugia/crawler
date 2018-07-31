@@ -10,10 +10,11 @@ var Crawler = {
 		Crawler.request = require('request');
 		Crawler.cheerio = require('cheerio');
 		Crawler.fs      = require('fs');
-		Crawler.deleteFileContent('kill_matrix.csv');
-		Crawler.deleteFileContent('match.csv');
-		Crawler.deleteFileContent('performance.csv');
-		Crawler.deleteFileContent('round_history.csv');
+		// Crawler.deleteFileContent('kill_matrix.csv');
+		// Crawler.deleteFileContent('match.csv');
+		// Crawler.deleteFileContent('performance.csv');
+		// Crawler.deleteFileContent('round_history.csv');
+		Crawler.jsonfile = require('jsonfile');
 		Crawler.getEventInfo();
 	},
     appendFile: function (file, data) {
@@ -37,13 +38,13 @@ var Crawler = {
 		//cabeçalho do arquivo
 		// Crawler.appendFile('name;id;date;prize;location\n');
 
-		Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;map;event\n');
+		// Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;map;event\n');
 
-		Crawler.appendFile('kill_matrix.csv', 'match_id;kill_type;player1;player1_kills;player2;player2_kills\n')
+		// Crawler.appendFile('kill_matrix.csv', 'match_id;kill_type;player1;player1_kills;player2;player2_kills\n')
 
-		Crawler.appendFile('performance.csv', 'match_id;team1;player;kills;assists;deaths\n')
+		// Crawler.appendFile('performance.csv', 'match_id;team1;player;kills;assists;deaths\n')
 
-		Crawler.appendFile('round_history.csv', 'match_id;team;ct_wins;tr_wins;defused;exploded\n')
+		// Crawler.appendFile('round_history.csv', 'match_id;team;ct_wins;tr_wins;defused;exploded\n')
 
 		Crawler.request('https://www.hltv.org/stats/matches/mapstatsid/70102/natus-vincere-vs-big?matchType=BigEvents&event=3392', function(err, res, body){
 			if(err)
@@ -146,7 +147,7 @@ var Crawler = {
 				var match = matchId + ';' + eventId + ';' + date + ';' + team1 + ';' + team1_score + ';' + team1_clutches + ';' + 
 							team1_rating + ';' + team1_firstkills + ';' +  team2 + ';' + team2_score + ';' + team2_clutches + ';' + 
 							team2_rating + ';' + team2_firstkills + ';' + map + ';' + eventName + ';' +  '\n'
-				Crawler.appendFile('match.csv', match);
+				// Crawler.appendFile('match.csv', match);
 				//  console.log(match);
 
 				var performance = '';
@@ -156,7 +157,7 @@ var Crawler = {
 					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
 					player.fkDiff + ';' + player.rating + ';' +  '\n' ;
 
-					 Crawler.appendFile('performance.csv', performance);
+					//  Crawler.appendFile('performance.csv', performance);
 				 })
 
 				 Team2Players.forEach(player => {
@@ -164,7 +165,7 @@ var Crawler = {
 					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
 					player.fkDiff + ';' + player.rating + ';' +  '\n' ;
 
-					 Crawler.appendFile('performance.csv', performance);
+					//  Crawler.appendFile('performance.csv', performance);
 				 })
 				
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
@@ -283,11 +284,11 @@ var Crawler = {
 
 				var round_history_team1 = '';
 				round_history_team1 = matchId + ';' + round.team + ';' + round.ct_wins + ';' + round.tr_wins + ';' + round.defused + ';' + round.exploded + ';' + '\n';
-				Crawler.appendFile('round_history.csv', round_history_team1);
+				// Crawler.appendFile('round_history.csv', round_history_team1);
 
 				var round_history_team2 = '';
 				round_history_team2 = matchId + ';' + round1.team + ';' + round1.ct_wins + ';' + round1.tr_wins + ';' + round1.defused + ';' + round1.exploded + ';' + '\n';
-				Crawler.appendFile('round_history.csv', round_history_team2);
+				// Crawler.appendFile('round_history.csv', round_history_team2);
 				
 	 
 		});
@@ -300,13 +301,13 @@ var Crawler = {
 
 			var $ = Crawler.cheerio.load(body);
 
-			var playerName = [];
+			var team1PlayerName = [];
 			var jump = 0;
 			$('.killmatrix-topbar').eq(0).find("td").each(function () {
 
 				if(jump > 0) {
 					// console.log($(this).find("a").text().trim());
-					playerName.push($(this).find("a").text().trim());
+					team1PlayerName.push($(this).find("a").text().trim());
 				}
 				jump++;
 			});
@@ -322,6 +323,12 @@ var Crawler = {
 			var kill_matrix_first_kills = [];
 			var kill_matrix_awp = [];
 
+			//new
+			var team2PlayerName = [];
+			var kills = [];
+			var x = {};
+
+
 
 			//KILL MATRIX ALL
 			var tr = 0;
@@ -329,25 +336,36 @@ var Crawler = {
 
 				if(tr > 0) {
 					var td = 0;
+					
 					$(this).find("td").each(function () {
+						player = {};
 						if(td == 0) {
 							// console.log($(this).find("a").text().trim());
-							player1 = $(this).find("a").text().trim();
+							player2 = $(this).find("a").text().trim();
+
+							//NEW
+							team2PlayerName.push(player2);
 
 						}
 						if(td > 0){
-							player1Kills = $(this).find("span").eq(0).text().trim();
-							player2Kills = $(this).find("span").eq(1).text().trim();
-							player2 = playerName[td-1];
-							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
+							player1Kills = $(this).find(".team1-player-score").text().trim();
+							player2Kills = $(this).find(".team2-player-score").text().trim();
+							player1 = team1PlayerName[td-1];
+							var matrix = new KillMatrix(killType, player2, player1Kills, player1, player2Kills);
 							kill_matrix_all.push(matrix);
 
+							//new
+							
+							x = {};
+
+							x.team1playerKills = player1Kills;
+							x.team2playerKills = player2Kills;
+
+							kills.push(x);
+							
 						}
 						td++;
 					});
-					
-					// console.log(kill_matrix_all);
-					
 					
 				}
 				tr++;
@@ -355,13 +373,82 @@ var Crawler = {
 
 			});
 
+			var matrixJson = {};
+
+			matrixJson.matchId = matchId;
+			var all = {
+				team1: [],
+				team2: []
+			};
+			var teamUm = {
+				players_kill: []
+			};
+			var teamDois = {
+				 player_kills: []
+			};
+
+			var player = {};
+
+			for(var i =0; i < team1PlayerName.length; i++){
+				var teamUm = {
+					players_kill: []
+				};
+				teamUm.player = team1PlayerName[i];
+				for(var j = 0; j< team2PlayerName.length;j++){
+					var x = {};
+					x.player = team2PlayerName[j];
+					
+					gamb = j*5+i;
+					
+					x.kills = kills[gamb].team1playerKills;
+
+					teamUm.players_kill.push(x);
+					
+				}
+				// console.log(teamUm);
+				all.team1.push(teamUm)
+			}
+
+			var player = {};
+
+			for(var i =0; i < team2PlayerName.length; i++){
+				var teamDois = {
+					players_kill: []
+				};
+				teamDois.player = team2PlayerName[i];
+
+				for(var j = 0; j< team1PlayerName.length;j++){
+					var x = {};
+					x.player = team1PlayerName[j];
+					
+					gamb = i*5+j;
+					
+					x.kills = kills[gamb].team2playerKills;
+
+					teamDois.players_kill.push(x);
+					
+				}
+				console.log(teamDois);
+				all.team2.push(teamDois)
+			}
+
+			matrixJson.all = all;
+
+			// console.log(all);
+
+
 			var kill_matrix = '';
 
 			kill_matrix_all.forEach(matrix => {
 				kill_matrix = matchId + ';' + matrix.killType + ';' + matrix.player1 + ';' + matrix.player1Kills + ';' + 
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
-				Crawler.appendFile('kill_matrix.csv', kill_matrix);
+				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
+				// console.log(matrix)
 			})
+
+
+			var kills = [];
+			var x = {};
 
 			//KILL MATRIX FIRST KILLS
 			killType = 'First Kills';
@@ -373,15 +460,22 @@ var Crawler = {
 					$(this).find("td").each(function () {
 						if(td == 0) {
 							// console.log($(this).find("a").text().trim());
-							player1 = $(this).find("a").text().trim();
+							player2 = $(this).find("a").text().trim();
 
 						}
 						if(td > 0){
-							player1Kills = $(this).find("span").eq(0).text().trim();
-							player2Kills = $(this).find("span").eq(1).text().trim();
-							player2 = playerName[td-1];
+							player1Kills = $(this).find(".team1-player-score").text().trim();
+							player2Kills = $(this).find(".team2-player-score").text().trim();
+							player1 = team1PlayerName[td-1];
 							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
 							kill_matrix_first_kills.push(matrix);
+
+							x = {};
+
+							x.team1playerKills = player1Kills;
+							x.team2playerKills = player2Kills;
+
+							kills.push(x);
 
 						}
 						td++;
@@ -396,13 +490,78 @@ var Crawler = {
 
 			});
 
+			var first_kills = {
+				team1: [],
+				team2: []
+			};
+			var teamUm = {
+				players_kill: []
+			};
+			var teamDois = {
+				 player_kills: []
+			};
+
+			var player = {};
+
+			for(var i =0; i < team1PlayerName.length; i++){
+				var teamUm = {
+					players_kill: []
+				};
+				teamUm.player = team1PlayerName[i];
+				for(var j = 0; j< team2PlayerName.length;j++){
+					var x = {};
+					x.player = team2PlayerName[j];
+					
+					gamb = j*5+i;
+					
+					x.kills = kills[gamb].team1playerKills;
+
+					teamUm.players_kill.push(x);
+					
+				}
+				// console.log(teamUm);
+				first_kills.team1.push(teamUm)
+			}
+
+			var player = {};
+
+			for(var i =0; i < team2PlayerName.length; i++){
+				var teamDois = {
+					players_kill: []
+				};
+				teamDois.player = team2PlayerName[i];
+
+				for(var j = 0; j< team1PlayerName.length;j++){
+					var x = {};
+					x.player = team1PlayerName[j];
+					
+					gamb = i*5+j;
+					
+					x.kills = kills[gamb].team2playerKills;
+
+					teamDois.players_kill.push(x);
+					
+				}
+				console.log(teamDois);
+				first_kills.team2.push(teamDois)
+			}
+
+			matrixJson.first_kills = first_kills;
+
+			// Crawler.jsonfile.writeFile('test.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
+			// 	console.error(err)
+			// })
+
 			kill_matrix = '';
 
 			kill_matrix_first_kills.forEach(matrix => {
 				kill_matrix = matchId + ';' + matrix.killType + ';' + matrix.player1 + ';' + matrix.player1Kills + ';' + 
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
-				Crawler.appendFile('kill_matrix.csv', kill_matrix);
+				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
+
+			var kills = [];
+			var x = {};
 
 			//KILL MATRIX AWP KILLS
 			killType = 'Awp Kills';
@@ -414,16 +573,24 @@ var Crawler = {
 					$(this).find("td").each(function () {
 						if(td == 0) {
 							// console.log($(this).find("a").text().trim());
-							player1 = $(this).find("a").text().trim();
+							player2 = $(this).find("a").text().trim();
 
 						}
 						if(td > 0){
-							player1Kills = $(this).find("span").eq(0).text().trim();
-							player2Kills = $(this).find("span").eq(1).text().trim();
-							player2 = playerName[td-1];
+							// player1Kills = $(this).find("span").eq(0).text().trim();
+							// player2Kills = $(this).find("span").eq(1).text().trim();
+							player1Kills = $(this).find(".team1-player-score").text().trim();
+							player2Kills = $(this).find(".team2-player-score").text().trim();
+							player1 = team1PlayerName[td-1];
 							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
 							kill_matrix_awp.push(matrix);
 
+							x = {};
+
+							x.team1playerKills = player1Kills;
+							x.team2playerKills = player2Kills;
+
+							kills.push(x);
 						}
 						td++;
 					});
@@ -437,12 +604,74 @@ var Crawler = {
 
 			});
 
+			var awp = {
+				team1: [],
+				team2: []
+			};
+			var teamUm = {
+				players_kill: []
+			};
+			var teamDois = {
+				 player_kills: []
+			};
+
+			var player = {};
+
+			for(var i =0; i < team1PlayerName.length; i++){
+				var teamUm = {
+					players_kill: []
+				};
+				teamUm.player = team1PlayerName[i];
+				for(var j = 0; j< team2PlayerName.length;j++){
+					var x = {};
+					x.player = team2PlayerName[j];
+					
+					gamb = j*5+i;
+					
+					x.kills = kills[gamb].team1playerKills;
+
+					teamUm.players_kill.push(x);
+					
+				}
+				// console.log(teamUm);
+				awp.team1.push(teamUm)
+			}
+
+			var player = {};
+
+			for(var i =0; i < team2PlayerName.length; i++){
+				var teamDois = {
+					players_kill: []
+				};
+				teamDois.player = team2PlayerName[i];
+
+				for(var j = 0; j< team1PlayerName.length;j++){
+					var x = {};
+					x.player = team1PlayerName[j];
+					
+					gamb = i*5+j;
+					
+					x.kills = kills[gamb].team2playerKills;
+
+					teamDois.players_kill.push(x);
+					
+				}
+				console.log(teamDois);
+				awp.team2.push(teamDois)
+			}
+
+			matrixJson.awp = awp;
+
+			Crawler.jsonfile.writeFile('test.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
+				console.error(err)
+			})
+
 			kill_matrix = '';
 
 			kill_matrix_awp.forEach(matrix => {
 				kill_matrix = matchId + ';' + matrix.killType + ';' + matrix.player1 + ';' + matrix.player1Kills + ';' + 
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
-				Crawler.appendFile('kill_matrix.csv', kill_matrix);
+				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
 
 			// var performance = $('.graph.small').eq(0).find("data-fusionchart-config").text().trim();

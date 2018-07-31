@@ -558,7 +558,7 @@ var Crawler = {
 			kill_matrix_all.forEach(matrix => {
 				kill_matrix = matchId + ';' + matrix.killType + ';' + matrix.player1 + ';' + matrix.player1Kills + ';' + 
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
-
+				
 				
 				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
