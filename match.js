@@ -402,7 +402,12 @@ var Crawler = {
 					
 					x.kills = kills[gamb].team1playerKills;
 
-					teamUm.players_kill.push(x);
+					const key = team2PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team1playerKills
+					};
+
+					teamUm.players_kill.push(object);
 					
 				}
 				// console.log(teamUm);
@@ -424,8 +429,12 @@ var Crawler = {
 					gamb = i*5+j;
 					
 					x.kills = kills[gamb].team2playerKills;
+					const key = team1PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team2playerKills
+					};
 
-					teamDois.players_kill.push(x);
+					teamDois.players_kill.push(object);
 					
 				}
 				console.log(teamDois);
@@ -475,6 +484,7 @@ var Crawler = {
 							x.team1playerKills = player1Kills;
 							x.team2playerKills = player2Kills;
 
+
 							kills.push(x);
 
 						}
@@ -516,7 +526,12 @@ var Crawler = {
 					
 					x.kills = kills[gamb].team1playerKills;
 
-					teamUm.players_kill.push(x);
+					const key = team2PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team1playerKills
+					};
+
+					teamUm.players_kill.push(object);
 					
 				}
 				// console.log(teamUm);
@@ -539,18 +554,23 @@ var Crawler = {
 					
 					x.kills = kills[gamb].team2playerKills;
 
-					teamDois.players_kill.push(x);
+					const key = team1PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team2playerKills
+					};
+
+					teamDois.players_kill.push(object);
 					
 				}
-				console.log(teamDois);
+				// console.log(teamDois);
 				first_kills.team2.push(teamDois)
 			}
 
 			matrixJson.first_kills = first_kills;
 
-			// Crawler.jsonfile.writeFile('test.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
-			// 	console.error(err)
-			// })
+			Crawler.jsonfile.writeFile('test.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
+				console.error(err)
+			})
 
 			kill_matrix = '';
 
@@ -590,6 +610,7 @@ var Crawler = {
 							x.team1playerKills = player1Kills;
 							x.team2playerKills = player2Kills;
 
+
 							kills.push(x);
 						}
 						td++;
@@ -625,16 +646,15 @@ var Crawler = {
 				for(var j = 0; j< team2PlayerName.length;j++){
 					var x = {};
 					x.player = team2PlayerName[j];
-
-					const key = team2PlayerName[j];  
-					
 					gamb = j*5+i;
 
+					
+					x.kills = kills[gamb].team1playerKills;
+
+					const key = team2PlayerName[j];  
 					const object = {   
 						[key]: kills[gamb].team1playerKills
 					};
-					
-					x.kills = kills[gamb].team1playerKills;
 
 					teamUm.players_kill.push(object);
 					
@@ -659,7 +679,12 @@ var Crawler = {
 					
 					x.kills = kills[gamb].team2playerKills;
 
-					teamDois.players_kill.push(x);
+					const key = team1PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team2playerKills
+					};
+
+					teamDois.players_kill.push(object);
 					
 				}
 				console.log(teamDois);

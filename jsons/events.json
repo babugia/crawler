@@ -1,0 +1,401 @@
+[
+  {
+    "name": "ESL One Cologne 2015",
+    "id": "1666",
+    "date": "Aug 20th - Aug 23rd 2015",
+    "prize": "$250,000",
+    "location": "Cologne, Germany"
+  },
+  {
+    "name": "IEM Sydney 2017",
+    "id": "2713",
+    "date": "May 3rd - May 7th 2017",
+    "prize": "$200,000",
+    "location": "Sydney, Australia"
+  },
+  {
+    "name": "ESL One Belo Horizonte 2018",
+    "id": "3649",
+    "date": "Jun 13th - Jun 17th 2018",
+    "prize": "$200,000",
+    "location": "Belo Horizonte, Brazil"
+  },
+  {
+    "name": "ELEAGUE Season 2",
+    "id": "2407",
+    "date": "Oct 21st - Dec 3rd 2016",
+    "prize": "$1,100,000",
+    "location": "Atlanta, Georgia, USA"
+  },
+  {
+    "name": "DreamHack Winter 2013",
+    "id": "1270",
+    "date": "Nov 28th - Nov 30th 2013",
+    "prize": "$250,000",
+    "location": "Jönköping, Sweden"
+  },
+  {
+    "name": "ECS Season 5 Finals",
+    "id": "3460",
+    "date": "Jun 8th - Jun 10th 2018",
+    "prize": "$660,000",
+    "location": "London, United Kingdom"
+  },
+  {
+    "name": "ESL One Cologne 2014",
+    "id": "1444",
+    "date": "Aug 14th - Aug 17th 2014",
+    "prize": "$250,000",
+    "location": "Cologne, Germany"
+  },
+  {
+    "name": "ELEAGUE Season 1",
+    "id": "2135",
+    "date": "May 24th - Jul 30th 2016",
+    "prize": "$1,400,000",
+    "location": "Atlanta, Georgia, USA"
+  },
+  {
+    "name": "ELEAGUE CS:GO Premier 2018",
+    "id": "3515",
+    "date": "Jul 21st - Jul 29th 2018",
+    "prize": "$1,000,000",
+    "location": "Atlanta, Georgia, USA"
+  },
+  {
+    "name": "DreamHack Winter 2014",
+    "id": "1553",
+    "date": "Nov 27th - Nov 29th 2014",
+    "prize": "$250,000",
+    "location": "Jönköping, Sweden"
+  },
+  {
+    "name": "ESL ESEA Dubai Invitational 2015",
+    "id": "1882",
+    "date": "Sep 10th - Sep 12th 2015",
+    "prize": "$250,000",
+    "location": "Dubai, United Arab Emirates"
+  },
+  {
+    "name": "ESL One Cologne 2017",
+    "id": "2635",
+    "date": "Jul 4th - Jul 9th 2017",
+    "prize": "$250,000",
+    "location": "Cologne, Germany"
+  },
+  {
+    "name": "DreamHack Open Cluj-Napoca 2015",
+    "id": "1617",
+    "date": "Oct 28th - Nov 1st 2015",
+    "prize": "$250,000",
+    "location": "Cluj-Napoca, Romania"
+  },
+  {
+    "name": "BLAST Pro Series Copenhagen 2017",
+    "id": "2998",
+    "date": "Nov 24th - Nov 25th 2017",
+    "prize": "$250,000",
+    "location": "Copenhagen, Denmark"
+  },
+  {
+    "name": "ESL Pro League Season 7 Finals",
+    "id": "3373",
+    "date": "May 15th - May 20th 2018",
+    "prize": "$750,000",
+    "location": "Dallas, Texas, USA"
+  },
+  {
+    "name": "ECS Season 3 Finals",
+    "id": "2763",
+    "date": "Jun 23rd - Jun 25th 2017",
+    "prize": "$660,000",
+    "location": "London, United Kingdom"
+  },
+  {
+    "name": "IEM Katowice 2018",
+    "id": "3309",
+    "date": "Feb 27th - Mar 4th 2018",
+    "prize": "$500,000",
+    "location": "Katowice, Poland"
+  },
+  {
+    "name": "IEM Oakland 2017",
+    "id": "2956",
+    "date": "Nov 14th - Nov 19th 2017",
+    "prize": "$300,000",
+    "location": "Burbank & Oakland, California, USA"
+  },
+  {
+    "name": "ESL Pro League Season 3 Finals",
+    "id": "2130",
+    "date": "May 11th - May 15th 2016",
+    "prize": "$512,000",
+    "location": "London, United Kingdom"
+  },
+  {
+    "name": "ESWC 2012",
+    "id": "1003",
+    "date": "Nov 2nd - Nov 4th 2012",
+    "prize": "$22,000",
+    "location": "Paris, France"
+  },
+  {
+    "name": "ESL One Katowice 2015",
+    "id": "1611",
+    "date": "Mar 12th - Mar 15th 2015",
+    "prize": "$250,000",
+    "location": "Katowice, Poland"
+  },
+  {
+    "name": "ESL ESEA Pro League Season 1 Finals",
+    "id": "1753",
+    "date": "Jul 2nd - Jul 5th 2015",
+    "prize": "$250,000",
+    "location": "Cologne, Germany"
+  },
+  {
+    "name": "FACEIT League 2015 Stage 3 Finals at DH Winter 2015",
+    "id": "1615",
+    "date": "Nov 26th - Nov 28th 2015",
+    "prize": "$250,000",
+    "location": "Jönköping, Sweden"
+  },
+  {
+    "name": "ESL Pro League Season 5 Finals",
+    "id": "2557",
+    "date": "May 30th - Jun 4th 2017",
+    "prize": "$750,000",
+    "location": "Dallas, Texas, USA"
+  },
+  {
+    "name": "EPICENTER: Moscow",
+    "id": "2410",
+    "date": "Oct 17th - Oct 23rd 2016",
+    "prize": "$490,000",
+    "location": "Moscow, Russia"
+  },
+  {
+    "name": "Copenhagen Games 2013",
+    "id": "1094",
+    "date": "Mar 29th - Mar 31st 2013",
+    "prize": "$42,314",
+    "location": "Copenhagen, Denmark"
+  },
+  {
+    "name": "ESL One Cologne 2016",
+    "id": "2062",
+    "date": "Jul 5th - Jul 10th 2016",
+    "prize": "$1,000,000",
+    "location": "Cologne, Germany"
+  },
+  {
+    "name": "ECS Season 2 Finals",
+    "id": "2367",
+    "date": "Dec 9th - Dec 11th 2016",
+    "prize": "$660,000",
+    "location": "Anaheim, California, USA"
+  },
+  {
+    "name": "EPICENTER 2017",
+    "id": "3133",
+    "date": "Oct 24th - Oct 29th 2017",
+    "prize": "$490,000",
+    "location": "Saint Petersburg, Russia"
+  },
+  {
+    "name": "IEM Katowice 2016",
+    "id": "2036",
+    "date": "Mar 2nd - Mar 5th 2016",
+    "prize": "$250,000",
+    "location": "Katowice, Poland"
+  },
+  {
+    "name": "SL i-League StarSeries XIV Finals",
+    "id": "1978",
+    "date": "Jan 13th - Jan 17th 2016",
+    "prize": "$200,000",
+    "location": "Minsk, Belarus"
+  },
+  {
+    "name": "ELEAGUE Major 2018",
+    "id": "3247",
+    "date": "Jan 19th - Jan 28th 2018",
+    "prize": "$1,000,000",
+    "location": "Atlanta & Boston, United States"
+  },
+  {
+    "name": "ECS Season 1 Finals",
+    "id": "2248",
+    "date": "Jun 24th - Jun 26th 2016",
+    "prize": "$765,000",
+    "location": "London, United Kingdom"
+  },
+  {
+    "name": "PGL Major Krakow 2017",
+    "id": "2720",
+    "date": "Jul 16th - Jul 23rd 2017",
+    "prize": "$1,000,000",
+    "location": "Krakow, Poland"
+  },
+  {
+    "name": "MLG Columbus 2016",
+    "id": "2027",
+    "date": "Mar 29th - Apr 3rd 2016",
+    "prize": "$1,000,000",
+    "location": "Columbus, Ohio, USA"
+  },
+  {
+    "name": "ESL Pro League Season 4 Finals",
+    "id": "2306",
+    "date": "Oct 26th - Oct 30th 2016",
+    "prize": "$600,000",
+    "location": "São Paulo, Brazil"
+  },
+  {
+    "name": "ESL ESEA Pro League Season 2 Finals",
+    "id": "1986",
+    "date": "Dec 10th - Dec 13th 2015",
+    "prize": "$250,000",
+    "location": "Los Angeles, California, United States"
+  },
+  {
+    "name": "IEM Oakland 2016",
+    "id": "2261",
+    "date": "Nov 16th - Nov 20th 2016",
+    "prize": "$300,000",
+    "location": "Oakland, California, USA"
+  },
+  {
+    "name": "ESL One New York 2017",
+    "id": "2636",
+    "date": "Sep 15th - Sep 17th 2017",
+    "prize": "$250,000",
+    "location": "New York, New York, USA"
+  },
+  {
+    "name": "EMS One Katowice 2014",
+    "id": "1333",
+    "date": "Mar 13th - Mar 16th 2014",
+    "prize": "$250,000",
+    "location": "Katowice, Poland"
+  },
+  {
+    "name": "ESL Pro League Season 6 Finals",
+    "id": "3072",
+    "date": "Dec 5th - Dec 10th 2017",
+    "prize": "$750,000",
+    "location": "Odense, Denmark"
+  },
+  {
+    "name": "DreamHack Masters Malmö 2017",
+    "id": "2684",
+    "date": "Aug 30th - Sep 3rd 2017",
+    "prize": "$250,000",
+    "location": "Malmö, Sweden"
+  },
+  {
+    "name": "ESL One New York 2016",
+    "id": "2239",
+    "date": "Sep 30th - Oct 2nd 2016",
+    "prize": "$250,000",
+    "location": "New York, New York, United States"
+  },
+  {
+    "name": "ESL One Cologne 2018",
+    "id": "3392",
+    "date": "Jul 3rd - Jul 8th 2018",
+    "prize": "$300,000",
+    "location": "Cologne, Germany"
+  },
+  {
+    "name": "StarSeries i-League Season 5",
+    "id": "3666",
+    "date": "May 28th - Jun 3rd 2018",
+    "prize": "$300,000",
+    "location": "Kiev, Ukraine"
+  },
+  {
+    "name": "IEM Katowice 2017",
+    "id": "2637",
+    "date": "Mar 1st - Mar 5th 2017",
+    "prize": "$250,000",
+    "location": "Katowice, Poland"
+  },
+  {
+    "name": "IEM Sydney 2018",
+    "id": "3530",
+    "date": "May 1st - May 6th 2018",
+    "prize": "$250,000",
+    "location": "Sydney, Australia"
+  },
+  {
+    "name": "ELEAGUE CS:GO Premier 2017",
+    "id": "3016",
+    "date": "Sep 8th - Oct 13th 2017",
+    "prize": "$1,000,000",
+    "location": "Atlanta, Georgia, USA"
+  },
+  {
+    "name": "SL i-League StarSeries Season 2 Finals",
+    "id": "2325",
+    "date": "Sep 7th - Sep 11th 2016",
+    "prize": "$300,000",
+    "location": "Kiev, Ukraine"
+  },
+  {
+    "name": "StarSeries i-League Season 4",
+    "id": "3486",
+    "date": "Feb 17th - Feb 25th 2018",
+    "prize": "$300,000",
+    "location": "Kiev, Ukraine"
+  },
+  {
+    "name": "SL i-League StarSeries Season 3 Finals",
+    "id": "2683",
+    "date": "Apr 4th - Apr 9th 2017",
+    "prize": "$300,000",
+    "location": "Kiev, Ukraine"
+  },
+  {
+    "name": "ECS Season 4 Finals",
+    "id": "3313",
+    "date": "Dec 15th - Dec 17th 2017",
+    "prize": "$660,000",
+    "location": "Cancun, Mexico"
+  },
+  {
+    "name": "ELEAGUE Major 2017",
+    "id": "2471",
+    "date": "Jan 22nd - Jan 29th 2017",
+    "prize": "$1,000,000",
+    "location": "Atlanta, Georgia, USA"
+  },
+  {
+    "name": "DreamHack Masters Marseille 2018",
+    "id": "3491",
+    "date": "Apr 18th - Apr 22nd 2018",
+    "prize": "$250,000",
+    "location": "Marseille, France"
+  },
+  {
+    "name": "DreamHack Winter 2012",
+    "id": "1021",
+    "date": "Nov 22nd - Nov 24th 2012",
+    "prize": "$45,275",
+    "location": "Jönköping, Sweden"
+  },
+  {
+    "name": "DreamHack Masters Las Vegas 2017",
+    "id": "2541",
+    "date": "Feb 15th - Feb 19th 2017",
+    "prize": "$450,000",
+    "location": "Las Vegas, Nevada, USA"
+  },
+  {
+    "name": "DreamHack Masters Malmö 2016",
+    "id": "2099",
+    "date": "Apr 12th - Apr 17th 2016",
+    "prize": "$250,000",
+    "location": "Malmö, Sweden"
+  }
+]

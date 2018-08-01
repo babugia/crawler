@@ -4,6 +4,11 @@ const RoundHistory = require('./model/round_history.js')
 const Team = require('./model/team.js')
 const Performance = require('./model/performance.js')
 
+var eventsArray = [];
+var performanceArray = [];
+var matchesArray = [];
+var roundHistoryArray = [];
+
 var Crawler = {
 	request : null,
 	cheerio : null,
@@ -16,6 +21,7 @@ var Crawler = {
 		Crawler.fs      = require('fs');
 		Crawler.sleep = require('system-sleep');
 		Crawler.jsonfile = require('jsonfile');
+
 		// Crawler.deleteFileContent('kill_matrix.csv');
 		// Crawler.deleteFileContent('match.csv');
 		// Crawler.deleteFileContent('performance.csv');
@@ -61,17 +67,19 @@ var Crawler = {
 				var link = $(this).find('.name-col a').attr('href');
 				
 				gamb++;
-				console.log('https://www.hltv.org/' + link);
+				// console.log('https://www.hltv.org/' + link);
 				if(gamb!=1){
 					Crawler.getEventInfo('https://www.hltv.org/' + link);
-					// sleep(1000);
+					sleep(1000);
 				
 					eventCount++
-					console.log(`${eventCount} eventos salvos`);
+					// console.log(`${eventCount} eventos salvos`);
 				}	
 			});
 			// console.log(`TEM ${eventCount} EVENTOS`);
+
 		});
+		
         
     },
 	getEventInfo: function (link) {
@@ -100,6 +108,7 @@ var Crawler = {
 
 			var data = name + ';' + id + ';' + date + ';' + prize + ';' + location + ';' + '\n';
 
+			
 			var eventsJson = {};
 
 			eventsJson.name = name;
@@ -108,7 +117,13 @@ var Crawler = {
 			eventsJson.prize = prize;
 			eventsJson.location = location;
 
-			// Crawler.jsonfile.writeFile('events.json', eventsJson, {flag: 'a', spaces: 2}, function (err) {
+			// Crawler.events_array.push = eventsJson;
+			// console.log(Crawler.events_array);
+			// eventsArray.push(eventsJson);
+
+			// console.log(eventsArray.length);
+
+			// Crawler.jsonfile.writeFile('events.json', eventsArray, {spaces: 2}, function (err) {
 			// 	console.error(err)
 			// })
 
@@ -118,6 +133,10 @@ var Crawler = {
 	},
 	getAllMatches: function (link) {
 
+		var matchLink = '';
+        var nextUrl = '';
+
+		function getMatches(link) {
 		Crawler.request(link, function(err, res, body){
 			if(err)
 				console.log('Error: ' + err);
@@ -125,14 +144,21 @@ var Crawler = {
 			var $ = Crawler.cheerio.load(body);
 
 			$('.stats-table.matches-table.no-sort').find("tbody").find("tr").each(function () {
-				// var link = $(this).find('.name-col a').attr('href');
-				// console.log('oi');
-				// console.log('https://www.hltv.org/'+$(this).find("td").eq(0).find("a").attr('href'));
 
-				var matchLink = $(this).find("td").eq(0).find("a").attr('href');
+				 matchLink = $(this).find("td").eq(0).find("a").attr('href');
 				Crawler.getMatch('https://www.hltv.org/'+matchLink);
 			});
+
+			nextUrl = $('.pagination-next').eq(0).attr('href');
+                // console.log('https://www.hltv.org'+nextUrl);
+                if(nextUrl != undefined){
+                    getMatches('https://www.hltv.org'+nextUrl);
+                }
 		});
+
+
+		}
+		getMatches(link);
 	},
 	getMatch: function (link) {
 		//cabeçalho do arquivo
@@ -267,7 +293,13 @@ var Crawler = {
 
 				// console.log(matchJson);
 
+				// console.log('passou no matchjson');
+
 				// Crawler.jsonfile.writeFile('match.json', matchJson, {flag: 'a', spaces: 2}, function (err) {
+				// 	console.error(err)
+				// })
+				matchesArray.push(matchJson);
+				// Crawler.jsonfile.writeFile('matches.json', matchesArray, {spaces: 2}, function (err) {
 				// 	console.error(err)
 				// })
 
@@ -331,11 +363,18 @@ var Crawler = {
 				// Crawler.jsonfile.writeFile('performance.json', performanceJson, {flag: 'a', spaces: 2}, function (err) {
 				// 	console.error(err)
 				//   })
+
+				// performanceArray.push(performanceJson);
+				// Crawler.jsonfile.writeFile('performance.json', performanceArray, {spaces: 2}, function (err) {
+				// 		console.error(err)
+				// })
 				
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
+				// console.log('https://www.hltv.org/' + performanceLink);
 				// Crawler.getMatchMatrix('https://www.hltv.org/' + performanceLink, matchId);
 
-				//  console.log('https://www.hltv.org/' + performanceLink);
+
+				//  
 
 				// console.log($('.match-info-row').eq(0).find("div").eq(0).find("span").eq(2).attr('class'));
 
@@ -475,12 +514,19 @@ var Crawler = {
 				// Crawler.jsonfile.writeFile('round_history.json', roundHistoryJson, {flag: 'a', spaces: 2}, function (err) {
 				// 	console.error(err)
 				// })
+
+				roundHistoryArray.push(roundHistoryJson);
+				
+				 Crawler.jsonfile.writeFile('round_history.json', roundHistoryArray, {spaces: 2}, function (err) {
+						console.error(err)
+					})
 				
 	 
 		});
 	},
 	getMatchMatrix(link, matchId) {
 
+		console.log(link);
 		Crawler.request(link, function(err, res, body){
 			if(err)
 				console.log('Error: ' + err);
@@ -488,15 +534,18 @@ var Crawler = {
 			var $ = Crawler.cheerio.load(body);
 
 			var playerName = [];
+			var team1PlayerName = [];
 			var jump = 0;
 			$('.killmatrix-topbar').eq(0).find("td").each(function () {
 
 				if(jump > 0) {
 					// console.log($(this).find("a").text().trim());
-					playerName.push($(this).find("a").text().trim());
+					team1PlayerName.push($(this).find("a").text().trim());
 				}
 				jump++;
 			});
+
+			
 
 			// console.log(playerName);
 
@@ -509,17 +558,11 @@ var Crawler = {
 			var kill_matrix_first_kills = [];
 			var kill_matrix_awp = [];
 
-			var matrixJson = {};
+			
 
-			matrixJson.matchId = matchId;
-			var all = {
-				team1: []
-			};
-			var teamUm = {
-				players: []
-			};
-			let player = {};
-
+			var team2PlayerName = [];
+			var kills = [];
+			var x = {};
 
 			//KILL MATRIX ALL
 			var tr = 0;
@@ -530,15 +573,24 @@ var Crawler = {
 					$(this).find("td").each(function () {
 						if(td == 0) {
 							// console.log($(this).find("a").text().trim());
-							player1 = $(this).find("a").text().trim();
+							player2 = $(this).find("a").text().trim();
+
+							team2PlayerName.push(player2);
 
 						}
 						if(td > 0){
-							player1Kills = $(this).find("span").eq(0).text().trim();
-							player2Kills = $(this).find("span").eq(1).text().trim();
-							player2 = playerName[td-1];
+							player1Kills = $(this).find(".team1-player-score").text().trim();
+							player2Kills = $(this).find(".team2-player-score").text().trim();
+							player1 = team1PlayerName[td-1];
 							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
 							kill_matrix_all.push(matrix);
+
+							x = {};
+
+							x.team1playerKills = player1Kills;
+							x.team2playerKills = player2Kills;
+
+							kills.push(x);
 
 						}
 						td++;
@@ -553,6 +605,73 @@ var Crawler = {
 
 			});
 
+			var matrixJson = {};
+
+			matrixJson.matchId = matchId;
+			var all = {
+				team1: [],
+				team2: []
+			};
+			var teamUm = {
+				players_kill: []
+			};
+			var teamDois = {
+				 player_kills: []
+			};
+
+			for(var i =0; i < team1PlayerName.length; i++){
+				var teamUm = {
+					players_kill: []
+				};
+				teamUm.player = team1PlayerName[i];
+				for(var j = 0; j< team2PlayerName.length;j++){
+					var x = {};
+					x.player = team2PlayerName[j];
+					
+					gamb = j*5+i;
+					
+					x.kills = kills[gamb].team1playerKills;
+
+					const key = team2PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team1playerKills
+					};
+
+					teamUm.players_kill.push(object);
+					
+				}
+				// console.log(teamUm);
+				all.team1.push(teamUm)
+			}
+
+
+			for(var i =0; i < team2PlayerName.length; i++){
+				var teamDois = {
+					players_kill: []
+				};
+				teamDois.player = team2PlayerName[i];
+
+				for(var j = 0; j< team1PlayerName.length;j++){
+					var x = {};
+					x.player = team1PlayerName[j];
+					
+					gamb = i*5+j;
+					
+					x.kills = kills[gamb].team2playerKills;
+					const key = team1PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team2playerKills
+					};
+
+					teamDois.players_kill.push(object);
+					
+				}
+				// console.log(teamDois);
+				all.team2.push(teamDois)
+			}
+
+			matrixJson.all = all;
+
 			var kill_matrix = '';
 
 			kill_matrix_all.forEach(matrix => {
@@ -563,9 +682,9 @@ var Crawler = {
 				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
 
-			
 
-
+			var kills = [];
+			var x = {};
 
 			//KILL MATRIX FIRST KILLS
 			killType = 'First Kills';
@@ -577,15 +696,24 @@ var Crawler = {
 					$(this).find("td").each(function () {
 						if(td == 0) {
 							// console.log($(this).find("a").text().trim());
-							player1 = $(this).find("a").text().trim();
+							player2 = $(this).find("a").text().trim();
+							// console.log(player2);
 
 						}
 						if(td > 0){
-							player1Kills = $(this).find("span").eq(0).text().trim();
-							player2Kills = $(this).find("span").eq(1).text().trim();
-							player2 = playerName[td-1];
+							player1Kills = $(this).find(".team1-player-score").text().trim();
+							player2Kills = $(this).find(".team2-player-score").text().trim();
+							player1 = team1PlayerName[td-1]
 							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
 							kill_matrix_first_kills.push(matrix);
+
+							x = {};
+
+							x.team1playerKills = player1Kills;
+							x.team2playerKills = player2Kills;
+
+
+							kills.push(x);
 
 						}
 						td++;
@@ -600,6 +728,73 @@ var Crawler = {
 
 			});
 
+			var first_kills = {
+				team1: [],
+				team2: []
+			};
+			var teamUm = {
+				players_kill: []
+			};
+			var teamDois = {
+				 player_kills: []
+			};
+
+
+			for(var i =0; i < team1PlayerName.length; i++){
+				var teamUm = {
+					players_kill: []
+				};
+				teamUm.player = team1PlayerName[i];
+				for(var j = 0; j< team2PlayerName.length;j++){
+					var x = {};
+					x.player = team2PlayerName[j];
+					gamb = j*5+i;
+
+					
+					x.kills = kills[gamb].team1playerKills;
+
+					const key = team2PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team1playerKills
+					};
+
+					teamUm.players_kill.push(object);
+					
+				}
+				// console.log(teamUm);
+				first_kills.team1.push(teamUm)
+			}
+
+
+			for(var i =0; i < team2PlayerName.length; i++){
+				var teamDois = {
+					players_kill: []
+				};
+				teamDois.player = team2PlayerName[i];
+
+				for(var j = 0; j< team1PlayerName.length;j++){
+					var x = {};
+					x.player = team1PlayerName[j];
+					
+					gamb = i*5+j;
+					
+					x.kills = kills[gamb].team2playerKills;
+
+					const key = team1PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team2playerKills
+					};
+
+					teamDois.players_kill.push(object);
+					
+				}
+				// console.log(teamDois);
+				first_kills.team2.push(teamDois)
+			}
+
+			matrixJson.first_kills = first_kills;
+
+
 			kill_matrix = '';
 
 			kill_matrix_first_kills.forEach(matrix => {
@@ -607,6 +802,9 @@ var Crawler = {
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
 				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
+
+			var kills = [];
+			var x = {};
 
 			//KILL MATRIX AWP KILLS
 			killType = 'Awp Kills';
@@ -618,15 +816,23 @@ var Crawler = {
 					$(this).find("td").each(function () {
 						if(td == 0) {
 							// console.log($(this).find("a").text().trim());
-							player1 = $(this).find("a").text().trim();
+							player2 = $(this).find("a").text().trim();
 
 						}
 						if(td > 0){
-							player1Kills = $(this).find("span").eq(0).text().trim();
-							player2Kills = $(this).find("span").eq(1).text().trim();
-							player2 = playerName[td-1];
+							player1Kills = $(this).find(".team1-player-score").text().trim();
+							player2Kills = $(this).find(".team2-player-score").text().trim();
+							player1 = playerName[td-1];
 							var matrix = new KillMatrix(killType, player1, player1Kills, player2, player2Kills);
 							kill_matrix_awp.push(matrix);
+
+							x = {};
+
+							x.team1playerKills = player1Kills;
+							x.team2playerKills = player2Kills;
+
+
+							kills.push(x);
 
 						}
 						td++;
@@ -641,6 +847,83 @@ var Crawler = {
 
 			});
 
+			var awp = {
+				team1: [],
+				team2: []
+			};
+			var teamUm = {
+				players_kill: []
+			};
+			var teamDois = {
+				 player_kills: []
+			};
+
+			var player = {};
+
+			for(var i =0; i < team1PlayerName.length; i++){
+				var teamUm = {
+					players_kill: []
+				};
+				teamUm.player = team1PlayerName[i];
+				for(var j = 0; j< team2PlayerName.length;j++){
+					var x = {};
+					x.player = team2PlayerName[j];
+					gamb = j*5+i;
+
+					
+					x.kills = kills[gamb].team1playerKills;
+
+					const key = team2PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team1playerKills
+					};
+
+					teamUm.players_kill.push(object);
+					
+				}
+				// console.log(teamUm);
+				awp.team1.push(teamUm)
+			}
+
+
+			for(var i =0; i < team2PlayerName.length; i++){
+				var teamDois = {
+					players_kill: []
+				};
+				teamDois.player = team2PlayerName[i];
+
+				for(var j = 0; j< team1PlayerName.length;j++){
+					var x = {};
+					x.player = team1PlayerName[j];
+					
+					gamb = i*5+j;
+					
+					x.kills = kills[gamb].team2playerKills;
+
+					const key = team1PlayerName[j];  
+					const object = {   
+						[key]: kills[gamb].team2playerKills
+					};
+
+					teamDois.players_kill.push(object);
+					
+				}
+				// console.log(teamDois);
+				awp.team2.push(teamDois)
+			}
+
+			matrixJson.awp = awp;
+
+			// console.log(matrixJson);
+
+			console.log('passou aqui');
+			// Crawler.kill_matrix_json_array.push(matrixJson);
+			// console.log(Crawler.kill_matrix_json_array);
+
+			// Crawler.jsonfile.writeFile('kill_matrix.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
+			// 	console.error(err)
+			// })
+
 			kill_matrix = '';
 
 			kill_matrix_awp.forEach(matrix => {
@@ -648,13 +931,6 @@ var Crawler = {
 					matrix.player2 + ';' + matrix.player2Kills + ';' +  '\n' ;
 				// Crawler.appendFile('kill_matrix.csv', kill_matrix);
 			})
-
-
-
-			// Crawler.jsonfile.writeFile('kill_matrix.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
-			// 	console.error(err)
-			// })
-
 
 			// var performance = $('.graph.small').eq(0).find("data-fusionchart-config").text().trim();
 			// var json = JSON.stringify(performance);
