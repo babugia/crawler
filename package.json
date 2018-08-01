@@ -1,7 +1,7 @@
 {
   "name": "Champion-prediction-crawler",
   "version": "1.0.0",
-  "description": "Crawler to tcc",
+  "description": "crawler for tcc",
   "main": "crawler.js",
   "dependencies": {
     "cheerio": "^0.20.0",

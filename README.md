@@ -1,4 +1,4 @@
-# dctb-crawler
-Just a simple crawler in NodeJS
+# Champion-prediction-crawler
+crawler for tcc, about CS:GO.
 
-Source: https://www.youtube.com/watch?v=2B6MpQvsQp0&feature=youtu.be&aWeb# crawler
+
