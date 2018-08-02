@@ -8,19 +8,17 @@ var eventsArray = [];
 var performanceArray = [];
 var matchesArray = [];
 var roundHistoryArray = [];
+const sleep = require('system-sleep');
+const jsonfile = require('jsonfile');
 
 var Crawler = {
 	request : null,
 	cheerio : null,
 	fs      : null,
-	sleep: null,
-	jsonfile: null,
 	init : function(){
 		Crawler.request = require('request');
 		Crawler.cheerio = require('cheerio');
 		Crawler.fs      = require('fs');
-		Crawler.sleep = require('system-sleep');
-		Crawler.jsonfile = require('jsonfile');
 
 		// Crawler.deleteFileContent('kill_matrix.csv');
 		// Crawler.deleteFileContent('match.csv');
@@ -61,7 +59,6 @@ var Crawler = {
 			var $ = Crawler.cheerio.load(body);
 			var gamb = 0;
 			var eventCount = 0;
-			var sleep = require('system-sleep');
 			//recupera links e conteudo dos artigos na página
 			$('.stats-table.events-table .name-col').each(function () {
 				var link = $(this).find('.name-col a').attr('href');
@@ -117,13 +114,12 @@ var Crawler = {
 			eventsJson.prize = prize;
 			eventsJson.location = location;
 
-			// Crawler.events_array.push = eventsJson;
-			// console.log(Crawler.events_array);
+		
 			// eventsArray.push(eventsJson);
 
 			// console.log(eventsArray.length);
 
-			// Crawler.jsonfile.writeFile('events.json', eventsArray, {spaces: 2}, function (err) {
+			// jsonfile.writeFile('events.json', eventsArray, {spaces: 2}, function (err) {
 			// 	console.error(err)
 			// })
 
@@ -161,9 +157,6 @@ var Crawler = {
 		getMatches(link);
 	},
 	getMatch: function (link) {
-		//cabeçalho do arquivo
-		// Crawler.appendFile('name;id;date;prize;location\n');
-
 
 		Crawler.request(link, function(err, res, body){
 			if(err)
@@ -216,7 +209,6 @@ var Crawler = {
 				};
 				var Team1Players = [];
 
-				//ACERTAR O ARRAY
 				$('.stats-table').find("tbody").eq(0).find("tr").each(function () {
 					player.name = $(this).find("td").eq(0).text().trim();
 					var kill = $(this).find("td").eq(1).text().trim();
@@ -261,8 +253,6 @@ var Crawler = {
 					// console.log(Team2Players);
 				});
 
-				//fix Round history, FZR CONTADORES E INCREMENTAR DE ACORDO COM O SRC
-
 				var match = matchId + ';' + eventId + ';' + date + ';' + team1 + ';' + team1_score + ';' + team1_clutches + ';' + 
 							team1_rating + ';' + team1_firstkills + ';' +  team2 + ';' + team2_score + ';' + team2_clutches + ';' + 
 							team2_rating + ';' + team2_firstkills + ';' + map + ';' + eventName + ';' +  '\n'
@@ -295,11 +285,11 @@ var Crawler = {
 
 				// console.log('passou no matchjson');
 
-				// Crawler.jsonfile.writeFile('match.json', matchJson, {flag: 'a', spaces: 2}, function (err) {
+				// jsonfile.writeFile('match.json', matchJson, {flag: 'a', spaces: 2}, function (err) {
 				// 	console.error(err)
 				// })
 				matchesArray.push(matchJson);
-				// Crawler.jsonfile.writeFile('matches.json', matchesArray, {spaces: 2}, function (err) {
+				// jsonfile.writeFile('matches.json', matchesArray, {spaces: 2}, function (err) {
 				// 	console.error(err)
 				// })
 
@@ -360,12 +350,12 @@ var Crawler = {
 				 
 				//  Crawler.appendFile('performance.json', JSON.stringify(jsonTest));
 
-				// Crawler.jsonfile.writeFile('performance.json', performanceJson, {flag: 'a', spaces: 2}, function (err) {
+				// jsonfile.writeFile('performance.json', performanceJson, {flag: 'a', spaces: 2}, function (err) {
 				// 	console.error(err)
 				//   })
 
 				// performanceArray.push(performanceJson);
-				// Crawler.jsonfile.writeFile('performance.json', performanceArray, {spaces: 2}, function (err) {
+				// jsonfile.writeFile('performance.json', performanceArray, {spaces: 2}, function (err) {
 				// 		console.error(err)
 				// })
 				
@@ -511,13 +501,13 @@ var Crawler = {
 				teamDois.exploded = round1.exploded;
 				roundHistoryJson.team2 = teamDois;
 
-				// Crawler.jsonfile.writeFile('round_history.json', roundHistoryJson, {flag: 'a', spaces: 2}, function (err) {
+				// jsonfile.writeFile('round_history.json', roundHistoryJson, {flag: 'a', spaces: 2}, function (err) {
 				// 	console.error(err)
 				// })
 
 				roundHistoryArray.push(roundHistoryJson);
 				
-				 Crawler.jsonfile.writeFile('round_history.json', roundHistoryArray, {spaces: 2}, function (err) {
+				 jsonfile.writeFile('round_history.json', roundHistoryArray, {spaces: 2}, function (err) {
 						console.error(err)
 					})
 				
@@ -920,7 +910,7 @@ var Crawler = {
 			// Crawler.kill_matrix_json_array.push(matrixJson);
 			// console.log(Crawler.kill_matrix_json_array);
 
-			// Crawler.jsonfile.writeFile('kill_matrix.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
+			// jsonfile.writeFile('kill_matrix.json', matrixJson, {flag: 'a', spaces: 2}, function (err) {
 			// 	console.error(err)
 			// })
 

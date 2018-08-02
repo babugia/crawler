@@ -3,6 +3,8 @@ show databases;
 use champion_prediction;
 
 create database champion_prediction;
+
+create database tutorial;
   
   show tables;
   

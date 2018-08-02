@@ -46,7 +46,8 @@ var Crawler = {
 			console.log(location);
 
 			var data = name + ';' + id + ';' + date + ';' + prize + ';' + location + ';' + '\n';
-			Crawler.appendFile(data);
+
+			// Crawler.appendFile(data);
 		});
 	}
 };
