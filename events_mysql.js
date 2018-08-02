@@ -42,7 +42,6 @@ var Crawler = {
 
 			var $ = Crawler.cheerio.load(body);
 			var gamb = 0;
-            var eventCount = 0;
             
 			$('.stats-table.events-table .name-col').each(function () {
 				var link = $(this).find('.name-col a').attr('href');
@@ -51,12 +50,8 @@ var Crawler = {
 				// console.log('https://www.hltv.org/' + link);
 				if(gamb!=1){
 					Crawler.getEventInfo('https://www.hltv.org/' + link);
-				
-					eventCount++
-					// console.log(`${eventCount} eventos salvos`);
 				}	
 			});
-			// console.log(`TEM ${eventCount} EVENTOS`);
 
 		});
 		

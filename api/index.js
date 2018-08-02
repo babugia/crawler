@@ -19,7 +19,7 @@ router.get('/events', async (req, res) =>{
 
 router.post('/events', async (req, res) =>{
     try {
-        console.log(req.body.name);
+        console.log(req.body.id);
         // const name = req.body.name.substring(0,51);
         // const id = req.body.id;
         // const date = req.body.date.substring(0,24);
