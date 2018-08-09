@@ -1,0 +1,15 @@
+id
+event_id
+name
+maps
+kd_diff
+kd
+rating
+round_win_percentage
+opening_duel_percentage
+multi_kills_per_round_percentage
+win_5x4
+win_4x5
+deaths_traded
+adr
+fa

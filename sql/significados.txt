@@ -1,0 +1,35 @@
+PLAYER
+
+saved_by_teammate = Quantas vezes um companheiro de equipe matou o atacante que estava causando dano a este jogador dentro de 1 segundo do último ataque
+
+saved_teammates = Quantas vezes este jogador matou um oponente que estava atacando um companheiro de equipe, dentro de 1 segundo do último ataque
+
+win_after_first_kill = porcentagem de qnts rounds ganhos depois do primeiro kill ter sido deles
+
+first_kill_in_won_rounds = porcentagem de first kill deste jogador em rounds ganhos
+
+KAST = kill, assist, survived ou traded
+
+TEAM
+
+kd_diff = diferença entre kills e deaths
+
+kd = kill/deaths
+
+opening_duel_percentage = porcentagem de rounds onde o time ganhou o primeiro duelo 
+
+multi_kills_per_round_percentage = Multikills por rodada pelos jogadores da equipe
+
+win_5x4 = porcentagem de rounds que o time ganhou quando estava 5x4
+
+deaths_traded = Porcentagem de mortes da equipe que foram trocadas, qndo um do time morreu, o companheiro matou o cara q matou o aliado
+
+adr = damagem por round com granadas, molotov e incendiaria
+
+fa = assistências com flash (granada q cega) por rodada (Um fa acontece quando um oponente cego por este jogador foi morto enquanto foi afetado pela flash)
+
+
+clutches = quando sobra 1 vs X e este 1 ganha o round
+
+
+

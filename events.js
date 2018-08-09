@@ -11,6 +11,24 @@ var roundHistoryArray = [];
 const sleep = require('system-sleep');
 const jsonfile = require('jsonfile');
 
+var map = '';
+
+// const mysql = require('mysql');
+
+// const connection = mysql.createConnection({
+//     host     : 'localhost',
+//     port     : 3306,
+//     user     : 'root',
+//     password : 'databasetcc2018',
+//     database : 'champion_prediction'
+//   });
+
+//   function execSQLQuery(sqlQry){
+//     connection.query(sqlQry, function(error, results, fields){
+//         // console.log('executou!');
+//     });
+//   }
+
 var Crawler = {
 	request : null,
 	cheerio : null,
@@ -64,10 +82,10 @@ var Crawler = {
 				var link = $(this).find('.name-col a').attr('href');
 				
 				gamb++;
-				// console.log('https://www.hltv.org/' + link);
+				console.log('https://www.hltv.org/' + link);
 				if(gamb!=1){
 					Crawler.getEventInfo('https://www.hltv.org/' + link);
-					sleep(1000);
+					sleep(200);
 				
 					eventCount++
 					// console.log(`${eventCount} eventos salvos`);
@@ -89,30 +107,31 @@ var Crawler = {
 
 			var $ = Crawler.cheerio.load(body);
 
-			var name = $('.eventname').text().trim();
-			var id = $('.event-header-component.event-holder.header a').attr('href').substring(8,12);
-			var date = $('.eventdate').text().trim();
-			var fields = date.split('Date');
-			var date = fields[1];
-			var prize = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 1 ).text().trim();
-			var teams = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 2 ).text().trim();
-			var location = $('.flag-align').text().trim();
+			// var name = $('.eventname').text().trim();
+			// var id = $('.event-header-component.event-holder.header a').attr('href').substring(8,12);
+			// var date = $('.eventdate').text().trim();
+			// var fields = date.split('Date');
+			// var date = fields[1];
+			// var prize = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 1 ).text().trim();
+			// var teams = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 2 ).text().trim();
+			// var location = $('.flag-align').text().trim();
 
 			var matchesLink = $('.stats-section.stats-team.stats-sidebar').find('.sidebar-single-line-item').eq(3).attr('href').trim();
-			// console.log('https://www.hltv.org/'+matchesLink);
+			console.log('https://www.hltv.org/'+matchesLink);
 
 			Crawler.getAllMatches('https://www.hltv.org/'+matchesLink);
+			sleep(200);
 
-			var data = name + ';' + id + ';' + date + ';' + prize + ';' + location + ';' + '\n';
+			// var data = name + ';' + id + ';' + date + ';' + prize + ';' + location + ';' + '\n';
 
 			
-			var eventsJson = {};
+			// var eventsJson = {};
 
-			eventsJson.name = name;
-			eventsJson.id = id;
-			eventsJson.date = date;
-			eventsJson.prize = prize;
-			eventsJson.location = location;
+			// eventsJson.name = name;
+			// eventsJson.id = id;
+			// eventsJson.date = date;
+			// eventsJson.prize = prize;
+			// eventsJson.location = location;
 
 		
 			// eventsArray.push(eventsJson);
@@ -142,7 +161,9 @@ var Crawler = {
 			$('.stats-table.matches-table.no-sort').find("tbody").find("tr").each(function () {
 
 				 matchLink = $(this).find("td").eq(0).find("a").attr('href');
-				Crawler.getMatch('https://www.hltv.org/'+matchLink);
+				 map = $(this).find('.dynamic-map-name-full').text().trim();
+				Crawler.getMatch('https://www.hltv.org/'+matchLink, map);
+				sleep(200);
 			});
 
 			nextUrl = $('.pagination-next').eq(0).attr('href');
@@ -156,142 +177,145 @@ var Crawler = {
 		}
 		getMatches(link);
 	},
-	getMatch: function (link) {
+	getMatch: function (link, map) {
 
 		Crawler.request(link, function(err, res, body){
 			if(err)
 				console.log('Error: ' + err);
 
+			// var mapa = map;
+
 			var $ = Crawler.cheerio.load(body);
 
-				var idLink = $('.block.text-ellipsis').attr('href');
-				var eventId = idLink.substring(idLink.length-4,idLink.length);
+				// var idLink = $('.block.text-ellipsis').attr('href');
+				// var eventId = idLink.substring(idLink.length-4,idLink.length);
 
-				idLink = $('.stats-top-menu-item-link.selected').attr('href');
-				var matchId = idLink.substring(26, 31);
+				// idLink = $('.stats-top-menu-item-link.selected').attr('href');
+				// var matchId = idLink.substring(26, 31);
 
-				var eventName = $('.menu-header').text().trim();
-				// console.log(eventName);
-				var date = $('.match-info-box-con .small-text').find("span").eq(0).text().trim().substring(0,10);
-				var team1 = $('.match-info-box-con .team-left a').text().trim();
-				var team1_score = $('.match-info-box-con .team-left').find("div").eq(0).text().trim();
-				var team2 = $('.match-info-box-con .team-right a').text().trim();
-				var team2_score = $('.match-info-box-con .team-right').find("div").eq(0).text().trim();
+				// var eventName = $('.menu-header').text().trim();
+				// // console.log(eventName);
+				// var date = $('.match-info-box-con .small-text').find("span").eq(0).text().trim().substring(0,10);
+				// var team1 = $('.match-info-box-con .team-left a').text().trim();
+				// var team1_score = $('.match-info-box-con .team-left').find("div").eq(0).text().trim();
+				// var team2 = $('.match-info-box-con .team-right a').text().trim();
+				// var team2_score = $('.match-info-box-con .team-right').find("div").eq(0).text().trim();
 				
-				var team1_rating = $('.match-info-box-con .match-info-row').eq(1).find("div").eq(0).text().trim().substring(0,4);
-				var team2_rating = $('.match-info-box-con .match-info-row').eq(1).find("div").eq(0).text().trim().substring(7,11);
-				var firstKills = $('.match-info-box-con .match-info-row').eq(2).find("div").eq(0).text().trim();
-				var fields = firstKills.split(':');
-				var team1_firstkills = fields[0];
-				var team2_firstkills = fields[1];
+				// var team1_rating = $('.match-info-box-con .match-info-row').eq(1).find("div").eq(0).text().trim().substring(0,4);
+				// var team2_rating = $('.match-info-box-con .match-info-row').eq(1).find("div").eq(0).text().trim().substring(7,11);
+				// var firstKills = $('.match-info-box-con .match-info-row').eq(2).find("div").eq(0).text().trim();
+				// var fields = firstKills.split(':');
+				// var team1_firstkills = fields[0];
+				// var team2_firstkills = fields[1];
 
-				var map = '';
-				$('.col.stats-match-map.standard-box.a-reset').each(function () {
-					if($(this).attr('href') == idLink) {
-						map = $(this).find(".stats-match-map-result-mapname.dynamic-map-name-full").text().trim();
-					}
+
+				// var clutches = $('.match-info-box-con .match-info-row').eq(3).find("div").eq(0).text().trim();
+				// var fields = clutches.split(':');
+				// var team1_clutches = fields[0];
+				// var team2_clutches = fields[1];
+				// var player = {
+				// 	name: String,
+				// 	kills: String,
+				// 	assists: String,
+				// 	deaths: String,
+				// 	kast: String,
+				// 	adr: String,
+				// 	fkDiff: String,
+				// 	rating: String
+				// };
+				// var Team1Players = [];
+
+				// $('.stats-table').find("tbody").eq(0).find("tr").each(function () {
+				// 	player.name = $(this).find("td").eq(0).text().trim();
+				// 	var kill = $(this).find("td").eq(1).text().trim();
+				// 	var fields = kill.split('(');
+				// 	player.kills = fields[0];
+				// 	var assist = $(this).find("td").eq(2).text().trim();
+				// 	fields = assist.split('(');
+				// 	player.assists = fields[0];
+				// 	player.deaths = $(this).find("td").eq(3).text().trim();
+				// 	player.kast = $(this).find("td").eq(4).text().trim();
+				// 	player.adr = $(this).find("td").eq(6).text().trim();
+				// 	player.fkDiff = $(this).find("td").eq(7).text().trim();
+				// 	player.rating = $(this).find("td").eq(8).text().trim();
 					
-				});
+				// 	var x = new Player(player.name, player.kills, player.assists, player.deaths, player.kast, player.adr, player.fkDiff, player.rating);
+				// 	// console.log(player);
+				// 	Team1Players.push(x);	
+				// 	// console.log(Team1Players);
+				// });
 
-				var clutches = $('.match-info-box-con .match-info-row').eq(3).find("div").eq(0).text().trim();
-				var fields = clutches.split(':');
-				var team1_clutches = fields[0];
-				var team2_clutches = fields[1];
-				var player = {
-					name: String,
-					kills: String,
-					assists: String,
-					deaths: String,
-					kast: String,
-					adr: String,
-					fkDiff: String,
-					rating: String
-				};
-				var Team1Players = [];
+				// // console.log(Team1Players);
 
-				$('.stats-table').find("tbody").eq(0).find("tr").each(function () {
-					player.name = $(this).find("td").eq(0).text().trim();
-					var kill = $(this).find("td").eq(1).text().trim();
-					var fields = kill.split('(');
-					player.kills = fields[0];
-					var assist = $(this).find("td").eq(2).text().trim();
-					fields = assist.split('(');
-					player.assists = fields[0];
-					player.deaths = $(this).find("td").eq(3).text().trim();
-					player.kast = $(this).find("td").eq(4).text().trim();
-					player.adr = $(this).find("td").eq(6).text().trim();
-					player.fkDiff = $(this).find("td").eq(7).text().trim();
-					player.rating = $(this).find("td").eq(8).text().trim();
+				// var Team2Players = [];
+
+				// $('.stats-table').find("tbody").eq(1).find("tr").each(function () {
+				// 	player.name = $(this).find("td").eq(0).text().trim();
+				// 	var kill = $(this).find("td").eq(1).text().trim();
+				// 	var fields = kill.split('(');
+				// 	player.kills = fields[0];
+				// 	var assist = $(this).find("td").eq(2).text().trim();
+				// 	fields = assist.split('(');
+				// 	player.assists = fields[0];
+				// 	player.deaths = $(this).find("td").eq(3).text().trim();
+				// 	player.kast = $(this).find("td").eq(4).text().trim();
+				// 	player.adr = $(this).find("td").eq(6).text().trim();
+				// 	player.fkDiff = $(this).find("td").eq(7).text().trim();
+				// 	player.rating = $(this).find("td").eq(8).text().trim();
 					
-					var x = new Player(player.name, player.kills, player.assists, player.deaths, player.kast, player.adr, player.fkDiff, player.rating);
-					// console.log(player);
-					Team1Players.push(x);	
-					// console.log(Team1Players);
-				});
+				// 	var x = new Player(player.name, player.kills, player.assists, player.deaths, player.kast, player.adr, player.fkDiff, player.rating);
+				// 	// console.log(player);
+				// 	Team2Players.push(x);	
+				// 	// console.log(Team2Players);
+				// });
 
-				// console.log(Team1Players);
+				// var match = matchId + ';' + eventId + ';' + date + ';' + team1 + ';' + team1_score + ';' + team1_clutches + ';' + 
+				// 			team1_rating + ';' + team1_firstkills + ';' +  team2 + ';' + team2_score + ';' + team2_clutches + ';' + 
+				// 			team2_rating + ';' + team2_firstkills + ';' + map + ';' + eventName + ';' +  '\n'
+				// // Crawler.appendFile('match.csv', match);
+				// //  console.log(match);
 
-				var Team2Players = [];
+				// var matchJson = {};
 
-				$('.stats-table').find("tbody").eq(1).find("tr").each(function () {
-					player.name = $(this).find("td").eq(0).text().trim();
-					var kill = $(this).find("td").eq(1).text().trim();
-					var fields = kill.split('(');
-					player.kills = fields[0];
-					var assist = $(this).find("td").eq(2).text().trim();
-					fields = assist.split('(');
-					player.assists = fields[0];
-					player.deaths = $(this).find("td").eq(3).text().trim();
-					player.kast = $(this).find("td").eq(4).text().trim();
-					player.adr = $(this).find("td").eq(6).text().trim();
-					player.fkDiff = $(this).find("td").eq(7).text().trim();
-					player.rating = $(this).find("td").eq(8).text().trim();
-					
-					var x = new Player(player.name, player.kills, player.assists, player.deaths, player.kast, player.adr, player.fkDiff, player.rating);
-					// console.log(player);
-					Team2Players.push(x);	
-					// console.log(Team2Players);
-				});
-
-				var match = matchId + ';' + eventId + ';' + date + ';' + team1 + ';' + team1_score + ';' + team1_clutches + ';' + 
-							team1_rating + ';' + team1_firstkills + ';' +  team2 + ';' + team2_score + ';' + team2_clutches + ';' + 
-							team2_rating + ';' + team2_firstkills + ';' + map + ';' + eventName + ';' +  '\n'
-				// Crawler.appendFile('match.csv', match);
-				//  console.log(match);
-
-				var matchJson = {};
-
-				matchJson.matchId = matchId;
-				matchJson.eventId = eventId;
-				matchJson.eventName = eventName;
-				matchJson.map = map;
-				var teamUm = {};
-				teamUm.name = team1;
-				teamUm.score = team1_score;
-				teamUm.clutches = team1_clutches;
-				teamUm.firstKills = team1_firstkills;
-				teamUm.rating = team1_rating;
-				matchJson.team1 = teamUm;
-				var teamDois = {};
-				teamDois.name = team2;
-				teamDois.score = team2_score;
-				teamDois.clutches = team2_clutches;
-				teamDois.firstKills = team2_firstkills;
-				teamDois.rating = team2_rating;
-				matchJson.team2 = teamDois;
+				// matchJson.matchId = matchId;
+				// matchJson.eventId = eventId;
+				// matchJson.eventName = eventName;
+				// matchJson.map = mapa;
+				// var teamUm = {};
+				// teamUm.name = team1;
+				// teamUm.score = team1_score;
+				// teamUm.clutches = team1_clutches;
+				// teamUm.firstKills = team1_firstkills;
+				// teamUm.rating = team1_rating;
+				// matchJson.team1 = teamUm;
+				// var teamDois = {};
+				// teamDois.name = team2;
+				// teamDois.score = team2_score;
+				// teamDois.clutches = team2_clutches;
+				// teamDois.firstKills = team2_firstkills;
+				// teamDois.rating = team2_rating;
+				// matchJson.team2 = teamDois;
 
 
-				// console.log(matchJson);
+				// // console.log(matchJson);
 
-				// console.log('passou no matchjson');
+				// // console.log('passou no matchjson');
 
-				// jsonfile.writeFile('match.json', matchJson, {flag: 'a', spaces: 2}, function (err) {
-				// 	console.error(err)
-				// })
-				matchesArray.push(matchJson);
+				// // jsonfile.writeFile('match.json', matchJson, {flag: 'a', spaces: 2}, function (err) {
+				// // 	console.error(err)
+				// // })
+				// matchesArray.push(matchJson);
 				// jsonfile.writeFile('matches.json', matchesArray, {spaces: 2}, function (err) {
 				// 	console.error(err)
 				// })
+				// execSQLQuery(`INSERT INTO matches(matchId, eventId, eventName, map, team1_name, team1_score, team1_clutches, team1_firstKills, team1_rating,
+				// 	team2_name, team2_score, team2_clutches, team2_firstKills, team2_rating) 
+				// 	VALUES('${matchJson.matchId}','${matchJson.eventId}','${matchJson.eventName}','${matchJson.map}',
+				// 	'${matchJson.team1.name}', '${matchJson.team1.score}', '${matchJson.team1.clutches}', '${matchJson.team1.firstKills}', '${matchJson.team1.rating}',
+				// 	'${matchJson.team2.name}', '${matchJson.team2.score}', '${matchJson.team2.clutches}', '${matchJson.team2.firstKills}', '${matchJson.team2.rating}')`);
+
+				// execSQLQuery(`UPDATE matches SET map = ${matchJson.map} WHERE map=''`);
+
 
 				var performance = '';
 				
@@ -300,8 +324,7 @@ var Crawler = {
 				performanceJson.team1 = [];
 				performanceJson.team2 = [];
 
-				// var jsonfile = require('jsonfile')
-
+				
 				 Team1Players.forEach(player => {
 					performance = matchId + ';' + team1 + ';' + player.name + ';' + player.kills + ';' + 
 					player.assists + ';' + player.deaths + ';' + player.kast + ';' + player.adr + ';' + 
@@ -354,10 +377,10 @@ var Crawler = {
 				// 	console.error(err)
 				//   })
 
-				// performanceArray.push(performanceJson);
-				// jsonfile.writeFile('performance.json', performanceArray, {spaces: 2}, function (err) {
-				// 		console.error(err)
-				// })
+				performanceArray.push(performanceJson);
+				jsonfile.writeFile('performance.json', performanceArray, {spaces: 2}, function (err) {
+						console.error(err)
+				})
 				
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
 				// console.log('https://www.hltv.org/' + performanceLink);
@@ -507,9 +530,9 @@ var Crawler = {
 
 				roundHistoryArray.push(roundHistoryJson);
 				
-				 jsonfile.writeFile('round_history.json', roundHistoryArray, {spaces: 2}, function (err) {
-						console.error(err)
-					})
+				//  jsonfile.writeFile('round_history.json', roundHistoryArray, {spaces: 2}, function (err) {
+				// 		console.error(err)
+				// 	})
 				
 	 
 		});
