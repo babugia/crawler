@@ -18,8 +18,6 @@ var Crawler = {
 		Crawler.getLinks();
 	},
     getLinks: function () {
-        //DEPOIS QUE TERMINAR O CRAWLER, VER SE O SIZE DOS ARQUIVOS CRIADOS SÃO MAIORES DO QUE OS SALVOS NA /JSON
-
         var stats = Crawler.fs.statSync('./jsons/team_overview.json');
         const team_overview_size = stats.size;
         stats = Crawler.fs.statSync('./jsons/team_ftu.json');
