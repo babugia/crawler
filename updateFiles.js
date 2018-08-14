@@ -1,5 +1,7 @@
 const fs = require('fs');
 const jsonfile = require('jsonfile');
+const sleep = require('system-sleep');
+
 
 //NEWS 
 const match_overview_new = './matches_scripts/match_overview.json'
@@ -27,7 +29,11 @@ const team_ftu_saved = './jsons/team_ftu.json';
 const team_overview_saved= './jsons/team_overview.json';
 const team_pistol_saved = './jsons/team_pistol.json';
 
-// fs.readFile(team_pistol_saved, 'utf8', function (err, data) { //team_overview, team_ftu, team_pistol
+const test_saved = './jsons/testes/test1.json';
+const test_new = './jsons/testes/test2.json';
+
+
+// fs.readFile(match_round_history_new, 'utf8', function (err, data) { //team_overview, team_ftu, team_pistol
 //     if (err) throw err;
 //     savedJson = JSON.parse(data);
 //     console.log('saved size = '+savedJson.length);
@@ -48,34 +54,38 @@ function uploadFile(saved_patch, new_patch) {
         actualJson = JSON.parse(data);
         console.log('actual size = '+actualJson.length);
 
-        actualJson.forEach(team => {
-            // let index = savedJson.indexOf(team);
-            // if(index == -1){
-            //     i++;
-            //     savedJson.push(team);
-            // } 
-            var targetKeys = Object.keys(team);
-            var index = savedJson.findIndex(function(entry) {
-                var keys = Object.keys(entry);
-                return keys.length == targetKeys.length && keys.every(function(key) {
-                    return team.hasOwnProperty(key) && entry[key] === team[key];
-               });
-            });
-            if(index == -1){
-                i++;
-                savedJson.push(team);
-                // console.log(index);
-            }
+        // actualJson.forEach(team => {
+        //     // console.log(team);
+
+        //     var targetKeys = Object.keys(team);
+        //     var index = savedJson.findIndex(function(entry) {
+        //         // console.log(entry);
+        //         var keys = Object.keys(entry);
+        //         return keys.length == targetKeys.length && keys.every(function(key) {
+        //             return team.hasOwnProperty(key) && entry[key] === team[key];
+        //        });
+        //     });
+        //     if(index == -1){
+        //         i++;
+        //         savedJson.push(team);
+        //     }
             
-        });
+        // });
+
+        actualJson.forEach(team => {
+           const idx = savedJson.findIndex(obj => obj == team);
+           if(idx == -1){
+               i++;
+           }
+        })
         
         
         console.log(`tem ${i} teams faltando`);
         console.log('tamanho antes de adicionar = '+savedJson.length);
 
-        jsonfile.writeFile(saved_patch, savedJson, {spaces: 2}, function (err) {
-            console.error(err)
-        })
+        // jsonfile.writeFile(saved_patch, savedJson, {spaces: 2}, function (err) {
+        //     console.error(err)
+        // })
     });
 
 
@@ -83,7 +93,7 @@ function uploadFile(saved_patch, new_patch) {
 }
 
 // saved, new
-uploadFile(match_overview_saved, match_overview_new);
+uploadFile(match_round_history_saved, match_round_history_new);
     
     
     

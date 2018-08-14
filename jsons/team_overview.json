@@ -9,24 +9,6 @@
     "rating": "1.18"
   },
   {
-    "team_id": "5973",
-    "event_id": "3515",
-    "name": "Liquid",
-    "maps": "10",
-    "kd_diff": "+48",
-    "kd": "1.06",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "3515",
-    "name": "Natus Vincere",
-    "maps": "8",
-    "kd_diff": "+34",
-    "kd": "1.05",
-    "rating": "1.07"
-  },
-  {
     "team_id": "6665",
     "event_id": "3392",
     "name": "Astralis",
@@ -34,15 +16,6 @@
     "kd_diff": "+146",
     "kd": "1.25",
     "rating": "1.20"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "3392",
-    "name": "Natus Vincere",
-    "maps": "17",
-    "kd_diff": "+201",
-    "kd": "1.14",
-    "rating": "1.14"
   },
   {
     "team_id": "6667",
@@ -90,274 +63,13 @@
     "rating": "1.14"
   },
   {
-    "team_id": "6667",
-    "event_id": "3460",
-    "name": "FaZe",
-    "maps": "6",
-    "kd_diff": "+37",
-    "kd": "1.08",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "6673",
-    "event_id": "3460",
-    "name": "NRG",
-    "maps": "4",
-    "kd_diff": "+18",
-    "kd": "1.06",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "3460",
-    "name": "Cloud9",
-    "maps": "4",
-    "kd_diff": "-8",
-    "kd": "0.98",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "3460",
-    "name": "G2",
-    "maps": "5",
-    "kd_diff": "-48",
-    "kd": "0.89",
-    "rating": "0.95"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "3460",
-    "name": "fnatic",
-    "maps": "6",
-    "kd_diff": "-83",
-    "kd": "0.86",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "3460",
-    "name": "Luminosity",
-    "maps": "3",
-    "kd_diff": "-85",
-    "kd": "0.68",
-    "rating": "0.75"
-  },
-  {
-    "team_id": "7532",
-    "event_id": "3649",
-    "name": "BIG",
-    "maps": "7",
-    "kd_diff": "-12",
-    "kd": "0.98",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "3649",
-    "name": "Liquid",
-    "maps": "9",
-    "kd_diff": "-49",
-    "kd": "0.94",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5929",
-    "event_id": "3649",
-    "name": "Space Soldiers",
-    "maps": "6",
-    "kd_diff": "-44",
-    "kd": "0.92",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "6267",
-    "event_id": "3649",
-    "name": "Não Tem Como",
-    "maps": "5",
-    "kd_diff": "-106",
-    "kd": "0.77",
-    "rating": "0.86"
-  },
-  {
-    "team_id": "7801",
-    "event_id": "3649",
-    "name": "Ghost",
-    "maps": "4",
-    "kd_diff": "-122",
-    "kd": "0.66",
-    "rating": "0.73"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "3392",
-    "name": "FaZe",
-    "maps": "9",
-    "kd_diff": "+107",
-    "kd": "1.15",
-    "rating": "1.12"
-  },
-  {
-    "team_id": "9215",
-    "event_id": "3392",
-    "name": "MIBR",
-    "maps": "9",
-    "kd_diff": "+60",
-    "kd": "1.07",
-    "rating": "1.10"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "3392",
-    "name": "Renegades",
-    "maps": "6",
-    "kd_diff": "+41",
-    "kd": "1.08",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "4869",
-    "event_id": "3392",
-    "name": "ENCE",
-    "maps": "8",
-    "kd_diff": "+34",
-    "kd": "1.05",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "7532",
-    "event_id": "3392",
-    "name": "BIG",
-    "maps": "18",
-    "kd_diff": "+9",
-    "kd": "1.01",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "3392",
-    "name": "mousesports",
-    "maps": "6",
-    "kd_diff": "-9",
-    "kd": "0.98",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "3392",
-    "name": "fnatic",
-    "maps": "8",
-    "kd_diff": "-66",
-    "kd": "0.90",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "3392",
-    "name": "G2",
-    "maps": "8",
-    "kd_diff": "-72",
-    "kd": "0.90",
-    "rating": "0.96"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "3392",
-    "name": "Liquid",
-    "maps": "3",
-    "kd_diff": "-33",
-    "kd": "0.89",
-    "rating": "0.95"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "3392",
-    "name": "North",
-    "maps": "6",
-    "kd_diff": "-76",
-    "kd": "0.88",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "3392",
-    "name": "Cloud9",
-    "maps": "5",
-    "kd_diff": "-62",
-    "kd": "0.86",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "3392",
-    "name": "Gambit",
-    "maps": "3",
-    "kd_diff": "-74",
-    "kd": "0.72",
-    "rating": "0.83"
-  },
-  {
-    "team_id": "7567",
-    "event_id": "3392",
-    "name": "BOOT-d[S]",
-    "maps": "3",
-    "kd_diff": "-110",
-    "kd": "0.63",
-    "rating": "0.71"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "3392",
-    "name": "NiP",
-    "maps": "3",
-    "kd_diff": "-111",
-    "kd": "0.55",
-    "rating": "0.63"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "3515",
-    "name": "FaZe",
-    "maps": "5",
-    "kd_diff": "-8",
-    "kd": "0.98",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "3515",
-    "name": "mousesports",
+    "team_id": "6665",
+    "event_id": "3373",
+    "name": "Astralis",
     "maps": "11",
-    "kd_diff": "-9",
-    "kd": "0.99",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "3515",
-    "name": "fnatic",
-    "maps": "8",
-    "kd_diff": "-61",
-    "kd": "0.92",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "9215",
-    "event_id": "3515",
-    "name": "MIBR",
-    "maps": "6",
-    "kd_diff": "-55",
-    "kd": "0.90",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "3515",
-    "name": "Cloud9",
-    "maps": "4",
-    "kd_diff": "-93",
-    "kd": "0.79",
-    "rating": "0.87"
+    "kd_diff": "+259",
+    "kd": "1.34",
+    "rating": "1.26"
   },
   {
     "team_id": "4608",
@@ -396,150 +108,6 @@
     "rating": "1.08"
   },
   {
-    "team_id": "6902",
-    "event_id": "3666",
-    "name": "GODSENT",
-    "maps": "13",
-    "kd_diff": "+43",
-    "kd": "1.04",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "3666",
-    "name": "mousesports",
-    "maps": "17",
-    "kd_diff": "+58",
-    "kd": "1.04",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "3666",
-    "name": "North",
-    "maps": "18",
-    "kd_diff": "+40",
-    "kd": "1.03",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "3666",
-    "name": "NiP",
-    "maps": "11",
-    "kd_diff": "+33",
-    "kd": "1.03",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "8120",
-    "event_id": "3666",
-    "name": "AVANGAR",
-    "maps": "12",
-    "kd_diff": "-14",
-    "kd": "0.99",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "3666",
-    "name": "SK",
-    "maps": "11",
-    "kd_diff": "-12",
-    "kd": "0.99",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "3666",
-    "name": "Virtus.pro",
-    "maps": "9",
-    "kd_diff": "-32",
-    "kd": "0.96",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "3666",
-    "name": "Gambit",
-    "maps": "7",
-    "kd_diff": "-53",
-    "kd": "0.93",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5310",
-    "event_id": "3666",
-    "name": "HellRaisers",
-    "maps": "9",
-    "kd_diff": "-72",
-    "kd": "0.91",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "9037",
-    "event_id": "3666",
-    "name": "VG.Flash",
-    "maps": "7",
-    "kd_diff": "-90",
-    "kd": "0.86",
-    "rating": "0.96"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "3666",
-    "name": "Renegades",
-    "maps": "13",
-    "kd_diff": "-177",
-    "kd": "0.85",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "4863",
-    "event_id": "3666",
-    "name": "TyLoo",
-    "maps": "9",
-    "kd_diff": "-181",
-    "kd": "0.79",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "3373",
-    "name": "Astralis",
-    "maps": "11",
-    "kd_diff": "+259",
-    "kd": "1.34",
-    "rating": "1.26"
-  },
-  {
-    "team_id": "6615",
-    "event_id": "3373",
-    "name": "OpTic",
-    "maps": "8",
-    "kd_diff": "+71",
-    "kd": "1.11",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "3373",
-    "name": "FaZe",
-    "maps": "9",
-    "kd_diff": "+48",
-    "kd": "1.07",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "3373",
-    "name": "Natus Vincere",
-    "maps": "8",
-    "kd_diff": "+53",
-    "kd": "1.07",
-    "rating": "1.09"
-  },
-  {
     "team_id": "6665",
     "event_id": "3530",
     "name": "Astralis",
@@ -547,420 +115,6 @@
     "kd_diff": "+211",
     "kd": "1.22",
     "rating": "1.19"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "3530",
-    "name": "FaZe",
-    "maps": "17",
-    "kd_diff": "+187",
-    "kd": "1.12",
-    "rating": "1.13"
-  },
-  {
-    "team_id": "6673",
-    "event_id": "3530",
-    "name": "NRG",
-    "maps": "6",
-    "kd_diff": "+18",
-    "kd": "1.03",
-    "rating": "1.10"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "3530",
-    "name": "SK",
-    "maps": "4",
-    "kd_diff": "+19",
-    "kd": "1.05",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "4863",
-    "event_id": "3530",
-    "name": "TyLoo",
-    "maps": "8",
-    "kd_diff": "+16",
-    "kd": "1.02",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "3530",
-    "name": "G2",
-    "maps": "9",
-    "kd_diff": "-17",
-    "kd": "0.98",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "3530",
-    "name": "Cloud9",
-    "maps": "8",
-    "kd_diff": "-23",
-    "kd": "0.97",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "3530",
-    "name": "mousesports",
-    "maps": "13",
-    "kd_diff": "-10",
-    "kd": "0.99",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "8668",
-    "event_id": "3530",
-    "name": "ORDER",
-    "maps": "6",
-    "kd_diff": "-18",
-    "kd": "0.97",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "3530",
-    "name": "fnatic",
-    "maps": "8",
-    "kd_diff": "-34",
-    "kd": "0.95",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "3530",
-    "name": "Renegades",
-    "maps": "9",
-    "kd_diff": "-49",
-    "kd": "0.95",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "8008",
-    "event_id": "3530",
-    "name": "Grayhound",
-    "maps": "7",
-    "kd_diff": "-74",
-    "kd": "0.89",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "7354",
-    "event_id": "3530",
-    "name": "MVP PK",
-    "maps": "5",
-    "kd_diff": "-42",
-    "kd": "0.90",
-    "rating": "0.95"
-  },
-  {
-    "team_id": "6468",
-    "event_id": "3530",
-    "name": "Legacy",
-    "maps": "3",
-    "kd_diff": "-54",
-    "kd": "0.80",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "6010",
-    "event_id": "3530",
-    "name": "Chiefs",
-    "maps": "3",
-    "kd_diff": "-67",
-    "kd": "0.76",
-    "rating": "0.84"
-  },
-  {
-    "team_id": "7567",
-    "event_id": "3530",
-    "name": "BOOT-d[S]",
-    "maps": "3",
-    "kd_diff": "-87",
-    "kd": "0.68",
-    "rating": "0.75"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "3373",
-    "name": "mousesports",
-    "maps": "9",
-    "kd_diff": "+20",
-    "kd": "1.02",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "3373",
-    "name": "Liquid",
-    "maps": "13",
-    "kd_diff": "+35",
-    "kd": "1.03",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "7175",
-    "event_id": "3373",
-    "name": "Heroic",
-    "maps": "8",
-    "kd_diff": "+3",
-    "kd": "1.00",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "3373",
-    "name": "SK",
-    "maps": "10",
-    "kd_diff": "-6",
-    "kd": "0.99",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "3373",
-    "name": "Cloud9",
-    "maps": "6",
-    "kd_diff": "-43",
-    "kd": "0.92",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "3373",
-    "name": "Renegades",
-    "maps": "5",
-    "kd_diff": "-23",
-    "kd": "0.95",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "6673",
-    "event_id": "3373",
-    "name": "NRG",
-    "maps": "6",
-    "kd_diff": "-36",
-    "kd": "0.93",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "8113",
-    "event_id": "3373",
-    "name": "Sharks",
-    "maps": "4",
-    "kd_diff": "-64",
-    "kd": "0.84",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "3373",
-    "name": "NiP",
-    "maps": "3",
-    "kd_diff": "-52",
-    "kd": "0.84",
-    "rating": "0.91"
-  },
-  {
-    "team_id": "5929",
-    "event_id": "3373",
-    "name": "Space Soldiers",
-    "maps": "5",
-    "kd_diff": "-111",
-    "kd": "0.75",
-    "rating": "0.84"
-  },
-  {
-    "team_id": "8008",
-    "event_id": "3373",
-    "name": "Grayhound",
-    "maps": "3",
-    "kd_diff": "-85",
-    "kd": "0.72",
-    "rating": "0.84"
-  },
-  {
-    "team_id": "7354",
-    "event_id": "3373",
-    "name": "MVP PK",
-    "maps": "4",
-    "kd_diff": "-91",
-    "kd": "0.73",
-    "rating": "0.83"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "3491",
-    "name": "Astralis",
-    "maps": "10",
-    "kd_diff": "+273",
-    "kd": "1.43",
-    "rating": "1.29"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "3491",
-    "name": "Natus Vincere",
-    "maps": "10",
-    "kd_diff": "+152",
-    "kd": "1.19",
-    "rating": "1.18"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "3491",
-    "name": "FaZe",
-    "maps": "7",
-    "kd_diff": "+3",
-    "kd": "1.01",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "3491",
-    "name": "mousesports",
-    "maps": "8",
-    "kd_diff": "+10",
-    "kd": "1.01",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "3491",
-    "name": "NiP",
-    "maps": "7",
-    "kd_diff": "+13",
-    "kd": "1.02",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "3491",
-    "name": "Gambit",
-    "maps": "9",
-    "kd_diff": "-16",
-    "kd": "0.98",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "3491",
-    "name": "fnatic",
-    "maps": "11",
-    "kd_diff": "-55",
-    "kd": "0.94",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "3491",
-    "name": "Liquid",
-    "maps": "7",
-    "kd_diff": "-38",
-    "kd": "0.94",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "3491",
-    "name": "Cloud9",
-    "maps": "5",
-    "kd_diff": "-36",
-    "kd": "0.94",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "3491",
-    "name": "G2",
-    "maps": "2",
-    "kd_diff": "-26",
-    "kd": "0.89",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "3491",
-    "name": "Renegades",
-    "maps": "4",
-    "kd_diff": "-39",
-    "kd": "0.89",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "3491",
-    "name": "SK",
-    "maps": "4",
-    "kd_diff": "-35",
-    "kd": "0.90",
-    "rating": "0.95"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "3491",
-    "name": "EnVyUs",
-    "maps": "4",
-    "kd_diff": "-62",
-    "kd": "0.82",
-    "rating": "0.91"
-  },
-  {
-    "team_id": "4863",
-    "event_id": "3491",
-    "name": "TyLoo",
-    "maps": "2",
-    "kd_diff": "-30",
-    "kd": "0.84",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "8481",
-    "event_id": "3491",
-    "name": "Valiance",
-    "maps": "2",
-    "kd_diff": "-46",
-    "kd": "0.75",
-    "rating": "0.85"
-  },
-  {
-    "team_id": "5929",
-    "event_id": "3491",
-    "name": "Space Soldiers",
-    "maps": "2",
-    "kd_diff": "-79",
-    "kd": "0.55",
-    "rating": "0.62"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "3309",
-    "name": "fnatic",
-    "maps": "13",
-    "kd_diff": "+153",
-    "kd": "1.14",
-    "rating": "1.15"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "3309",
-    "name": "FaZe",
-    "maps": "15",
-    "kd_diff": "+127",
-    "kd": "1.10",
-    "rating": "1.12"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "3309",
-    "name": "NiP",
-    "maps": "12",
-    "kd_diff": "+86",
-    "kd": "1.09",
-    "rating": "1.10"
   },
   {
     "team_id": "6137",
@@ -1082,173 +236,20 @@
   {
     "team_id": "4863",
     "event_id": "3486",
-    "name": "TyLoo",
+    "name": "TYLOO",
     "maps": "8",
     "kd_diff": "-117",
     "kd": "0.85",
     "rating": "0.96"
   },
   {
-    "team_id": "5378",
-    "event_id": "3486",
-    "name": "Virtus.pro",
-    "maps": "10",
-    "kd_diff": "-117",
-    "kd": "0.88",
-    "rating": "0.93"
-  },
-  {
-    "team_id": "7354",
-    "event_id": "3486",
-    "name": "MVP PK",
-    "maps": "7",
-    "kd_diff": "-159",
-    "kd": "0.78",
-    "rating": "0.87"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "3309",
-    "name": "Astralis",
-    "maps": "8",
-    "kd_diff": "+65",
-    "kd": "1.09",
-    "rating": "1.09"
-  },
-  {
     "team_id": "6137",
-    "event_id": "3309",
+    "event_id": "3072",
     "name": "SK",
-    "maps": "9",
-    "kd_diff": "+49",
-    "kd": "1.06",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "3309",
-    "name": "Renegades",
-    "maps": "6",
-    "kd_diff": "+7",
-    "kd": "1.01",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "3309",
-    "name": "Cloud9",
-    "maps": "12",
-    "kd_diff": "-34",
-    "kd": "0.97",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "7175",
-    "event_id": "3309",
-    "name": "Heroic",
-    "maps": "5",
-    "kd_diff": "+3",
-    "kd": "1.01",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "4863",
-    "event_id": "3309",
-    "name": "TyLoo",
-    "maps": "4",
-    "kd_diff": "-25",
-    "kd": "0.93",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "3309",
-    "name": "North",
-    "maps": "8",
-    "kd_diff": "-36",
-    "kd": "0.95",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "3309",
-    "name": "Liquid",
     "maps": "11",
-    "kd_diff": "-66",
-    "kd": "0.93",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "3309",
-    "name": "Gambit",
-    "maps": "7",
-    "kd_diff": "-52",
-    "kd": "0.92",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "3309",
-    "name": "G2",
-    "maps": "7",
-    "kd_diff": "-57",
-    "kd": "0.91",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "3309",
-    "name": "Virtus.pro",
-    "maps": "3",
-    "kd_diff": "-50",
-    "kd": "0.81",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "8120",
-    "event_id": "3309",
-    "name": "AVANGAR",
-    "maps": "3",
-    "kd_diff": "-77",
-    "kd": "0.74",
-    "rating": "0.84"
-  },
-  {
-    "team_id": "8668",
-    "event_id": "3309",
-    "name": "ORDER",
-    "maps": "3",
-    "kd_diff": "-117",
-    "kd": "0.56",
-    "rating": "0.61"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "3247",
-    "name": "Cloud9",
-    "maps": "13",
-    "kd_diff": "+188",
-    "kd": "1.18",
-    "rating": "1.17"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "3247",
-    "name": "Natus Vincere",
-    "maps": "8",
-    "kd_diff": "+86",
-    "kd": "1.15",
-    "rating": "1.15"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "3247",
-    "name": "FaZe",
-    "maps": "10",
-    "kd_diff": "+121",
-    "kd": "1.14",
-    "rating": "1.14"
+    "kd_diff": "+206",
+    "kd": "1.25",
+    "rating": "1.20"
   },
   {
     "team_id": "6667",
@@ -1278,13 +279,49 @@
     "rating": "1.07"
   },
   {
-    "team_id": "6137",
-    "event_id": "3072",
-    "name": "SK",
-    "maps": "11",
-    "kd_diff": "+206",
-    "kd": "1.25",
-    "rating": "1.20"
+    "team_id": "4991",
+    "event_id": "3313",
+    "name": "fnatic",
+    "maps": "4",
+    "kd_diff": "+19",
+    "kd": "1.06",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "3313",
+    "name": "Liquid",
+    "maps": "3",
+    "kd_diff": "-29",
+    "kd": "0.90",
+    "rating": "0.95"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "3313",
+    "name": "OpTic",
+    "maps": "4",
+    "kd_diff": "-55",
+    "kd": "0.84",
+    "rating": "0.95"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3313",
+    "name": "Cloud9",
+    "maps": "5",
+    "kd_diff": "-66",
+    "kd": "0.86",
+    "rating": "0.93"
+  },
+  {
+    "team_id": "6290",
+    "event_id": "3313",
+    "name": "Luminosity",
+    "maps": "3",
+    "kd_diff": "-67",
+    "kd": "0.76",
+    "rating": "0.84"
   },
   {
     "team_id": "6667",
@@ -1303,60 +340,6 @@
     "kd_diff": "+20",
     "kd": "1.02",
     "rating": "1.06"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "2998",
-    "name": "FaZe",
-    "maps": "5",
-    "kd_diff": "+58",
-    "kd": "1.13",
-    "rating": "1.14"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2998",
-    "name": "SK",
-    "maps": "8",
-    "kd_diff": "+67",
-    "kd": "1.10",
-    "rating": "1.12"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2998",
-    "name": "Astralis",
-    "maps": "8",
-    "kd_diff": "+62",
-    "kd": "1.09",
-    "rating": "1.10"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "2998",
-    "name": "NiP",
-    "maps": "5",
-    "kd_diff": "-57",
-    "kd": "0.86",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "2998",
-    "name": "North",
-    "maps": "5",
-    "kd_diff": "-64",
-    "kd": "0.87",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "2998",
-    "name": "G2",
-    "maps": "5",
-    "kd_diff": "-70",
-    "kd": "0.84",
-    "rating": "0.92"
   },
   {
     "team_id": "4411",
@@ -1440,49 +423,328 @@
     "rating": "0.90"
   },
   {
-    "team_id": "4991",
-    "event_id": "3313",
-    "name": "fnatic",
+    "team_id": "5378",
+    "event_id": "3486",
+    "name": "Virtus.pro",
+    "maps": "10",
+    "kd_diff": "-117",
+    "kd": "0.88",
+    "rating": "0.93"
+  },
+  {
+    "team_id": "7354",
+    "event_id": "3486",
+    "name": "MVP PK",
+    "maps": "7",
+    "kd_diff": "-159",
+    "kd": "0.78",
+    "rating": "0.87"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3530",
+    "name": "FaZe",
+    "maps": "17",
+    "kd_diff": "+187",
+    "kd": "1.12",
+    "rating": "1.13"
+  },
+  {
+    "team_id": "6673",
+    "event_id": "3530",
+    "name": "NRG",
+    "maps": "6",
+    "kd_diff": "+18",
+    "kd": "1.03",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "3530",
+    "name": "SK",
     "maps": "4",
     "kd_diff": "+19",
-    "kd": "1.06",
+    "kd": "1.05",
     "rating": "1.07"
   },
   {
-    "team_id": "5973",
-    "event_id": "3313",
-    "name": "Liquid",
-    "maps": "3",
-    "kd_diff": "-29",
+    "team_id": "4863",
+    "event_id": "3530",
+    "name": "TYLOO",
+    "maps": "8",
+    "kd_diff": "+16",
+    "kd": "1.02",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "3530",
+    "name": "G2",
+    "maps": "9",
+    "kd_diff": "-17",
+    "kd": "0.98",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3530",
+    "name": "Cloud9",
+    "maps": "8",
+    "kd_diff": "-23",
+    "kd": "0.97",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "3530",
+    "name": "mousesports",
+    "maps": "13",
+    "kd_diff": "-10",
+    "kd": "0.99",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "8668",
+    "event_id": "3530",
+    "name": "ORDER",
+    "maps": "6",
+    "kd_diff": "-18",
+    "kd": "0.97",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "3530",
+    "name": "fnatic",
+    "maps": "8",
+    "kd_diff": "-34",
+    "kd": "0.95",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "3530",
+    "name": "Renegades",
+    "maps": "9",
+    "kd_diff": "-49",
+    "kd": "0.95",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "8008",
+    "event_id": "3530",
+    "name": "Grayhound",
+    "maps": "7",
+    "kd_diff": "-74",
+    "kd": "0.89",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "7354",
+    "event_id": "3530",
+    "name": "MVP PK",
+    "maps": "5",
+    "kd_diff": "-42",
     "kd": "0.90",
     "rating": "0.95"
   },
   {
-    "team_id": "6615",
-    "event_id": "3313",
-    "name": "OpTic",
-    "maps": "4",
-    "kd_diff": "-55",
-    "kd": "0.84",
-    "rating": "0.95"
+    "team_id": "6468",
+    "event_id": "3530",
+    "name": "Legacy",
+    "maps": "3",
+    "kd_diff": "-54",
+    "kd": "0.80",
+    "rating": "0.88"
   },
   {
-    "team_id": "5752",
-    "event_id": "3313",
-    "name": "Cloud9",
-    "maps": "5",
-    "kd_diff": "-66",
-    "kd": "0.86",
-    "rating": "0.93"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "3313",
-    "name": "Luminosity",
+    "team_id": "6010",
+    "event_id": "3530",
+    "name": "Chiefs",
     "maps": "3",
     "kd_diff": "-67",
     "kd": "0.76",
     "rating": "0.84"
+  },
+  {
+    "team_id": "7567",
+    "event_id": "3530",
+    "name": "BOOT-d[S]",
+    "maps": "3",
+    "kd_diff": "-87",
+    "kd": "0.68",
+    "rating": "0.75"
+  },
+  {
+    "team_id": "6902",
+    "event_id": "3666",
+    "name": "GODSENT",
+    "maps": "13",
+    "kd_diff": "+43",
+    "kd": "1.04",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "3666",
+    "name": "mousesports",
+    "maps": "17",
+    "kd_diff": "+58",
+    "kd": "1.04",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "3666",
+    "name": "North",
+    "maps": "18",
+    "kd_diff": "+40",
+    "kd": "1.03",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "3666",
+    "name": "NiP",
+    "maps": "11",
+    "kd_diff": "+33",
+    "kd": "1.03",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "8120",
+    "event_id": "3666",
+    "name": "AVANGAR",
+    "maps": "12",
+    "kd_diff": "-14",
+    "kd": "0.99",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "3666",
+    "name": "SK",
+    "maps": "11",
+    "kd_diff": "-12",
+    "kd": "0.99",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "3666",
+    "name": "Virtus.pro",
+    "maps": "9",
+    "kd_diff": "-32",
+    "kd": "0.96",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "3666",
+    "name": "Gambit",
+    "maps": "7",
+    "kd_diff": "-53",
+    "kd": "0.93",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "5310",
+    "event_id": "3666",
+    "name": "HellRaisers",
+    "maps": "9",
+    "kd_diff": "-72",
+    "kd": "0.91",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "9037",
+    "event_id": "3666",
+    "name": "VG.Flash",
+    "maps": "7",
+    "kd_diff": "-90",
+    "kd": "0.86",
+    "rating": "0.96"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "3666",
+    "name": "Renegades",
+    "maps": "13",
+    "kd_diff": "-177",
+    "kd": "0.85",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "4863",
+    "event_id": "3666",
+    "name": "TYLOO",
+    "maps": "9",
+    "kd_diff": "-181",
+    "kd": "0.79",
+    "rating": "0.88"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "3373",
+    "name": "OpTic",
+    "maps": "8",
+    "kd_diff": "+71",
+    "kd": "1.11",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3373",
+    "name": "FaZe",
+    "maps": "9",
+    "kd_diff": "+48",
+    "kd": "1.07",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "3373",
+    "name": "Natus Vincere",
+    "maps": "8",
+    "kd_diff": "+53",
+    "kd": "1.07",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "3373",
+    "name": "mousesports",
+    "maps": "9",
+    "kd_diff": "+20",
+    "kd": "1.02",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3247",
+    "name": "Cloud9",
+    "maps": "13",
+    "kd_diff": "+188",
+    "kd": "1.18",
+    "rating": "1.17"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "3247",
+    "name": "Natus Vincere",
+    "maps": "8",
+    "kd_diff": "+86",
+    "kd": "1.15",
+    "rating": "1.15"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3247",
+    "name": "FaZe",
+    "maps": "10",
+    "kd_diff": "+121",
+    "kd": "1.14",
+    "rating": "1.14"
   },
   {
     "team_id": "4991",
@@ -1602,6 +864,690 @@
     "rating": "0.70"
   },
   {
+    "team_id": "5973",
+    "event_id": "3373",
+    "name": "Liquid",
+    "maps": "13",
+    "kd_diff": "+35",
+    "kd": "1.03",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "7175",
+    "event_id": "3373",
+    "name": "Heroic",
+    "maps": "8",
+    "kd_diff": "+3",
+    "kd": "1.00",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "3373",
+    "name": "SK",
+    "maps": "10",
+    "kd_diff": "-6",
+    "kd": "0.99",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3373",
+    "name": "Cloud9",
+    "maps": "6",
+    "kd_diff": "-43",
+    "kd": "0.92",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "3373",
+    "name": "Renegades",
+    "maps": "5",
+    "kd_diff": "-23",
+    "kd": "0.95",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "6673",
+    "event_id": "3373",
+    "name": "NRG",
+    "maps": "6",
+    "kd_diff": "-36",
+    "kd": "0.93",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "8113",
+    "event_id": "3373",
+    "name": "Sharks",
+    "maps": "4",
+    "kd_diff": "-64",
+    "kd": "0.84",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "3373",
+    "name": "NiP",
+    "maps": "3",
+    "kd_diff": "-52",
+    "kd": "0.84",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "5929",
+    "event_id": "3373",
+    "name": "Space Soldiers",
+    "maps": "5",
+    "kd_diff": "-111",
+    "kd": "0.75",
+    "rating": "0.84"
+  },
+  {
+    "team_id": "8008",
+    "event_id": "3373",
+    "name": "Grayhound",
+    "maps": "3",
+    "kd_diff": "-85",
+    "kd": "0.72",
+    "rating": "0.84"
+  },
+  {
+    "team_id": "7354",
+    "event_id": "3373",
+    "name": "MVP PK",
+    "maps": "4",
+    "kd_diff": "-91",
+    "kd": "0.73",
+    "rating": "0.83"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3460",
+    "name": "FaZe",
+    "maps": "6",
+    "kd_diff": "+37",
+    "kd": "1.08",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "6673",
+    "event_id": "3460",
+    "name": "NRG",
+    "maps": "4",
+    "kd_diff": "+18",
+    "kd": "1.06",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3460",
+    "name": "Cloud9",
+    "maps": "4",
+    "kd_diff": "-8",
+    "kd": "0.98",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "3460",
+    "name": "G2",
+    "maps": "5",
+    "kd_diff": "-48",
+    "kd": "0.89",
+    "rating": "0.95"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "3460",
+    "name": "fnatic",
+    "maps": "6",
+    "kd_diff": "-83",
+    "kd": "0.86",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "6290",
+    "event_id": "3460",
+    "name": "Luminosity",
+    "maps": "3",
+    "kd_diff": "-85",
+    "kd": "0.68",
+    "rating": "0.75"
+  },
+  {
+    "team_id": "7532",
+    "event_id": "3649",
+    "name": "BIG",
+    "maps": "7",
+    "kd_diff": "-12",
+    "kd": "0.98",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "3649",
+    "name": "Liquid",
+    "maps": "9",
+    "kd_diff": "-49",
+    "kd": "0.94",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "5929",
+    "event_id": "3649",
+    "name": "Space Soldiers",
+    "maps": "6",
+    "kd_diff": "-44",
+    "kd": "0.92",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "6267",
+    "event_id": "3649",
+    "name": "Não Tem Como",
+    "maps": "5",
+    "kd_diff": "-106",
+    "kd": "0.77",
+    "rating": "0.86"
+  },
+  {
+    "team_id": "7801",
+    "event_id": "3649",
+    "name": "Ghost",
+    "maps": "4",
+    "kd_diff": "-122",
+    "kd": "0.66",
+    "rating": "0.73"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "3392",
+    "name": "Natus Vincere",
+    "maps": "17",
+    "kd_diff": "+201",
+    "kd": "1.14",
+    "rating": "1.14"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3392",
+    "name": "FaZe",
+    "maps": "9",
+    "kd_diff": "+107",
+    "kd": "1.15",
+    "rating": "1.12"
+  },
+  {
+    "team_id": "9215",
+    "event_id": "3392",
+    "name": "MIBR",
+    "maps": "9",
+    "kd_diff": "+60",
+    "kd": "1.07",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "3392",
+    "name": "Renegades",
+    "maps": "6",
+    "kd_diff": "+41",
+    "kd": "1.08",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "4869",
+    "event_id": "3392",
+    "name": "ENCE",
+    "maps": "8",
+    "kd_diff": "+34",
+    "kd": "1.05",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "7532",
+    "event_id": "3392",
+    "name": "BIG",
+    "maps": "18",
+    "kd_diff": "+9",
+    "kd": "1.01",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "3309",
+    "name": "fnatic",
+    "maps": "13",
+    "kd_diff": "+153",
+    "kd": "1.14",
+    "rating": "1.15"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3309",
+    "name": "FaZe",
+    "maps": "15",
+    "kd_diff": "+127",
+    "kd": "1.10",
+    "rating": "1.12"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "3309",
+    "name": "NiP",
+    "maps": "12",
+    "kd_diff": "+86",
+    "kd": "1.09",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "3309",
+    "name": "Astralis",
+    "maps": "8",
+    "kd_diff": "+65",
+    "kd": "1.09",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "3309",
+    "name": "SK",
+    "maps": "9",
+    "kd_diff": "+49",
+    "kd": "1.06",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "3309",
+    "name": "Renegades",
+    "maps": "6",
+    "kd_diff": "+7",
+    "kd": "1.01",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3309",
+    "name": "Cloud9",
+    "maps": "12",
+    "kd_diff": "-34",
+    "kd": "0.97",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "7175",
+    "event_id": "3309",
+    "name": "Heroic",
+    "maps": "5",
+    "kd_diff": "+3",
+    "kd": "1.01",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "4863",
+    "event_id": "3309",
+    "name": "TYLOO",
+    "maps": "4",
+    "kd_diff": "-25",
+    "kd": "0.93",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "3309",
+    "name": "North",
+    "maps": "8",
+    "kd_diff": "-36",
+    "kd": "0.95",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "3309",
+    "name": "Liquid",
+    "maps": "11",
+    "kd_diff": "-66",
+    "kd": "0.93",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "3309",
+    "name": "Gambit",
+    "maps": "7",
+    "kd_diff": "-52",
+    "kd": "0.92",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "3309",
+    "name": "G2",
+    "maps": "7",
+    "kd_diff": "-57",
+    "kd": "0.91",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "3309",
+    "name": "Virtus.pro",
+    "maps": "3",
+    "kd_diff": "-50",
+    "kd": "0.81",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "8120",
+    "event_id": "3309",
+    "name": "AVANGAR",
+    "maps": "3",
+    "kd_diff": "-77",
+    "kd": "0.74",
+    "rating": "0.84"
+  },
+  {
+    "team_id": "8668",
+    "event_id": "3309",
+    "name": "ORDER",
+    "maps": "3",
+    "kd_diff": "-117",
+    "kd": "0.56",
+    "rating": "0.61"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "3392",
+    "name": "mousesports",
+    "maps": "6",
+    "kd_diff": "-9",
+    "kd": "0.98",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "3392",
+    "name": "fnatic",
+    "maps": "8",
+    "kd_diff": "-66",
+    "kd": "0.90",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "3392",
+    "name": "G2",
+    "maps": "8",
+    "kd_diff": "-72",
+    "kd": "0.90",
+    "rating": "0.96"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "3392",
+    "name": "Liquid",
+    "maps": "3",
+    "kd_diff": "-33",
+    "kd": "0.89",
+    "rating": "0.95"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "3392",
+    "name": "North",
+    "maps": "6",
+    "kd_diff": "-76",
+    "kd": "0.88",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3392",
+    "name": "Cloud9",
+    "maps": "5",
+    "kd_diff": "-62",
+    "kd": "0.86",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "3392",
+    "name": "Gambit",
+    "maps": "3",
+    "kd_diff": "-74",
+    "kd": "0.72",
+    "rating": "0.83"
+  },
+  {
+    "team_id": "7567",
+    "event_id": "3392",
+    "name": "BOOT-d[S]",
+    "maps": "3",
+    "kd_diff": "-110",
+    "kd": "0.63",
+    "rating": "0.71"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "3392",
+    "name": "NiP",
+    "maps": "3",
+    "kd_diff": "-111",
+    "kd": "0.55",
+    "rating": "0.63"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "3515",
+    "name": "Liquid",
+    "maps": "10",
+    "kd_diff": "+48",
+    "kd": "1.06",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "3515",
+    "name": "Natus Vincere",
+    "maps": "8",
+    "kd_diff": "+34",
+    "kd": "1.05",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3515",
+    "name": "FaZe",
+    "maps": "5",
+    "kd_diff": "-8",
+    "kd": "0.98",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "3515",
+    "name": "mousesports",
+    "maps": "11",
+    "kd_diff": "-9",
+    "kd": "0.99",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "3515",
+    "name": "fnatic",
+    "maps": "8",
+    "kd_diff": "-61",
+    "kd": "0.92",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "9215",
+    "event_id": "3515",
+    "name": "MIBR",
+    "maps": "6",
+    "kd_diff": "-55",
+    "kd": "0.90",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3515",
+    "name": "Cloud9",
+    "maps": "4",
+    "kd_diff": "-93",
+    "kd": "0.79",
+    "rating": "0.87"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "3491",
+    "name": "Astralis",
+    "maps": "10",
+    "kd_diff": "+273",
+    "kd": "1.43",
+    "rating": "1.29"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "3491",
+    "name": "Natus Vincere",
+    "maps": "10",
+    "kd_diff": "+152",
+    "kd": "1.19",
+    "rating": "1.18"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3491",
+    "name": "FaZe",
+    "maps": "7",
+    "kd_diff": "+3",
+    "kd": "1.01",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "3491",
+    "name": "mousesports",
+    "maps": "8",
+    "kd_diff": "+10",
+    "kd": "1.01",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "3491",
+    "name": "NiP",
+    "maps": "7",
+    "kd_diff": "+13",
+    "kd": "1.02",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "3491",
+    "name": "Gambit",
+    "maps": "9",
+    "kd_diff": "-16",
+    "kd": "0.98",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2998",
+    "name": "FaZe",
+    "maps": "5",
+    "kd_diff": "+58",
+    "kd": "1.13",
+    "rating": "1.14"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "3133",
+    "name": "SK",
+    "maps": "12",
+    "kd_diff": "+197",
+    "kd": "1.20",
+    "rating": "1.16"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "3133",
+    "name": "G2",
+    "maps": "10",
+    "kd_diff": "+99",
+    "kd": "1.12",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2636",
+    "name": "FaZe",
+    "maps": "7",
+    "kd_diff": "+254",
+    "kd": "1.69",
+    "rating": "1.42"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2636",
+    "name": "SK",
+    "maps": "5",
+    "kd_diff": "+78",
+    "kd": "1.18",
+    "rating": "1.18"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2636",
+    "name": "Natus Vincere",
+    "maps": "5",
+    "kd_diff": "-21",
+    "kd": "0.96",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2636",
+    "name": "Astralis",
+    "maps": "5",
+    "kd_diff": "-17",
+    "kd": "0.96",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "2636",
+    "name": "Liquid",
+    "maps": "13",
+    "kd_diff": "-116",
+    "kd": "0.90",
+    "rating": "0.96"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2636",
+    "name": "Cloud9",
+    "maps": "6",
+    "kd_diff": "-73",
+    "kd": "0.86",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "2636",
+    "name": "EnVyUs",
+    "maps": "3",
+    "kd_diff": "-46",
+    "kd": "0.85",
+    "rating": "0.93"
+  },
+  {
     "team_id": "6667",
     "event_id": "2956",
     "name": "FaZe",
@@ -1627,78 +1573,6 @@
     "kd_diff": "+79",
     "kd": "1.08",
     "rating": "1.09"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "3133",
-    "name": "SK",
-    "maps": "12",
-    "kd_diff": "+197",
-    "kd": "1.20",
-    "rating": "1.16"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "3133",
-    "name": "G2",
-    "maps": "10",
-    "kd_diff": "+99",
-    "kd": "1.12",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "3133",
-    "name": "FaZe",
-    "maps": "9",
-    "kd_diff": "+3",
-    "kd": "1.00",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "3133",
-    "name": "Astralis",
-    "maps": "11",
-    "kd_diff": "-49",
-    "kd": "0.95",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "3133",
-    "name": "Virtus.pro",
-    "maps": "16",
-    "kd_diff": "-86",
-    "kd": "0.94",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "3133",
-    "name": "Gambit",
-    "maps": "6",
-    "kd_diff": "-41",
-    "kd": "0.94",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "3133",
-    "name": "Liquid",
-    "maps": "5",
-    "kd_diff": "-39",
-    "kd": "0.92",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "3133",
-    "name": "North",
-    "maps": "7",
-    "kd_diff": "-95",
-    "kd": "0.85",
-    "rating": "0.93"
   },
   {
     "team_id": "6137",
@@ -1782,13 +1656,202 @@
     "rating": "0.80"
   },
   {
-    "team_id": "6667",
+    "team_id": "5378",
     "event_id": "2636",
+    "name": "Virtus.pro",
+    "maps": "4",
+    "kd_diff": "-67",
+    "kd": "0.79",
+    "rating": "0.86"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "3133",
     "name": "FaZe",
+    "maps": "9",
+    "kd_diff": "+3",
+    "kd": "1.00",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "3133",
+    "name": "Astralis",
+    "maps": "11",
+    "kd_diff": "-49",
+    "kd": "0.95",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "3133",
+    "name": "Virtus.pro",
+    "maps": "16",
+    "kd_diff": "-86",
+    "kd": "0.94",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "3133",
+    "name": "Gambit",
+    "maps": "6",
+    "kd_diff": "-41",
+    "kd": "0.94",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "3133",
+    "name": "Liquid",
+    "maps": "5",
+    "kd_diff": "-39",
+    "kd": "0.92",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "3133",
+    "name": "North",
     "maps": "7",
-    "kd_diff": "+254",
-    "kd": "1.69",
-    "rating": "1.42"
+    "kd_diff": "-95",
+    "kd": "0.85",
+    "rating": "0.93"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2998",
+    "name": "SK",
+    "maps": "8",
+    "kd_diff": "+67",
+    "kd": "1.10",
+    "rating": "1.12"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2998",
+    "name": "Astralis",
+    "maps": "8",
+    "kd_diff": "+62",
+    "kd": "1.09",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2998",
+    "name": "NiP",
+    "maps": "5",
+    "kd_diff": "-57",
+    "kd": "0.86",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "2998",
+    "name": "North",
+    "maps": "5",
+    "kd_diff": "-64",
+    "kd": "0.87",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2998",
+    "name": "G2",
+    "maps": "5",
+    "kd_diff": "-70",
+    "kd": "0.84",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "3491",
+    "name": "fnatic",
+    "maps": "11",
+    "kd_diff": "-55",
+    "kd": "0.94",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "3491",
+    "name": "Liquid",
+    "maps": "7",
+    "kd_diff": "-38",
+    "kd": "0.94",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "3491",
+    "name": "Cloud9",
+    "maps": "5",
+    "kd_diff": "-36",
+    "kd": "0.94",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "3491",
+    "name": "G2",
+    "maps": "2",
+    "kd_diff": "-26",
+    "kd": "0.89",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "3491",
+    "name": "Renegades",
+    "maps": "4",
+    "kd_diff": "-39",
+    "kd": "0.89",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "3491",
+    "name": "SK",
+    "maps": "4",
+    "kd_diff": "-35",
+    "kd": "0.90",
+    "rating": "0.95"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "3491",
+    "name": "EnVyUs",
+    "maps": "4",
+    "kd_diff": "-62",
+    "kd": "0.82",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "4863",
+    "event_id": "3491",
+    "name": "TYLOO",
+    "maps": "2",
+    "kd_diff": "-30",
+    "kd": "0.84",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "8481",
+    "event_id": "3491",
+    "name": "Valiance",
+    "maps": "2",
+    "kd_diff": "-46",
+    "kd": "0.75",
+    "rating": "0.85"
+  },
+  {
+    "team_id": "5929",
+    "event_id": "3491",
+    "name": "Space Soldiers",
+    "maps": "2",
+    "kd_diff": "-79",
+    "kd": "0.55",
+    "rating": "0.62"
   },
   {
     "team_id": "6667",
@@ -1827,175 +1890,13 @@
     "rating": "1.12"
   },
   {
-    "team_id": "7533",
-    "event_id": "3016",
-    "name": "North",
-    "maps": "6",
-    "kd_diff": "+34",
-    "kd": "1.06",
-    "rating": "1.10"
-  },
-  {
-    "team_id": "7010",
-    "event_id": "3016",
-    "name": "Immortals",
-    "maps": "4",
-    "kd_diff": "-3",
-    "kd": "0.99",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "3016",
-    "name": "NiP",
-    "maps": "6",
-    "kd_diff": "-5",
-    "kd": "0.99",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "3016",
-    "name": "EnVyUs",
-    "maps": "7",
-    "kd_diff": "-18",
-    "kd": "0.97",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "3016",
-    "name": "Liquid",
-    "maps": "4",
-    "kd_diff": "-8",
-    "kd": "0.98",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "3016",
-    "name": "fnatic",
-    "maps": "8",
-    "kd_diff": "-44",
-    "kd": "0.94",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "3016",
-    "name": "Natus Vincere",
-    "maps": "4",
-    "kd_diff": "-23",
-    "kd": "0.94",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "7175",
-    "event_id": "3016",
-    "name": "Heroic",
-    "maps": "7",
-    "kd_diff": "-34",
-    "kd": "0.94",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "3016",
-    "name": "mousesports",
-    "maps": "4",
-    "kd_diff": "-35",
-    "kd": "0.90",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "3016",
-    "name": "SK",
-    "maps": "7",
-    "kd_diff": "-78",
-    "kd": "0.88",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "3016",
-    "name": "Renegades",
-    "maps": "3",
-    "kd_diff": "-105",
-    "kd": "0.64",
-    "rating": "0.74"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "3016",
-    "name": "Virtus.pro",
-    "maps": "3",
-    "kd_diff": "-93",
-    "kd": "0.66",
-    "rating": "0.72"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2636",
-    "name": "SK",
-    "maps": "5",
-    "kd_diff": "+78",
-    "kd": "1.18",
-    "rating": "1.18"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2636",
-    "name": "Natus Vincere",
-    "maps": "5",
-    "kd_diff": "-21",
-    "kd": "0.96",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2636",
-    "name": "Astralis",
-    "maps": "5",
-    "kd_diff": "-17",
-    "kd": "0.96",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "2636",
-    "name": "Liquid",
-    "maps": "13",
-    "kd_diff": "-116",
-    "kd": "0.90",
-    "rating": "0.96"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2636",
-    "name": "Cloud9",
-    "maps": "6",
-    "kd_diff": "-73",
-    "kd": "0.86",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "2636",
-    "name": "EnVyUs",
-    "maps": "3",
-    "kd_diff": "-46",
-    "kd": "0.85",
-    "rating": "0.93"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "2636",
-    "name": "Virtus.pro",
-    "maps": "4",
-    "kd_diff": "-67",
-    "kd": "0.79",
-    "rating": "0.86"
+    "team_id": "6651",
+    "event_id": "2720",
+    "name": "Gambit",
+    "maps": "11",
+    "kd_diff": "+105",
+    "kd": "1.12",
+    "rating": "1.11"
   },
   {
     "team_id": "6665",
@@ -2005,24 +1906,6 @@
     "kd_diff": "+53",
     "kd": "1.14",
     "rating": "1.14"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "2684",
-    "name": "North",
-    "maps": "10",
-    "kd_diff": "+72",
-    "kd": "1.08",
-    "rating": "1.12"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "2720",
-    "name": "Gambit",
-    "maps": "11",
-    "kd_diff": "+105",
-    "kd": "1.12",
-    "rating": "1.11"
   },
   {
     "team_id": "6137",
@@ -2041,33 +1924,6 @@
     "kd_diff": "+58",
     "kd": "1.12",
     "rating": "1.12"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2635",
-    "name": "Natus Vincere",
-    "maps": "8",
-    "kd_diff": "+48",
-    "kd": "1.06",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "2635",
-    "name": "Liquid",
-    "maps": "5",
-    "kd_diff": "+39",
-    "kd": "1.10",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "2635",
-    "name": "FaZe",
-    "maps": "9",
-    "kd_diff": "+32",
-    "kd": "1.04",
-    "rating": "1.06"
   },
   {
     "team_id": "6137",
@@ -2095,6 +1951,474 @@
     "kd_diff": "+38",
     "kd": "1.04",
     "rating": "1.08"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2557",
+    "name": "SK",
+    "maps": "11",
+    "kd_diff": "+86",
+    "kd": "1.12",
+    "rating": "1.13"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2557",
+    "name": "G2",
+    "maps": "11",
+    "kd_diff": "+86",
+    "kd": "1.09",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "2557",
+    "name": "EnVyUs",
+    "maps": "10",
+    "kd_diff": "+18",
+    "kd": "1.02",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "2557",
+    "name": "Liquid",
+    "maps": "10",
+    "kd_diff": "+33",
+    "kd": "1.04",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2683",
+    "name": "G2",
+    "maps": "6",
+    "kd_diff": "+85",
+    "kd": "1.20",
+    "rating": "1.16"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2683",
+    "name": "Natus Vincere",
+    "maps": "8",
+    "kd_diff": "+83",
+    "kd": "1.13",
+    "rating": "1.13"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2683",
+    "name": "FaZe",
+    "maps": "13",
+    "kd_diff": "+87",
+    "kd": "1.08",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2683",
+    "name": "Astralis",
+    "maps": "11",
+    "kd_diff": "+80",
+    "kd": "1.08",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "2683",
+    "name": "North",
+    "maps": "7",
+    "kd_diff": "+6",
+    "kd": "1.01",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2683",
+    "name": "fnatic",
+    "maps": "8",
+    "kd_diff": "+2",
+    "kd": "1.00",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2683",
+    "name": "NiP",
+    "maps": "5",
+    "kd_diff": "-2",
+    "kd": "1.00",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "5974",
+    "event_id": "2683",
+    "name": "CLG",
+    "maps": "7",
+    "kd_diff": "+18",
+    "kd": "1.03",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2683",
+    "name": "SK",
+    "maps": "5",
+    "kd_diff": "-18",
+    "kd": "0.96",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2471",
+    "name": "Natus Vincere",
+    "maps": "6",
+    "kd_diff": "+79",
+    "kd": "1.18",
+    "rating": "1.15"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2471",
+    "name": "Astralis",
+    "maps": "13",
+    "kd_diff": "+140",
+    "kd": "1.12",
+    "rating": "1.14"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2367",
+    "name": "Astralis",
+    "maps": "6",
+    "kd_diff": "+182",
+    "kd": "1.50",
+    "rating": "1.34"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "2367",
+    "name": "EnVyUs",
+    "maps": "4",
+    "kd_diff": "+19",
+    "kd": "1.05",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "2367",
+    "name": "OpTic",
+    "maps": "11",
+    "kd_diff": "+21",
+    "kd": "1.02",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2367",
+    "name": "SK",
+    "maps": "8",
+    "kd_diff": "-47",
+    "kd": "0.93",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "7010",
+    "event_id": "2367",
+    "name": "Immortals",
+    "maps": "3",
+    "kd_diff": "-20",
+    "kd": "0.94",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2367",
+    "name": "Cloud9",
+    "maps": "4",
+    "kd_diff": "-25",
+    "kd": "0.94",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2367",
+    "name": "FaZe",
+    "maps": "5",
+    "kd_diff": "-79",
+    "kd": "0.82",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "5422",
+    "event_id": "2367",
+    "name": "Dignitas",
+    "maps": "5",
+    "kd_diff": "-64",
+    "kd": "0.85",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2471",
+    "name": "SK",
+    "maps": "9",
+    "kd_diff": "+63",
+    "kd": "1.08",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "2471",
+    "name": "Gambit",
+    "maps": "7",
+    "kd_diff": "+18",
+    "kd": "1.03",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "2471",
+    "name": "Virtus.pro",
+    "maps": "11",
+    "kd_diff": "+59",
+    "kd": "1.06",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "2471",
+    "name": "EnVyUs",
+    "maps": "5",
+    "kd_diff": "-7",
+    "kd": "0.99",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2471",
+    "name": "FaZe",
+    "maps": "8",
+    "kd_diff": "-7",
+    "kd": "0.99",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "6902",
+    "event_id": "2471",
+    "name": "GODSENT",
+    "maps": "5",
+    "kd_diff": "-11",
+    "kd": "0.98",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "2471",
+    "name": "Liquid",
+    "maps": "5",
+    "kd_diff": "-28",
+    "kd": "0.95",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "2471",
+    "name": "North",
+    "maps": "8",
+    "kd_diff": "-38",
+    "kd": "0.95",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2471",
+    "name": "fnatic",
+    "maps": "9",
+    "kd_diff": "-47",
+    "kd": "0.94",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2471",
+    "name": "G2",
+    "maps": "4",
+    "kd_diff": "-29",
+    "kd": "0.92",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "5988",
+    "event_id": "2471",
+    "name": "FlipSid3",
+    "maps": "3",
+    "kd_diff": "-42",
+    "kd": "0.87",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "2471",
+    "name": "OpTic",
+    "maps": "4",
+    "kd_diff": "-49",
+    "kd": "0.88",
+    "rating": "0.96"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "2471",
+    "name": "mousesports",
+    "maps": "4",
+    "kd_diff": "-63",
+    "kd": "0.80",
+    "rating": "0.89"
+  },
+  {
+    "team_id": "5310",
+    "event_id": "2471",
+    "name": "HellRaisers",
+    "maps": "3",
+    "kd_diff": "-60",
+    "kd": "0.80",
+    "rating": "0.87"
+  },
+  {
+    "team_id": "5310",
+    "event_id": "2683",
+    "name": "HellRaisers",
+    "maps": "9",
+    "kd_diff": "-13",
+    "kd": "0.98",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "7010",
+    "event_id": "2683",
+    "name": "Immortals",
+    "maps": "5",
+    "kd_diff": "-25",
+    "kd": "0.94",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "2683",
+    "name": "Gambit",
+    "maps": "4",
+    "kd_diff": "-32",
+    "kd": "0.92",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "4863",
+    "event_id": "2683",
+    "name": "TYLOO",
+    "maps": "3",
+    "kd_diff": "-34",
+    "kd": "0.90",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "6474",
+    "event_id": "2683",
+    "name": "MVP Project",
+    "maps": "4",
+    "kd_diff": "-88",
+    "kd": "0.78",
+    "rating": "0.87"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "2683",
+    "name": "Virtus.pro",
+    "maps": "4",
+    "kd_diff": "-82",
+    "kd": "0.72",
+    "rating": "0.82"
+  },
+  {
+    "team_id": "7716",
+    "event_id": "2683",
+    "name": "UYA",
+    "maps": "3",
+    "kd_diff": "-93",
+    "kd": "0.68",
+    "rating": "0.78"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2557",
+    "name": "Natus Vincere",
+    "maps": "5",
+    "kd_diff": "+15",
+    "kd": "1.04",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "2557",
+    "name": "North",
+    "maps": "11",
+    "kd_diff": "+11",
+    "kd": "1.01",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "2557",
+    "name": "OpTic",
+    "maps": "5",
+    "kd_diff": "-2",
+    "kd": "1.00",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2557",
+    "name": "fnatic",
+    "maps": "7",
+    "kd_diff": "-8",
+    "kd": "0.98",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "2557",
+    "name": "mousesports",
+    "maps": "7",
+    "kd_diff": "-40",
+    "kd": "0.94",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "7010",
+    "event_id": "2557",
+    "name": "Immortals",
+    "maps": "5",
+    "kd_diff": "-39",
+    "kd": "0.91",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2557",
+    "name": "Cloud9",
+    "maps": "5",
+    "kd_diff": "-75",
+    "kd": "0.83",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "6673",
+    "event_id": "2557",
+    "name": "NRG",
+    "maps": "5",
+    "kd_diff": "-104",
+    "kd": "0.79",
+    "rating": "0.87"
   },
   {
     "team_id": "5995",
@@ -2140,6 +2464,33 @@
     "kd_diff": "-72",
     "kd": "0.72",
     "rating": "0.81"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2635",
+    "name": "Natus Vincere",
+    "maps": "8",
+    "kd_diff": "+48",
+    "kd": "1.06",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "2635",
+    "name": "Liquid",
+    "maps": "5",
+    "kd_diff": "+39",
+    "kd": "1.10",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2635",
+    "name": "FaZe",
+    "maps": "9",
+    "kd_diff": "+32",
+    "kd": "1.04",
+    "rating": "1.06"
   },
   {
     "team_id": "5752",
@@ -2214,6 +2565,150 @@
     "rating": "0.95"
   },
   {
+    "team_id": "6137",
+    "event_id": "2541",
+    "name": "SK",
+    "maps": "9",
+    "kd_diff": "+155",
+    "kd": "1.20",
+    "rating": "1.20"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2541",
+    "name": "Astralis",
+    "maps": "7",
+    "kd_diff": "+72",
+    "kd": "1.15",
+    "rating": "1.14"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "2541",
+    "name": "Virtus.pro",
+    "maps": "12",
+    "kd_diff": "+132",
+    "kd": "1.14",
+    "rating": "1.13"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "2541",
+    "name": "Gambit",
+    "maps": "4",
+    "kd_diff": "+19",
+    "kd": "1.05",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "2541",
+    "name": "North",
+    "maps": "8",
+    "kd_diff": "+61",
+    "kd": "1.09",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "2541",
+    "name": "mousesports",
+    "maps": "4",
+    "kd_diff": "+6",
+    "kd": "1.02",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2541",
+    "name": "Cloud9",
+    "maps": "5",
+    "kd_diff": "+1",
+    "kd": "1.00",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2541",
+    "name": "Natus Vincere",
+    "maps": "7",
+    "kd_diff": "+10",
+    "kd": "1.01",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2541",
+    "name": "NiP",
+    "maps": "7",
+    "kd_diff": "-72",
+    "kd": "0.88",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2541",
+    "name": "FaZe",
+    "maps": "5",
+    "kd_diff": "-53",
+    "kd": "0.89",
+    "rating": "0.95"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "2541",
+    "name": "Renegades",
+    "maps": "2",
+    "kd_diff": "-28",
+    "kd": "0.85",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "7557",
+    "event_id": "2541",
+    "name": "Misfits",
+    "maps": "2",
+    "kd_diff": "-32",
+    "kd": "0.84",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2541",
+    "name": "fnatic",
+    "maps": "4",
+    "kd_diff": "-57",
+    "kd": "0.83",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "2541",
+    "name": "OpTic",
+    "maps": "4",
+    "kd_diff": "-85",
+    "kd": "0.76",
+    "rating": "0.85"
+  },
+  {
+    "team_id": "4863",
+    "event_id": "2541",
+    "name": "TYLOO",
+    "maps": "2",
+    "kd_diff": "-70",
+    "kd": "0.61",
+    "rating": "0.72"
+  },
+  {
+    "team_id": "5005",
+    "event_id": "2541",
+    "name": "compLexity",
+    "maps": "2",
+    "kd_diff": "-71",
+    "kd": "0.59",
+    "rating": "0.67"
+  },
+  {
     "team_id": "5929",
     "event_id": "2635",
     "name": "Space Soldiers",
@@ -2234,11 +2729,254 @@
   {
     "team_id": "4863",
     "event_id": "2635",
-    "name": "TyLoo",
+    "name": "TYLOO",
     "maps": "3",
     "kd_diff": "-102",
     "kd": "0.65",
     "rating": "0.75"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "2684",
+    "name": "North",
+    "maps": "10",
+    "kd_diff": "+72",
+    "kd": "1.08",
+    "rating": "1.12"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2684",
+    "name": "NiP",
+    "maps": "9",
+    "kd_diff": "+69",
+    "kd": "1.08",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2684",
+    "name": "SK",
+    "maps": "9",
+    "kd_diff": "+50",
+    "kd": "1.07",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2637",
+    "name": "Astralis",
+    "maps": "15",
+    "kd_diff": "+158",
+    "kd": "1.12",
+    "rating": "1.12"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2637",
+    "name": "SK",
+    "maps": "5",
+    "kd_diff": "+40",
+    "kd": "1.10",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2637",
+    "name": "FaZe",
+    "maps": "13",
+    "kd_diff": "+72",
+    "kd": "1.07",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2637",
+    "name": "fnatic",
+    "maps": "5",
+    "kd_diff": "+10",
+    "kd": "1.02",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "2637",
+    "name": "Virtus.pro",
+    "maps": "5",
+    "kd_diff": "+3",
+    "kd": "1.01",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "7010",
+    "event_id": "2637",
+    "name": "Immortals",
+    "maps": "12",
+    "kd_diff": "-17",
+    "kd": "0.98",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2637",
+    "name": "Natus Vincere",
+    "maps": "7",
+    "kd_diff": "-23",
+    "kd": "0.96",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "7533",
+    "event_id": "2637",
+    "name": "North",
+    "maps": "8",
+    "kd_diff": "-42",
+    "kd": "0.95",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "2637",
+    "name": "OpTic",
+    "maps": "5",
+    "kd_diff": "-36",
+    "kd": "0.92",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2637",
+    "name": "NiP",
+    "maps": "5",
+    "kd_diff": "-68",
+    "kd": "0.89",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2637",
+    "name": "Cloud9",
+    "maps": "5",
+    "kd_diff": "-35",
+    "kd": "0.91",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "7175",
+    "event_id": "2637",
+    "name": "Heroic",
+    "maps": "7",
+    "kd_diff": "-75",
+    "kd": "0.89",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2684",
+    "name": "G2",
+    "maps": "11",
+    "kd_diff": "+49",
+    "kd": "1.05",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2684",
+    "name": "Cloud9",
+    "maps": "4",
+    "kd_diff": "+19",
+    "kd": "1.06",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2684",
+    "name": "FaZe",
+    "maps": "5",
+    "kd_diff": "+5",
+    "kd": "1.01",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2684",
+    "name": "Natus Vincere",
+    "maps": "8",
+    "kd_diff": "+4",
+    "kd": "1.01",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "2684",
+    "name": "EnVyUs",
+    "maps": "2",
+    "kd_diff": "-10",
+    "kd": "0.95",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "7010",
+    "event_id": "2684",
+    "name": "Immortals",
+    "maps": "8",
+    "kd_diff": "-26",
+    "kd": "0.97",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "2684",
+    "name": "Gambit",
+    "maps": "11",
+    "kd_diff": "-11",
+    "kd": "0.99",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2684",
+    "name": "fnatic",
+    "maps": "4",
+    "kd_diff": "-22",
+    "kd": "0.94",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "2684",
+    "name": "Renegades",
+    "maps": "4",
+    "kd_diff": "-54",
+    "kd": "0.85",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "2684",
+    "name": "Virtus.pro",
+    "maps": "2",
+    "kd_diff": "-49",
+    "kd": "0.71",
+    "rating": "0.78"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "2684",
+    "name": "mousesports",
+    "maps": "2",
+    "kd_diff": "-72",
+    "kd": "0.63",
+    "rating": "0.71"
+  },
+  {
+    "team_id": "7567",
+    "event_id": "2684",
+    "name": "BOOT-d[S]",
+    "maps": "2",
+    "kd_diff": "-97",
+    "kd": "0.43",
+    "rating": "0.51"
   },
   {
     "team_id": "7010",
@@ -2376,148 +3114,112 @@
     "rating": "0.74"
   },
   {
-    "team_id": "4411",
-    "event_id": "2684",
-    "name": "NiP",
-    "maps": "9",
-    "kd_diff": "+69",
-    "kd": "1.08",
+    "team_id": "7533",
+    "event_id": "3016",
+    "name": "North",
+    "maps": "6",
+    "kd_diff": "+34",
+    "kd": "1.06",
     "rating": "1.10"
   },
   {
-    "team_id": "6137",
-    "event_id": "2684",
-    "name": "SK",
-    "maps": "9",
-    "kd_diff": "+50",
-    "kd": "1.07",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "2684",
-    "name": "G2",
-    "maps": "11",
-    "kd_diff": "+49",
-    "kd": "1.05",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2684",
-    "name": "Cloud9",
+    "team_id": "7010",
+    "event_id": "3016",
+    "name": "Immortals",
     "maps": "4",
-    "kd_diff": "+19",
-    "kd": "1.06",
+    "kd_diff": "-3",
+    "kd": "0.99",
     "rating": "1.06"
   },
   {
-    "team_id": "6667",
-    "event_id": "2684",
-    "name": "FaZe",
-    "maps": "5",
-    "kd_diff": "+5",
-    "kd": "1.01",
+    "team_id": "4411",
+    "event_id": "3016",
+    "name": "NiP",
+    "maps": "6",
+    "kd_diff": "-5",
+    "kd": "0.99",
     "rating": "1.06"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2684",
-    "name": "Natus Vincere",
-    "maps": "8",
-    "kd_diff": "+4",
-    "kd": "1.01",
-    "rating": "1.05"
   },
   {
     "team_id": "5991",
-    "event_id": "2684",
+    "event_id": "3016",
     "name": "EnVyUs",
-    "maps": "2",
-    "kd_diff": "-10",
-    "kd": "0.95",
+    "maps": "7",
+    "kd_diff": "-18",
+    "kd": "0.97",
     "rating": "1.04"
   },
   {
-    "team_id": "7010",
-    "event_id": "2684",
-    "name": "Immortals",
-    "maps": "8",
-    "kd_diff": "-26",
-    "kd": "0.97",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "2684",
-    "name": "Gambit",
-    "maps": "11",
-    "kd_diff": "-11",
-    "kd": "0.99",
+    "team_id": "5973",
+    "event_id": "3016",
+    "name": "Liquid",
+    "maps": "4",
+    "kd_diff": "-8",
+    "kd": "0.98",
     "rating": "1.01"
   },
   {
     "team_id": "4991",
-    "event_id": "2684",
+    "event_id": "3016",
     "name": "fnatic",
-    "maps": "4",
-    "kd_diff": "-22",
+    "maps": "8",
+    "kd_diff": "-44",
     "kd": "0.94",
-    "rating": "1.01"
+    "rating": "1.00"
   },
   {
-    "team_id": "6211",
-    "event_id": "2684",
-    "name": "Renegades",
+    "team_id": "4608",
+    "event_id": "3016",
+    "name": "Natus Vincere",
     "maps": "4",
-    "kd_diff": "-54",
-    "kd": "0.85",
-    "rating": "0.94"
+    "kd_diff": "-23",
+    "kd": "0.94",
+    "rating": "1.00"
   },
   {
-    "team_id": "5378",
-    "event_id": "2684",
-    "name": "Virtus.pro",
-    "maps": "2",
-    "kd_diff": "-49",
-    "kd": "0.71",
-    "rating": "0.78"
+    "team_id": "7175",
+    "event_id": "3016",
+    "name": "Heroic",
+    "maps": "7",
+    "kd_diff": "-34",
+    "kd": "0.94",
+    "rating": "0.99"
   },
   {
     "team_id": "4494",
-    "event_id": "2684",
+    "event_id": "3016",
     "name": "mousesports",
-    "maps": "2",
-    "kd_diff": "-72",
-    "kd": "0.63",
-    "rating": "0.71"
-  },
-  {
-    "team_id": "7567",
-    "event_id": "2684",
-    "name": "BOOT-d[S]",
-    "maps": "2",
-    "kd_diff": "-97",
-    "kd": "0.43",
-    "rating": "0.51"
+    "maps": "4",
+    "kd_diff": "-35",
+    "kd": "0.90",
+    "rating": "0.97"
   },
   {
     "team_id": "6137",
-    "event_id": "2557",
+    "event_id": "3016",
     "name": "SK",
-    "maps": "11",
-    "kd_diff": "+86",
-    "kd": "1.12",
-    "rating": "1.13"
+    "maps": "7",
+    "kd_diff": "-78",
+    "kd": "0.88",
+    "rating": "0.94"
   },
   {
-    "team_id": "5995",
-    "event_id": "2557",
-    "name": "G2",
-    "maps": "11",
-    "kd_diff": "+86",
-    "kd": "1.09",
-    "rating": "1.10"
+    "team_id": "6211",
+    "event_id": "3016",
+    "name": "Renegades",
+    "maps": "3",
+    "kd_diff": "-105",
+    "kd": "0.64",
+    "rating": "0.74"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "3016",
+    "name": "Virtus.pro",
+    "maps": "3",
+    "kd_diff": "-93",
+    "kd": "0.66",
+    "rating": "0.72"
   },
   {
     "team_id": "6137",
@@ -2554,456 +3256,6 @@
     "kd_diff": "0",
     "kd": "1.00",
     "rating": "1.04"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "2713",
-    "name": "North",
-    "maps": "4",
-    "kd_diff": "-36",
-    "kd": "0.93",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "6010",
-    "event_id": "2713",
-    "name": "Chiefs",
-    "maps": "5",
-    "kd_diff": "-83",
-    "kd": "0.81",
-    "rating": "0.87"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "2713",
-    "name": "Renegades",
-    "maps": "4",
-    "kd_diff": "-88",
-    "kd": "0.72",
-    "rating": "0.80"
-  },
-  {
-    "team_id": "7606",
-    "event_id": "2713",
-    "name": "ViCi",
-    "maps": "3",
-    "kd_diff": "-100",
-    "kd": "0.65",
-    "rating": "0.76"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "2557",
-    "name": "EnVyUs",
-    "maps": "10",
-    "kd_diff": "+18",
-    "kd": "1.02",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "2557",
-    "name": "Liquid",
-    "maps": "10",
-    "kd_diff": "+33",
-    "kd": "1.04",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2557",
-    "name": "Natus Vincere",
-    "maps": "5",
-    "kd_diff": "+15",
-    "kd": "1.04",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "2557",
-    "name": "North",
-    "maps": "11",
-    "kd_diff": "+11",
-    "kd": "1.01",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "6615",
-    "event_id": "2557",
-    "name": "OpTic",
-    "maps": "5",
-    "kd_diff": "-2",
-    "kd": "1.00",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2557",
-    "name": "fnatic",
-    "maps": "7",
-    "kd_diff": "-8",
-    "kd": "0.98",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "2557",
-    "name": "mousesports",
-    "maps": "7",
-    "kd_diff": "-40",
-    "kd": "0.94",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "7010",
-    "event_id": "2557",
-    "name": "Immortals",
-    "maps": "5",
-    "kd_diff": "-39",
-    "kd": "0.91",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2557",
-    "name": "Cloud9",
-    "maps": "5",
-    "kd_diff": "-75",
-    "kd": "0.83",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "6673",
-    "event_id": "2557",
-    "name": "NRG",
-    "maps": "5",
-    "kd_diff": "-104",
-    "kd": "0.79",
-    "rating": "0.87"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "2683",
-    "name": "G2",
-    "maps": "6",
-    "kd_diff": "+85",
-    "kd": "1.20",
-    "rating": "1.16"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2683",
-    "name": "Natus Vincere",
-    "maps": "8",
-    "kd_diff": "+83",
-    "kd": "1.13",
-    "rating": "1.13"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2637",
-    "name": "Astralis",
-    "maps": "15",
-    "kd_diff": "+158",
-    "kd": "1.12",
-    "rating": "1.12"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2637",
-    "name": "SK",
-    "maps": "5",
-    "kd_diff": "+40",
-    "kd": "1.10",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "2637",
-    "name": "FaZe",
-    "maps": "13",
-    "kd_diff": "+72",
-    "kd": "1.07",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2637",
-    "name": "fnatic",
-    "maps": "5",
-    "kd_diff": "+10",
-    "kd": "1.02",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "2637",
-    "name": "Virtus.pro",
-    "maps": "5",
-    "kd_diff": "+3",
-    "kd": "1.01",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "7010",
-    "event_id": "2637",
-    "name": "Immortals",
-    "maps": "12",
-    "kd_diff": "-17",
-    "kd": "0.98",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2637",
-    "name": "Natus Vincere",
-    "maps": "7",
-    "kd_diff": "-23",
-    "kd": "0.96",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "2637",
-    "name": "North",
-    "maps": "8",
-    "kd_diff": "-42",
-    "kd": "0.95",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "6615",
-    "event_id": "2637",
-    "name": "OpTic",
-    "maps": "5",
-    "kd_diff": "-36",
-    "kd": "0.92",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "2637",
-    "name": "NiP",
-    "maps": "5",
-    "kd_diff": "-68",
-    "kd": "0.89",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2637",
-    "name": "Cloud9",
-    "maps": "5",
-    "kd_diff": "-35",
-    "kd": "0.91",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "7175",
-    "event_id": "2637",
-    "name": "Heroic",
-    "maps": "7",
-    "kd_diff": "-75",
-    "kd": "0.89",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "2683",
-    "name": "FaZe",
-    "maps": "13",
-    "kd_diff": "+87",
-    "kd": "1.08",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2683",
-    "name": "Astralis",
-    "maps": "11",
-    "kd_diff": "+80",
-    "kd": "1.08",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "2683",
-    "name": "North",
-    "maps": "7",
-    "kd_diff": "+6",
-    "kd": "1.01",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2683",
-    "name": "fnatic",
-    "maps": "8",
-    "kd_diff": "+2",
-    "kd": "1.00",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "2683",
-    "name": "NiP",
-    "maps": "5",
-    "kd_diff": "-2",
-    "kd": "1.00",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "5974",
-    "event_id": "2683",
-    "name": "CLG",
-    "maps": "7",
-    "kd_diff": "+18",
-    "kd": "1.03",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2683",
-    "name": "SK",
-    "maps": "5",
-    "kd_diff": "-18",
-    "kd": "0.96",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "5310",
-    "event_id": "2683",
-    "name": "HellRaisers",
-    "maps": "9",
-    "kd_diff": "-13",
-    "kd": "0.98",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "7010",
-    "event_id": "2683",
-    "name": "Immortals",
-    "maps": "5",
-    "kd_diff": "-25",
-    "kd": "0.94",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "2683",
-    "name": "Gambit",
-    "maps": "4",
-    "kd_diff": "-32",
-    "kd": "0.92",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "4863",
-    "event_id": "2683",
-    "name": "TyLoo",
-    "maps": "3",
-    "kd_diff": "-34",
-    "kd": "0.90",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "6474",
-    "event_id": "2683",
-    "name": "MVP Project",
-    "maps": "4",
-    "kd_diff": "-88",
-    "kd": "0.78",
-    "rating": "0.87"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "2683",
-    "name": "Virtus.pro",
-    "maps": "4",
-    "kd_diff": "-82",
-    "kd": "0.72",
-    "rating": "0.82"
-  },
-  {
-    "team_id": "7716",
-    "event_id": "2683",
-    "name": "UYA",
-    "maps": "3",
-    "kd_diff": "-93",
-    "kd": "0.68",
-    "rating": "0.78"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2541",
-    "name": "SK",
-    "maps": "9",
-    "kd_diff": "+155",
-    "kd": "1.20",
-    "rating": "1.20"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2541",
-    "name": "Astralis",
-    "maps": "7",
-    "kd_diff": "+72",
-    "kd": "1.15",
-    "rating": "1.14"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2471",
-    "name": "Natus Vincere",
-    "maps": "6",
-    "kd_diff": "+79",
-    "kd": "1.18",
-    "rating": "1.15"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2471",
-    "name": "Astralis",
-    "maps": "13",
-    "kd_diff": "+140",
-    "kd": "1.12",
-    "rating": "1.14"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2471",
-    "name": "SK",
-    "maps": "9",
-    "kd_diff": "+63",
-    "kd": "1.08",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "2471",
-    "name": "Gambit",
-    "maps": "7",
-    "kd_diff": "+18",
-    "kd": "1.03",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "2471",
-    "name": "Virtus.pro",
-    "maps": "11",
-    "kd_diff": "+59",
-    "kd": "1.06",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "2471",
-    "name": "EnVyUs",
-    "maps": "5",
-    "kd_diff": "-7",
-    "kd": "0.99",
-    "rating": "1.05"
   },
   {
     "team_id": "6667",
@@ -3107,236 +3359,47 @@
   {
     "team_id": "4863",
     "event_id": "2261",
-    "name": "TyLoo",
+    "name": "TYLOO",
     "maps": "5",
     "kd_diff": "-122",
     "kd": "0.76",
     "rating": "0.85"
   },
   {
-    "team_id": "6667",
-    "event_id": "2471",
-    "name": "FaZe",
-    "maps": "8",
-    "kd_diff": "-7",
-    "kd": "0.99",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "6902",
-    "event_id": "2471",
-    "name": "GODSENT",
-    "maps": "5",
-    "kd_diff": "-11",
-    "kd": "0.98",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "2471",
-    "name": "Liquid",
-    "maps": "5",
-    "kd_diff": "-28",
-    "kd": "0.95",
-    "rating": "1.02"
-  },
-  {
     "team_id": "7533",
-    "event_id": "2471",
+    "event_id": "2713",
     "name": "North",
-    "maps": "8",
-    "kd_diff": "-38",
-    "kd": "0.95",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2471",
-    "name": "fnatic",
-    "maps": "9",
-    "kd_diff": "-47",
-    "kd": "0.94",
+    "maps": "4",
+    "kd_diff": "-36",
+    "kd": "0.93",
     "rating": "0.99"
   },
   {
-    "team_id": "5995",
-    "event_id": "2471",
-    "name": "G2",
-    "maps": "4",
-    "kd_diff": "-29",
-    "kd": "0.92",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "5988",
-    "event_id": "2471",
-    "name": "FlipSid3",
-    "maps": "3",
-    "kd_diff": "-42",
-    "kd": "0.87",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "6615",
-    "event_id": "2471",
-    "name": "OpTic",
-    "maps": "4",
-    "kd_diff": "-49",
-    "kd": "0.88",
-    "rating": "0.96"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "2471",
-    "name": "mousesports",
-    "maps": "4",
-    "kd_diff": "-63",
-    "kd": "0.80",
-    "rating": "0.89"
-  },
-  {
-    "team_id": "5310",
-    "event_id": "2471",
-    "name": "HellRaisers",
-    "maps": "3",
-    "kd_diff": "-60",
-    "kd": "0.80",
+    "team_id": "6010",
+    "event_id": "2713",
+    "name": "Chiefs",
+    "maps": "5",
+    "kd_diff": "-83",
+    "kd": "0.81",
     "rating": "0.87"
   },
   {
-    "team_id": "5378",
-    "event_id": "2541",
-    "name": "Virtus.pro",
-    "maps": "12",
-    "kd_diff": "+132",
-    "kd": "1.14",
-    "rating": "1.13"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "2541",
-    "name": "Gambit",
-    "maps": "4",
-    "kd_diff": "+19",
-    "kd": "1.05",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "7533",
-    "event_id": "2541",
-    "name": "North",
-    "maps": "8",
-    "kd_diff": "+61",
-    "kd": "1.09",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "2541",
-    "name": "mousesports",
-    "maps": "4",
-    "kd_diff": "+6",
-    "kd": "1.02",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2541",
-    "name": "Cloud9",
-    "maps": "5",
-    "kd_diff": "+1",
-    "kd": "1.00",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2541",
-    "name": "Natus Vincere",
-    "maps": "7",
-    "kd_diff": "+10",
-    "kd": "1.01",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "2541",
-    "name": "NiP",
-    "maps": "7",
-    "kd_diff": "-72",
-    "kd": "0.88",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "2541",
-    "name": "FaZe",
-    "maps": "5",
-    "kd_diff": "-53",
-    "kd": "0.89",
-    "rating": "0.95"
-  },
-  {
     "team_id": "6211",
-    "event_id": "2541",
+    "event_id": "2713",
     "name": "Renegades",
-    "maps": "2",
-    "kd_diff": "-28",
-    "kd": "0.85",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "7557",
-    "event_id": "2541",
-    "name": "Misfits",
-    "maps": "2",
-    "kd_diff": "-32",
-    "kd": "0.84",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2541",
-    "name": "fnatic",
     "maps": "4",
-    "kd_diff": "-57",
-    "kd": "0.83",
-    "rating": "0.90"
+    "kd_diff": "-88",
+    "kd": "0.72",
+    "rating": "0.80"
   },
   {
-    "team_id": "6615",
-    "event_id": "2541",
-    "name": "OpTic",
-    "maps": "4",
-    "kd_diff": "-85",
-    "kd": "0.76",
-    "rating": "0.85"
-  },
-  {
-    "team_id": "4863",
-    "event_id": "2541",
-    "name": "TyLoo",
-    "maps": "2",
-    "kd_diff": "-70",
-    "kd": "0.61",
-    "rating": "0.72"
-  },
-  {
-    "team_id": "5005",
-    "event_id": "2541",
-    "name": "compLexity",
-    "maps": "2",
-    "kd_diff": "-71",
-    "kd": "0.59",
-    "rating": "0.67"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2367",
-    "name": "Astralis",
-    "maps": "6",
-    "kd_diff": "+182",
-    "kd": "1.50",
-    "rating": "1.34"
+    "team_id": "7606",
+    "event_id": "2713",
+    "name": "ViCi",
+    "maps": "3",
+    "kd_diff": "-100",
+    "kd": "0.65",
+    "rating": "0.76"
   },
   {
     "team_id": "5752",
@@ -3355,15 +3418,6 @@
     "kd_diff": "+50",
     "kd": "1.10",
     "rating": "1.12"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2306",
-    "name": "SK",
-    "maps": "11",
-    "kd_diff": "+77",
-    "kd": "1.09",
-    "rating": "1.09"
   },
   {
     "team_id": "6615",
@@ -3510,6 +3564,15 @@
     "rating": "0.49"
   },
   {
+    "team_id": "6137",
+    "event_id": "2306",
+    "name": "SK",
+    "maps": "11",
+    "kd_diff": "+77",
+    "kd": "1.09",
+    "rating": "1.09"
+  },
+  {
     "team_id": "4494",
     "event_id": "2306",
     "name": "mousesports",
@@ -3582,84 +3645,12 @@
     "rating": "0.83"
   },
   {
-    "team_id": "5991",
-    "event_id": "2367",
-    "name": "EnVyUs",
-    "maps": "4",
-    "kd_diff": "+19",
-    "kd": "1.05",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "6615",
-    "event_id": "2367",
-    "name": "OpTic",
-    "maps": "11",
-    "kd_diff": "+21",
-    "kd": "1.02",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2367",
-    "name": "SK",
-    "maps": "8",
-    "kd_diff": "-47",
-    "kd": "0.93",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "7010",
-    "event_id": "2367",
-    "name": "Immortals",
-    "maps": "3",
-    "kd_diff": "-20",
-    "kd": "0.94",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2367",
-    "name": "Cloud9",
-    "maps": "4",
-    "kd_diff": "-25",
-    "kd": "0.94",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "2367",
-    "name": "FaZe",
-    "maps": "5",
-    "kd_diff": "-79",
-    "kd": "0.82",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "5422",
-    "event_id": "2367",
-    "name": "Dignitas",
-    "maps": "5",
-    "kd_diff": "-64",
-    "kd": "0.85",
-    "rating": "0.91"
-  },
-  {
     "team_id": "5422",
     "event_id": "2410",
     "name": "Dignitas",
     "maps": "15",
     "kd_diff": "+93",
     "kd": "1.07",
-    "rating": "1.10"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2410",
-    "name": "SK",
-    "maps": "12",
-    "kd_diff": "+86",
-    "kd": "1.09",
     "rating": "1.10"
   },
   {
@@ -3688,105 +3679,6 @@
     "kd_diff": "-8",
     "kd": "0.98",
     "rating": "1.08"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "2239",
-    "name": "Liquid",
-    "maps": "8",
-    "kd_diff": "+19",
-    "kd": "1.03",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2239",
-    "name": "fnatic",
-    "maps": "5",
-    "kd_diff": "-19",
-    "kd": "0.96",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2239",
-    "name": "Astralis",
-    "maps": "4",
-    "kd_diff": "-14",
-    "kd": "0.96",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "6137",
-    "event_id": "2239",
-    "name": "SK",
-    "maps": "7",
-    "kd_diff": "-21",
-    "kd": "0.97",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "2239",
-    "name": "G2",
-    "maps": "3",
-    "kd_diff": "-63",
-    "kd": "0.78",
-    "rating": "0.85"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2410",
-    "name": "fnatic",
-    "maps": "9",
-    "kd_diff": "+5",
-    "kd": "1.01",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2410",
-    "name": "Natus Vincere",
-    "maps": "9",
-    "kd_diff": "+3",
-    "kd": "1.00",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "2410",
-    "name": "Virtus.pro",
-    "maps": "12",
-    "kd_diff": "-24",
-    "kd": "0.98",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "2410",
-    "name": "G2",
-    "maps": "9",
-    "kd_diff": "-60",
-    "kd": "0.93",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "2410",
-    "name": "NiP",
-    "maps": "6",
-    "kd_diff": "-35",
-    "kd": "0.93",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "5310",
-    "event_id": "2410",
-    "name": "HellRaisers",
-    "maps": "6",
-    "kd_diff": "-80",
-    "kd": "0.86",
-    "rating": "0.92"
   },
   {
     "team_id": "4411",
@@ -3888,193 +3780,13 @@
     "rating": "1.00"
   },
   {
-    "team_id": "5995",
-    "event_id": "2062",
-    "name": "G2",
-    "maps": "2",
-    "kd_diff": "-20",
-    "kd": "0.90",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "2062",
-    "name": "mousesports",
-    "maps": "4",
-    "kd_diff": "-50",
-    "kd": "0.87",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "6651",
-    "event_id": "2062",
-    "name": "Gambit",
-    "maps": "4",
-    "kd_diff": "-50",
-    "kd": "0.85",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "2062",
-    "name": "EnVyUs",
-    "maps": "2",
-    "kd_diff": "-33",
-    "kd": "0.82",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "2062",
-    "name": "FaZe",
-    "maps": "4",
-    "kd_diff": "-80",
-    "kd": "0.78",
-    "rating": "0.86"
-  },
-  {
-    "team_id": "5974",
-    "event_id": "2062",
-    "name": "CLG",
-    "maps": "2",
-    "kd_diff": "-48",
-    "kd": "0.73",
-    "rating": "0.78"
-  },
-  {
-    "team_id": "6615",
-    "event_id": "2062",
-    "name": "OpTic",
-    "maps": "2",
-    "kd_diff": "-60",
-    "kd": "0.68",
-    "rating": "0.77"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "2325",
-    "name": "EnVyUs",
-    "maps": "6",
-    "kd_diff": "+15",
-    "kd": "1.03",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "2325",
-    "name": "G2",
-    "maps": "8",
-    "kd_diff": "+59",
-    "kd": "1.08",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2325",
-    "name": "Cloud9",
-    "maps": "7",
-    "kd_diff": "+34",
+    "team_id": "6290",
+    "event_id": "2130",
+    "name": "Luminosity",
+    "maps": "14",
+    "kd_diff": "+93",
     "kd": "1.07",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "7175",
-    "event_id": "2325",
-    "name": "Heroic",
-    "maps": "5",
-    "kd_diff": "+2",
-    "kd": "1.00",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "5422",
-    "event_id": "2325",
-    "name": "Dignitas",
-    "maps": "9",
-    "kd_diff": "+17",
-    "kd": "1.02",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2325",
-    "name": "Astralis",
-    "maps": "8",
-    "kd_diff": "+8",
-    "kd": "1.01",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "4863",
-    "event_id": "2325",
-    "name": "TyLoo",
-    "maps": "5",
-    "kd_diff": "-15",
-    "kd": "0.97",
-    "rating": "1.03"
-  },
-  {
-    "team_id": "5310",
-    "event_id": "2325",
-    "name": "HellRaisers",
-    "maps": "2",
-    "kd_diff": "-17",
-    "kd": "0.91",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "6902",
-    "event_id": "2325",
-    "name": "GODSENT",
-    "maps": "4",
-    "kd_diff": "-24",
-    "kd": "0.92",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5988",
-    "event_id": "2325",
-    "name": "FlipSid3",
-    "maps": "8",
-    "kd_diff": "-78",
-    "kd": "0.88",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "6773",
-    "event_id": "2325",
-    "name": "VG.CyberZen",
-    "maps": "4",
-    "kd_diff": "-52",
-    "kd": "0.85",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2325",
-    "name": "Natus Vincere",
-    "maps": "2",
-    "kd_diff": "-31",
-    "kd": "0.86",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "2325",
-    "name": "Virtus.pro",
-    "maps": "2",
-    "kd_diff": "-37",
-    "kd": "0.79",
-    "rating": "0.87"
-  },
-  {
-    "team_id": "6474",
-    "event_id": "2325",
-    "name": "MVP Project",
-    "maps": "2",
-    "kd_diff": "-61",
-    "kd": "0.66",
-    "rating": "0.74"
+    "rating": "1.11"
   },
   {
     "team_id": "5995",
@@ -4084,69 +3796,6 @@
     "kd_diff": "+167",
     "kd": "1.23",
     "rating": "1.21"
-  },
-  {
-    "team_id": "5996",
-    "event_id": "2248",
-    "name": "TSM",
-    "maps": "6",
-    "kd_diff": "+15",
-    "kd": "1.03",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "2248",
-    "name": "Luminosity",
-    "maps": "6",
-    "kd_diff": "+30",
-    "kd": "1.06",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2248",
-    "name": "Cloud9",
-    "maps": "5",
-    "kd_diff": "-18",
-    "kd": "0.96",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "2248",
-    "name": "Liquid",
-    "maps": "5",
-    "kd_diff": "-21",
-    "kd": "0.95",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2248",
-    "name": "fnatic",
-    "maps": "4",
-    "kd_diff": "-35",
-    "kd": "0.91",
-    "rating": "0.95"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2248",
-    "name": "Astralis",
-    "maps": "3",
-    "kd_diff": "-59",
-    "kd": "0.80",
-    "rating": "0.87"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "2248",
-    "name": "NiP",
-    "maps": "3",
-    "kd_diff": "-86",
-    "kd": "0.70",
-    "rating": "0.79"
   },
   {
     "team_id": "6290",
@@ -4165,78 +3814,6 @@
     "kd_diff": "+315",
     "kd": "1.19",
     "rating": "1.18"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "2130",
-    "name": "Luminosity",
-    "maps": "14",
-    "kd_diff": "+93",
-    "kd": "1.07",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "2130",
-    "name": "G2",
-    "maps": "10",
-    "kd_diff": "+69",
-    "kd": "1.08",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2130",
-    "name": "fnatic",
-    "maps": "7",
-    "kd_diff": "-7",
-    "kd": "0.99",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "2130",
-    "name": "Liquid",
-    "maps": "5",
-    "kd_diff": "+3",
-    "kd": "1.01",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2130",
-    "name": "Astralis",
-    "maps": "4",
-    "kd_diff": "-9",
-    "kd": "0.97",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "2130",
-    "name": "NiP",
-    "maps": "5",
-    "kd_diff": "-34",
-    "kd": "0.93",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "2130",
-    "name": "Cloud9",
-    "maps": "3",
-    "kd_diff": "-55",
-    "kd": "0.83",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "6615",
-    "event_id": "2130",
-    "name": "OpTic",
-    "maps": "4",
-    "kd_diff": "-68",
-    "kd": "0.82",
-    "rating": "0.91"
   },
   {
     "team_id": "4991",
@@ -4437,6 +4014,429 @@
     "rating": "0.87"
   },
   {
+    "team_id": "5996",
+    "event_id": "2248",
+    "name": "TSM",
+    "maps": "6",
+    "kd_diff": "+15",
+    "kd": "1.03",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "6290",
+    "event_id": "2248",
+    "name": "Luminosity",
+    "maps": "6",
+    "kd_diff": "+30",
+    "kd": "1.06",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2248",
+    "name": "Cloud9",
+    "maps": "5",
+    "kd_diff": "-18",
+    "kd": "0.96",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "2248",
+    "name": "Liquid",
+    "maps": "5",
+    "kd_diff": "-21",
+    "kd": "0.95",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2248",
+    "name": "fnatic",
+    "maps": "4",
+    "kd_diff": "-35",
+    "kd": "0.91",
+    "rating": "0.95"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2248",
+    "name": "Astralis",
+    "maps": "3",
+    "kd_diff": "-59",
+    "kd": "0.80",
+    "rating": "0.87"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2248",
+    "name": "NiP",
+    "maps": "3",
+    "kd_diff": "-86",
+    "kd": "0.70",
+    "rating": "0.79"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2130",
+    "name": "G2",
+    "maps": "10",
+    "kd_diff": "+69",
+    "kd": "1.08",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2130",
+    "name": "fnatic",
+    "maps": "7",
+    "kd_diff": "-7",
+    "kd": "0.99",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "2130",
+    "name": "Liquid",
+    "maps": "5",
+    "kd_diff": "+3",
+    "kd": "1.01",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2130",
+    "name": "Astralis",
+    "maps": "4",
+    "kd_diff": "-9",
+    "kd": "0.97",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2130",
+    "name": "NiP",
+    "maps": "5",
+    "kd_diff": "-34",
+    "kd": "0.93",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2130",
+    "name": "Cloud9",
+    "maps": "3",
+    "kd_diff": "-55",
+    "kd": "0.83",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "2130",
+    "name": "OpTic",
+    "maps": "4",
+    "kd_diff": "-68",
+    "kd": "0.82",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2062",
+    "name": "G2",
+    "maps": "2",
+    "kd_diff": "-20",
+    "kd": "0.90",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "2062",
+    "name": "mousesports",
+    "maps": "4",
+    "kd_diff": "-50",
+    "kd": "0.87",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "6651",
+    "event_id": "2062",
+    "name": "Gambit",
+    "maps": "4",
+    "kd_diff": "-50",
+    "kd": "0.85",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "2062",
+    "name": "EnVyUs",
+    "maps": "2",
+    "kd_diff": "-33",
+    "kd": "0.82",
+    "rating": "0.88"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2062",
+    "name": "FaZe",
+    "maps": "4",
+    "kd_diff": "-80",
+    "kd": "0.78",
+    "rating": "0.86"
+  },
+  {
+    "team_id": "5974",
+    "event_id": "2062",
+    "name": "CLG",
+    "maps": "2",
+    "kd_diff": "-48",
+    "kd": "0.73",
+    "rating": "0.78"
+  },
+  {
+    "team_id": "6615",
+    "event_id": "2062",
+    "name": "OpTic",
+    "maps": "2",
+    "kd_diff": "-60",
+    "kd": "0.68",
+    "rating": "0.77"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "2325",
+    "name": "EnVyUs",
+    "maps": "6",
+    "kd_diff": "+15",
+    "kd": "1.03",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2325",
+    "name": "G2",
+    "maps": "8",
+    "kd_diff": "+59",
+    "kd": "1.08",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "2325",
+    "name": "Cloud9",
+    "maps": "7",
+    "kd_diff": "+34",
+    "kd": "1.07",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "7175",
+    "event_id": "2325",
+    "name": "Heroic",
+    "maps": "5",
+    "kd_diff": "+2",
+    "kd": "1.00",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "5422",
+    "event_id": "2325",
+    "name": "Dignitas",
+    "maps": "9",
+    "kd_diff": "+17",
+    "kd": "1.02",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2325",
+    "name": "Astralis",
+    "maps": "8",
+    "kd_diff": "+8",
+    "kd": "1.01",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "4863",
+    "event_id": "2325",
+    "name": "TYLOO",
+    "maps": "5",
+    "kd_diff": "-15",
+    "kd": "0.97",
+    "rating": "1.03"
+  },
+  {
+    "team_id": "5310",
+    "event_id": "2325",
+    "name": "HellRaisers",
+    "maps": "2",
+    "kd_diff": "-17",
+    "kd": "0.91",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "6902",
+    "event_id": "2325",
+    "name": "GODSENT",
+    "maps": "4",
+    "kd_diff": "-24",
+    "kd": "0.92",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "5988",
+    "event_id": "2325",
+    "name": "FlipSid3",
+    "maps": "8",
+    "kd_diff": "-78",
+    "kd": "0.88",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "6773",
+    "event_id": "2325",
+    "name": "VG.CyberZen",
+    "maps": "4",
+    "kd_diff": "-52",
+    "kd": "0.85",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2325",
+    "name": "Natus Vincere",
+    "maps": "2",
+    "kd_diff": "-31",
+    "kd": "0.86",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "2325",
+    "name": "Virtus.pro",
+    "maps": "2",
+    "kd_diff": "-37",
+    "kd": "0.79",
+    "rating": "0.87"
+  },
+  {
+    "team_id": "6474",
+    "event_id": "2325",
+    "name": "MVP Project",
+    "maps": "2",
+    "kd_diff": "-61",
+    "kd": "0.66",
+    "rating": "0.74"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "2239",
+    "name": "Liquid",
+    "maps": "8",
+    "kd_diff": "+19",
+    "kd": "1.03",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2239",
+    "name": "fnatic",
+    "maps": "5",
+    "kd_diff": "-19",
+    "kd": "0.96",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2239",
+    "name": "Astralis",
+    "maps": "4",
+    "kd_diff": "-14",
+    "kd": "0.96",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2239",
+    "name": "SK",
+    "maps": "7",
+    "kd_diff": "-21",
+    "kd": "0.97",
+    "rating": "1.01"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2239",
+    "name": "G2",
+    "maps": "3",
+    "kd_diff": "-63",
+    "kd": "0.78",
+    "rating": "0.85"
+  },
+  {
+    "team_id": "6137",
+    "event_id": "2410",
+    "name": "SK",
+    "maps": "12",
+    "kd_diff": "+86",
+    "kd": "1.09",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "2410",
+    "name": "fnatic",
+    "maps": "9",
+    "kd_diff": "+5",
+    "kd": "1.01",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2410",
+    "name": "Natus Vincere",
+    "maps": "9",
+    "kd_diff": "+3",
+    "kd": "1.00",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "2410",
+    "name": "Virtus.pro",
+    "maps": "12",
+    "kd_diff": "-24",
+    "kd": "0.98",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "2410",
+    "name": "G2",
+    "maps": "9",
+    "kd_diff": "-60",
+    "kd": "0.93",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2410",
+    "name": "NiP",
+    "maps": "6",
+    "kd_diff": "-35",
+    "kd": "0.93",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "5310",
+    "event_id": "2410",
+    "name": "HellRaisers",
+    "maps": "6",
+    "kd_diff": "-80",
+    "kd": "0.86",
+    "rating": "0.92"
+  },
+  {
     "team_id": "4608",
     "event_id": "2099",
     "name": "Natus Vincere",
@@ -4444,24 +4444,6 @@
     "kd_diff": "+137",
     "kd": "1.22",
     "rating": "1.18"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "2099",
-    "name": "Luminosity",
-    "maps": "5",
-    "kd_diff": "+27",
-    "kd": "1.06",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "2099",
-    "name": "mousesports",
-    "maps": "5",
-    "kd_diff": "+43",
-    "kd": "1.11",
-    "rating": "1.10"
   },
   {
     "team_id": "6290",
@@ -4480,186 +4462,6 @@
     "kd_diff": "+70",
     "kd": "1.11",
     "rating": "1.12"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "2036",
-    "name": "fnatic",
-    "maps": "13",
-    "kd_diff": "+195",
-    "kd": "1.18",
-    "rating": "1.17"
-  },
-  {
-    "team_id": "6665",
-    "event_id": "2036",
-    "name": "Astralis",
-    "maps": "8",
-    "kd_diff": "+63",
-    "kd": "1.10",
-    "rating": "1.13"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "2036",
-    "name": "Natus Vincere",
-    "maps": "10",
-    "kd_diff": "+71",
-    "kd": "1.08",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "2036",
-    "name": "mousesports",
-    "maps": "5",
-    "kd_diff": "+25",
-    "kd": "1.06",
-    "rating": "1.08"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "1978",
-    "name": "Luminosity",
-    "maps": "7",
-    "kd_diff": "+71",
-    "kd": "1.12",
-    "rating": "1.15"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "1978",
-    "name": "fnatic",
-    "maps": "15",
-    "kd_diff": "+162",
-    "kd": "1.15",
-    "rating": "1.15"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "1978",
-    "name": "Natus Vincere",
-    "maps": "13",
-    "kd_diff": "+97",
-    "kd": "1.09",
-    "rating": "1.09"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "1978",
-    "name": "EnVyUs",
-    "maps": "6",
-    "kd_diff": "+19",
-    "kd": "1.04",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "6548",
-    "event_id": "1978",
-    "name": "?",
-    "maps": "10",
-    "kd_diff": "-59",
-    "kd": "0.93",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "1978",
-    "name": "G2",
-    "maps": "9",
-    "kd_diff": "-129",
-    "kd": "0.85",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "6503",
-    "event_id": "1978",
-    "name": "CyberZen",
-    "maps": "5",
-    "kd_diff": "-65",
-    "kd": "0.85",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "6637",
-    "event_id": "1978",
-    "name": "ex-Titan",
-    "maps": "5",
-    "kd_diff": "-107",
-    "kd": "0.77",
-    "rating": "0.84"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "2036",
-    "name": "NiP",
-    "maps": "5",
-    "kd_diff": "+3",
-    "kd": "1.01",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "6118",
-    "event_id": "2036",
-    "name": "Tempo Storm",
-    "maps": "8",
-    "kd_diff": "+13",
-    "kd": "1.02",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "2036",
-    "name": "Luminosity",
-    "maps": "10",
-    "kd_diff": "+36",
-    "kd": "1.04",
-    "rating": "1.06"
-  },
-  {
-    "team_id": "6667",
-    "event_id": "2036",
-    "name": "FaZe",
-    "maps": "5",
-    "kd_diff": "-1",
-    "kd": "1.00",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "2036",
-    "name": "EnVyUs",
-    "maps": "5",
-    "kd_diff": "-28",
-    "kd": "0.95",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "2036",
-    "name": "Virtus.pro",
-    "maps": "7",
-    "kd_diff": "-83",
-    "kd": "0.87",
-    "rating": "0.93"
-  },
-  {
-    "team_id": "6226",
-    "event_id": "2036",
-    "name": "E-frag.net",
-    "maps": "5",
-    "kd_diff": "-126",
-    "kd": "0.76",
-    "rating": "0.85"
-  },
-  {
-    "team_id": "6248",
-    "event_id": "2036",
-    "name": "TheMongolz",
-    "maps": "5",
-    "kd_diff": "-190",
-    "kd": "0.59",
-    "rating": "0.68"
   },
   {
     "team_id": "6665",
@@ -4788,6 +4590,24 @@
     "rating": "0.61"
   },
   {
+    "team_id": "6290",
+    "event_id": "2099",
+    "name": "Luminosity",
+    "maps": "5",
+    "kd_diff": "+27",
+    "kd": "1.06",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "2099",
+    "name": "mousesports",
+    "maps": "5",
+    "kd_diff": "+43",
+    "kd": "1.11",
+    "rating": "1.10"
+  },
+  {
     "team_id": "4411",
     "event_id": "2099",
     "name": "NiP",
@@ -4880,7 +4700,7 @@
   {
     "team_id": "4863",
     "event_id": "2099",
-    "name": "TyLoo",
+    "name": "TYLOO",
     "maps": "7",
     "kd_diff": "-102",
     "kd": "0.86",
@@ -4905,78 +4725,6 @@
     "rating": "0.73"
   },
   {
-    "team_id": "4991",
-    "event_id": "1615",
-    "name": "fnatic",
-    "maps": "8",
-    "kd_diff": "+115",
-    "kd": "1.19",
-    "rating": "1.11"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "1615",
-    "name": "Virtus.pro",
-    "maps": "7",
-    "kd_diff": "+43",
-    "kd": "1.07",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "5996",
-    "event_id": "1615",
-    "name": "TSM",
-    "maps": "5",
-    "kd_diff": "+6",
-    "kd": "1.01",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "1615",
-    "name": "Luminosity",
-    "maps": "13",
-    "kd_diff": "+15",
-    "kd": "1.01",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "1615",
-    "name": "Liquid",
-    "maps": "5",
-    "kd_diff": "-24",
-    "kd": "0.94",
-    "rating": "0.95"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "1615",
-    "name": "NiP",
-    "maps": "5",
-    "kd_diff": "-45",
-    "kd": "0.91",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "1615",
-    "name": "EnVyUs",
-    "maps": "4",
-    "kd_diff": "-38",
-    "kd": "0.89",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "6468",
-    "event_id": "1615",
-    "name": "Legacy",
-    "maps": "3",
-    "kd_diff": "-80",
-    "kd": "0.74",
-    "rating": "0.77"
-  },
-  {
     "team_id": "6548",
     "event_id": "1986",
     "name": "?",
@@ -4984,78 +4732,6 @@
     "kd_diff": "+49",
     "kd": "1.09",
     "rating": "1.05"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "1882",
-    "name": "Virtus.pro",
-    "maps": "10",
-    "kd_diff": "+91",
-    "kd": "1.12",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "1882",
-    "name": "NiP",
-    "maps": "7",
-    "kd_diff": "+46",
-    "kd": "1.08",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "1882",
-    "name": "fnatic",
-    "maps": "7",
-    "kd_diff": "+32",
-    "kd": "1.06",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "5996",
-    "event_id": "1882",
-    "name": "TSM",
-    "maps": "10",
-    "kd_diff": "+3",
-    "kd": "1.00",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "1882",
-    "name": "EnVyUs",
-    "maps": "4",
-    "kd_diff": "-49",
-    "kd": "0.87",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "1882",
-    "name": "Cloud9",
-    "maps": "2",
-    "kd_diff": "-36",
-    "kd": "0.85",
-    "rating": "0.89"
-  },
-  {
-    "team_id": "5284",
-    "event_id": "1882",
-    "name": "Titan",
-    "maps": "4",
-    "kd_diff": "-56",
-    "kd": "0.85",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "1882",
-    "name": "Natus Vincere",
-    "maps": "2",
-    "kd_diff": "-36",
-    "kd": "0.83",
-    "rating": "0.85"
   },
   {
     "team_id": "4608",
@@ -5103,6 +4779,186 @@
     "rating": "0.89"
   },
   {
+    "team_id": "4991",
+    "event_id": "2036",
+    "name": "fnatic",
+    "maps": "13",
+    "kd_diff": "+195",
+    "kd": "1.18",
+    "rating": "1.17"
+  },
+  {
+    "team_id": "6665",
+    "event_id": "2036",
+    "name": "Astralis",
+    "maps": "8",
+    "kd_diff": "+63",
+    "kd": "1.10",
+    "rating": "1.13"
+  },
+  {
+    "team_id": "6290",
+    "event_id": "1978",
+    "name": "Luminosity",
+    "maps": "7",
+    "kd_diff": "+71",
+    "kd": "1.12",
+    "rating": "1.15"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "1978",
+    "name": "fnatic",
+    "maps": "15",
+    "kd_diff": "+162",
+    "kd": "1.15",
+    "rating": "1.15"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "1978",
+    "name": "Natus Vincere",
+    "maps": "13",
+    "kd_diff": "+97",
+    "kd": "1.09",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "1978",
+    "name": "EnVyUs",
+    "maps": "6",
+    "kd_diff": "+19",
+    "kd": "1.04",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "6548",
+    "event_id": "1978",
+    "name": "?",
+    "maps": "10",
+    "kd_diff": "-59",
+    "kd": "0.93",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "1978",
+    "name": "G2",
+    "maps": "9",
+    "kd_diff": "-129",
+    "kd": "0.85",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "6503",
+    "event_id": "1978",
+    "name": "CyberZen",
+    "maps": "5",
+    "kd_diff": "-65",
+    "kd": "0.85",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "6637",
+    "event_id": "1978",
+    "name": "ex-Titan",
+    "maps": "5",
+    "kd_diff": "-107",
+    "kd": "0.77",
+    "rating": "0.84"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "2036",
+    "name": "Natus Vincere",
+    "maps": "10",
+    "kd_diff": "+71",
+    "kd": "1.08",
+    "rating": "1.09"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "2036",
+    "name": "mousesports",
+    "maps": "5",
+    "kd_diff": "+25",
+    "kd": "1.06",
+    "rating": "1.08"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "2036",
+    "name": "NiP",
+    "maps": "5",
+    "kd_diff": "+3",
+    "kd": "1.01",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "6118",
+    "event_id": "2036",
+    "name": "Tempo Storm",
+    "maps": "8",
+    "kd_diff": "+13",
+    "kd": "1.02",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "6290",
+    "event_id": "2036",
+    "name": "Luminosity",
+    "maps": "10",
+    "kd_diff": "+36",
+    "kd": "1.04",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "6667",
+    "event_id": "2036",
+    "name": "FaZe",
+    "maps": "5",
+    "kd_diff": "-1",
+    "kd": "1.00",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "2036",
+    "name": "EnVyUs",
+    "maps": "5",
+    "kd_diff": "-28",
+    "kd": "0.95",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "2036",
+    "name": "Virtus.pro",
+    "maps": "7",
+    "kd_diff": "-83",
+    "kd": "0.87",
+    "rating": "0.93"
+  },
+  {
+    "team_id": "6226",
+    "event_id": "2036",
+    "name": "E-frag.net",
+    "maps": "5",
+    "kd_diff": "-126",
+    "kd": "0.76",
+    "rating": "0.85"
+  },
+  {
+    "team_id": "6248",
+    "event_id": "2036",
+    "name": "TheMongolz",
+    "maps": "5",
+    "kd_diff": "-190",
+    "kd": "0.59",
+    "rating": "0.68"
+  },
+  {
     "team_id": "5974",
     "event_id": "1986",
     "name": "CLG",
@@ -5110,6 +4966,42 @@
     "kd_diff": "-52",
     "kd": "0.86",
     "rating": "0.87"
+  },
+  {
+    "team_id": "6292",
+    "event_id": "1986",
+    "name": "Conquest",
+    "maps": "5",
+    "kd_diff": "-89",
+    "kd": "0.81",
+    "rating": "0.83"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "1615",
+    "name": "fnatic",
+    "maps": "8",
+    "kd_diff": "+115",
+    "kd": "1.19",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "1615",
+    "name": "Virtus.pro",
+    "maps": "7",
+    "kd_diff": "+43",
+    "kd": "1.07",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "5996",
+    "event_id": "1615",
+    "name": "TSM",
+    "maps": "5",
+    "kd_diff": "+6",
+    "kd": "1.01",
+    "rating": "1.01"
   },
   {
     "team_id": "5991",
@@ -5121,148 +5013,22 @@
     "rating": "1.14"
   },
   {
-    "team_id": "4608",
-    "event_id": "1617",
-    "name": "Natus Vincere",
-    "maps": "11",
-    "kd_diff": "+119",
-    "kd": "1.13",
+    "team_id": "5378",
+    "event_id": "1882",
+    "name": "Virtus.pro",
+    "maps": "10",
+    "kd_diff": "+91",
+    "kd": "1.12",
     "rating": "1.07"
   },
   {
-    "team_id": "5996",
-    "event_id": "1617",
-    "name": "TSM",
-    "maps": "4",
-    "kd_diff": "+20",
-    "kd": "1.06",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "5995",
-    "event_id": "1617",
-    "name": "G2",
-    "maps": "10",
-    "kd_diff": "+25",
-    "kd": "1.03",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "1617",
-    "name": "Virtus.pro",
-    "maps": "4",
-    "kd_diff": "+22",
-    "kd": "1.05",
-    "rating": "1.02"
-  },
-  {
     "team_id": "4411",
-    "event_id": "1617",
+    "event_id": "1882",
     "name": "NiP",
-    "maps": "8",
-    "kd_diff": "-5",
-    "kd": "0.99",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "1617",
-    "name": "fnatic",
     "maps": "7",
-    "kd_diff": "-14",
-    "kd": "0.98",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "1617",
-    "name": "Luminosity",
-    "maps": "4",
-    "kd_diff": "-13",
-    "kd": "0.97",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "1617",
-    "name": "mousesports",
-    "maps": "5",
-    "kd_diff": "-44",
-    "kd": "0.91",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "1617",
-    "name": "Cloud9",
-    "maps": "4",
-    "kd_diff": "-45",
-    "kd": "0.88",
-    "rating": "0.91"
-  },
-  {
-    "team_id": "5284",
-    "event_id": "1617",
-    "name": "Titan",
-    "maps": "4",
-    "kd_diff": "-59",
-    "kd": "0.84",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "6375",
-    "event_id": "1617",
-    "name": "Vexed",
-    "maps": "2",
-    "kd_diff": "-19",
-    "kd": "0.90",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "5974",
-    "event_id": "1617",
-    "name": "CLG",
-    "maps": "5",
-    "kd_diff": "-56",
-    "kd": "0.88",
-    "rating": "0.89"
-  },
-  {
-    "team_id": "5973",
-    "event_id": "1617",
-    "name": "Liquid",
-    "maps": "2",
-    "kd_diff": "-38",
-    "kd": "0.83",
-    "rating": "0.86"
-  },
-  {
-    "team_id": "5988",
-    "event_id": "1617",
-    "name": "FlipSid3",
-    "maps": "2",
-    "kd_diff": "-41",
-    "kd": "0.78",
-    "rating": "0.81"
-  },
-  {
-    "team_id": "5422",
-    "event_id": "1617",
-    "name": "Dignitas",
-    "maps": "2",
-    "kd_diff": "-44",
-    "kd": "0.78",
-    "rating": "0.81"
-  },
-  {
-    "team_id": "6292",
-    "event_id": "1986",
-    "name": "Conquest",
-    "maps": "5",
-    "kd_diff": "-89",
-    "kd": "0.81",
-    "rating": "0.83"
+    "kd_diff": "+46",
+    "kd": "1.08",
+    "rating": "1.04"
   },
   {
     "team_id": "4991",
@@ -5281,132 +5047,6 @@
     "kd_diff": "+109",
     "kd": "1.21",
     "rating": "1.11"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "1666",
-    "name": "Virtus.pro",
-    "maps": "7",
-    "kd_diff": "+79",
-    "kd": "1.15",
-    "rating": "1.07"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "1666",
-    "name": "EnVyUs",
-    "maps": "9",
-    "kd_diff": "+37",
-    "kd": "1.05",
-    "rating": "1.00"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "1666",
-    "name": "NiP",
-    "maps": "5",
-    "kd_diff": "-12",
-    "kd": "0.97",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "6290",
-    "event_id": "1666",
-    "name": "Luminosity",
-    "maps": "5",
-    "kd_diff": "-13",
-    "kd": "0.97",
-    "rating": "0.98"
-  },
-  {
-    "team_id": "5974",
-    "event_id": "1666",
-    "name": "CLG",
-    "maps": "3",
-    "kd_diff": "-21",
-    "kd": "0.93",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "1666",
-    "name": "Natus Vincere",
-    "maps": "5",
-    "kd_diff": "-43",
-    "kd": "0.91",
-    "rating": "0.93"
-  },
-  {
-    "team_id": "4494",
-    "event_id": "1666",
-    "name": "mousesports",
-    "maps": "2",
-    "kd_diff": "-24",
-    "kd": "0.88",
-    "rating": "0.91"
-  },
-  {
-    "team_id": "5988",
-    "event_id": "1666",
-    "name": "FlipSid3",
-    "maps": "3",
-    "kd_diff": "-37",
-    "kd": "0.89",
-    "rating": "0.91"
-  },
-  {
-    "team_id": "6134",
-    "event_id": "1666",
-    "name": "Kinguin",
-    "maps": "5",
-    "kd_diff": "-51",
-    "kd": "0.89",
-    "rating": "0.89"
-  },
-  {
-    "team_id": "6211",
-    "event_id": "1666",
-    "name": "Renegades",
-    "maps": "3",
-    "kd_diff": "-42",
-    "kd": "0.84",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "5284",
-    "event_id": "1666",
-    "name": "Titan",
-    "maps": "2",
-    "kd_diff": "-37",
-    "kd": "0.84",
-    "rating": "0.87"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "1666",
-    "name": "Cloud9",
-    "maps": "3",
-    "kd_diff": "-44",
-    "kd": "0.84",
-    "rating": "0.85"
-  },
-  {
-    "team_id": "4791",
-    "event_id": "1666",
-    "name": "Immunity",
-    "maps": "2",
-    "kd_diff": "-45",
-    "kd": "0.76",
-    "rating": "0.83"
-  },
-  {
-    "team_id": "6245",
-    "event_id": "1666",
-    "name": "eBettle",
-    "maps": "2",
-    "kd_diff": "-56",
-    "kd": "0.70",
-    "rating": "0.77"
   },
   {
     "team_id": "4991",
@@ -5436,6 +5076,24 @@
     "rating": "1.00"
   },
   {
+    "team_id": "5991",
+    "event_id": "1753",
+    "name": "EnVyUs",
+    "maps": "4",
+    "kd_diff": "-2",
+    "kd": "0.99",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "1553",
+    "name": "Virtus.pro",
+    "maps": "7",
+    "kd_diff": "+148",
+    "kd": "1.29",
+    "rating": "1.17"
+  },
+  {
     "team_id": "4991",
     "event_id": "1611",
     "name": "fnatic",
@@ -5452,195 +5110,6 @@
     "kd_diff": "+105",
     "kd": "1.18",
     "rating": "1.09"
-  },
-  {
-    "team_id": "4411",
-    "event_id": "1611",
-    "name": "NiP",
-    "maps": "10",
-    "kd_diff": "+79",
-    "kd": "1.09",
-    "rating": "1.05"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "1611",
-    "name": "EnVyUs",
-    "maps": "7",
-    "kd_diff": "+48",
-    "kd": "1.08",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "5996",
-    "event_id": "1611",
-    "name": "TSM",
-    "maps": "6",
-    "kd_diff": "+35",
-    "kd": "1.07",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "4608",
-    "event_id": "1611",
-    "name": "Natus Vincere",
-    "maps": "6",
-    "kd_diff": "+18",
-    "kd": "1.04",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "5962",
-    "event_id": "1611",
-    "name": "LGB",
-    "maps": "3",
-    "kd_diff": "-12",
-    "kd": "0.95",
-    "rating": "0.96"
-  },
-  {
-    "team_id": "5395",
-    "event_id": "1611",
-    "name": "PENTA",
-    "maps": "5",
-    "kd_diff": "-28",
-    "kd": "0.93",
-    "rating": "0.93"
-  },
-  {
-    "team_id": "6033",
-    "event_id": "1611",
-    "name": "Keyd Stars",
-    "maps": "6",
-    "kd_diff": "-57",
-    "kd": "0.89",
-    "rating": "0.91"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "1611",
-    "name": "Cloud9",
-    "maps": "3",
-    "kd_diff": "-32",
-    "kd": "0.89",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "5310",
-    "event_id": "1611",
-    "name": "HellRaisers",
-    "maps": "2",
-    "kd_diff": "-30",
-    "kd": "0.86",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "5974",
-    "event_id": "1611",
-    "name": "CLG",
-    "maps": "3",
-    "kd_diff": "-38",
-    "kd": "0.86",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "4784",
-    "event_id": "1611",
-    "name": "Vox Eminor",
-    "maps": "3",
-    "kd_diff": "-48",
-    "kd": "0.77",
-    "rating": "0.81"
-  },
-  {
-    "team_id": "5284",
-    "event_id": "1611",
-    "name": "Titan",
-    "maps": "2",
-    "kd_diff": "-47",
-    "kd": "0.76",
-    "rating": "0.78"
-  },
-  {
-    "team_id": "5789",
-    "event_id": "1611",
-    "name": "3DMAX",
-    "maps": "2",
-    "kd_diff": "-51",
-    "kd": "0.73",
-    "rating": "0.75"
-  },
-  {
-    "team_id": "5988",
-    "event_id": "1611",
-    "name": "FlipSid3",
-    "maps": "2",
-    "kd_diff": "-84",
-    "kd": "0.50",
-    "rating": "0.55"
-  },
-  {
-    "team_id": "5991",
-    "event_id": "1753",
-    "name": "EnVyUs",
-    "maps": "4",
-    "kd_diff": "-2",
-    "kd": "0.99",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5752",
-    "event_id": "1753",
-    "name": "Cloud9",
-    "maps": "10",
-    "kd_diff": "+20",
-    "kd": "1.02",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "5974",
-    "event_id": "1753",
-    "name": "CLG",
-    "maps": "4",
-    "kd_diff": "-16",
-    "kd": "0.95",
-    "rating": "0.96"
-  },
-  {
-    "team_id": "6033",
-    "event_id": "1753",
-    "name": "Keyd Stars",
-    "maps": "4",
-    "kd_diff": "-39",
-    "kd": "0.90",
-    "rating": "0.89"
-  },
-  {
-    "team_id": "6021",
-    "event_id": "1753",
-    "name": "Luminosity",
-    "maps": "2",
-    "kd_diff": "-49",
-    "kd": "0.72",
-    "rating": "0.75"
-  },
-  {
-    "team_id": "5378",
-    "event_id": "1553",
-    "name": "Virtus.pro",
-    "maps": "7",
-    "kd_diff": "+148",
-    "kd": "1.29",
-    "rating": "1.17"
-  },
-  {
-    "team_id": "4991",
-    "event_id": "1553",
-    "name": "fnatic",
-    "maps": "5",
-    "kd_diff": "+72",
-    "kd": "1.20",
-    "rating": "1.14"
   },
   {
     "team_id": "4991",
@@ -5740,6 +5209,294 @@
     "kd_diff": "+36",
     "kd": "1.07",
     "rating": "1.03"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "1094",
+    "name": "NiP",
+    "maps": "15",
+    "kd_diff": "+528",
+    "kd": "1.62",
+    "rating": "1.30"
+  },
+  {
+    "team_id": "4467",
+    "event_id": "1094",
+    "name": "VeryGames",
+    "maps": "15",
+    "kd_diff": "+287",
+    "kd": "1.30",
+    "rating": "1.16"
+  },
+  {
+    "team_id": "4775",
+    "event_id": "1094",
+    "name": "Western Wolves",
+    "maps": "18",
+    "kd_diff": "+297",
+    "kd": "1.23",
+    "rating": "1.13"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "1094",
+    "name": "mousesports",
+    "maps": "13",
+    "kd_diff": "+172",
+    "kd": "1.18",
+    "rating": "1.11"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "1094",
+    "name": "Natus Vincere",
+    "maps": "8",
+    "kd_diff": "+139",
+    "kd": "1.21",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "4647",
+    "event_id": "1094",
+    "name": "Quantic",
+    "maps": "15",
+    "kd_diff": "+225",
+    "kd": "1.19",
+    "rating": "1.10"
+  },
+  {
+    "team_id": "4555",
+    "event_id": "1094",
+    "name": "Virtus.pro",
+    "maps": "17",
+    "kd_diff": "+166",
+    "kd": "1.12",
+    "rating": "1.06"
+  },
+  {
+    "team_id": "4835",
+    "event_id": "1094",
+    "name": "Xapso",
+    "maps": "11",
+    "kd_diff": "+57",
+    "kd": "1.06",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "4679",
+    "event_id": "1094",
+    "name": "Anexis",
+    "maps": "12",
+    "kd_diff": "+90",
+    "kd": "1.09",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "4624",
+    "event_id": "1094",
+    "name": "Curse",
+    "maps": "13",
+    "kd_diff": "+45",
+    "kd": "1.04",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "4532",
+    "event_id": "1094",
+    "name": "ESC",
+    "maps": "10",
+    "kd_diff": "-11",
+    "kd": "0.99",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "4611",
+    "event_id": "1094",
+    "name": "Temp.no",
+    "maps": "13",
+    "kd_diff": "+26",
+    "kd": "1.02",
+    "rating": "0.99"
+  },
+  {
+    "team_id": "4623",
+    "event_id": "1094",
+    "name": "fnatic",
+    "maps": "15",
+    "kd_diff": "-7",
+    "kd": "0.99",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "4828",
+    "event_id": "1094",
+    "name": "KILLERFISH",
+    "maps": "11",
+    "kd_diff": "-8",
+    "kd": "0.99",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "4552",
+    "event_id": "1094",
+    "name": "EYES ON U",
+    "maps": "9",
+    "kd_diff": "-7",
+    "kd": "0.99",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "4688",
+    "event_id": "1094",
+    "name": "Epsilon",
+    "maps": "14",
+    "kd_diff": "-14",
+    "kd": "0.99",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "4831",
+    "event_id": "1094",
+    "name": "Server-Forge",
+    "maps": "10",
+    "kd_diff": "-22",
+    "kd": "0.98",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "4445",
+    "event_id": "1094",
+    "name": "fm-eSports",
+    "maps": "11",
+    "kd_diff": "-20",
+    "kd": "0.98",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "4548",
+    "event_id": "1094",
+    "name": "CPH Wolves",
+    "maps": "9",
+    "kd_diff": "-53",
+    "kd": "0.93",
+    "rating": "0.96"
+  },
+  {
+    "team_id": "4413",
+    "event_id": "1094",
+    "name": "Lemondogs",
+    "maps": "13",
+    "kd_diff": "-66",
+    "kd": "0.94",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "4761",
+    "event_id": "1094",
+    "name": "WRTT",
+    "maps": "10",
+    "kd_diff": "-86",
+    "kd": "0.90",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "4501",
+    "event_id": "1094",
+    "name": "ALTERNATE aTTaX",
+    "maps": "12",
+    "kd_diff": "-134",
+    "kd": "0.88",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "4579",
+    "event_id": "1094",
+    "name": "LowLandLions",
+    "maps": "10",
+    "kd_diff": "-123",
+    "kd": "0.87",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "4683",
+    "event_id": "1094",
+    "name": "3DMAX",
+    "maps": "9",
+    "kd_diff": "-129",
+    "kd": "0.86",
+    "rating": "0.88"
+  },
+  {
+    "team_id": "4631",
+    "event_id": "1094",
+    "name": "Curse",
+    "maps": "9",
+    "kd_diff": "-104",
+    "kd": "0.87",
+    "rating": "0.88"
+  },
+  {
+    "team_id": "4826",
+    "event_id": "1094",
+    "name": "plan-B",
+    "maps": "9",
+    "kd_diff": "-144",
+    "kd": "0.85",
+    "rating": "0.87"
+  },
+  {
+    "team_id": "4822",
+    "event_id": "1094",
+    "name": "Reason",
+    "maps": "9",
+    "kd_diff": "-153",
+    "kd": "0.82",
+    "rating": "0.85"
+  },
+  {
+    "team_id": "4490",
+    "event_id": "1094",
+    "name": "n!faculty",
+    "maps": "10",
+    "kd_diff": "-196",
+    "kd": "0.79",
+    "rating": "0.83"
+  },
+  {
+    "team_id": "4716",
+    "event_id": "1094",
+    "name": "myRevenge",
+    "maps": "9",
+    "kd_diff": "-201",
+    "kd": "0.76",
+    "rating": "0.81"
+  },
+  {
+    "team_id": "4844",
+    "event_id": "1094",
+    "name": "iRAGE",
+    "maps": "9",
+    "kd_diff": "-207",
+    "kd": "0.75",
+    "rating": "0.79"
+  },
+  {
+    "team_id": "4606",
+    "event_id": "1094",
+    "name": "BX3",
+    "maps": "9",
+    "kd_diff": "-203",
+    "kd": "0.75",
+    "rating": "0.79"
+  },
+  {
+    "team_id": "4742",
+    "event_id": "1094",
+    "name": "Nostalgie",
+    "maps": "7",
+    "kd_diff": "-220",
+    "kd": "0.68",
+    "rating": "0.73"
   },
   {
     "team_id": "5005",
@@ -6076,6 +5833,141 @@
   },
   {
     "team_id": "4411",
+    "event_id": "1611",
+    "name": "NiP",
+    "maps": "10",
+    "kd_diff": "+79",
+    "kd": "1.09",
+    "rating": "1.05"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "1611",
+    "name": "EnVyUs",
+    "maps": "7",
+    "kd_diff": "+48",
+    "kd": "1.08",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "5996",
+    "event_id": "1611",
+    "name": "TSM",
+    "maps": "6",
+    "kd_diff": "+35",
+    "kd": "1.07",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "1611",
+    "name": "Natus Vincere",
+    "maps": "6",
+    "kd_diff": "+18",
+    "kd": "1.04",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "5962",
+    "event_id": "1611",
+    "name": "LGB",
+    "maps": "3",
+    "kd_diff": "-12",
+    "kd": "0.95",
+    "rating": "0.96"
+  },
+  {
+    "team_id": "5395",
+    "event_id": "1611",
+    "name": "PENTA",
+    "maps": "5",
+    "kd_diff": "-28",
+    "kd": "0.93",
+    "rating": "0.93"
+  },
+  {
+    "team_id": "6033",
+    "event_id": "1611",
+    "name": "Keyd Stars",
+    "maps": "6",
+    "kd_diff": "-57",
+    "kd": "0.89",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "1611",
+    "name": "Cloud9",
+    "maps": "3",
+    "kd_diff": "-32",
+    "kd": "0.89",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "5310",
+    "event_id": "1611",
+    "name": "HellRaisers",
+    "maps": "2",
+    "kd_diff": "-30",
+    "kd": "0.86",
+    "rating": "0.88"
+  },
+  {
+    "team_id": "5974",
+    "event_id": "1611",
+    "name": "CLG",
+    "maps": "3",
+    "kd_diff": "-38",
+    "kd": "0.86",
+    "rating": "0.88"
+  },
+  {
+    "team_id": "4784",
+    "event_id": "1611",
+    "name": "Vox Eminor",
+    "maps": "3",
+    "kd_diff": "-48",
+    "kd": "0.77",
+    "rating": "0.81"
+  },
+  {
+    "team_id": "5284",
+    "event_id": "1611",
+    "name": "Titan",
+    "maps": "2",
+    "kd_diff": "-47",
+    "kd": "0.76",
+    "rating": "0.78"
+  },
+  {
+    "team_id": "5789",
+    "event_id": "1611",
+    "name": "3DMAX",
+    "maps": "2",
+    "kd_diff": "-51",
+    "kd": "0.73",
+    "rating": "0.75"
+  },
+  {
+    "team_id": "5988",
+    "event_id": "1611",
+    "name": "FlipSid3",
+    "maps": "2",
+    "kd_diff": "-84",
+    "kd": "0.50",
+    "rating": "0.55"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "1553",
+    "name": "fnatic",
+    "maps": "5",
+    "kd_diff": "+72",
+    "kd": "1.20",
+    "rating": "1.14"
+  },
+  {
+    "team_id": "4411",
     "event_id": "1553",
     "name": "NiP",
     "maps": "11",
@@ -6201,336 +6093,399 @@
     "rating": "0.42"
   },
   {
-    "team_id": "4411",
-    "event_id": "1021",
-    "name": "NiP",
-    "maps": "9",
-    "kd_diff": "+206",
-    "kd": "1.33",
-    "rating": "1.16"
-  },
-  {
-    "team_id": "4467",
-    "event_id": "1021",
-    "name": "VeryGames",
-    "maps": "9",
-    "kd_diff": "+144",
-    "kd": "1.22",
-    "rating": "1.14"
-  },
-  {
-    "team_id": "4465",
-    "event_id": "1021",
-    "name": "mousesports",
-    "maps": "7",
-    "kd_diff": "+48",
-    "kd": "1.08",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "4413",
-    "event_id": "1021",
-    "name": "Lemondogs",
-    "maps": "7",
-    "kd_diff": "+21",
-    "kd": "1.04",
-    "rating": "1.02"
-  },
-  {
-    "team_id": "4548",
-    "event_id": "1021",
-    "name": "CPH Wolves",
-    "maps": "5",
-    "kd_diff": "+7",
+    "team_id": "5752",
+    "event_id": "1753",
+    "name": "Cloud9",
+    "maps": "10",
+    "kd_diff": "+20",
     "kd": "1.02",
-    "rating": "1.01"
-  },
-  {
-    "team_id": "4580",
-    "event_id": "1021",
-    "name": "ProGaming.TD",
-    "maps": "5",
-    "kd_diff": "-25",
-    "kd": "0.94",
     "rating": "0.99"
   },
   {
-    "team_id": "4547",
-    "event_id": "1021",
-    "name": "Anexis",
-    "maps": "3",
-    "kd_diff": "-3",
-    "kd": "0.99",
+    "team_id": "5974",
+    "event_id": "1753",
+    "name": "CLG",
+    "maps": "4",
+    "kd_diff": "-16",
+    "kd": "0.95",
     "rating": "0.96"
   },
   {
-    "team_id": "4488",
-    "event_id": "1021",
-    "name": "Absolute Legends",
-    "maps": "5",
-    "kd_diff": "-17",
-    "kd": "0.96",
-    "rating": "0.95"
+    "team_id": "6033",
+    "event_id": "1753",
+    "name": "Keyd Stars",
+    "maps": "4",
+    "kd_diff": "-39",
+    "kd": "0.90",
+    "rating": "0.89"
   },
   {
-    "team_id": "4623",
-    "event_id": "1021",
-    "name": "fnatic",
-    "maps": "3",
-    "kd_diff": "-13",
-    "kd": "0.95",
-    "rating": "0.94"
-  },
-  {
-    "team_id": "4612",
-    "event_id": "1021",
-    "name": "Hawks",
-    "maps": "3",
-    "kd_diff": "-19",
-    "kd": "0.93",
-    "rating": "0.93"
-  },
-  {
-    "team_id": "4624",
-    "event_id": "1021",
-    "name": "Curse",
-    "maps": "3",
-    "kd_diff": "-26",
-    "kd": "0.92",
-    "rating": "0.92"
-  },
-  {
-    "team_id": "4429",
-    "event_id": "1021",
-    "name": "Dynamic",
-    "maps": "5",
-    "kd_diff": "-58",
-    "kd": "0.87",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "4490",
-    "event_id": "1021",
-    "name": "n!faculty",
-    "maps": "3",
-    "kd_diff": "-45",
-    "kd": "0.85",
-    "rating": "0.90"
-  },
-  {
-    "team_id": "4613",
-    "event_id": "1021",
-    "name": "gosu",
-    "maps": "3",
-    "kd_diff": "-66",
-    "kd": "0.77",
-    "rating": "0.83"
-  },
-  {
-    "team_id": "4532",
-    "event_id": "1021",
-    "name": "ESC",
-    "maps": "3",
-    "kd_diff": "-79",
+    "team_id": "6021",
+    "event_id": "1753",
+    "name": "Luminosity",
+    "maps": "2",
+    "kd_diff": "-49",
     "kd": "0.72",
-    "rating": "0.76"
+    "rating": "0.75"
   },
   {
-    "team_id": "4448",
-    "event_id": "1021",
-    "name": "3DMAX",
-    "maps": "3",
-    "kd_diff": "-92",
-    "kd": "0.69",
-    "rating": "0.76"
-  },
-  {
-    "team_id": "4775",
-    "event_id": "1094",
-    "name": "Western Wolves",
-    "maps": "18",
-    "kd_diff": "+297",
-    "kd": "1.23",
-    "rating": "1.13"
-  },
-  {
-    "team_id": "4647",
-    "event_id": "1094",
-    "name": "Quantic",
-    "maps": "15",
-    "kd_diff": "+225",
-    "kd": "1.19",
-    "rating": "1.10"
-  },
-  {
-    "team_id": "4555",
-    "event_id": "1094",
+    "team_id": "5378",
+    "event_id": "1666",
     "name": "Virtus.pro",
-    "maps": "17",
-    "kd_diff": "+166",
-    "kd": "1.12",
-    "rating": "1.06"
+    "maps": "7",
+    "kd_diff": "+79",
+    "kd": "1.15",
+    "rating": "1.07"
   },
   {
-    "team_id": "4835",
-    "event_id": "1094",
-    "name": "Xapso",
-    "maps": "11",
-    "kd_diff": "+57",
-    "kd": "1.06",
-    "rating": "1.05"
+    "team_id": "5991",
+    "event_id": "1666",
+    "name": "EnVyUs",
+    "maps": "9",
+    "kd_diff": "+37",
+    "kd": "1.05",
+    "rating": "1.00"
   },
   {
-    "team_id": "4679",
-    "event_id": "1094",
-    "name": "Anexis",
-    "maps": "12",
-    "kd_diff": "+90",
-    "kd": "1.09",
-    "rating": "1.04"
-  },
-  {
-    "team_id": "4611",
-    "event_id": "1094",
-    "name": "Temp.no",
-    "maps": "13",
-    "kd_diff": "+26",
-    "kd": "1.02",
-    "rating": "0.99"
-  },
-  {
-    "team_id": "4828",
-    "event_id": "1094",
-    "name": "KILLERFISH",
-    "maps": "11",
-    "kd_diff": "-8",
-    "kd": "0.99",
+    "team_id": "4411",
+    "event_id": "1666",
+    "name": "NiP",
+    "maps": "5",
+    "kd_diff": "-12",
+    "kd": "0.97",
     "rating": "0.98"
   },
   {
-    "team_id": "4552",
-    "event_id": "1094",
-    "name": "EYES ON U",
-    "maps": "9",
-    "kd_diff": "-7",
-    "kd": "0.99",
-    "rating": "0.97"
+    "team_id": "6290",
+    "event_id": "1666",
+    "name": "Luminosity",
+    "maps": "5",
+    "kd_diff": "-13",
+    "kd": "0.97",
+    "rating": "0.98"
   },
   {
-    "team_id": "4688",
-    "event_id": "1094",
-    "name": "Epsilon",
-    "maps": "14",
-    "kd_diff": "-14",
-    "kd": "0.99",
-    "rating": "0.97"
+    "team_id": "5974",
+    "event_id": "1666",
+    "name": "CLG",
+    "maps": "3",
+    "kd_diff": "-21",
+    "kd": "0.93",
+    "rating": "0.94"
   },
   {
-    "team_id": "4831",
-    "event_id": "1094",
-    "name": "Server-Forge",
-    "maps": "10",
-    "kd_diff": "-22",
-    "kd": "0.98",
-    "rating": "0.97"
+    "team_id": "4608",
+    "event_id": "1666",
+    "name": "Natus Vincere",
+    "maps": "5",
+    "kd_diff": "-43",
+    "kd": "0.91",
+    "rating": "0.93"
   },
   {
-    "team_id": "4445",
-    "event_id": "1094",
-    "name": "fm-eSports",
-    "maps": "11",
-    "kd_diff": "-20",
-    "kd": "0.98",
-    "rating": "0.97"
-  },
-  {
-    "team_id": "4761",
-    "event_id": "1094",
-    "name": "WRTT",
-    "maps": "10",
-    "kd_diff": "-86",
-    "kd": "0.90",
+    "team_id": "4494",
+    "event_id": "1666",
+    "name": "mousesports",
+    "maps": "2",
+    "kd_diff": "-24",
+    "kd": "0.88",
     "rating": "0.91"
   },
   {
-    "team_id": "4579",
-    "event_id": "1094",
-    "name": "LowLandLions",
+    "team_id": "5988",
+    "event_id": "1666",
+    "name": "FlipSid3",
+    "maps": "3",
+    "kd_diff": "-37",
+    "kd": "0.89",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "6134",
+    "event_id": "1666",
+    "name": "Kinguin",
+    "maps": "5",
+    "kd_diff": "-51",
+    "kd": "0.89",
+    "rating": "0.89"
+  },
+  {
+    "team_id": "6211",
+    "event_id": "1666",
+    "name": "Renegades",
+    "maps": "3",
+    "kd_diff": "-42",
+    "kd": "0.84",
+    "rating": "0.88"
+  },
+  {
+    "team_id": "5284",
+    "event_id": "1666",
+    "name": "Titan",
+    "maps": "2",
+    "kd_diff": "-37",
+    "kd": "0.84",
+    "rating": "0.87"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "1666",
+    "name": "Cloud9",
+    "maps": "3",
+    "kd_diff": "-44",
+    "kd": "0.84",
+    "rating": "0.85"
+  },
+  {
+    "team_id": "4791",
+    "event_id": "1666",
+    "name": "Immunity",
+    "maps": "2",
+    "kd_diff": "-45",
+    "kd": "0.76",
+    "rating": "0.83"
+  },
+  {
+    "team_id": "6245",
+    "event_id": "1666",
+    "name": "eBettle",
+    "maps": "2",
+    "kd_diff": "-56",
+    "kd": "0.70",
+    "rating": "0.77"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "1882",
+    "name": "fnatic",
+    "maps": "7",
+    "kd_diff": "+32",
+    "kd": "1.06",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "5996",
+    "event_id": "1882",
+    "name": "TSM",
     "maps": "10",
-    "kd_diff": "-123",
+    "kd_diff": "+3",
+    "kd": "1.00",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "1882",
+    "name": "EnVyUs",
+    "maps": "4",
+    "kd_diff": "-49",
     "kd": "0.87",
     "rating": "0.90"
   },
   {
-    "team_id": "4683",
-    "event_id": "1094",
-    "name": "3DMAX",
-    "maps": "9",
-    "kd_diff": "-129",
-    "kd": "0.86",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "4631",
-    "event_id": "1094",
-    "name": "Curse",
-    "maps": "9",
-    "kd_diff": "-104",
-    "kd": "0.87",
-    "rating": "0.88"
-  },
-  {
-    "team_id": "4826",
-    "event_id": "1094",
-    "name": "plan-B",
-    "maps": "9",
-    "kd_diff": "-144",
+    "team_id": "5752",
+    "event_id": "1882",
+    "name": "Cloud9",
+    "maps": "2",
+    "kd_diff": "-36",
     "kd": "0.85",
-    "rating": "0.87"
+    "rating": "0.89"
   },
   {
-    "team_id": "4822",
-    "event_id": "1094",
-    "name": "Reason",
-    "maps": "9",
-    "kd_diff": "-153",
-    "kd": "0.82",
+    "team_id": "5284",
+    "event_id": "1882",
+    "name": "Titan",
+    "maps": "4",
+    "kd_diff": "-56",
+    "kd": "0.85",
+    "rating": "0.88"
+  },
+  {
+    "team_id": "4608",
+    "event_id": "1882",
+    "name": "Natus Vincere",
+    "maps": "2",
+    "kd_diff": "-36",
+    "kd": "0.83",
     "rating": "0.85"
   },
   {
-    "team_id": "4716",
-    "event_id": "1094",
-    "name": "myRevenge",
-    "maps": "9",
-    "kd_diff": "-201",
-    "kd": "0.76",
+    "team_id": "4608",
+    "event_id": "1617",
+    "name": "Natus Vincere",
+    "maps": "11",
+    "kd_diff": "+119",
+    "kd": "1.13",
+    "rating": "1.07"
+  },
+  {
+    "team_id": "5996",
+    "event_id": "1617",
+    "name": "TSM",
+    "maps": "4",
+    "kd_diff": "+20",
+    "kd": "1.06",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "5995",
+    "event_id": "1617",
+    "name": "G2",
+    "maps": "10",
+    "kd_diff": "+25",
+    "kd": "1.03",
+    "rating": "1.04"
+  },
+  {
+    "team_id": "5378",
+    "event_id": "1617",
+    "name": "Virtus.pro",
+    "maps": "4",
+    "kd_diff": "+22",
+    "kd": "1.05",
+    "rating": "1.02"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "1617",
+    "name": "NiP",
+    "maps": "8",
+    "kd_diff": "-5",
+    "kd": "0.99",
+    "rating": "1.00"
+  },
+  {
+    "team_id": "4991",
+    "event_id": "1617",
+    "name": "fnatic",
+    "maps": "7",
+    "kd_diff": "-14",
+    "kd": "0.98",
+    "rating": "0.98"
+  },
+  {
+    "team_id": "6290",
+    "event_id": "1617",
+    "name": "Luminosity",
+    "maps": "4",
+    "kd_diff": "-13",
+    "kd": "0.97",
+    "rating": "0.97"
+  },
+  {
+    "team_id": "4494",
+    "event_id": "1617",
+    "name": "mousesports",
+    "maps": "5",
+    "kd_diff": "-44",
+    "kd": "0.91",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "5752",
+    "event_id": "1617",
+    "name": "Cloud9",
+    "maps": "4",
+    "kd_diff": "-45",
+    "kd": "0.88",
+    "rating": "0.91"
+  },
+  {
+    "team_id": "5284",
+    "event_id": "1617",
+    "name": "Titan",
+    "maps": "4",
+    "kd_diff": "-59",
+    "kd": "0.84",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "6375",
+    "event_id": "1617",
+    "name": "Vexed",
+    "maps": "2",
+    "kd_diff": "-19",
+    "kd": "0.90",
+    "rating": "0.90"
+  },
+  {
+    "team_id": "5974",
+    "event_id": "1617",
+    "name": "CLG",
+    "maps": "5",
+    "kd_diff": "-56",
+    "kd": "0.88",
+    "rating": "0.89"
+  },
+  {
+    "team_id": "5973",
+    "event_id": "1617",
+    "name": "Liquid",
+    "maps": "2",
+    "kd_diff": "-38",
+    "kd": "0.83",
+    "rating": "0.86"
+  },
+  {
+    "team_id": "5988",
+    "event_id": "1617",
+    "name": "FlipSid3",
+    "maps": "2",
+    "kd_diff": "-41",
+    "kd": "0.78",
     "rating": "0.81"
   },
   {
-    "team_id": "4844",
-    "event_id": "1094",
-    "name": "iRAGE",
-    "maps": "9",
-    "kd_diff": "-207",
-    "kd": "0.75",
-    "rating": "0.79"
+    "team_id": "5422",
+    "event_id": "1617",
+    "name": "Dignitas",
+    "maps": "2",
+    "kd_diff": "-44",
+    "kd": "0.78",
+    "rating": "0.81"
   },
   {
-    "team_id": "4606",
-    "event_id": "1094",
-    "name": "BX3",
-    "maps": "9",
-    "kd_diff": "-203",
-    "kd": "0.75",
-    "rating": "0.79"
+    "team_id": "6290",
+    "event_id": "1615",
+    "name": "Luminosity",
+    "maps": "13",
+    "kd_diff": "+15",
+    "kd": "1.01",
+    "rating": "0.99"
   },
   {
-    "team_id": "4742",
-    "event_id": "1094",
-    "name": "Nostalgie",
-    "maps": "7",
-    "kd_diff": "-220",
-    "kd": "0.68",
-    "rating": "0.73"
+    "team_id": "5973",
+    "event_id": "1615",
+    "name": "Liquid",
+    "maps": "5",
+    "kd_diff": "-24",
+    "kd": "0.94",
+    "rating": "0.95"
+  },
+  {
+    "team_id": "4411",
+    "event_id": "1615",
+    "name": "NiP",
+    "maps": "5",
+    "kd_diff": "-45",
+    "kd": "0.91",
+    "rating": "0.94"
+  },
+  {
+    "team_id": "5991",
+    "event_id": "1615",
+    "name": "EnVyUs",
+    "maps": "4",
+    "kd_diff": "-38",
+    "kd": "0.89",
+    "rating": "0.92"
+  },
+  {
+    "team_id": "6468",
+    "event_id": "1615",
+    "name": "Legacy",
+    "maps": "3",
+    "kd_diff": "-80",
+    "kd": "0.74",
+    "rating": "0.77"
   }
 ]

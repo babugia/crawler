@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ESL One Cologne 2015",
+    "id": "1666",
+    "date": "Aug 20th - Aug 23rd 2015",
+    "prize": "$250,000",
+    "location": "Cologne, Germany"
+  },
+  {
+    "name": "IEM Sydney 2017",
+    "id": "2713",
+    "date": "May 3rd - May 7th 2017",
+    "prize": "$200,000",
+    "location": "Sydney, Australia"
+  },
+  {
+    "name": "ESL One Belo Horizonte 2018",
+    "id": "3649",
+    "date": "Jun 13th - Jun 17th 2018",
+    "prize": "$200,000",
+    "location": "Belo Horizonte, Brazil"
+  }
+]
