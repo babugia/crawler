@@ -30174,5 +30174,933 @@
       "defused": 1,
       "exploded": 0
     }
+  },
+  {
+    "match_id": "37609",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 2,
+      "tr_wins": 2,
+      "defused": 1,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 11,
+      "tr_wins": 2,
+      "defused": 2,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "37603",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 9,
+      "defused": 1,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 2,
+      "tr_wins": 5,
+      "defused": 1,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "37573",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 8,
+      "tr_wins": 4,
+      "defused": 1,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 8,
+      "tr_wins": 4,
+      "defused": 1,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "37526",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 0,
+      "defused": 0,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 9,
+      "defused": 1,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "37510",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 6,
+      "tr_wins": 5,
+      "defused": 2,
+      "exploded": 3
+    },
+    "team2": {
+      "ct_wins": 2,
+      "tr_wins": 1,
+      "defused": 5,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "37507",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 0,
+      "tr_wins": 0,
+      "defused": 0,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 10,
+      "tr_wins": 1,
+      "defused": 5,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "37418",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 1,
+      "tr_wins": 1,
+      "defused": 0,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 2,
+      "tr_wins": 9,
+      "defused": 1,
+      "exploded": 4
+    }
+  },
+  {
+    "match_id": "37409",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 2,
+      "defused": 6,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 3,
+      "tr_wins": 1,
+      "defused": 0,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "37407",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 3,
+      "tr_wins": 7,
+      "defused": 2,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 5,
+      "tr_wins": 6,
+      "defused": 1,
+      "exploded": 4
+    }
+  },
+  {
+    "match_id": "37370",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 10,
+      "defused": 1,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 7,
+      "defused": 0,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "37362",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 3,
+      "tr_wins": 6,
+      "defused": 6,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 1,
+      "defused": 2,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "37315",
+    "event_id": "2410",
+    "team1": {
+      "ct_wins": 6,
+      "tr_wins": 3,
+      "defused": 2,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 8,
+      "tr_wins": 4,
+      "defused": 3,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "36220",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 3,
+      "tr_wins": 4,
+      "defused": 5,
+      "exploded": 3
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 5,
+      "defused": 3,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "36168",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 6,
+      "defused": 3,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 3,
+      "tr_wins": 4,
+      "defused": 4,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "36138",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 3,
+      "tr_wins": 7,
+      "defused": 3,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 3,
+      "tr_wins": 2,
+      "defused": 3,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "36137",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 2,
+      "tr_wins": 6,
+      "defused": 6,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 6,
+      "defused": 3,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "36128",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 7,
+      "defused": 3,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 5,
+      "tr_wins": 0,
+      "defused": 1,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "36125",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 2,
+      "tr_wins": 5,
+      "defused": 1,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 3,
+      "tr_wins": 4,
+      "defused": 5,
+      "exploded": 3
+    }
+  },
+  {
+    "match_id": "36066",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 3,
+      "tr_wins": 3,
+      "defused": 1,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 6,
+      "defused": 1,
+      "exploded": 5
+    }
+  },
+  {
+    "match_id": "36064",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 6,
+      "tr_wins": 5,
+      "defused": 3,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 4,
+      "defused": 2,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "36062",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 1,
+      "defused": 3,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 7,
+      "defused": 3,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "36058",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 10,
+      "tr_wins": 3,
+      "defused": 3,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 1,
+      "tr_wins": 1,
+      "defused": 0,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "36053",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 5,
+      "defused": 2,
+      "exploded": 4
+    },
+    "team2": {
+      "ct_wins": 3,
+      "tr_wins": 3,
+      "defused": 3,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "36051",
+    "event_id": "2239",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 3,
+      "defused": 4,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 10,
+      "tr_wins": 4,
+      "defused": 1,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "39641",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 3,
+      "tr_wins": 3,
+      "defused": 3,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 6,
+      "defused": 1,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "39636",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 2,
+      "tr_wins": 6,
+      "defused": 3,
+      "exploded": 5
+    },
+    "team2": {
+      "ct_wins": 2,
+      "tr_wins": 4,
+      "defused": 2,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "39548",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 3,
+      "defused": 3,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 7,
+      "tr_wins": 2,
+      "defused": 5,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "39474",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 3,
+      "defused": 1,
+      "exploded": 5
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 6,
+      "defused": 1,
+      "exploded": 3
+    }
+  },
+  {
+    "match_id": "39441",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 8,
+      "tr_wins": 2,
+      "defused": 0,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 5,
+      "tr_wins": 7,
+      "defused": 3,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "39440",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 12,
+      "defused": 0,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 2,
+      "tr_wins": 0,
+      "defused": 1,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "39435",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 4,
+      "defused": 1,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 7,
+      "tr_wins": 7,
+      "defused": 2,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "39430",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 2,
+      "tr_wins": 2,
+      "defused": 1,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 3,
+      "tr_wins": 7,
+      "defused": 0,
+      "exploded": 5
+    }
+  },
+  {
+    "match_id": "39334",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 6,
+      "tr_wins": 3,
+      "defused": 2,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 11,
+      "tr_wins": 3,
+      "defused": 0,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "39330",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 1,
+      "defused": 0,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 8,
+      "defused": 2,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "38847",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 3,
+      "defused": 3,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 8,
+      "tr_wins": 5,
+      "defused": 2,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "38825",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 8,
+      "defused": 0,
+      "exploded": 4
+    },
+    "team2": {
+      "ct_wins": 3,
+      "tr_wins": 0,
+      "defused": 0,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "38811",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 2,
+      "tr_wins": 0,
+      "defused": 1,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 10,
+      "defused": 0,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "38809",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 4,
+      "defused": 0,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 8,
+      "defused": 1,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "38599",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 6,
+      "tr_wins": 4,
+      "defused": 3,
+      "exploded": 3
+    },
+    "team2": {
+      "ct_wins": 7,
+      "tr_wins": 0,
+      "defused": 1,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "38165",
+    "event_id": "2407",
+    "team1": {
+      "ct_wins": 9,
+      "tr_wins": 5,
+      "defused": 1,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 2,
+      "tr_wins": 3,
+      "defused": 1,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "32016",
+    "event_id": "2248",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 6,
+      "defused": 3,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 2,
+      "tr_wins": 3,
+      "defused": 3,
+      "exploded": 3
+    }
+  },
+  {
+    "match_id": "32015",
+    "event_id": "2248",
+    "team1": {
+      "ct_wins": 7,
+      "tr_wins": 6,
+      "defused": 0,
+      "exploded": 3
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 1,
+      "defused": 0,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "32010",
+    "event_id": "2248",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 2,
+      "defused": 2,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 7,
+      "tr_wins": 4,
+      "defused": 3,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "31990",
+    "event_id": "2248",
+    "team1": {
+      "ct_wins": 3,
+      "tr_wins": 5,
+      "defused": 1,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 0,
+      "tr_wins": 9,
+      "defused": 5,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "31978",
+    "event_id": "2248",
+    "team1": {
+      "ct_wins": 7,
+      "tr_wins": 5,
+      "defused": 4,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 3,
+      "defused": 5,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "35073",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 6,
+      "tr_wins": 9,
+      "defused": 0,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 7,
+      "defused": 1,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "35069",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 2,
+      "defused": 1,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 8,
+      "defused": 3,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "35040",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 3,
+      "tr_wins": 6,
+      "defused": 3,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 5,
+      "tr_wins": 9,
+      "defused": 2,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "35001",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 2,
+      "tr_wins": 2,
+      "defused": 2,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 2,
+      "tr_wins": 9,
+      "defused": 3,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "34981",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 7,
+      "defused": 3,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 1,
+      "tr_wins": 7,
+      "defused": 1,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "34977",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 2,
+      "tr_wins": 0,
+      "defused": 2,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 4,
+      "tr_wins": 9,
+      "defused": 1,
+      "exploded": 2
+    }
+  },
+  {
+    "match_id": "34976",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 8,
+      "tr_wins": 4,
+      "defused": 2,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 4,
+      "defused": 3,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "34938",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 3,
+      "defused": 1,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 7,
+      "tr_wins": 6,
+      "defused": 2,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "34907",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 7,
+      "tr_wins": 3,
+      "defused": 2,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 7,
+      "tr_wins": 4,
+      "defused": 4,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "34892",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 4,
+      "defused": 3,
+      "exploded": 1
+    },
+    "team2": {
+      "ct_wins": 6,
+      "tr_wins": 5,
+      "defused": 4,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "34886",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 5,
+      "tr_wins": 2,
+      "defused": 1,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 8,
+      "tr_wins": 4,
+      "defused": 2,
+      "exploded": 1
+    }
+  },
+  {
+    "match_id": "34882",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 9,
+      "tr_wins": 3,
+      "defused": 4,
+      "exploded": 0
+    },
+    "team2": {
+      "ct_wins": 1,
+      "tr_wins": 2,
+      "defused": 0,
+      "exploded": 0
+    }
+  },
+  {
+    "match_id": "34879",
+    "event_id": "2325",
+    "team1": {
+      "ct_wins": 4,
+      "tr_wins": 4,
+      "defused": 4,
+      "exploded": 2
+    },
+    "team2": {
+      "ct_wins": 5,
+      "tr_wins": 1,
+      "defused": 4,
+      "exploded": 0
+    }
   }
 ]

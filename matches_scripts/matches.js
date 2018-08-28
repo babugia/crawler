@@ -4,6 +4,16 @@ const jsonfile = require('jsonfile');
 var overview = [];
 var round_history = [];
 
+var maps_enum = {
+    Cache: 1,
+    Dust2: 2,
+    Mirage: 3,
+    Inferno: 4,
+    Nuke: 5,
+    Train: 6,
+    Cobblestone: 7,
+    Overpass: 8
+}
 
 var Crawler = {
 	request : null,
@@ -17,6 +27,15 @@ var Crawler = {
         Crawler.jsonfile = require('jsonfile');
 		Crawler.getLinks();
     },
+    appendFile: function (file, data) {
+		
+        Crawler.fs.appendFile(file, data, function (err) {
+            if (err) {
+                console.log('Erro ao gravar dados no arquivo: ' + err);
+                throw err;
+            }
+        });
+	},
     getLinks: function () {
         // var stats = Crawler.fs.statSync('./jsons/team_overview.json');
         // const team_overview_size = stats.size;
@@ -44,7 +63,7 @@ var Crawler = {
 					eventCount++
 					// console.log(`${eventCount} eventos salvos`);
                 }	
-                sleep(100);
+                sleep(50);
 			});
 
 		});
@@ -54,7 +73,7 @@ var Crawler = {
 	getEventInfo: function(link){
         // 'https://www.hltv.org/stats/matches?matchType=BigEvents&event=3530'
 
-        sleep(100);
+        sleep(50);
 		Crawler.request(link, function(err, res, body){
 			if(err)
 				console.log('Error: ' + err);
@@ -69,7 +88,7 @@ var Crawler = {
     },
 	getAllMatches: function (link) {
 
-        sleep(100);
+        sleep(50);
         // var link = 'https://www.hltv.org/stats/matches?matchType=BigEvents&event=3392';
         var matchLink = '';
         var nextUrl = '';
@@ -104,7 +123,7 @@ var Crawler = {
         // console.log(this.nextUrl);
 	},
 	getMatchOverview: function (link, map) {
-        sleep(100);
+        sleep(50);
         
         Crawler.request(link, function(err, res, body){
             if(err)
@@ -118,8 +137,20 @@ var Crawler = {
             const match_id = fields[0];            
             const event_id = link.substring(link.length-4, link.length);
             const date = $('.small-text').find("span").eq(0).text().trim();
-            const team1 = $('.team-left').find("a").text().trim();
-            const team2 = $('.team-right').find("a").text().trim();
+            // const team1 = $('.team-left').find("a").text().trim();
+            // const team2 = $('.team-right').find("a").text().trim();
+            const logo_team1 = $('.team-left').find(".team-logo").attr('src');
+            fields = logo_team1.split("team/");
+            quase = fields[1];
+            fields = quase.split("/");
+            const team1 = fields[1];
+            // console.log('team1 = ' +team1);
+            const logo_team2 = $('.team-right').find(".team-logo").attr('src');
+            fields = logo_team2.split("team/");
+            quase = fields[1];
+            fields = quase.split("/");
+            const team2 = fields[1];       
+            // console.log('team2 = ' +team2);     
             const team1_score = $('.match-info-row').eq(0).find(".right").find("span").eq(0).text().trim();
             const team2_score = $('.match-info-row').eq(0).find(".right").find("span").eq(1).text().trim();
             const ratings = $('.match-info-row').eq(1).find(".right").text().trim();
@@ -139,7 +170,33 @@ var Crawler = {
 
             match_overview.id = match_id;
             match_overview.event_id = event_id;
-            match_overview.map = map;
+            switch(map) {
+                case "Cache":
+                    match_overview.map = maps_enum.Cache;
+                    break;
+                case "Dust2":
+                    match_overview.map = maps_enum.Dust2;
+                    break;
+                case "Mirage":
+                    match_overview.map = maps_enum.Mirage;
+                    break;
+                case "Inferno":
+                    match_overview.map = maps_enum.Inferno;
+                    break;
+                case "Nuke":
+                    match_overview.map = maps_enum.Nuke;
+                    break;
+                case "Train":
+                    match_overview.map = maps_enum.Train;
+                    break;
+                case "Cobblestone":
+                    match_overview.map = maps_enum.Cobblestone;
+                    break;
+                case "Overpass":
+                    match_overview.map = maps_enum.Overpass;
+                    break;
+            }
+            // match_overview.map = map;
             match_overview.date = date;
             match_overview.team1 = team1;
             match_overview.team2 = team2;
@@ -156,16 +213,23 @@ var Crawler = {
 
             // console.log(overview);
 
-            jsonfile.writeFile('match_overview.json', overview, {spaces: 2}, function (err) {
-				console.error(err)
-			})
+            if(overview.length > 0) {
+                jsonfile.writeFile('match_overview.json', overview, {spaces: 2}, function (err) {
+                    console.error(err)
+                })
+            }
+            
+            // var match = match_id + ',' + event_id + ',' + date + ',' + team1 + ',' + team1_score + ',' + team1_clutches + ',' + 
+			// 				team1_rating + ',' + team1_first_kills + ',' +  team2 + ',' + team2_score + ',' + team2_clutches + ',' + 
+			// 				team2_rating + ',' + team2_first_kills + ',' + map +  '\n'
+			// Crawler.appendFile('matches.csv', match);
         });
 
         
 	},
 	getMatchRoundHistory: function (link) {
 
-        sleep(100);
+        sleep(50);
         Crawler.request(link, function(err, res, body){
             if(err)
                 console.log('Error: ' + err);
@@ -296,9 +360,9 @@ var Crawler = {
 
             round_history.push(match_round_history);
 
-            jsonfile.writeFile('match_round_history.json', round_history, {spaces: 2}, function (err) {
+            // jsonfile.writeFile('match_round_history.json', round_history, {spaces: 2}, function (err) {
 				console.error(err)
-			})
+			// })
             // console.log('MATCH_HISTORY = '+round_history);
 
         });
