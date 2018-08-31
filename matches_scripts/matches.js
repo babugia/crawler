@@ -136,7 +136,7 @@ var Crawler = {
             fields = quase.split("/");
             const match_id = fields[0];            
             const event_id = link.substring(link.length-4, link.length);
-            const date = $('.small-text').find("span").eq(0).text().trim();
+            const date = $('.small-text').find("span").eq(0).text().trim().substring(0, 10);
             // const team1 = $('.team-left').find("a").text().trim();
             // const team2 = $('.team-right').find("a").text().trim();
             const logo_team1 = $('.team-left').find(".team-logo").attr('src');
@@ -196,18 +196,43 @@ var Crawler = {
                     match_overview.map = maps_enum.Overpass;
                     break;
             }
+
+            let Wteam, Lteam, Wteam_rating, Lteam_rating, Wteam_firstkills, Lteam_firstkills, Wteam_clutches, Lteam_clutches;
+            if(parseInt(team1_score) > parseInt(team2_score)){
+                Wteam = team1;
+                Lteam = team2;
+                Wteam_score = team1_score;
+                Lteam_score = team2_score;
+                Wteam_rating = team1_rating;
+                Lteam_rating = team2_rating;
+                Wteam_firstkills = team1_first_kills;
+                Lteam_firstkills = team2_first_kills;
+                Wteam_clutches = team1_clutches;
+                Lteam_clutches = team2_clutches;
+            }else {
+                Wteam = team2;
+                Lteam = team1;
+                Wteam_score = team2_score;
+                Lteam_score = team1_score;
+                Wteam_rating = team2_rating;
+                Lteam_rating = team1_rating;
+                Wteam_firstkills = team2_first_kills;
+                Lteam_firstkills = team1_first_kills;
+                Wteam_clutches = team2_clutches;
+                Lteam_clutches = team1_clutches;
+            }
             // match_overview.map = map;
             match_overview.date = date;
-            match_overview.team1 = team1;
-            match_overview.team2 = team2;
-            match_overview.team1_score = team1_score;
-            match_overview.team2_score = team2_score;
-            match_overview.team1_rating = team1_rating;
-            match_overview.team2_rating = team2_rating;
-            match_overview.team1_first_kills = team1_first_kills;
-            match_overview.team2_first_kills = team2_first_kills;
-            match_overview.team1_clutches = team1_clutches;
-            match_overview.team2_clutches = team2_clutches;
+            match_overview.Wteam = Wteam;
+            match_overview.Lteam = Lteam;
+            match_overview.Wteam_score = Wteam_score;
+            match_overview.Lteam_score = Lteam_score;
+            match_overview.Wteam_rating = Wteam_rating;
+            match_overview.Lteam_rating = Lteam_rating;
+            match_overview.Wteam_firstkills = Wteam_firstkills;
+            match_overview.Lteam_firstkills = Lteam_firstkills;
+            match_overview.Wteam_clutches = Wteam_clutches;
+            match_overview.Lteam_clutches = Lteam_clutches;
 
             overview.push(match_overview);
 
