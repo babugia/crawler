@@ -1,8 +1,3 @@
-const Player = require('./model/player.js')
-const KillMatrix = require('./model/kill_matrix.js')
-const RoundHistory = require('./model/round_history.js')
-const Team = require('./model/team.js')
-const Performance = require('./model/performance.js')
 
 var eventsArray = [];
 var performanceArray = [];
@@ -28,6 +23,9 @@ var map = '';
 //         // console.log('executou!');
 //     });
 //   }
+
+var months = [undefined, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
 
 var Crawler = {
 	request : null,
@@ -59,7 +57,7 @@ var Crawler = {
 	},
 	getLinks: function () {
         //cabeçalho do arquivo
-		// Crawler.appendFile('events.csv', 'name;id;date;prize;location\n');
+		// Crawler.appendFile('events.csv', 'name;id;start_date;end_date;prize;location\n');
 		// Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;map;event\n');
 
 		// Crawler.appendFile('kill_matrix.csv', 'match_id;kill_type;player1;player1_kills;player2;player2_kills\n')
@@ -82,7 +80,7 @@ var Crawler = {
 				var link = $(this).find('.name-col a').attr('href');
 				
 				gamb++;
-				console.log('https://www.hltv.org/' + link);
+				// console.log('https://www.hltv.org/' + link);
 				if(gamb!=1){
 					Crawler.getEventInfo('https://www.hltv.org/' + link);
 					sleep(200);
@@ -107,40 +105,62 @@ var Crawler = {
 
 			var $ = Crawler.cheerio.load(body);
 
-			// var name = $('.eventname').text().trim();
-			// var id = $('.event-header-component.event-holder.header a').attr('href').substring(8,12);
-			// var date = $('.eventdate').text().trim();
-			// var fields = date.split('Date');
-			// var date = fields[1];
-			// var prize = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 1 ).text().trim();
-			// var teams = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 2 ).text().trim();
-			// var location = $('.flag-align').text().trim();
+			var name = $('.eventname').text().trim();
+			var id = $('.event-header-component.event-holder.header a').attr('href').substring(8,12);
+			var date = $('.eventdate').text().trim();
+			var fields = date.split('Date');
+			var date = fields[1];
+			var test = date.split(' ');
+			var startDate = '';
+			startDate = startDate.concat(test[5]);
+			startDate = startDate.concat('-');
+			startDate = startDate.concat(months.indexOf(test[0])); 
+			startDate = startDate.concat('-');
+			startDate = startDate.concat(test[1].match(/[0-9]+/g))
+
+			var endDate = '';
+			endDate = endDate.concat(test[5]);
+			endDate = endDate.concat('-');
+			endDate = endDate.concat(months.indexOf(test[3])); 
+			endDate = endDate.concat('-');
+			endDate = endDate.concat(test[4].match(/[0-9]+/g))
+			
+			// console.log(endDate);
+
+			var prize = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 1 ).text().trim();
+			prize = prize.substring(1, prize.length);
+			prize = prize.replace(/,/g, '.');
+			// console.log(prize);
+
+			var teams = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 2 ).text().trim();
+			var location = $('.flag-align').text().trim();
 
 			var matchesLink = $('.stats-section.stats-team.stats-sidebar').find('.sidebar-single-line-item').eq(3).attr('href').trim();
-			console.log('https://www.hltv.org/'+matchesLink);
+			// console.log('https://www.hltv.org/'+matchesLink);
 
-			Crawler.getAllMatches('https://www.hltv.org/'+matchesLink);
+			// Crawler.getAllMatches('https://www.hltv.org/'+matchesLink);
 			sleep(200);
 
-			// var data = name + ';' + id + ';' + date + ';' + prize + ';' + location + ';' + '\n';
+			var data = name.toString() + ';' + id + ';' + startDate + ';' + endDate + ';' + prize + ';' + location + '\n';
 
 			
-			// var eventsJson = {};
+			var eventsJson = {};
 
-			// eventsJson.name = name;
-			// eventsJson.id = id;
-			// eventsJson.date = date;
-			// eventsJson.prize = prize;
-			// eventsJson.location = location;
+			eventsJson.name = name;
+			eventsJson.id = id;
+			eventsJson.start_date = startDate;
+			eventsJson.end_date = endDate;
+			eventsJson.prize = prize;
+			eventsJson.location = location;
 
 		
-			// eventsArray.push(eventsJson);
+			eventsArray.push(eventsJson);
 
 			// console.log(eventsArray.length);
 
-			// jsonfile.writeFile('events.json', eventsArray, {spaces: 2}, function (err) {
-			// 	console.error(err)
-			// })
+			jsonfile.writeFile('events.json', eventsArray, {spaces: 2}, function (err) {
+				console.error(err)
+			})
 
 			// Crawler.appendFile('events.csv', data);
 			// console.log(data);
@@ -378,9 +398,9 @@ var Crawler = {
 				//   })
 
 				performanceArray.push(performanceJson);
-				jsonfile.writeFile('performance.json', performanceArray, {spaces: 2}, function (err) {
-						console.error(err)
-				})
+				// jsonfile.writeFile('performance.json', performanceArray, {spaces: 2}, function (err) {
+				// 		console.error(err)
+				// })
 				
 				var performanceLink = $('.stats-top-menu-item.stats-top-menu-item-link').eq(1).attr('href');
 				// console.log('https://www.hltv.org/' + performanceLink);
