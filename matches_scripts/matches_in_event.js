@@ -25,50 +25,7 @@ var Crawler = {
 		Crawler.cheerio = require('cheerio');
         Crawler.fs      = require('fs');
         Crawler.jsonfile = require('jsonfile');
-		Crawler.getLinks();
-    },
-    appendFile: function (file, data) {
-		
-        Crawler.fs.appendFile(file, data, function (err) {
-            if (err) {
-                console.log('Erro ao gravar dados no arquivo: ' + err);
-                throw err;
-            }
-        });
-	},
-    getLinks: function () {
-        // var stats = Crawler.fs.statSync('./jsons/team_overview.json');
-        // const team_overview_size = stats.size;
-        // stats = Crawler.fs.statSync('./jsons/team_ftu.json');
-        // const team_ftu_size = stats.size;
-        // stats = Crawler.fs.statSync('./jsons/team_pistol.json');
-        // const team_pistol_size = stats.size;  
-        
-		Crawler.request('https://www.hltv.org/stats/events?matchType=BigEvents', function (err, res, body) {
-			if (err)
-				console.log('Erro ao recuperar dados da página: ' + err);
-
-			var $ = Crawler.cheerio.load(body);
-			var gamb = 0;
-			var eventCount = 0;
-			$('.stats-table.events-table .name-col').each(function () {
-				var link = $(this).find('.name-col a').attr('href');
-				
-				gamb++;
-				// console.log('https://www.hltv.org/' + link);
-				if(gamb!=1){
-					Crawler.getEventInfo('https://www.hltv.org/' + link);
-					
-				
-					eventCount++
-					// console.log(`${eventCount} eventos salvos`);
-                }	
-                sleep(50);
-			});
-
-		});
-		
-        
+		Crawler.getEventInfo('https://www.hltv.org/stats?matchType=BigEvents&event=3389');
     },
 	getEventInfo: function(link){
         // 'https://www.hltv.org/stats/matches?matchType=BigEvents&event=3530'
@@ -83,6 +40,15 @@ var Crawler = {
 
             // console.log('https://www.hltv.org/'+matchesLink);
             Crawler.getAllMatches('https://www.hltv.org/'+matchesLink);
+
+            console.log('CHAMEI O getAllMatches');
+
+            var allMatches = new Promise(function(resolve, reject) {
+                console.log('OLAA')
+                resolve("Success!");
+                // or
+                // reject ("Error!");
+              });
 
 		});
     },
@@ -106,8 +72,7 @@ var Crawler = {
                     // console.log('https://www.hltv.org/'+matchLink);
                     const map = $(this).find('.dynamic-map-name-full').text().trim();
                     Crawler.getMatchOverview('https://www.hltv.org/'+matchLink, map);
-                    // Crawler.getMatchRoundHistory('https://www.hltv.org/'+matchLink);
-                    sleep(350);
+                    
                 });
 
                 nextUrl = $('.pagination-next').eq(0).attr('href');
@@ -238,7 +203,6 @@ var Crawler = {
 
             // console.log(overview);
 
-            sleep(5);
             if(overview.length > 0) {
                 jsonfile.writeFile('match_overview.json', overview, {spaces: 2}, function (err) {
                     console.error(err)
@@ -246,153 +210,7 @@ var Crawler = {
                 sleep(15);
             }
             
-            // var match = match_id + ',' + event_id + ',' + date + ',' + team1 + ',' + team1_score + ',' + team1_clutches + ',' + 
-			// 				team1_rating + ',' + team1_first_kills + ',' +  team2 + ',' + team2_score + ',' + team2_clutches + ',' + 
-			// 				team2_rating + ',' + team2_first_kills + ',' + map +  '\n'
-			// Crawler.appendFile('matches.csv', match);
-        });
-
-        
-	},
-	getMatchRoundHistory: function (link) {
-
-        sleep(50);
-        Crawler.request(link, function(err, res, body){
-            if(err)
-                console.log('Error: ' + err);
-                
-            var $ = Crawler.cheerio.load(body);
-
-            var fields = link.split("mapstatsid/");
-            var quase = fields[1];
-            fields = quase.split("/");
-            const match_id = fields[0];
-            const event_id = link.substring(link.length-4, link.length);
-            let team1 = $('.round-history-team').eq(0).attr('src');
-            fields = team1.split("team/");
-            quase = fields[1];
-            fields = quase.split("/");
-            const team1_id =  fields[1];
-
-            let team2 = $('.round-history-team').eq(1).attr('src');
-             fields = team2.split("team/");
-             quase = fields[1];
-            fields = quase.split("/");
-            const team2_id =  fields[1];
-
-            var ct_wins = 0;
-            var tr_wins = 0;
-            var defused = 0;
-            var exploded = 0;
-
-            var side = '';
-            if($('.match-info-row').eq(0).find("div").eq(0).find("span").eq(2).attr('class') == 'ct-color'){
-                side= 'ct';
-            }else {
-                side = 'tr';
-            }
-
-            $('.round-history-half').eq(0).find("img").each(function () {
-                if(side == 'ct'){
-                    if($(this).attr('src') == '//static.hltv.org/images/scoreboard/ct_win.svg'){
-                        ct_wins++;
-                    }else if($(this).attr('src') == '//static.hltv.org/images/scoreboard/bomb_defused.svg'){
-                        defused++;
-                    }
-                }else if(side == 'tr'){
-                    if($(this).attr('src') == '//static.hltv.org/images/scoreboard/t_win.svg'){
-                        tr_wins++;
-                    }else if($(this).attr('src') == '//static.hltv.org/images/scoreboard/bomb_exploded.svg'){
-                        exploded++;
-                    }
-                }					
-            });
-
-
-            $('.round-history-half').eq(1).find("img").each(function () {
-                if(side == 'tr'){
-                    if($(this).attr('src') == '//static.hltv.org/images/scoreboard/ct_win.svg'){
-                        ct_wins++;
-                    }else if($(this).attr('src') == '//static.hltv.org/images/scoreboard/bomb_defused.svg'){
-                        defused++;
-                    }
-                }else if(side == 'ct'){
-                    if($(this).attr('src') == '//static.hltv.org/images/scoreboard/t_win.svg'){
-                        tr_wins++;
-                    }else if($(this).attr('src') == '//static.hltv.org/images/scoreboard/bomb_exploded.svg'){
-                        exploded++;
-                    }
-                }
-            });
-
-            const team1_round_history = {};
-            team1_round_history.ct_wins = ct_wins;
-            team1_round_history.tr_wins = tr_wins;
-            team1_round_history.defused = defused;
-            team1_round_history.exploded = exploded;
-
-            ct_wins = 0;
-            tr_wins = 0;
-            defused = 0;
-            exploded = 0;
-
-            let time2 = $('.round-history-team').eq(1).attr('title');
-
-            $('.round-history-half').eq(2).find("img").each(function () {
-                if(side == 'tr'){
-                    if($(this).attr('src') == '//static.hltv.org/images/scoreboard/ct_win.svg'){
-                        ct_wins++;
-                    }else if($(this).attr('src') == '//static.hltv.org/images/scoreboard/bomb_defused.svg'){
-                        defused++;
-                    }
-                }else if(side == 'ct'){
-                    if($(this).attr('src') == '//static.hltv.org/images/scoreboard/t_win.svg'){
-                        tr_wins++;
-                    
-                }else if($(this).attr('src') == '//static.hltv.org/images/scoreboard/bomb_exploded.svg'){
-                        exploded++;
-                    }
-                }
-            });
-
-            $('.round-history-half').eq(3).find("img").each(function () {
-                if(side == 'ct'){
-                    if($(this).attr('src') == '//static.hltv.org/images/scoreboard/ct_win.svg'){
-                        ct_wins++;
-                    }else if($(this).attr('src') == '//static.hltv.org/images/scoreboard/bomb_defused.svg'){
-                        defused++;
-                    }
-                }else if(side == 'tr'){
-                    if($(this).attr('src') == '//static.hltv.org/images/scoreboard/t_win.svg'){
-                        tr_wins++;
-                    }else if($(this).attr('src') == '//static.hltv.org/images/scoreboard/bomb_exploded.svg'){
-                        exploded++;
-                    }
-                }    
-            });
-        
-            const team2_round_history = {};
-            team2_round_history.ct_wins = ct_wins;
-            team2_round_history.tr_wins = tr_wins;
-            team2_round_history.defused = defused;
-            team2_round_history.exploded = exploded;
-
-            const match_round_history = {};
-            match_round_history.match_id = match_id;
-            match_round_history.event_id = event_id;
-            // match_round_history.team1_id = team1_id;
-            // match_round_history.team2_id = team2_id;
-            match_round_history.team1 = team1_round_history;
-            match_round_history.team2 = team2_round_history;
-
-            round_history.push(match_round_history);
-
-            // jsonfile.writeFile('match_round_history.json', round_history, {spaces: 2}, function (err) {
-				console.error(err)
-			// })
-            // console.log('MATCH_HISTORY = '+round_history);
-
-        });
+        });       
 	}
 };
 Crawler.init();
