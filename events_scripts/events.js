@@ -8,22 +8,6 @@ const jsonfile = require('jsonfile');
 
 var map = '';
 
-// const mysql = require('mysql');
-
-// const connection = mysql.createConnection({
-//     host     : 'localhost',
-//     port     : 3306,
-//     user     : 'root',
-//     password : 'databasetcc2018',
-//     database : 'champion_prediction'
-//   });
-
-//   function execSQLQuery(sqlQry){
-//     connection.query(sqlQry, function(error, results, fields){
-//         // console.log('executou!');
-//     });
-//   }
-
 var months = [undefined, 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 
@@ -56,15 +40,7 @@ var Crawler = {
 		Crawler.fs.writeFile(file, '', function(){console.log(`${file} contend deleted`)})
 	},
 	getLinks: function () {
-        //cabeçalho do arquivo
-		// Crawler.appendFile('events.csv', 'name;id;start_date;end_date;prize;location\n');
-		// Crawler.appendFile('match.csv', 'match_id;event_id;date;team1;team1_score;team1_clutches;team1_rating;team1_firstkills;team2;team2_score;team2_clutches;team2_rating;team2_firstkills;map;event\n');
-
-		// Crawler.appendFile('kill_matrix.csv', 'match_id;kill_type;player1;player1_kills;player2;player2_kills\n')
-
-		// Crawler.appendFile('performance.csv', 'match_id;team1;player;kills;assists;deaths;kast;adr;fkDiff;rating\n')+
-
-		// Crawler.appendFile('round_history.csv', 'match_id;team;ct_wins;tr_wins;defused;exploded\n')
+       
 				
 		//recupera dados de cada página de consulta
 		Crawler.request('https://www.hltv.org/stats/events?matchType=BigEvents', function (err, res, body) {
