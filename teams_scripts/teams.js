@@ -130,7 +130,7 @@ var Crawler = {
                 const win_4x5 = $(this).find("td").eq(6).text().trim();
                 const deaths_traded = $(this).find("td").eq(7).text().trim();
                 const adr = $(this).find("td").eq(8).text().trim();
-                const fa = $(this).find("td").eq(8).text().trim();
+                const fa = $(this).find("td").eq(9).text().trim();
 
                 const team_ftu = {};
                 team_ftu.team_id = team_id;

@@ -124,6 +124,8 @@ var Crawler = {
 
 			var teams = $('.info').find( "tr" ).eq( 1 ).find( "td" ).eq( 2 ).text().trim();
 			var location = $('.flag-align').text().trim();
+			const banner = $('.event-img').attr('src');
+
 
 			var matchesLink = $('.stats-section.stats-team.stats-sidebar').find('.sidebar-single-line-item').eq(3).attr('href').trim();
 			// console.log('https://www.hltv.org/'+matchesLink);
@@ -142,6 +144,7 @@ var Crawler = {
 			eventsJson.end_date = endDate;
 			eventsJson.prize = prize;
 			eventsJson.location = location;
+			eventsJson.banner = banner;
 
 		
 			eventsArray.push(eventsJson);
