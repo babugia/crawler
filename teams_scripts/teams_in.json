@@ -1,0 +1,3006 @@
+[
+  {
+    "event_id": "3515",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3460",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3460",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3460",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "9215"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "3649",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "8068"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "8481"
+  },
+  {
+    "event_id": "3491",
+    "team_id": "5929"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "8120"
+  },
+  {
+    "event_id": "3309",
+    "team_id": "8668"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "3486",
+    "team_id": "7354"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "8113"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "5929"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "8008"
+  },
+  {
+    "event_id": "3373",
+    "team_id": "7354"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "6902"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "8120"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "9037"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "3666",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "3649",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3649",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3649",
+    "team_id": "7532"
+  },
+  {
+    "event_id": "3649",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3649",
+    "team_id": "5929"
+  },
+  {
+    "event_id": "3649",
+    "team_id": "6267"
+  },
+  {
+    "event_id": "3649",
+    "team_id": "7801"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "7801"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "3389",
+    "team_id": "8008"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "9215"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "4869"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "7532"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "7567"
+  },
+  {
+    "event_id": "3392",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "3460",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "3460",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3460",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3460",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3460",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "3515",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3515",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3515",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3515",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3515",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3515",
+    "team_id": "9215"
+  },
+  {
+    "event_id": "3515",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "8668"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "8008"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "7354"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "6468"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "6010"
+  },
+  {
+    "event_id": "3530",
+    "team_id": "7567"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3313",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3313",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3313",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3313",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2998",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2998",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2998",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2998",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2998",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2998",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3313",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3313",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "3313",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3133",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3133",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3133",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3133",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2636",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2636",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2636",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2636",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2636",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2636",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2636",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2636",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "5929"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "7367"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "7532"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "6094"
+  },
+  {
+    "event_id": "3247",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "3016",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2956",
+    "team_id": "6248"
+  },
+  {
+    "event_id": "3133",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "3133",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "3133",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "3133",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "3313",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "7557"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "3072",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2763",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2713",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2713",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2713",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2713",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2367",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2367",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2367",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2367",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2367",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2367",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2367",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2367",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2261",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2637",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "6902"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2471",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "5929"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2635",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "6474"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2683",
+    "team_id": "7716"
+  },
+  {
+    "event_id": "2713",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2713",
+    "team_id": "6010"
+  },
+  {
+    "event_id": "2713",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "2713",
+    "team_id": "7606"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2557",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "7532"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "5395"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2720",
+    "team_id": "6094"
+  },
+  {
+    "event_id": "2763",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2763",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2763",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2763",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2763",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2763",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2763",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2684",
+    "team_id": "7567"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "7533"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "7557"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "2541",
+    "team_id": "5005"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "2306",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2410",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "2410",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2239",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2239",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2239",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2239",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2239",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "2248",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2248",
+    "team_id": "5996"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5996"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6680"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6673"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5005"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2135",
+    "team_id": "6736"
+  },
+  {
+    "event_id": "2248",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "2248",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2248",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2248",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2248",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2248",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "2062",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "2239",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2239",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2239",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2410",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2410",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2410",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2410",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2410",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2410",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "7010"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "4501"
+  },
+  {
+    "event_id": "2407",
+    "team_id": "6680"
+  },
+  {
+    "event_id": "2130",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "2130",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2130",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2130",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2130",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "1978",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "6902"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1986",
+    "team_id": "6548"
+  },
+  {
+    "event_id": "1615",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1615",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "1882",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1882",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1882",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1882",
+    "team_id": "5996"
+  },
+  {
+    "event_id": "1882",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "1882",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5996"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5962"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "4674"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5231"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "4532"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5395"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "4548"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5195"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5758"
+  },
+  {
+    "event_id": "1553",
+    "team_id": "5158"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5395"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "6033"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "4784"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5284"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5789"
+  },
+  {
+    "event_id": "1611",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "1882",
+    "team_id": "5284"
+  },
+  {
+    "event_id": "1882",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5996"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5284"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "6375"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "1617",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "1615",
+    "team_id": "5996"
+  },
+  {
+    "event_id": "1615",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "1615",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "1615",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1615",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "1615",
+    "team_id": "6468"
+  },
+  {
+    "event_id": "1986",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1986",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1986",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "1986",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "1986",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "1986",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "1986",
+    "team_id": "6292"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "6118"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "7175"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "6902"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "6773"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2325",
+    "team_id": "6474"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "4863"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "6372"
+  },
+  {
+    "event_id": "2099",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "1978",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1978",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1978",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "1978",
+    "team_id": "6548"
+  },
+  {
+    "event_id": "1978",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "1978",
+    "team_id": "6503"
+  },
+  {
+    "event_id": "1978",
+    "team_id": "6637"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "6665"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "5973"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "1753",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1753",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1753",
+    "team_id": "5996"
+  },
+  {
+    "event_id": "1753",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "1753",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "1753",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "1753",
+    "team_id": "6033"
+  },
+  {
+    "event_id": "1753",
+    "team_id": "6021"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "6651"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "6667"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "5995"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2027",
+    "team_id": "6301"
+  },
+  {
+    "event_id": "2130",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "2130",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "2130",
+    "team_id": "6615"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "5996"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "5991"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "6290"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "5974"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "5988"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "6134"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "6211"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "5284"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4467"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4775"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "4991"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4467"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4467"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4465"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4413"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4548"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4580"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4547"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4488"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4623"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4612"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4624"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4429"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4490"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4613"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4532"
+  },
+  {
+    "event_id": "1021",
+    "team_id": "4448"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4431"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4532"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4547"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4445"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4580"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4579"
+  },
+  {
+    "event_id": "1003",
+    "team_id": "4490"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "5028"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "5284"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "4448"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "5208"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "5005"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "4674"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "5231"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "4948"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "4784"
+  },
+  {
+    "event_id": "1333",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4548"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "5028"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "5005"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4467"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "5261"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4984"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "5208"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4533"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4983"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "5231"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4948"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "5217"
+  },
+  {
+    "event_id": "1270",
+    "team_id": "6137"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "4456"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5378"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "4674"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5422"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5752"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "4411"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "4548"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5284"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5310"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5231"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "4784"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5593"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5741"
+  },
+  {
+    "event_id": "1444",
+    "team_id": "5569"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4494"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4608"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4647"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4555"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4835"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4679"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4624"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4532"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4611"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4623"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4828"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4552"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4688"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4831"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4445"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4548"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4413"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4761"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4501"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4579"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4683"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4631"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4826"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4822"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4490"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4716"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4844"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4606"
+  },
+  {
+    "event_id": "1094",
+    "team_id": "4742"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "4791"
+  },
+  {
+    "event_id": "1666",
+    "team_id": "6245"
+  }
+]

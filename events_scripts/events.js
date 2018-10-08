@@ -114,14 +114,28 @@ var Crawler = {
 			var startDate = '';
 			startDate = startDate.concat(test[5]);
 			startDate = startDate.concat('-');
-			startDate = startDate.concat(months.indexOf(test[0])); 
+			let month = months.indexOf(test[0]);
+			// console.log(month);
+			if(month < 10){
+				let zero = "0";
+				month = zero.concat(month);
+			}
+			// console.log('update = '+month);
+			startDate = startDate.concat(month); 
 			startDate = startDate.concat('-');
 			startDate = startDate.concat(test[1].match(/[0-9]+/g))
 
 			var endDate = '';
 			endDate = endDate.concat(test[5]);
 			endDate = endDate.concat('-');
-			endDate = endDate.concat(months.indexOf(test[3])); 
+			month = months.indexOf(test[3]);
+			// console.log(month);
+			if(month < 10){
+				let zero = "0";
+				month = zero.concat(month);
+			}
+			endDate = endDate.concat(month); 
+			
 			endDate = endDate.concat('-');
 			endDate = endDate.concat(test[4].match(/[0-9]+/g))
 			
