@@ -105,6 +105,7 @@ var Crawler = {
                     matchLink = $(this).find("td").eq(0).find("a").attr('href');
                     // console.log('https://www.hltv.org/'+matchLink);
                     const map = $(this).find('.dynamic-map-name-full').text().trim();
+                    
                     Crawler.getMatchOverview('https://www.hltv.org/'+matchLink, map);
                     Crawler.getMatchRoundHistory('https://www.hltv.org/'+matchLink);
                     

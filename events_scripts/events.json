@@ -1,27 +1,39 @@
 [
   {
+    "name": "BLAST Pro Series Istanbul 2018",
+    "id": "3647",
+    "start_date": "2018-9-28",
+    "end_date": "2018-9-29",
+    "prize": "250.000",
+    "location": "Istanbul, Turkey",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1500284576.1504.jpeg"
+  },
+  {
+    "name": "ESL One New York 2018",
+    "id": "3703",
+    "start_date": "2018-9-26",
+    "end_date": "2018-9-30",
+    "prize": "250.000",
+    "location": "Brooklyn, New York, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1495010241.3968.jpeg"
+  },
+  {
+    "name": "FACEIT Major 2018",
+    "id": "3564",
+    "start_date": "2018-9-12",
+    "end_date": "2018-9-23",
+    "prize": "1.000.000",
+    "location": "London, United Kingdom",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1519304709.0183.jpeg"
+  },
+  {
     "name": "DreamHack Masters Stockholm 2018",
     "id": "3389",
     "start_date": "2018-8-29",
     "end_date": "2018-9-2",
     "prize": "250.000",
-    "location": "Stockholm, Sweden"
-  },
-  {
-    "name": "ELEAGUE CS:GO Premier 2018",
-    "id": "3515",
-    "start_date": "2018-7-21",
-    "end_date": "2018-7-29",
-    "prize": "1.000.000",
-    "location": "Atlanta, Georgia, USA"
-  },
-  {
-    "name": "ESL One Belo Horizonte 2018",
-    "id": "3649",
-    "start_date": "2018-6-13",
-    "end_date": "2018-6-17",
-    "prize": "200.000",
-    "location": "Belo Horizonte, Brazil"
+    "location": "Stockholm, Sweden",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1514888704.5045.jpeg"
   },
   {
     "name": "ESL One Cologne 2018",
@@ -29,23 +41,17 @@
     "start_date": "2018-7-3",
     "end_date": "2018-7-8",
     "prize": "300.000",
-    "location": "Cologne, Germany"
+    "location": "Cologne, Germany",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1514890130.3405.jpeg"
   },
   {
-    "name": "IEM Sydney 2018",
-    "id": "3530",
-    "start_date": "2018-5-1",
-    "end_date": "2018-5-6",
-    "prize": "250.000",
-    "location": "Sydney, Australia"
-  },
-  {
-    "name": "ESL Pro League Season 7 Finals",
-    "id": "3373",
-    "start_date": "2018-5-15",
-    "end_date": "2018-5-20",
-    "prize": "750.000",
-    "location": "Dallas, Texas, USA"
+    "name": "ELEAGUE CS:GO Premier 2018",
+    "id": "3515",
+    "start_date": "2018-7-21",
+    "end_date": "2018-7-29",
+    "prize": "1.000.000",
+    "location": "Atlanta, Georgia, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1519039306.0617.jpeg"
   },
   {
     "name": "ECS Season 5 Finals",
@@ -53,7 +59,17 @@
     "start_date": "2018-6-8",
     "end_date": "2018-6-10",
     "prize": "660.000",
-    "location": "London, United Kingdom"
+    "location": "London, United Kingdom",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1507281686.2145.jpeg"
+  },
+  {
+    "name": "ESL One Belo Horizonte 2018",
+    "id": "3649",
+    "start_date": "2018-6-13",
+    "end_date": "2018-6-17",
+    "prize": "200.000",
+    "location": "Belo Horizonte, Brazil",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1522741254.2974.jpeg"
   },
   {
     "name": "StarSeries i-League Season 5",
@@ -61,15 +77,26 @@
     "start_date": "2018-5-28",
     "end_date": "2018-6-3",
     "prize": "300.000",
-    "location": "Kiev, Ukraine"
+    "location": "Kiev, Ukraine",
+    "banner": "https://static.hltv.org/./images/galleries/7991-full/1517566633.3237.jpeg"
   },
   {
-    "name": "IEM Katowice 2018",
-    "id": "3309",
-    "start_date": "2018-2-27",
-    "end_date": "2018-3-4",
-    "prize": "500.000",
-    "location": "Katowice, Poland"
+    "name": "ESL Pro League Season 7 Finals",
+    "id": "3373",
+    "start_date": "2018-5-15",
+    "end_date": "2018-5-20",
+    "prize": "750.000",
+    "location": "Dallas, Texas, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1514885850.933.jpeg"
+  },
+  {
+    "name": "IEM Sydney 2018",
+    "id": "3530",
+    "start_date": "2018-5-1",
+    "end_date": "2018-5-6",
+    "prize": "250.000",
+    "location": "Sydney, Australia",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1519039040.3102.jpeg"
   },
   {
     "name": "DreamHack Masters Marseille 2018",
@@ -77,15 +104,17 @@
     "start_date": "2018-4-18",
     "end_date": "2018-4-22",
     "prize": "250.000",
-    "location": "Marseille, France"
+    "location": "Marseille, France",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1515578116.7798.jpeg"
   },
   {
-    "name": "ELEAGUE Major 2018",
-    "id": "3247",
-    "start_date": "2018-1-19",
-    "end_date": "2018-1-28",
-    "prize": "1.000.000",
-    "location": "Atlanta & Boston, United States"
+    "name": "IEM Katowice 2018",
+    "id": "3309",
+    "start_date": "2018-2-27",
+    "end_date": "2018-3-4",
+    "prize": "500.000",
+    "location": "Katowice, Poland",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1513587951.3121.jpeg"
   },
   {
     "name": "StarSeries i-League Season 4",
@@ -93,23 +122,17 @@
     "start_date": "2018-2-17",
     "end_date": "2018-2-25",
     "prize": "300.000",
-    "location": "Kiev, Ukraine"
+    "location": "Kiev, Ukraine",
+    "banner": "https://static.hltv.org/./images/galleries/7991-full/1517566633.3237.jpeg"
   },
   {
-    "name": "ECS Season 4 Finals",
-    "id": "3313",
-    "start_date": "2017-12-15",
-    "end_date": "2017-12-17",
-    "prize": "660.000",
-    "location": "Cancun, Mexico"
-  },
-  {
-    "name": "BLAST Pro Series Copenhagen 2017",
-    "id": "2998",
-    "start_date": "2017-11-24",
-    "end_date": "2017-11-25",
-    "prize": "250.000",
-    "location": "Copenhagen, Denmark"
+    "name": "ELEAGUE Major 2018",
+    "id": "3247",
+    "start_date": "2018-1-19",
+    "end_date": "2018-1-28",
+    "prize": "1.000.000",
+    "location": "Atlanta & Boston, United States",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1507288787.7885.jpeg"
   },
   {
     "name": "ESL Pro League Season 6 Finals",
@@ -117,7 +140,17 @@
     "start_date": "2017-12-5",
     "end_date": "2017-12-10",
     "prize": "750.000",
-    "location": "Odense, Denmark"
+    "location": "Odense, Denmark",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1504012928.2822.jpeg"
+  },
+  {
+    "name": "ECS Season 4 Finals",
+    "id": "3313",
+    "start_date": "2017-12-15",
+    "end_date": "2017-12-17",
+    "prize": "660.000",
+    "location": "Cancun, Mexico",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1507281686.2145.jpeg"
   },
   {
     "name": "IEM Oakland 2017",
@@ -125,7 +158,17 @@
     "start_date": "2017-11-14",
     "end_date": "2017-11-19",
     "prize": "300.000",
-    "location": "Burbank & Oakland, California, USA"
+    "location": "Burbank & Oakland, California, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1477907306.2313.jpeg"
+  },
+  {
+    "name": "BLAST Pro Series Copenhagen 2017",
+    "id": "2998",
+    "start_date": "2017-11-24",
+    "end_date": "2017-11-25",
+    "prize": "250.000",
+    "location": "Copenhagen, Denmark",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1500284576.1504.jpeg"
   },
   {
     "name": "EPICENTER 2017",
@@ -133,15 +176,8 @@
     "start_date": "2017-10-24",
     "end_date": "2017-10-29",
     "prize": "490.000",
-    "location": "Saint Petersburg, Russia"
-  },
-  {
-    "name": "ESL One New York 2017",
-    "id": "2636",
-    "start_date": "2017-9-15",
-    "end_date": "2017-9-17",
-    "prize": "250.000",
-    "location": "New York, New York, USA"
+    "location": "Saint Petersburg, Russia",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1505215651.9841.jpeg"
   },
   {
     "name": "ELEAGUE CS:GO Premier 2017",
@@ -149,7 +185,17 @@
     "start_date": "2017-9-8",
     "end_date": "2017-10-13",
     "prize": "1.000.000",
-    "location": "Atlanta, Georgia, USA"
+    "location": "Atlanta, Georgia, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1503303327.4119.jpeg"
+  },
+  {
+    "name": "ESL One New York 2017",
+    "id": "2636",
+    "start_date": "2017-9-15",
+    "end_date": "2017-9-17",
+    "prize": "250.000",
+    "location": "New York, New York, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1495010241.3968.jpeg"
   },
   {
     "name": "PGL Major Krakow 2017",
@@ -157,23 +203,8 @@
     "start_date": "2017-7-16",
     "end_date": "2017-7-23",
     "prize": "1.000.000",
-    "location": "Krakow, Poland"
-  },
-  {
-    "name": "DreamHack Masters Malmö 2017",
-    "id": "2684",
-    "start_date": "2017-8-30",
-    "end_date": "2017-9-3",
-    "prize": "250.000",
-    "location": "Malmö, Sweden"
-  },
-  {
-    "name": "ESL One Cologne 2017",
-    "id": "2635",
-    "start_date": "2017-7-4",
-    "end_date": "2017-7-9",
-    "prize": "250.000",
-    "location": "Cologne, Germany"
+    "location": "Krakow, Poland",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1489667040.5354.jpeg"
   },
   {
     "name": "ESL Pro League Season 5 Finals",
@@ -181,7 +212,26 @@
     "start_date": "2017-5-30",
     "end_date": "2017-6-4",
     "prize": "750.000",
-    "location": "Dallas, Texas, USA"
+    "location": "Dallas, Texas, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1484211349.8651.jpeg"
+  },
+  {
+    "name": "DreamHack Masters Malmö 2017",
+    "id": "2684",
+    "start_date": "2017-8-30",
+    "end_date": "2017-9-3",
+    "prize": "250.000",
+    "location": "Malmö, Sweden",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1494929057.2155.jpeg"
+  },
+  {
+    "name": "ESL One Cologne 2017",
+    "id": "2635",
+    "start_date": "2017-7-4",
+    "end_date": "2017-7-9",
+    "prize": "250.000",
+    "location": "Cologne, Germany",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1493816824.3549.jpeg"
   },
   {
     "name": "ECS Season 3 Finals",
@@ -189,15 +239,8 @@
     "start_date": "2017-6-23",
     "end_date": "2017-6-25",
     "prize": "660.000",
-    "location": "London, United Kingdom"
-  },
-  {
-    "name": "IEM Sydney 2017",
-    "id": "2713",
-    "start_date": "2017-5-3",
-    "end_date": "2017-5-7",
-    "prize": "200.000",
-    "location": "Sydney, Australia"
+    "location": "London, United Kingdom",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1494926051.8866.jpeg"
   },
   {
     "name": "SL i-League StarSeries Season 3 Finals",
@@ -205,15 +248,17 @@
     "start_date": "2017-4-4",
     "end_date": "2017-4-9",
     "prize": "300.000",
-    "location": "Kiev, Ukraine"
+    "location": "Kiev, Ukraine",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1486973542.8497.jpeg"
   },
   {
-    "name": "IEM Katowice 2017",
-    "id": "2637",
-    "start_date": "2017-3-1",
-    "end_date": "2017-3-5",
-    "prize": "250.000",
-    "location": "Katowice, Poland"
+    "name": "IEM Sydney 2017",
+    "id": "2713",
+    "start_date": "2017-5-3",
+    "end_date": "2017-5-7",
+    "prize": "200.000",
+    "location": "Sydney, Australia",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1488977232.4511.jpeg"
   },
   {
     "name": "DreamHack Masters Las Vegas 2017",
@@ -221,31 +266,17 @@
     "start_date": "2017-2-15",
     "end_date": "2017-2-19",
     "prize": "450.000",
-    "location": "Las Vegas, Nevada, USA"
+    "location": "Las Vegas, Nevada, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1479724768.8008.jpeg"
   },
   {
-    "name": "ELEAGUE Major 2017",
-    "id": "2471",
-    "start_date": "2017-1-22",
-    "end_date": "2017-1-29",
-    "prize": "1.000.000",
-    "location": "Atlanta, Georgia, USA"
-  },
-  {
-    "name": "IEM Oakland 2016",
-    "id": "2261",
-    "start_date": "2016-11-16",
-    "end_date": "2016-11-20",
-    "prize": "300.000",
-    "location": "Oakland, California, USA"
-  },
-  {
-    "name": "ECS Season 2 Finals",
-    "id": "2367",
-    "start_date": "2016-12-9",
-    "end_date": "2016-12-11",
-    "prize": "660.000",
-    "location": "Anaheim, California, USA"
+    "name": "IEM Katowice 2017",
+    "id": "2637",
+    "start_date": "2017-3-1",
+    "end_date": "2017-3-5",
+    "prize": "250.000",
+    "location": "Katowice, Poland",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1484216174.7204.jpeg"
   },
   {
     "name": "ESL Pro League Season 4 Finals",
@@ -253,7 +284,8 @@
     "start_date": "2016-10-26",
     "end_date": "2016-10-30",
     "prize": "600.000",
-    "location": "São Paulo, Brazil"
+    "location": "São Paulo, Brazil",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1484211349.8651.jpeg"
   },
   {
     "name": "ELEAGUE Season 2",
@@ -261,15 +293,35 @@
     "start_date": "2016-10-21",
     "end_date": "2016-12-3",
     "prize": "1.100.000",
-    "location": "Atlanta, Georgia, USA"
+    "location": "Atlanta, Georgia, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1479130405.1482.jpeg"
   },
   {
-    "name": "EPICENTER: Moscow",
-    "id": "2410",
-    "start_date": "2016-10-17",
-    "end_date": "2016-10-23",
-    "prize": "490.000",
-    "location": "Moscow, Russia"
+    "name": "IEM Oakland 2016",
+    "id": "2261",
+    "start_date": "2016-11-16",
+    "end_date": "2016-11-20",
+    "prize": "300.000",
+    "location": "Oakland, California, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1477907306.2313.jpeg"
+  },
+  {
+    "name": "ECS Season 2 Finals",
+    "id": "2367",
+    "start_date": "2016-12-9",
+    "end_date": "2016-12-11",
+    "prize": "660.000",
+    "location": "Anaheim, California, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1477917172.7716.jpeg"
+  },
+  {
+    "name": "ELEAGUE Major 2017",
+    "id": "2471",
+    "start_date": "2017-1-22",
+    "end_date": "2017-1-29",
+    "prize": "1.000.000",
+    "location": "Atlanta, Georgia, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1477918297.6381.jpeg"
   },
   {
     "name": "ESL One New York 2016",
@@ -277,7 +329,17 @@
     "start_date": "2016-9-30",
     "end_date": "2016-10-2",
     "prize": "250.000",
-    "location": "New York, New York, United States"
+    "location": "New York, New York, United States",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1472711783.0454.jpeg"
+  },
+  {
+    "name": "EPICENTER: Moscow",
+    "id": "2410",
+    "start_date": "2016-10-17",
+    "end_date": "2016-10-23",
+    "prize": "490.000",
+    "location": "Moscow, Russia",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1473424006.4546.jpeg"
   },
   {
     "name": "SL i-League StarSeries Season 2 Finals",
@@ -285,7 +347,8 @@
     "start_date": "2016-9-7",
     "end_date": "2016-9-11",
     "prize": "300.000",
-    "location": "Kiev, Ukraine"
+    "location": "Kiev, Ukraine",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1470827693.3271.jpeg"
   },
   {
     "name": "ESL One Cologne 2016",
@@ -293,15 +356,8 @@
     "start_date": "2016-7-5",
     "end_date": "2016-7-10",
     "prize": "1.000.000",
-    "location": "Cologne, Germany"
-  },
-  {
-    "name": "ELEAGUE Season 1",
-    "id": "2135",
-    "start_date": "2016-5-24",
-    "end_date": "2016-7-30",
-    "prize": "1.400.000",
-    "location": "Atlanta, Georgia, USA"
+    "location": "Cologne, Germany",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1467368653.4664.jpeg"
   },
   {
     "name": "ECS Season 1 Finals",
@@ -309,7 +365,8 @@
     "start_date": "2016-6-24",
     "end_date": "2016-6-26",
     "prize": "765.000",
-    "location": "London, United Kingdom"
+    "location": "London, United Kingdom",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1466769589.8621.jpeg"
   },
   {
     "name": "ESL Pro League Season 3 Finals",
@@ -317,7 +374,17 @@
     "start_date": "2016-5-11",
     "end_date": "2016-5-15",
     "prize": "512.000",
-    "location": "London, United Kingdom"
+    "location": "London, United Kingdom",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1484211349.8651.jpeg"
+  },
+  {
+    "name": "ELEAGUE Season 1",
+    "id": "2135",
+    "start_date": "2016-5-24",
+    "end_date": "2016-7-30",
+    "prize": "1.400.000",
+    "location": "Atlanta, Georgia, USA",
+    "banner": "https://static.hltv.org/./images/galleries/1693-full/1464029781.0802.jpeg"
   },
   {
     "name": "MLG Columbus 2016",
@@ -325,7 +392,8 @@
     "start_date": "2016-3-29",
     "end_date": "2016-4-3",
     "prize": "1.000.000",
-    "location": "Columbus, Ohio, USA"
+    "location": "Columbus, Ohio, USA",
+    "banner": "/img/static/event/1.png"
   },
   {
     "name": "DreamHack Masters Malmö 2016",
@@ -333,7 +401,8 @@
     "start_date": "2016-4-12",
     "end_date": "2016-4-17",
     "prize": "250.000",
-    "location": "Malmö, Sweden"
+    "location": "Malmö, Sweden",
+    "banner": "/img/static/event/2.png"
   },
   {
     "name": "IEM Katowice 2016",
@@ -341,7 +410,8 @@
     "start_date": "2016-3-2",
     "end_date": "2016-3-5",
     "prize": "250.000",
-    "location": "Katowice, Poland"
+    "location": "Katowice, Poland",
+    "banner": "/img/static/event/2.png"
   },
   {
     "name": "SL i-League StarSeries XIV Finals",
@@ -349,7 +419,8 @@
     "start_date": "2016-1-13",
     "end_date": "2016-1-17",
     "prize": "200.000",
-    "location": "Minsk, Belarus"
+    "location": "Minsk, Belarus",
+    "banner": "/img/static/event/2.png"
   },
   {
     "name": "ESL ESEA Pro League Season 2 Finals",
@@ -357,39 +428,8 @@
     "start_date": "2015-12-10",
     "end_date": "2015-12-13",
     "prize": "250.000",
-    "location": "Los Angeles, California, United States"
-  },
-  {
-    "name": "DreamHack Open Cluj-Napoca 2015",
-    "id": "1617",
-    "start_date": "2015-10-28",
-    "end_date": "2015-11-1",
-    "prize": "250.000",
-    "location": "Cluj-Napoca, Romania"
-  },
-  {
-    "name": "ESL One Cologne 2015",
-    "id": "1666",
-    "start_date": "2015-8-20",
-    "end_date": "2015-8-23",
-    "prize": "250.000",
-    "location": "Cologne, Germany"
-  },
-  {
-    "name": "ESL ESEA Dubai Invitational 2015",
-    "id": "1882",
-    "start_date": "2015-9-10",
-    "end_date": "2015-9-12",
-    "prize": "250.000",
-    "location": "Dubai, United Arab Emirates"
-  },
-  {
-    "name": "ESL ESEA Pro League Season 1 Finals",
-    "id": "1753",
-    "start_date": "2015-7-2",
-    "end_date": "2015-7-5",
-    "prize": "250.000",
-    "location": "Cologne, Germany"
+    "location": "Los Angeles, California, United States",
+    "banner": "/img/static/event/2.png"
   },
   {
     "name": "FACEIT League 2015 Stage 3 Finals at DH Winter 2015",
@@ -397,23 +437,44 @@
     "start_date": "2015-11-26",
     "end_date": "2015-11-28",
     "prize": "250.000",
-    "location": "Jönköping, Sweden"
+    "location": "Jönköping, Sweden",
+    "banner": "/img/static/event/2.png"
   },
   {
-    "name": "ESL One Katowice 2015",
-    "id": "1611",
-    "start_date": "2015-3-12",
-    "end_date": "2015-3-15",
+    "name": "DreamHack Open Cluj-Napoca 2015",
+    "id": "1617",
+    "start_date": "2015-10-28",
+    "end_date": "2015-11-1",
     "prize": "250.000",
-    "location": "Katowice, Poland"
+    "location": "Cluj-Napoca, Romania",
+    "banner": "/img/static/event/1.png"
   },
   {
-    "name": "ESL One Cologne 2014",
-    "id": "1444",
-    "start_date": "2014-8-14",
-    "end_date": "2014-8-17",
+    "name": "ESL One Cologne 2015",
+    "id": "1666",
+    "start_date": "2015-8-20",
+    "end_date": "2015-8-23",
     "prize": "250.000",
-    "location": "Cologne, Germany"
+    "location": "Cologne, Germany",
+    "banner": "/img/static/event/1.png"
+  },
+  {
+    "name": "ESL ESEA Dubai Invitational 2015",
+    "id": "1882",
+    "start_date": "2015-9-10",
+    "end_date": "2015-9-12",
+    "prize": "250.000",
+    "location": "Dubai, United Arab Emirates",
+    "banner": "/img/static/event/2.png"
+  },
+  {
+    "name": "ESL ESEA Pro League Season 1 Finals",
+    "id": "1753",
+    "start_date": "2015-7-2",
+    "end_date": "2015-7-5",
+    "prize": "250.000",
+    "location": "Cologne, Germany",
+    "banner": "/img/static/event/2.png"
   },
   {
     "name": "DreamHack Winter 2014",
@@ -421,15 +482,26 @@
     "start_date": "2014-11-27",
     "end_date": "2014-11-29",
     "prize": "250.000",
-    "location": "Jönköping, Sweden"
+    "location": "Jönköping, Sweden",
+    "banner": "/img/static/event/1.png"
   },
   {
-    "name": "DreamHack Winter 2013",
-    "id": "1270",
-    "start_date": "2013-11-28",
-    "end_date": "2013-11-30",
+    "name": "ESL One Cologne 2014",
+    "id": "1444",
+    "start_date": "2014-8-14",
+    "end_date": "2014-8-17",
     "prize": "250.000",
-    "location": "Jönköping, Sweden"
+    "location": "Cologne, Germany",
+    "banner": "/img/static/event/1.png"
+  },
+  {
+    "name": "ESL One Katowice 2015",
+    "id": "1611",
+    "start_date": "2015-3-12",
+    "end_date": "2015-3-15",
+    "prize": "250.000",
+    "location": "Katowice, Poland",
+    "banner": "/img/static/event/1.png"
   },
   {
     "name": "EMS One Katowice 2014",
@@ -437,14 +509,7 @@
     "start_date": "2014-3-13",
     "end_date": "2014-3-16",
     "prize": "250.000",
-    "location": "Katowice, Poland"
-  },
-  {
-    "name": "Copenhagen Games 2013",
-    "id": "1094",
-    "start_date": "2013-3-29",
-    "end_date": "2013-3-31",
-    "prize": "42.314",
-    "location": "Copenhagen, Denmark"
+    "location": "Katowice, Poland",
+    "banner": "/img/static/event/1.png"
   }
 ]
